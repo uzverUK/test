@@ -1,0 +1,15 @@
+
+# KeltnerChannelSource.cs
+## Расположение
+```csharp
+namespace TigerTrade.Chart.Indicators.Sources  
+    class KeltnerChannelSource
+```
+
+## Свойства
+| Название | Описание |
+| --- | --- |
+| [`Period`](./svoistva/Period.md) | *Описание* |
+| [`Factor`](./svoistva/Factor.md) | *Описание* |
+| [`MaType`](./svoistva/MaType.md) | *Описание* |
+| [`Source`](./svoistva/Source.md) | *Описание* |
