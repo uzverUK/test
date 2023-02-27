@@ -1,0 +1,14 @@
+
+# IChartPeriod.cs
+## Расположение
+```csharp
+namespace TigerTrade.Chart.Base  
+    class IChartPeriod
+```
+
+> Описание
+
+## Синтаксис
+```csharp
+int GetSequence(ChartPeriodType type, int interval, double dateTime, double timeOffset)
+```
