@@ -18,35 +18,35 @@ public interface IChartCluster
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`GetItem`](./IChartCluster.cs/metody/GetItem.md) | *Описание* |
+| [`GetItem`](./IChartCluster.cs/Методы/GetItem.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Time`](./IChartCluster.cs/svoistva/Time.md) | *Описание* |
-| [`OpenTime`](./IChartCluster.cs/svoistva/OpenTime.md) | *Описание* |
-| [`CloseTime`](./IChartCluster.cs/svoistva/CloseTime.md) | *Описание* |
-| [`Open`](./IChartCluster.cs/svoistva/Open.md) | *Описание* |
-| [`High`](./IChartCluster.cs/svoistva/High.md) | *Описание* |
-| [`Low`](./IChartCluster.cs/svoistva/Low.md) | *Описание* |
-| [`Close`](./IChartCluster.cs/svoistva/Close.md) | *Описание* |
-| [`Bid`](./IChartCluster.cs/svoistva/Bid.md) | *Описание* |
-| [`Ask`](./IChartCluster.cs/svoistva/Ask.md) | *Описание* |
-| [`Volume`](./IChartCluster.cs/svoistva/Volume.md) | *Описание* |
-| [`Delta`](./IChartCluster.cs/svoistva/Delta.md) | *Описание* |
-| [`BidTrades`](./IChartCluster.cs/svoistva/BidTrades.md) | *Описание* |
-| [`AskTrades`](./IChartCluster.cs/svoistva/AskTrades.md) | *Описание* |
-| [`Trades`](./IChartCluster.cs/svoistva/Trades.md) | *Описание* |
-| [`OpenPos`](./IChartCluster.cs/svoistva/OpenPos.md) | *Описание* |
-| [`OpenPosHigh`](./IChartCluster.cs/svoistva/OpenPosHigh.md) | *Описание* |
-| [`OpenPosLow`](./IChartCluster.cs/svoistva/OpenPosLow.md) | *Описание* |
-| [`OpenPosBidChg`](./IChartCluster.cs/svoistva/OpenPosBidChg.md) | *Описание* |
-| [`OpenPosAskChg`](./IChartCluster.cs/svoistva/OpenPosAskChg.md) | *Описание* |
-| [`OpenPosChg`](./IChartCluster.cs/svoistva/OpenPosChg.md) | *Описание* |
-| [`DeltaHigh`](./IChartCluster.cs/svoistva/DeltaHigh.md) | *Описание* |
-| [`DeltaLow`](./IChartCluster.cs/svoistva/DeltaLow.md) | *Описание* |
-| [`IsUp`](./IChartCluster.cs/svoistva/IsUp.md) | *Описание* |
-| [`MaxValues`](./IChartCluster.cs/svoistva/MaxValues.md) | *Описание* |
+| [`Time`](./IChartCluster.cs/Свойства/Time.md) | *Описание* |
+| [`OpenTime`](./IChartCluster.cs/Свойства/OpenTime.md) | *Описание* |
+| [`CloseTime`](./IChartCluster.cs/Свойства/CloseTime.md) | *Описание* |
+| [`Open`](./IChartCluster.cs/Свойства/Open.md) | *Описание* |
+| [`High`](./IChartCluster.cs/Свойства/High.md) | *Описание* |
+| [`Low`](./IChartCluster.cs/Свойства/Low.md) | *Описание* |
+| [`Close`](./IChartCluster.cs/Свойства/Close.md) | *Описание* |
+| [`Bid`](./IChartCluster.cs/Свойства/Bid.md) | *Описание* |
+| [`Ask`](./IChartCluster.cs/Свойства/Ask.md) | *Описание* |
+| [`Volume`](./IChartCluster.cs/Свойства/Volume.md) | *Описание* |
+| [`Delta`](./IChartCluster.cs/Свойства/Delta.md) | *Описание* |
+| [`BidTrades`](./IChartCluster.cs/Свойства/BidTrades.md) | *Описание* |
+| [`AskTrades`](./IChartCluster.cs/Свойства/AskTrades.md) | *Описание* |
+| [`Trades`](./IChartCluster.cs/Свойства/Trades.md) | *Описание* |
+| [`OpenPos`](./IChartCluster.cs/Свойства/OpenPos.md) | *Описание* |
+| [`OpenPosHigh`](./IChartCluster.cs/Свойства/OpenPosHigh.md) | *Описание* |
+| [`OpenPosLow`](./IChartCluster.cs/Свойства/OpenPosLow.md) | *Описание* |
+| [`OpenPosBidChg`](./IChartCluster.cs/Свойства/OpenPosBidChg.md) | *Описание* |
+| [`OpenPosAskChg`](./IChartCluster.cs/Свойства/OpenPosAskChg.md) | *Описание* |
+| [`OpenPosChg`](./IChartCluster.cs/Свойства/OpenPosChg.md) | *Описание* |
+| [`DeltaHigh`](./IChartCluster.cs/Свойства/DeltaHigh.md) | *Описание* |
+| [`DeltaLow`](./IChartCluster.cs/Свойства/DeltaLow.md) | *Описание* |
+| [`IsUp`](./IChartCluster.cs/Свойства/IsUp.md) | *Описание* |
+| [`MaxValues`](./IChartCluster.cs/Свойства/MaxValues.md) | *Описание* |
 
 
 ## Пример

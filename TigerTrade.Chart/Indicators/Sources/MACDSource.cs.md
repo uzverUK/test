@@ -18,19 +18,19 @@ public sealed class MACDSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`MACDSource`](./MACDSource.cs/metody/MACDSource.md) | *Описание* |
-| [`GetSeriesList`](./MACDSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./MACDSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./MACDSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./MACDSource.cs/metody/ToString.md) | *Описание* |
+| [`MACDSource`](./MACDSource.cs/Методы/MACDSource.md) | *Описание* |
+| [`GetSeriesList`](./MACDSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./MACDSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./MACDSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./MACDSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Slow`](./MACDSource.cs/svoistva/Slow.md) | *Описание* |
-| [`Fast`](./MACDSource.cs/svoistva/Fast.md) | *Описание* |
-| [`Signal`](./MACDSource.cs/svoistva/Signal.md) | *Описание* |
-| [`Source`](./MACDSource.cs/svoistva/Source.md) | *Описание* |
+| [`Slow`](./MACDSource.cs/Свойства/Slow.md) | *Описание* |
+| [`Fast`](./MACDSource.cs/Свойства/Fast.md) | *Описание* |
+| [`Signal`](./MACDSource.cs/Свойства/Signal.md) | *Описание* |
+| [`Source`](./MACDSource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

@@ -18,19 +18,19 @@ public sealed class StochasticSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`StochasticSource`](./StochasticSource.cs/metody/StochasticSource.md) | *Описание* |
-| [`GetSeriesList`](./StochasticSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./StochasticSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./StochasticSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./StochasticSource.cs/metody/ToString.md) | *Описание* |
+| [`StochasticSource`](./StochasticSource.cs/Методы/StochasticSource.md) | *Описание* |
+| [`GetSeriesList`](./StochasticSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./StochasticSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./StochasticSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./StochasticSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`FastK`](./StochasticSource.cs/svoistva/FastK.md) | *Описание* |
-| [`Smooth`](./StochasticSource.cs/svoistva/Smooth.md) | *Описание* |
-| [`SlowD`](./StochasticSource.cs/svoistva/SlowD.md) | *Описание* |
-| [`SlowDMaType`](./StochasticSource.cs/svoistva/SlowDMaType.md) | *Описание* |
+| [`FastK`](./StochasticSource.cs/Свойства/FastK.md) | *Описание* |
+| [`Smooth`](./StochasticSource.cs/Свойства/Smooth.md) | *Описание* |
+| [`SlowD`](./StochasticSource.cs/Свойства/SlowD.md) | *Описание* |
+| [`SlowDMaType`](./StochasticSource.cs/Свойства/SlowDMaType.md) | *Описание* |
 
 
 ## Пример

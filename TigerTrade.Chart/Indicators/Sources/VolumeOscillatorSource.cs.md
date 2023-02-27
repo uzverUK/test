@@ -18,18 +18,18 @@ public sealed class VolumeOscillatorSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`VolumeOscillatorSource`](./VolumeOscillatorSource.cs/metody/VolumeOscillatorSource.md) | *Описание* |
-| [`GetSeriesList`](./VolumeOscillatorSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./VolumeOscillatorSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./VolumeOscillatorSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./VolumeOscillatorSource.cs/metody/ToString.md) | *Описание* |
+| [`VolumeOscillatorSource`](./VolumeOscillatorSource.cs/Методы/VolumeOscillatorSource.md) | *Описание* |
+| [`GetSeriesList`](./VolumeOscillatorSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./VolumeOscillatorSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./VolumeOscillatorSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./VolumeOscillatorSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`ShortPeriod`](./VolumeOscillatorSource.cs/svoistva/ShortPeriod.md) | *Описание* |
-| [`LongPeriod`](./VolumeOscillatorSource.cs/svoistva/LongPeriod.md) | *Описание* |
-| [`MaType`](./VolumeOscillatorSource.cs/svoistva/MaType.md) | *Описание* |
+| [`ShortPeriod`](./VolumeOscillatorSource.cs/Свойства/ShortPeriod.md) | *Описание* |
+| [`LongPeriod`](./VolumeOscillatorSource.cs/Свойства/LongPeriod.md) | *Описание* |
+| [`MaType`](./VolumeOscillatorSource.cs/Свойства/MaType.md) | *Описание* |
 
 
 ## Пример

@@ -18,15 +18,15 @@ public sealed class ConfigSerializer
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`LoadFromFile(T)`](./ConfigSerializer.cs/metody/LoadFromFile(T).md) | *Описание* |
-| [`LoadFromString(T)`](./ConfigSerializer.cs/metody/LoadFromString(T).md) | *Описание* |
-| [`LoadFromString(T)`](./ConfigSerializer.cs/metody/LoadFromString(T).md) | *Описание* |
-| [`LoadFromString(T)`](./ConfigSerializer.cs/metody/LoadFromString(T).md) | *Описание* |
-| [`LoadFromString(T)`](./ConfigSerializer.cs/metody/LoadFromString(T).md) | *Описание* |
-| [`SaveToFile(T)`](./ConfigSerializer.cs/metody/SaveToFile(T).md) | *Описание* |
-| [`SaveToString(T)`](./ConfigSerializer.cs/metody/SaveToString(T).md) | *Описание* |
-| [`SaveToString(T)`](./ConfigSerializer.cs/metody/SaveToString(T).md) | *Описание* |
-| [`ConfigSerializer`](./ConfigSerializer.cs/metody/ConfigSerializer.md) | *Описание* |
+| [`LoadFromFile(T)`](./ConfigSerializer.cs/Методы/LoadFromFile(T).md) | *Описание* |
+| [`LoadFromString(T)`](./ConfigSerializer.cs/Методы/LoadFromString(T).md) | *Описание* |
+| [`LoadFromString(T)`](./ConfigSerializer.cs/Методы/LoadFromString(T).md) | *Описание* |
+| [`LoadFromString(T)`](./ConfigSerializer.cs/Методы/LoadFromString(T).md) | *Описание* |
+| [`LoadFromString(T)`](./ConfigSerializer.cs/Методы/LoadFromString(T).md) | *Описание* |
+| [`SaveToFile(T)`](./ConfigSerializer.cs/Методы/SaveToFile(T).md) | *Описание* |
+| [`SaveToString(T)`](./ConfigSerializer.cs/Методы/SaveToString(T).md) | *Описание* |
+| [`SaveToString(T)`](./ConfigSerializer.cs/Методы/SaveToString(T).md) | *Описание* |
+| [`ConfigSerializer`](./ConfigSerializer.cs/Методы/ConfigSerializer.md) | *Описание* |
 
 
 ## Пример

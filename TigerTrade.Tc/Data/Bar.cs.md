@@ -18,19 +18,19 @@ public sealed class Bar
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Bar`](./Bar.cs/metody/Bar.md) | *Описание* |
+| [`Bar`](./Bar.cs/Методы/Bar.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Time;`](./Bar.cs/svoistva/Time;.md) | *Описание* |
-| [`Open;`](./Bar.cs/svoistva/Open;.md) | *Описание* |
-| [`High;`](./Bar.cs/svoistva/High;.md) | *Описание* |
-| [`Low;`](./Bar.cs/svoistva/Low;.md) | *Описание* |
-| [`Close;`](./Bar.cs/svoistva/Close;.md) | *Описание* |
-| [`Volume;`](./Bar.cs/svoistva/Volume;.md) | *Описание* |
-| [`TotalVol;`](./Bar.cs/svoistva/TotalVol;.md) | *Описание* |
-| [`OpenPos;`](./Bar.cs/svoistva/OpenPos;.md) | *Описание* |
+| [`Time;`](./Bar.cs/Свойства/Time;.md) | *Описание* |
+| [`Open;`](./Bar.cs/Свойства/Open;.md) | *Описание* |
+| [`High;`](./Bar.cs/Свойства/High;.md) | *Описание* |
+| [`Low;`](./Bar.cs/Свойства/Low;.md) | *Описание* |
+| [`Close;`](./Bar.cs/Свойства/Close;.md) | *Описание* |
+| [`Volume;`](./Bar.cs/Свойства/Volume;.md) | *Описание* |
+| [`TotalVol;`](./Bar.cs/Свойства/TotalVol;.md) | *Описание* |
+| [`OpenPos;`](./Bar.cs/Свойства/OpenPos;.md) | *Описание* |
 
 
 ## Пример

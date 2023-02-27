@@ -18,15 +18,15 @@ public class ChartObjectAttribute : Attribute
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ChartObjectAttribute`](./ChartObjectAttribute.cs/metody/ChartObjectAttribute.md) | *Описание* |
+| [`ChartObjectAttribute`](./ChartObjectAttribute.cs/Методы/ChartObjectAttribute.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`ID`](./ChartObjectAttribute.cs/svoistva/ID.md) | *Описание* |
-| [`Name`](./ChartObjectAttribute.cs/svoistva/Name.md) | *Описание* |
-| [`Points`](./ChartObjectAttribute.cs/svoistva/Points.md) | *Описание* |
-| [`Type`](./ChartObjectAttribute.cs/svoistva/Type.md) | *Описание* |
+| [`ID`](./ChartObjectAttribute.cs/Свойства/ID.md) | *Описание* |
+| [`Name`](./ChartObjectAttribute.cs/Свойства/Name.md) | *Описание* |
+| [`Points`](./ChartObjectAttribute.cs/Свойства/Points.md) | *Описание* |
+| [`Type`](./ChartObjectAttribute.cs/Свойства/Type.md) | *Описание* |
 
 
 ## Пример

@@ -18,15 +18,15 @@ public interface IChartClusterMaxValues
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`MaxBid`](./IChartClusterMaxValues.cs/svoistva/MaxBid.md) | *Описание* |
-| [`MaxAsk`](./IChartClusterMaxValues.cs/svoistva/MaxAsk.md) | *Описание* |
-| [`MaxVolume`](./IChartClusterMaxValues.cs/svoistva/MaxVolume.md) | *Описание* |
-| [`MaxTrades`](./IChartClusterMaxValues.cs/svoistva/MaxTrades.md) | *Описание* |
-| [`MaxDelta`](./IChartClusterMaxValues.cs/svoistva/MaxDelta.md) | *Описание* |
-| [`MinDelta`](./IChartClusterMaxValues.cs/svoistva/MinDelta.md) | *Описание* |
-| [`MaxOpenPos`](./IChartClusterMaxValues.cs/svoistva/MaxOpenPos.md) | *Описание* |
-| [`MinOpenPos`](./IChartClusterMaxValues.cs/svoistva/MinOpenPos.md) | *Описание* |
-| [`Poc`](./IChartClusterMaxValues.cs/svoistva/Poc.md) | *Описание* |
+| [`MaxBid`](./IChartClusterMaxValues.cs/Свойства/MaxBid.md) | *Описание* |
+| [`MaxAsk`](./IChartClusterMaxValues.cs/Свойства/MaxAsk.md) | *Описание* |
+| [`MaxVolume`](./IChartClusterMaxValues.cs/Свойства/MaxVolume.md) | *Описание* |
+| [`MaxTrades`](./IChartClusterMaxValues.cs/Свойства/MaxTrades.md) | *Описание* |
+| [`MaxDelta`](./IChartClusterMaxValues.cs/Свойства/MaxDelta.md) | *Описание* |
+| [`MinDelta`](./IChartClusterMaxValues.cs/Свойства/MinDelta.md) | *Описание* |
+| [`MaxOpenPos`](./IChartClusterMaxValues.cs/Свойства/MaxOpenPos.md) | *Описание* |
+| [`MinOpenPos`](./IChartClusterMaxValues.cs/Свойства/MinOpenPos.md) | *Описание* |
+| [`Poc`](./IChartClusterMaxValues.cs/Свойства/Poc.md) | *Описание* |
 
 
 ## Пример

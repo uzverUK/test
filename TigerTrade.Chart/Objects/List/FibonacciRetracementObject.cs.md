@@ -18,19 +18,19 @@ public sealed class FibonacciRetracementObject : LineObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`FibonacciRetracementObject`](./FibonacciRetracementObject.cs/metody/FibonacciRetracementObject.md) | *Описание* |
-| [`ApplyTheme`](./FibonacciRetracementObject.cs/metody/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./FibonacciRetracementObject.cs/metody/CopyTemplate.md) | *Описание* |
+| [`FibonacciRetracementObject`](./FibonacciRetracementObject.cs/Методы/FibonacciRetracementObject.md) | *Описание* |
+| [`ApplyTheme`](./FibonacciRetracementObject.cs/Методы/ApplyTheme.md) | *Описание* |
+| [`CopyTemplate`](./FibonacciRetracementObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./FibonacciRetracementObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
-| [`OpenStart`](./FibonacciRetracementObject.cs/svoistva/OpenStart.md) | *Описание* |
-| [`OpenEnd`](./FibonacciRetracementObject.cs/svoistva/OpenEnd.md) | *Описание* |
-| [`TextAlignment`](./FibonacciRetracementObject.cs/svoistva/TextAlignment.md) | *Описание* |
-| [`CustomLevels`](./FibonacciRetracementObject.cs/svoistva/CustomLevels.md) | *Описание* |
-| [`Levels`](./FibonacciRetracementObject.cs/svoistva/Levels.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./FibonacciRetracementObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`OpenStart`](./FibonacciRetracementObject.cs/Свойства/OpenStart.md) | *Описание* |
+| [`OpenEnd`](./FibonacciRetracementObject.cs/Свойства/OpenEnd.md) | *Описание* |
+| [`TextAlignment`](./FibonacciRetracementObject.cs/Свойства/TextAlignment.md) | *Описание* |
+| [`CustomLevels`](./FibonacciRetracementObject.cs/Свойства/CustomLevels.md) | *Описание* |
+| [`Levels`](./FibonacciRetracementObject.cs/Свойства/Levels.md) | *Описание* |
 
 
 ## Пример

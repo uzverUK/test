@@ -18,17 +18,17 @@ public sealed class RateOfChangeSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`RateOfChangeSource`](./RateOfChangeSource.cs/metody/RateOfChangeSource.md) | *Описание* |
-| [`GetSeriesList`](./RateOfChangeSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./RateOfChangeSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./RateOfChangeSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./RateOfChangeSource.cs/metody/ToString.md) | *Описание* |
+| [`RateOfChangeSource`](./RateOfChangeSource.cs/Методы/RateOfChangeSource.md) | *Описание* |
+| [`GetSeriesList`](./RateOfChangeSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./RateOfChangeSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./RateOfChangeSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./RateOfChangeSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./RateOfChangeSource.cs/svoistva/Period.md) | *Описание* |
-| [`Source`](./RateOfChangeSource.cs/svoistva/Source.md) | *Описание* |
+| [`Period`](./RateOfChangeSource.cs/Свойства/Period.md) | *Описание* |
+| [`Source`](./RateOfChangeSource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

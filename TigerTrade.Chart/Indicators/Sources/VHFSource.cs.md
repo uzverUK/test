@@ -18,16 +18,16 @@ public sealed class VHFSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`VHFSource`](./VHFSource.cs/metody/VHFSource.md) | *Описание* |
-| [`GetSeriesList`](./VHFSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./VHFSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./VHFSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./VHFSource.cs/metody/ToString.md) | *Описание* |
+| [`VHFSource`](./VHFSource.cs/Методы/VHFSource.md) | *Описание* |
+| [`GetSeriesList`](./VHFSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./VHFSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./VHFSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./VHFSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./VHFSource.cs/svoistva/Period.md) | *Описание* |
+| [`Period`](./VHFSource.cs/Свойства/Period.md) | *Описание* |
 
 
 ## Пример

@@ -18,17 +18,17 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Add`](./IndicatorSeries.cs/metody/Add.md) | *Описание* |
-| [`Add`](./IndicatorSeries.cs/metody/Add.md) | *Описание* |
-| [`Add`](./IndicatorSeries.cs/metody/Add.md) | *Описание* |
-| [`Clear`](./IndicatorSeries.cs/metody/Clear.md) | *Описание* |
-| [`GetEnumerator`](./IndicatorSeries.cs/metody/GetEnumerator.md) | *Описание* |
-| [`IndicatorSeries`](./IndicatorSeries.cs/metody/IndicatorSeries.md) | *Описание* |
+| [`Add`](./IndicatorSeries.cs/Методы/Add.md) | *Описание* |
+| [`Add`](./IndicatorSeries.cs/Методы/Add.md) | *Описание* |
+| [`Add`](./IndicatorSeries.cs/Методы/Add.md) | *Описание* |
+| [`Clear`](./IndicatorSeries.cs/Методы/Clear.md) | *Описание* |
+| [`GetEnumerator`](./IndicatorSeries.cs/Методы/GetEnumerator.md) | *Описание* |
+| [`IndicatorSeries`](./IndicatorSeries.cs/Методы/IndicatorSeries.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Count`](./IndicatorSeries.cs/svoistva/Count.md) | *Описание* |
+| [`Count`](./IndicatorSeries.cs/Свойства/Count.md) | *Описание* |
 
 
 ## Пример

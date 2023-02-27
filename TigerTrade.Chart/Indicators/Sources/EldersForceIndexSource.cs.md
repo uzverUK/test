@@ -18,18 +18,18 @@ public sealed class EldersForceIndexSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`EldersForceIndexSource`](./EldersForceIndexSource.cs/metody/EldersForceIndexSource.md) | *Описание* |
-| [`GetSeriesList`](./EldersForceIndexSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./EldersForceIndexSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./EldersForceIndexSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./EldersForceIndexSource.cs/metody/ToString.md) | *Описание* |
+| [`EldersForceIndexSource`](./EldersForceIndexSource.cs/Методы/EldersForceIndexSource.md) | *Описание* |
+| [`GetSeriesList`](./EldersForceIndexSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./EldersForceIndexSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./EldersForceIndexSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./EldersForceIndexSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./EldersForceIndexSource.cs/svoistva/Period.md) | *Описание* |
-| [`MaType`](./EldersForceIndexSource.cs/svoistva/MaType.md) | *Описание* |
-| [`Source`](./EldersForceIndexSource.cs/svoistva/Source.md) | *Описание* |
+| [`Period`](./EldersForceIndexSource.cs/Свойства/Period.md) | *Описание* |
+| [`MaType`](./EldersForceIndexSource.cs/Свойства/MaType.md) | *Описание* |
+| [`Source`](./EldersForceIndexSource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

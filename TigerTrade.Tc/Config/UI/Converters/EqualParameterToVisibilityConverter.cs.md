@@ -18,14 +18,14 @@ internal class EqualParameterToVisibilityConverter : IValueConverter
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Convert`](./EqualParameterToVisibilityConverter.cs/metody/Convert.md) | *Описание* |
-| [`ConvertBack`](./EqualParameterToVisibilityConverter.cs/metody/ConvertBack.md) | *Описание* |
-| [`EqualParameterToVisibilityConverter`](./EqualParameterToVisibilityConverter.cs/metody/EqualParameterToVisibilityConverter.md) | *Описание* |
+| [`Convert`](./EqualParameterToVisibilityConverter.cs/Методы/Convert.md) | *Описание* |
+| [`ConvertBack`](./EqualParameterToVisibilityConverter.cs/Методы/ConvertBack.md) | *Описание* |
+| [`EqualParameterToVisibilityConverter`](./EqualParameterToVisibilityConverter.cs/Методы/EqualParameterToVisibilityConverter.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`IsInverted`](./EqualParameterToVisibilityConverter.cs/svoistva/IsInverted.md) | *Описание* |
+| [`IsInverted`](./EqualParameterToVisibilityConverter.cs/Свойства/IsInverted.md) | *Описание* |
 
 
 ## Пример

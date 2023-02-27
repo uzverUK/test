@@ -18,15 +18,15 @@ public sealed class HistoryPlayerStats
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`HistoryPlayerStats`](./HistoryPlayerStats.cs/metody/HistoryPlayerStats.md) | *Описание* |
+| [`HistoryPlayerStats`](./HistoryPlayerStats.cs/Методы/HistoryPlayerStats.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`SymbolID`](./HistoryPlayerStats.cs/svoistva/SymbolID.md) | *Описание* |
-| [`SymbolName`](./HistoryPlayerStats.cs/svoistva/SymbolName.md) | *Описание* |
-| [`RecordDate`](./HistoryPlayerStats.cs/svoistva/RecordDate.md) | *Описание* |
-| [`CurrentTime`](./HistoryPlayerStats.cs/svoistva/CurrentTime.md) | *Описание* |
+| [`SymbolID`](./HistoryPlayerStats.cs/Свойства/SymbolID.md) | *Описание* |
+| [`SymbolName`](./HistoryPlayerStats.cs/Свойства/SymbolName.md) | *Описание* |
+| [`RecordDate`](./HistoryPlayerStats.cs/Свойства/RecordDate.md) | *Описание* |
+| [`CurrentTime`](./HistoryPlayerStats.cs/Свойства/CurrentTime.md) | *Описание* |
 
 
 ## Пример

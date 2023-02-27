@@ -18,25 +18,25 @@ public sealed class Tick
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Tick`](./Tick.cs/metody/Tick.md) | *Описание* |
+| [`Tick`](./Tick.cs/Методы/Tick.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Symbol`](./Tick.cs/svoistva/Symbol.md) | *Описание* |
-| [`Time`](./Tick.cs/svoistva/Time.md) | *Описание* |
-| [`Price`](./Tick.cs/svoistva/Price.md) | *Описание* |
-| [`Size`](./Tick.cs/svoistva/Size.md) | *Описание* |
-| [`Bid`](./Tick.cs/svoistva/Bid.md) | *Описание* |
-| [`BidSize`](./Tick.cs/svoistva/BidSize.md) | *Описание* |
-| [`Ask`](./Tick.cs/svoistva/Ask.md) | *Описание* |
-| [`AskSize`](./Tick.cs/svoistva/AskSize.md) | *Описание* |
-| [`Side`](./Tick.cs/svoistva/Side.md) | *Описание* |
-| [`OpenInterest`](./Tick.cs/svoistva/OpenInterest.md) | *Описание* |
-| [`MarketCenter`](./Tick.cs/svoistva/MarketCenter.md) | *Описание* |
-| [`Market`](./Tick.cs/svoistva/Market.md) | *Описание* |
-| [`Conditions`](./Tick.cs/svoistva/Conditions.md) | *Описание* |
-| [`NotQualified`](./Tick.cs/svoistva/NotQualified.md) | *Описание* |
+| [`Symbol`](./Tick.cs/Свойства/Symbol.md) | *Описание* |
+| [`Time`](./Tick.cs/Свойства/Time.md) | *Описание* |
+| [`Price`](./Tick.cs/Свойства/Price.md) | *Описание* |
+| [`Size`](./Tick.cs/Свойства/Size.md) | *Описание* |
+| [`Bid`](./Tick.cs/Свойства/Bid.md) | *Описание* |
+| [`BidSize`](./Tick.cs/Свойства/BidSize.md) | *Описание* |
+| [`Ask`](./Tick.cs/Свойства/Ask.md) | *Описание* |
+| [`AskSize`](./Tick.cs/Свойства/AskSize.md) | *Описание* |
+| [`Side`](./Tick.cs/Свойства/Side.md) | *Описание* |
+| [`OpenInterest`](./Tick.cs/Свойства/OpenInterest.md) | *Описание* |
+| [`MarketCenter`](./Tick.cs/Свойства/MarketCenter.md) | *Описание* |
+| [`Market`](./Tick.cs/Свойства/Market.md) | *Описание* |
+| [`Conditions`](./Tick.cs/Свойства/Conditions.md) | *Описание* |
+| [`NotQualified`](./Tick.cs/Свойства/NotQualified.md) | *Описание* |
 
 
 ## Пример

@@ -18,17 +18,17 @@ public sealed class LinearRegressionSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`LinearRegressionSource`](./LinearRegressionSource.cs/metody/LinearRegressionSource.md) | *Описание* |
-| [`GetSeriesList`](./LinearRegressionSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./LinearRegressionSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./LinearRegressionSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./LinearRegressionSource.cs/metody/ToString.md) | *Описание* |
+| [`LinearRegressionSource`](./LinearRegressionSource.cs/Методы/LinearRegressionSource.md) | *Описание* |
+| [`GetSeriesList`](./LinearRegressionSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./LinearRegressionSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./LinearRegressionSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./LinearRegressionSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./LinearRegressionSource.cs/svoistva/Period.md) | *Описание* |
-| [`Source`](./LinearRegressionSource.cs/svoistva/Source.md) | *Описание* |
+| [`Period`](./LinearRegressionSource.cs/Свойства/Period.md) | *Описание* |
+| [`Source`](./LinearRegressionSource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

@@ -18,14 +18,14 @@ public interface IChartPeriod
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`GetSequence`](./IChartPeriod.cs/metody/GetSequence.md) | *Описание* |
-| [`GetSequence`](./IChartPeriod.cs/metody/GetSequence.md) | *Описание* |
+| [`GetSequence`](./IChartPeriod.cs/Методы/GetSequence.md) | *Описание* |
+| [`GetSequence`](./IChartPeriod.cs/Методы/GetSequence.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Type`](./IChartPeriod.cs/svoistva/Type.md) | *Описание* |
-| [`Interval`](./IChartPeriod.cs/svoistva/Interval.md) | *Описание* |
+| [`Type`](./IChartPeriod.cs/Свойства/Type.md) | *Описание* |
+| [`Interval`](./IChartPeriod.cs/Свойства/Interval.md) | *Описание* |
 
 
 ## Пример

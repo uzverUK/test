@@ -18,26 +18,26 @@ public sealed class ObjectLine : INotifyPropertyChanged
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ObjectLine`](./ObjectLine.cs/metody/ObjectLine.md) | *Описание* |
-| [`ObjectLine`](./ObjectLine.cs/metody/ObjectLine.md) | *Описание* |
-| [`ObjectLine`](./ObjectLine.cs/metody/ObjectLine.md) | *Описание* |
-| [`ToString`](./ObjectLine.cs/metody/ToString.md) | *Описание* |
+| [`ObjectLine`](./ObjectLine.cs/Методы/ObjectLine.md) | *Описание* |
+| [`ObjectLine`](./ObjectLine.cs/Методы/ObjectLine.md) | *Описание* |
+| [`ObjectLine`](./ObjectLine.cs/Методы/ObjectLine.md) | *Описание* |
+| [`ToString`](./ObjectLine.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`ShowLine`](./ObjectLine.cs/svoistva/ShowLine.md) | *Описание* |
-| [`Value`](./ObjectLine.cs/svoistva/Value.md) | *Описание* |
-| [`LineBrush`](./ObjectLine.cs/svoistva/LineBrush.md) | *Описание* |
-| [`LinePen`](./ObjectLine.cs/svoistva/LinePen.md) | *Описание* |
-| [`LineColor`](./ObjectLine.cs/svoistva/LineColor.md) | *Описание* |
-| [`LineWidth`](./ObjectLine.cs/svoistva/LineWidth.md) | *Описание* |
-| [`LineStyle`](./ObjectLine.cs/svoistva/LineStyle.md) | *Описание* |
+| [`ShowLine`](./ObjectLine.cs/Свойства/ShowLine.md) | *Описание* |
+| [`Value`](./ObjectLine.cs/Свойства/Value.md) | *Описание* |
+| [`LineBrush`](./ObjectLine.cs/Свойства/LineBrush.md) | *Описание* |
+| [`LinePen`](./ObjectLine.cs/Свойства/LinePen.md) | *Описание* |
+| [`LineColor`](./ObjectLine.cs/Свойства/LineColor.md) | *Описание* |
+| [`LineWidth`](./ObjectLine.cs/Свойства/LineWidth.md) | *Описание* |
+| [`LineStyle`](./ObjectLine.cs/Свойства/LineStyle.md) | *Описание* |
 
 ## События
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./ObjectLine.cs/sobytiya/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](./ObjectLine.cs/События/PropertyChanged.md) | *Описание* |
 
 
 ## Пример

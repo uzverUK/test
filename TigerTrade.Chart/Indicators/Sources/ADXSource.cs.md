@@ -18,16 +18,16 @@ public sealed class ADXSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ADXSource`](./ADXSource.cs/metody/ADXSource.md) | *Описание* |
-| [`GetSeriesList`](./ADXSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./ADXSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./ADXSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./ADXSource.cs/metody/ToString.md) | *Описание* |
+| [`ADXSource`](./ADXSource.cs/Методы/ADXSource.md) | *Описание* |
+| [`GetSeriesList`](./ADXSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./ADXSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./ADXSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./ADXSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./ADXSource.cs/svoistva/Period.md) | *Описание* |
+| [`Period`](./ADXSource.cs/Свойства/Period.md) | *Описание* |
 
 
 ## Пример

@@ -18,30 +18,30 @@ public interface IRawSecurity
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`BidPrice`](./IRawSecurity.cs/svoistva/BidPrice.md) | *Описание* |
-| [`BidSize`](./IRawSecurity.cs/svoistva/BidSize.md) | *Описание* |
-| [`BidTime`](./IRawSecurity.cs/svoistva/BidTime.md) | *Описание* |
-| [`BidDepthT`](./IRawSecurity.cs/svoistva/BidDepthT.md) | *Описание* |
-| [`NumBids`](./IRawSecurity.cs/svoistva/NumBids.md) | *Описание* |
-| [`AskPrice`](./IRawSecurity.cs/svoistva/AskPrice.md) | *Описание* |
-| [`AskSize`](./IRawSecurity.cs/svoistva/AskSize.md) | *Описание* |
-| [`AskTime`](./IRawSecurity.cs/svoistva/AskTime.md) | *Описание* |
-| [`OfferDepthT`](./IRawSecurity.cs/svoistva/OfferDepthT.md) | *Описание* |
-| [`NumOffers`](./IRawSecurity.cs/svoistva/NumOffers.md) | *Описание* |
-| [`LastPrice`](./IRawSecurity.cs/svoistva/LastPrice.md) | *Описание* |
-| [`LastSize`](./IRawSecurity.cs/svoistva/LastSize.md) | *Описание* |
-| [`LastTime`](./IRawSecurity.cs/svoistva/LastTime.md) | *Описание* |
-| [`HighPrice`](./IRawSecurity.cs/svoistva/HighPrice.md) | *Описание* |
-| [`LowPrice`](./IRawSecurity.cs/svoistva/LowPrice.md) | *Описание* |
-| [`OpenPrice`](./IRawSecurity.cs/svoistva/OpenPrice.md) | *Описание* |
-| [`ClosePrice`](./IRawSecurity.cs/svoistva/ClosePrice.md) | *Описание* |
-| [`Volume`](./IRawSecurity.cs/svoistva/Volume.md) | *Описание* |
-| [`Trades`](./IRawSecurity.cs/svoistva/Trades.md) | *Описание* |
-| [`OpenInt`](./IRawSecurity.cs/svoistva/OpenInt.md) | *Описание* |
-| [`PriceMax`](./IRawSecurity.cs/svoistva/PriceMax.md) | *Описание* |
-| [`PriceMin`](./IRawSecurity.cs/svoistva/PriceMin.md) | *Описание* |
-| [`MarginBuy`](./IRawSecurity.cs/svoistva/MarginBuy.md) | *Описание* |
-| [`MarginSell`](./IRawSecurity.cs/svoistva/MarginSell.md) | *Описание* |
+| [`BidPrice`](./IRawSecurity.cs/Свойства/BidPrice.md) | *Описание* |
+| [`BidSize`](./IRawSecurity.cs/Свойства/BidSize.md) | *Описание* |
+| [`BidTime`](./IRawSecurity.cs/Свойства/BidTime.md) | *Описание* |
+| [`BidDepthT`](./IRawSecurity.cs/Свойства/BidDepthT.md) | *Описание* |
+| [`NumBids`](./IRawSecurity.cs/Свойства/NumBids.md) | *Описание* |
+| [`AskPrice`](./IRawSecurity.cs/Свойства/AskPrice.md) | *Описание* |
+| [`AskSize`](./IRawSecurity.cs/Свойства/AskSize.md) | *Описание* |
+| [`AskTime`](./IRawSecurity.cs/Свойства/AskTime.md) | *Описание* |
+| [`OfferDepthT`](./IRawSecurity.cs/Свойства/OfferDepthT.md) | *Описание* |
+| [`NumOffers`](./IRawSecurity.cs/Свойства/NumOffers.md) | *Описание* |
+| [`LastPrice`](./IRawSecurity.cs/Свойства/LastPrice.md) | *Описание* |
+| [`LastSize`](./IRawSecurity.cs/Свойства/LastSize.md) | *Описание* |
+| [`LastTime`](./IRawSecurity.cs/Свойства/LastTime.md) | *Описание* |
+| [`HighPrice`](./IRawSecurity.cs/Свойства/HighPrice.md) | *Описание* |
+| [`LowPrice`](./IRawSecurity.cs/Свойства/LowPrice.md) | *Описание* |
+| [`OpenPrice`](./IRawSecurity.cs/Свойства/OpenPrice.md) | *Описание* |
+| [`ClosePrice`](./IRawSecurity.cs/Свойства/ClosePrice.md) | *Описание* |
+| [`Volume`](./IRawSecurity.cs/Свойства/Volume.md) | *Описание* |
+| [`Trades`](./IRawSecurity.cs/Свойства/Trades.md) | *Описание* |
+| [`OpenInt`](./IRawSecurity.cs/Свойства/OpenInt.md) | *Описание* |
+| [`PriceMax`](./IRawSecurity.cs/Свойства/PriceMax.md) | *Описание* |
+| [`PriceMin`](./IRawSecurity.cs/Свойства/PriceMin.md) | *Описание* |
+| [`MarginBuy`](./IRawSecurity.cs/Свойства/MarginBuy.md) | *Описание* |
+| [`MarginSell`](./IRawSecurity.cs/Свойства/MarginSell.md) | *Описание* |
 
 
 ## Пример

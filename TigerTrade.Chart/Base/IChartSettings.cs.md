@@ -18,8 +18,8 @@ public interface IChartSettings
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`TransformHorLines`](./IChartSettings.cs/svoistva/TransformHorLines.md) | *Описание* |
-| [`TransformVertLines`](./IChartSettings.cs/svoistva/TransformVertLines.md) | *Описание* |
+| [`TransformHorLines`](./IChartSettings.cs/Свойства/TransformHorLines.md) | *Описание* |
+| [`TransformVertLines`](./IChartSettings.cs/Свойства/TransformVertLines.md) | *Описание* |
 
 
 ## Пример

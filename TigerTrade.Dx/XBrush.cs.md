@@ -18,15 +18,15 @@ public sealed class XBrush
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`XBrush`](./XBrush.cs/metody/XBrush.md) | *Описание* |
-| [`XBrush`](./XBrush.cs/metody/XBrush.md) | *Описание* |
+| [`XBrush`](./XBrush.cs/Методы/XBrush.md) | *Описание* |
+| [`XBrush`](./XBrush.cs/Методы/XBrush.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`White`](./XBrush.cs/svoistva/White.md) | *Описание* |
-| [`Black`](./XBrush.cs/svoistva/Black.md) | *Описание* |
-| [`Color`](./XBrush.cs/svoistva/Color.md) | *Описание* |
+| [`White`](./XBrush.cs/Свойства/White.md) | *Описание* |
+| [`Black`](./XBrush.cs/Свойства/Black.md) | *Описание* |
+| [`Color`](./XBrush.cs/Свойства/Color.md) | *Описание* |
 
 
 ## Пример

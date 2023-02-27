@@ -18,17 +18,17 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ChaikinsVolatilitySource`](./ChaikinsVolatilitySource.cs/metody/ChaikinsVolatilitySource.md) | *Описание* |
-| [`GetSeriesList`](./ChaikinsVolatilitySource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./ChaikinsVolatilitySource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./ChaikinsVolatilitySource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./ChaikinsVolatilitySource.cs/metody/ToString.md) | *Описание* |
+| [`ChaikinsVolatilitySource`](./ChaikinsVolatilitySource.cs/Методы/ChaikinsVolatilitySource.md) | *Описание* |
+| [`GetSeriesList`](./ChaikinsVolatilitySource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./ChaikinsVolatilitySource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./ChaikinsVolatilitySource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./ChaikinsVolatilitySource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./ChaikinsVolatilitySource.cs/svoistva/Period.md) | *Описание* |
-| [`MaType`](./ChaikinsVolatilitySource.cs/svoistva/MaType.md) | *Описание* |
+| [`Period`](./ChaikinsVolatilitySource.cs/Свойства/Period.md) | *Описание* |
+| [`MaType`](./ChaikinsVolatilitySource.cs/Свойства/MaType.md) | *Описание* |
 
 
 ## Пример

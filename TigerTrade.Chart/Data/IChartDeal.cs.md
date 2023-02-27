@@ -18,14 +18,14 @@ public interface IChartDeal
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`OpenTime`](./IChartDeal.cs/svoistva/OpenTime.md) | *Описание* |
-| [`OpenPrice`](./IChartDeal.cs/svoistva/OpenPrice.md) | *Описание* |
-| [`CloseTime`](./IChartDeal.cs/svoistva/CloseTime.md) | *Описание* |
-| [`ClosePrice`](./IChartDeal.cs/svoistva/ClosePrice.md) | *Описание* |
-| [`IsBuy`](./IChartDeal.cs/svoistva/IsBuy.md) | *Описание* |
-| [`Quantity`](./IChartDeal.cs/svoistva/Quantity.md) | *Описание* |
-| [`Points`](./IChartDeal.cs/svoistva/Points.md) | *Описание* |
-| [`Profit`](./IChartDeal.cs/svoistva/Profit.md) | *Описание* |
+| [`OpenTime`](./IChartDeal.cs/Свойства/OpenTime.md) | *Описание* |
+| [`OpenPrice`](./IChartDeal.cs/Свойства/OpenPrice.md) | *Описание* |
+| [`CloseTime`](./IChartDeal.cs/Свойства/CloseTime.md) | *Описание* |
+| [`ClosePrice`](./IChartDeal.cs/Свойства/ClosePrice.md) | *Описание* |
+| [`IsBuy`](./IChartDeal.cs/Свойства/IsBuy.md) | *Описание* |
+| [`Quantity`](./IChartDeal.cs/Свойства/Quantity.md) | *Описание* |
+| [`Points`](./IChartDeal.cs/Свойства/Points.md) | *Описание* |
+| [`Profit`](./IChartDeal.cs/Свойства/Profit.md) | *Описание* |
 
 
 ## Пример

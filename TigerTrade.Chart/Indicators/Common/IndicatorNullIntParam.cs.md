@@ -18,9 +18,9 @@ public sealed class IndicatorNullIntParam : IndicatorParam<int?>
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`IndicatorNullIntParam`](./IndicatorNullIntParam.cs/metody/IndicatorNullIntParam.md) | *Описание* |
-| [`IndicatorNullIntParam`](./IndicatorNullIntParam.cs/metody/IndicatorNullIntParam.md) | *Описание* |
-| [`Set`](./IndicatorNullIntParam.cs/metody/Set.md) | *Описание* |
+| [`IndicatorNullIntParam`](./IndicatorNullIntParam.cs/Методы/IndicatorNullIntParam.md) | *Описание* |
+| [`IndicatorNullIntParam`](./IndicatorNullIntParam.cs/Методы/IndicatorNullIntParam.md) | *Описание* |
+| [`Set`](./IndicatorNullIntParam.cs/Методы/Set.md) | *Описание* |
 
 
 ## Пример

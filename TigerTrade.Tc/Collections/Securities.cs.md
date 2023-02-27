@@ -18,10 +18,10 @@ internal sealed class Securities
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`xbEwt8V85aD`](./Securities.cs/metody/xbEwt8V85aD.md) | *Описание* |
-| [`rHswtun8WR7`](./Securities.cs/metody/rHswtun8WR7.md) | *Описание* |
-| [`HOnwta15FOp`](./Securities.cs/metody/HOnwta15FOp.md) | *Описание* |
-| [`Securities`](./Securities.cs/metody/Securities.md) | *Описание* |
+| [`xbEwt8V85aD`](./Securities.cs/Методы/xbEwt8V85aD.md) | *Описание* |
+| [`rHswtun8WR7`](./Securities.cs/Методы/rHswtun8WR7.md) | *Описание* |
+| [`HOnwta15FOp`](./Securities.cs/Методы/HOnwta15FOp.md) | *Описание* |
+| [`Securities`](./Securities.cs/Методы/Securities.md) | *Описание* |
 
 
 ## Пример

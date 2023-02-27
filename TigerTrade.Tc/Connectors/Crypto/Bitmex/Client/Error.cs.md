@@ -18,13 +18,13 @@ internal sealed class Error
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Error`](./Error.cs/metody/Error.md) | *Описание* |
+| [`Error`](./Error.cs/Методы/Error.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Message`](./Error.cs/svoistva/Message.md) | *Описание* |
-| [`Name`](./Error.cs/svoistva/Name.md) | *Описание* |
+| [`Message`](./Error.cs/Свойства/Message.md) | *Описание* |
+| [`Name`](./Error.cs/Свойства/Name.md) | *Описание* |
 
 
 ## Пример

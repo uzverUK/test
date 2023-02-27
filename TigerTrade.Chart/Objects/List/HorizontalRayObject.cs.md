@@ -18,12 +18,12 @@ public sealed class HorizontalRayObject : HorizontalLineObject
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`HorizontalRayObject`](./HorizontalRayObject.cs/metody/HorizontalRayObject.md) | *Описание* |
+| [`HorizontalRayObject`](./HorizontalRayObject.cs/Методы/HorizontalRayObject.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./HorizontalRayObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./HorizontalRayObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
 
 
 ## Пример

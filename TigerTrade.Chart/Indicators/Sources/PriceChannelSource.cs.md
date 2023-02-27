@@ -18,16 +18,16 @@ public sealed class PriceChannelSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`PriceChannelSource`](./PriceChannelSource.cs/metody/PriceChannelSource.md) | *Описание* |
-| [`GetSeriesList`](./PriceChannelSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./PriceChannelSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./PriceChannelSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./PriceChannelSource.cs/metody/ToString.md) | *Описание* |
+| [`PriceChannelSource`](./PriceChannelSource.cs/Методы/PriceChannelSource.md) | *Описание* |
+| [`GetSeriesList`](./PriceChannelSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./PriceChannelSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./PriceChannelSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./PriceChannelSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./PriceChannelSource.cs/svoistva/Period.md) | *Описание* |
+| [`Period`](./PriceChannelSource.cs/Свойства/Period.md) | *Описание* |
 
 
 ## Пример

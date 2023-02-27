@@ -18,23 +18,23 @@ public sealed class ChartClusterItem : IChartClusterItem
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ChartClusterItem`](./ChartClusterItem.cs/metody/ChartClusterItem.md) | *Описание* |
-| [`ChartClusterItem`](./ChartClusterItem.cs/metody/ChartClusterItem.md) | *Описание* |
-| [`Add`](./ChartClusterItem.cs/metody/Add.md) | *Описание* |
+| [`ChartClusterItem`](./ChartClusterItem.cs/Методы/ChartClusterItem.md) | *Описание* |
+| [`ChartClusterItem`](./ChartClusterItem.cs/Методы/ChartClusterItem.md) | *Описание* |
+| [`Add`](./ChartClusterItem.cs/Методы/Add.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Price`](./ChartClusterItem.cs/svoistva/Price.md) | *Описание* |
-| [`Bid`](./ChartClusterItem.cs/svoistva/Bid.md) | *Описание* |
-| [`Ask`](./ChartClusterItem.cs/svoistva/Ask.md) | *Описание* |
-| [`BidTrades`](./ChartClusterItem.cs/svoistva/BidTrades.md) | *Описание* |
-| [`AskTrades`](./ChartClusterItem.cs/svoistva/AskTrades.md) | *Описание* |
-| [`OpenPosBid`](./ChartClusterItem.cs/svoistva/OpenPosBid.md) | *Описание* |
-| [`OpenPosAsk`](./ChartClusterItem.cs/svoistva/OpenPosAsk.md) | *Описание* |
-| [`Delta`](./ChartClusterItem.cs/svoistva/Delta.md) | *Описание* |
-| [`Trades`](./ChartClusterItem.cs/svoistva/Trades.md) | *Описание* |
-| [`OpenPos`](./ChartClusterItem.cs/svoistva/OpenPos.md) | *Описание* |
+| [`Price`](./ChartClusterItem.cs/Свойства/Price.md) | *Описание* |
+| [`Bid`](./ChartClusterItem.cs/Свойства/Bid.md) | *Описание* |
+| [`Ask`](./ChartClusterItem.cs/Свойства/Ask.md) | *Описание* |
+| [`BidTrades`](./ChartClusterItem.cs/Свойства/BidTrades.md) | *Описание* |
+| [`AskTrades`](./ChartClusterItem.cs/Свойства/AskTrades.md) | *Описание* |
+| [`OpenPosBid`](./ChartClusterItem.cs/Свойства/OpenPosBid.md) | *Описание* |
+| [`OpenPosAsk`](./ChartClusterItem.cs/Свойства/OpenPosAsk.md) | *Описание* |
+| [`Delta`](./ChartClusterItem.cs/Свойства/Delta.md) | *Описание* |
+| [`Trades`](./ChartClusterItem.cs/Свойства/Trades.md) | *Описание* |
+| [`OpenPos`](./ChartClusterItem.cs/Свойства/OpenPos.md) | *Описание* |
 
 
 ## Пример

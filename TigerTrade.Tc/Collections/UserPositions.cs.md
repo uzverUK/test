@@ -18,14 +18,14 @@ public sealed class UserPositions
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Add`](./UserPositions.cs/metody/Add.md) | *Описание* |
-| [`GetAll`](./UserPositions.cs/metody/GetAll.md) | *Описание* |
-| [`GetBySymbol`](./UserPositions.cs/metody/GetBySymbol.md) | *Описание* |
-| [`AddExecution`](./UserPositions.cs/metody/AddExecution.md) | *Описание* |
-| [`Create`](./UserPositions.cs/metody/Create.md) | *Описание* |
-| [`Remove`](./UserPositions.cs/metody/Remove.md) | *Описание* |
-| [`Clear`](./UserPositions.cs/metody/Clear.md) | *Описание* |
-| [`UserPositions`](./UserPositions.cs/metody/UserPositions.md) | *Описание* |
+| [`Add`](./UserPositions.cs/Методы/Add.md) | *Описание* |
+| [`GetAll`](./UserPositions.cs/Методы/GetAll.md) | *Описание* |
+| [`GetBySymbol`](./UserPositions.cs/Методы/GetBySymbol.md) | *Описание* |
+| [`AddExecution`](./UserPositions.cs/Методы/AddExecution.md) | *Описание* |
+| [`Create`](./UserPositions.cs/Методы/Create.md) | *Описание* |
+| [`Remove`](./UserPositions.cs/Методы/Remove.md) | *Описание* |
+| [`Clear`](./UserPositions.cs/Методы/Clear.md) | *Описание* |
+| [`UserPositions`](./UserPositions.cs/Методы/UserPositions.md) | *Описание* |
 
 
 ## Пример

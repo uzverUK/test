@@ -18,8 +18,8 @@ public static class TcEvents
 ## События
 | Название | Описание |
 | --- | --- |
-| [`TrackWindow;`](./TcEvents.cs/sobytiya/TrackWindow;.md) | *Описание* |
-| [`TrackAddConnection;`](./TcEvents.cs/sobytiya/TrackAddConnection;.md) | *Описание* |
+| [`TrackWindow;`](./TcEvents.cs/События/TrackWindow;.md) | *Описание* |
+| [`TrackAddConnection;`](./TcEvents.cs/События/TrackAddConnection;.md) | *Описание* |
 
 
 ## Пример

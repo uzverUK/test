@@ -18,7 +18,7 @@ public static class ClientInfo
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`LicenseID`](./ClientInfo.cs/svoistva/LicenseID.md) | *Описание* |
+| [`LicenseID`](./ClientInfo.cs/Свойства/LicenseID.md) | *Описание* |
 
 
 ## Пример

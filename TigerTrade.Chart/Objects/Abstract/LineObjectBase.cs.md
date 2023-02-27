@@ -18,16 +18,16 @@ public abstract class LineObjectBase : ObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](./LineObjectBase.cs/metody/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./LineObjectBase.cs/metody/CopyTemplate.md) | *Описание* |
+| [`ApplyTheme`](./LineObjectBase.cs/Методы/ApplyTheme.md) | *Описание* |
+| [`CopyTemplate`](./LineObjectBase.cs/Методы/CopyTemplate.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`LinePen`](./LineObjectBase.cs/svoistva/LinePen.md) | *Описание* |
-| [`LineColor`](./LineObjectBase.cs/svoistva/LineColor.md) | *Описание* |
-| [`LineWidth`](./LineObjectBase.cs/svoistva/LineWidth.md) | *Описание* |
-| [`LineStyle`](./LineObjectBase.cs/svoistva/LineStyle.md) | *Описание* |
+| [`LinePen`](./LineObjectBase.cs/Свойства/LinePen.md) | *Описание* |
+| [`LineColor`](./LineObjectBase.cs/Свойства/LineColor.md) | *Описание* |
+| [`LineWidth`](./LineObjectBase.cs/Свойства/LineWidth.md) | *Описание* |
+| [`LineStyle`](./LineObjectBase.cs/Свойства/LineStyle.md) | *Описание* |
 
 
 ## Пример

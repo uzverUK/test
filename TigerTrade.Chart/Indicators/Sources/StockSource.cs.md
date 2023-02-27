@@ -18,11 +18,11 @@ public sealed class StockSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`StockSource`](./StockSource.cs/metody/StockSource.md) | *Описание* |
-| [`GetSeriesList`](./StockSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./StockSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./StockSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./StockSource.cs/metody/ToString.md) | *Описание* |
+| [`StockSource`](./StockSource.cs/Методы/StockSource.md) | *Описание* |
+| [`GetSeriesList`](./StockSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./StockSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./StockSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./StockSource.cs/Методы/ToString.md) | *Описание* |
 
 
 ## Пример

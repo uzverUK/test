@@ -18,14 +18,14 @@ public sealed class InputWindow : Window, IComponentConnector
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`InputWindow`](./InputWindow.cs/metody/InputWindow.md) | *Описание* |
-| [`InitializeComponent`](./InputWindow.cs/metody/InitializeComponent.md) | *Описание* |
+| [`InputWindow`](./InputWindow.cs/Методы/InputWindow.md) | *Описание* |
+| [`InitializeComponent`](./InputWindow.cs/Методы/InitializeComponent.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Message`](./InputWindow.cs/svoistva/Message.md) | *Описание* |
-| [`Value`](./InputWindow.cs/svoistva/Value.md) | *Описание* |
+| [`Message`](./InputWindow.cs/Свойства/Message.md) | *Описание* |
+| [`Value`](./InputWindow.cs/Свойства/Value.md) | *Описание* |
 
 
 ## Пример

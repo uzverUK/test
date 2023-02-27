@@ -18,24 +18,24 @@ public sealed class DxHwndHost : DxHwndHostBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`DxHwndHost`](./DxHwndHost.cs/metody/DxHwndHost.md) | *Описание* |
-| [`StartTimer`](./DxHwndHost.cs/metody/StartTimer.md) | *Описание* |
-| [`Render`](./DxHwndHost.cs/metody/Render.md) | *Описание* |
-| [`InvalidateVisual`](./DxHwndHost.cs/metody/InvalidateVisual.md) | *Описание* |
-| [`InvalidateSecondVisual`](./DxHwndHost.cs/metody/InvalidateSecondVisual.md) | *Описание* |
+| [`DxHwndHost`](./DxHwndHost.cs/Методы/DxHwndHost.md) | *Описание* |
+| [`StartTimer`](./DxHwndHost.cs/Методы/StartTimer.md) | *Описание* |
+| [`Render`](./DxHwndHost.cs/Методы/Render.md) | *Описание* |
+| [`InvalidateVisual`](./DxHwndHost.cs/Методы/InvalidateVisual.md) | *Описание* |
+| [`InvalidateSecondVisual`](./DxHwndHost.cs/Методы/InvalidateSecondVisual.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`WaitRedraw`](./DxHwndHost.cs/svoistva/WaitRedraw.md) | *Описание* |
-| [`ClientRect`](./DxHwndHost.cs/svoistva/ClientRect.md) | *Описание* |
-| [`IsDisposed`](./DxHwndHost.cs/svoistva/IsDisposed.md) | *Описание* |
+| [`WaitRedraw`](./DxHwndHost.cs/Свойства/WaitRedraw.md) | *Описание* |
+| [`ClientRect`](./DxHwndHost.cs/Свойства/ClientRect.md) | *Описание* |
+| [`IsDisposed`](./DxHwndHost.cs/Свойства/IsDisposed.md) | *Описание* |
 
 ## События
 | Название | Описание |
 | --- | --- |
-| [`OnTimerTick`](./DxHwndHost.cs/sobytiya/OnTimerTick.md) | *Описание* |
-| [`OnRenderVisual;`](./DxHwndHost.cs/sobytiya/OnRenderVisual;.md) | *Описание* |
+| [`OnTimerTick`](./DxHwndHost.cs/События/OnTimerTick.md) | *Описание* |
+| [`OnRenderVisual;`](./DxHwndHost.cs/События/OnRenderVisual;.md) | *Описание* |
 
 
 ## Пример

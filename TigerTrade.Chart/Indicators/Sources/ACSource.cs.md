@@ -18,18 +18,18 @@ public sealed class ACSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ACSource`](./ACSource.cs/metody/ACSource.md) | *Описание* |
-| [`GetSeriesList`](./ACSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./ACSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./ACSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./ACSource.cs/metody/ToString.md) | *Описание* |
+| [`ACSource`](./ACSource.cs/Методы/ACSource.md) | *Описание* |
+| [`GetSeriesList`](./ACSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./ACSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./ACSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./ACSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`ShortPeriod`](./ACSource.cs/svoistva/ShortPeriod.md) | *Описание* |
-| [`LongPeriod`](./ACSource.cs/svoistva/LongPeriod.md) | *Описание* |
-| [`MaType`](./ACSource.cs/svoistva/MaType.md) | *Описание* |
+| [`ShortPeriod`](./ACSource.cs/Свойства/ShortPeriod.md) | *Описание* |
+| [`LongPeriod`](./ACSource.cs/Свойства/LongPeriod.md) | *Описание* |
+| [`MaType`](./ACSource.cs/Свойства/MaType.md) | *Описание* |
 
 
 ## Пример

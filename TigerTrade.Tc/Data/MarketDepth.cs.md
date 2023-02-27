@@ -18,20 +18,20 @@ public sealed class MarketDepth
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`MarketDepth`](./MarketDepth.cs/metody/MarketDepth.md) | *Описание* |
+| [`MarketDepth`](./MarketDepth.cs/Методы/MarketDepth.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Symbol`](./MarketDepth.cs/svoistva/Symbol.md) | *Описание* |
-| [`BestBidPrice`](./MarketDepth.cs/svoistva/BestBidPrice.md) | *Описание* |
-| [`BestAskPrice`](./MarketDepth.cs/svoistva/BestAskPrice.md) | *Описание* |
-| [`BestBidSize`](./MarketDepth.cs/svoistva/BestBidSize.md) | *Описание* |
-| [`BestAskSize`](./MarketDepth.cs/svoistva/BestAskSize.md) | *Описание* |
-| [`BidsSize`](./MarketDepth.cs/svoistva/BidsSize.md) | *Описание* |
-| [`AsksSize`](./MarketDepth.cs/svoistva/AsksSize.md) | *Описание* |
-| [`Bids`](./MarketDepth.cs/svoistva/Bids.md) | *Описание* |
-| [`Asks`](./MarketDepth.cs/svoistva/Asks.md) | *Описание* |
+| [`Symbol`](./MarketDepth.cs/Свойства/Symbol.md) | *Описание* |
+| [`BestBidPrice`](./MarketDepth.cs/Свойства/BestBidPrice.md) | *Описание* |
+| [`BestAskPrice`](./MarketDepth.cs/Свойства/BestAskPrice.md) | *Описание* |
+| [`BestBidSize`](./MarketDepth.cs/Свойства/BestBidSize.md) | *Описание* |
+| [`BestAskSize`](./MarketDepth.cs/Свойства/BestAskSize.md) | *Описание* |
+| [`BidsSize`](./MarketDepth.cs/Свойства/BidsSize.md) | *Описание* |
+| [`AsksSize`](./MarketDepth.cs/Свойства/AsksSize.md) | *Описание* |
+| [`Bids`](./MarketDepth.cs/Свойства/Bids.md) | *Описание* |
+| [`Asks`](./MarketDepth.cs/Свойства/Asks.md) | *Описание* |
 
 
 ## Пример

@@ -18,34 +18,34 @@ public interface IChartSymbol
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`GetPrice`](./IChartSymbol.cs/metody/GetPrice.md) | *Описание* |
-| [`GetSize`](./IChartSymbol.cs/metody/GetSize.md) | *Описание* |
-| [`CorrectSizeFilter`](./IChartSymbol.cs/metody/CorrectSizeFilter.md) | *Описание* |
-| [`CorrectSizeFilter`](./IChartSymbol.cs/metody/CorrectSizeFilter.md) | *Описание* |
-| [`FormatPrice`](./IChartSymbol.cs/metody/FormatPrice.md) | *Описание* |
-| [`FormatRawPrice`](./IChartSymbol.cs/metody/FormatRawPrice.md) | *Описание* |
-| [`FormatSize`](./IChartSymbol.cs/metody/FormatSize.md) | *Описание* |
-| [`FormatSize`](./IChartSymbol.cs/metody/FormatSize.md) | *Описание* |
-| [`FormatSizeShort`](./IChartSymbol.cs/metody/FormatSizeShort.md) | *Описание* |
-| [`FormatSizeFull`](./IChartSymbol.cs/metody/FormatSizeFull.md) | *Описание* |
-| [`FormatRawSize`](./IChartSymbol.cs/metody/FormatRawSize.md) | *Описание* |
-| [`FormatRawSize`](./IChartSymbol.cs/metody/FormatRawSize.md) | *Описание* |
-| [`FormatRawSizeShort`](./IChartSymbol.cs/metody/FormatRawSizeShort.md) | *Описание* |
-| [`FormatRawSizeFull`](./IChartSymbol.cs/metody/FormatRawSizeFull.md) | *Описание* |
-| [`FormatTrades`](./IChartSymbol.cs/metody/FormatTrades.md) | *Описание* |
-| [`FormatTrades`](./IChartSymbol.cs/metody/FormatTrades.md) | *Описание* |
-| [`FormatTime`](./IChartSymbol.cs/metody/FormatTime.md) | *Описание* |
-| [`ConvertTimeToLocal`](./IChartSymbol.cs/metody/ConvertTimeToLocal.md) | *Описание* |
-| [`ConvertTimeFromLocal`](./IChartSymbol.cs/metody/ConvertTimeFromLocal.md) | *Описание* |
+| [`GetPrice`](./IChartSymbol.cs/Методы/GetPrice.md) | *Описание* |
+| [`GetSize`](./IChartSymbol.cs/Методы/GetSize.md) | *Описание* |
+| [`CorrectSizeFilter`](./IChartSymbol.cs/Методы/CorrectSizeFilter.md) | *Описание* |
+| [`CorrectSizeFilter`](./IChartSymbol.cs/Методы/CorrectSizeFilter.md) | *Описание* |
+| [`FormatPrice`](./IChartSymbol.cs/Методы/FormatPrice.md) | *Описание* |
+| [`FormatRawPrice`](./IChartSymbol.cs/Методы/FormatRawPrice.md) | *Описание* |
+| [`FormatSize`](./IChartSymbol.cs/Методы/FormatSize.md) | *Описание* |
+| [`FormatSize`](./IChartSymbol.cs/Методы/FormatSize.md) | *Описание* |
+| [`FormatSizeShort`](./IChartSymbol.cs/Методы/FormatSizeShort.md) | *Описание* |
+| [`FormatSizeFull`](./IChartSymbol.cs/Методы/FormatSizeFull.md) | *Описание* |
+| [`FormatRawSize`](./IChartSymbol.cs/Методы/FormatRawSize.md) | *Описание* |
+| [`FormatRawSize`](./IChartSymbol.cs/Методы/FormatRawSize.md) | *Описание* |
+| [`FormatRawSizeShort`](./IChartSymbol.cs/Методы/FormatRawSizeShort.md) | *Описание* |
+| [`FormatRawSizeFull`](./IChartSymbol.cs/Методы/FormatRawSizeFull.md) | *Описание* |
+| [`FormatTrades`](./IChartSymbol.cs/Методы/FormatTrades.md) | *Описание* |
+| [`FormatTrades`](./IChartSymbol.cs/Методы/FormatTrades.md) | *Описание* |
+| [`FormatTime`](./IChartSymbol.cs/Методы/FormatTime.md) | *Описание* |
+| [`ConvertTimeToLocal`](./IChartSymbol.cs/Методы/ConvertTimeToLocal.md) | *Описание* |
+| [`ConvertTimeFromLocal`](./IChartSymbol.cs/Методы/ConvertTimeFromLocal.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Code`](./IChartSymbol.cs/svoistva/Code.md) | *Описание* |
-| [`Name`](./IChartSymbol.cs/svoistva/Name.md) | *Описание* |
-| [`Exchange`](./IChartSymbol.cs/svoistva/Exchange.md) | *Описание* |
-| [`Decimals`](./IChartSymbol.cs/svoistva/Decimals.md) | *Описание* |
-| [`StepPrice`](./IChartSymbol.cs/svoistva/StepPrice.md) | *Описание* |
+| [`Code`](./IChartSymbol.cs/Свойства/Code.md) | *Описание* |
+| [`Name`](./IChartSymbol.cs/Свойства/Name.md) | *Описание* |
+| [`Exchange`](./IChartSymbol.cs/Свойства/Exchange.md) | *Описание* |
+| [`Decimals`](./IChartSymbol.cs/Свойства/Decimals.md) | *Описание* |
+| [`StepPrice`](./IChartSymbol.cs/Свойства/StepPrice.md) | *Описание* |
 
 
 ## Пример

@@ -18,7 +18,7 @@ public interface IContainsConditions
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`GetBrush`](./IContainsConditions.cs/metody/GetBrush.md) | *Описание* |
+| [`GetBrush`](./IContainsConditions.cs/Методы/GetBrush.md) | *Описание* |
 
 
 ## Пример

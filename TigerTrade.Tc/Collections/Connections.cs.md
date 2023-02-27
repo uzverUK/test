@@ -18,12 +18,12 @@ internal sealed class Connections
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Add`](./Connections.cs/metody/Add.md) | *Описание* |
-| [`Get`](./Connections.cs/metody/Get.md) | *Описание* |
-| [`GetAll`](./Connections.cs/metody/GetAll.md) | *Описание* |
-| [`GetAll`](./Connections.cs/metody/GetAll.md) | *Описание* |
-| [`Remove`](./Connections.cs/metody/Remove.md) | *Описание* |
-| [`Connections`](./Connections.cs/metody/Connections.md) | *Описание* |
+| [`Add`](./Connections.cs/Методы/Add.md) | *Описание* |
+| [`Get`](./Connections.cs/Методы/Get.md) | *Описание* |
+| [`GetAll`](./Connections.cs/Методы/GetAll.md) | *Описание* |
+| [`GetAll`](./Connections.cs/Методы/GetAll.md) | *Описание* |
+| [`Remove`](./Connections.cs/Методы/Remove.md) | *Описание* |
+| [`Connections`](./Connections.cs/Методы/Connections.md) | *Описание* |
 
 
 ## Пример

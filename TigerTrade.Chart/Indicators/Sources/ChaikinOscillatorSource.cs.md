@@ -18,18 +18,18 @@ public sealed class ChaikinOscillatorSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ChaikinOscillatorSource`](./ChaikinOscillatorSource.cs/metody/ChaikinOscillatorSource.md) | *Описание* |
-| [`GetSeriesList`](./ChaikinOscillatorSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./ChaikinOscillatorSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./ChaikinOscillatorSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./ChaikinOscillatorSource.cs/metody/ToString.md) | *Описание* |
+| [`ChaikinOscillatorSource`](./ChaikinOscillatorSource.cs/Методы/ChaikinOscillatorSource.md) | *Описание* |
+| [`GetSeriesList`](./ChaikinOscillatorSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./ChaikinOscillatorSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./ChaikinOscillatorSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./ChaikinOscillatorSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`ShortPeriod`](./ChaikinOscillatorSource.cs/svoistva/ShortPeriod.md) | *Описание* |
-| [`LongPeriod`](./ChaikinOscillatorSource.cs/svoistva/LongPeriod.md) | *Описание* |
-| [`MaType`](./ChaikinOscillatorSource.cs/svoistva/MaType.md) | *Описание* |
+| [`ShortPeriod`](./ChaikinOscillatorSource.cs/Свойства/ShortPeriod.md) | *Описание* |
+| [`LongPeriod`](./ChaikinOscillatorSource.cs/Свойства/LongPeriod.md) | *Описание* |
+| [`MaType`](./ChaikinOscillatorSource.cs/Свойства/MaType.md) | *Описание* |
 
 
 ## Пример

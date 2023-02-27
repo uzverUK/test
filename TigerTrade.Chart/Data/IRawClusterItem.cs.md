@@ -18,17 +18,17 @@ public interface IRawClusterItem
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Price`](./IRawClusterItem.cs/svoistva/Price.md) | *Описание* |
-| [`Bid`](./IRawClusterItem.cs/svoistva/Bid.md) | *Описание* |
-| [`Ask`](./IRawClusterItem.cs/svoistva/Ask.md) | *Описание* |
-| [`Volume`](./IRawClusterItem.cs/svoistva/Volume.md) | *Описание* |
-| [`Delta`](./IRawClusterItem.cs/svoistva/Delta.md) | *Описание* |
-| [`BidTrades`](./IRawClusterItem.cs/svoistva/BidTrades.md) | *Описание* |
-| [`AskTrades`](./IRawClusterItem.cs/svoistva/AskTrades.md) | *Описание* |
-| [`Trades`](./IRawClusterItem.cs/svoistva/Trades.md) | *Описание* |
-| [`OpenPosBid`](./IRawClusterItem.cs/svoistva/OpenPosBid.md) | *Описание* |
-| [`OpenPosAsk`](./IRawClusterItem.cs/svoistva/OpenPosAsk.md) | *Описание* |
-| [`OpenPos`](./IRawClusterItem.cs/svoistva/OpenPos.md) | *Описание* |
+| [`Price`](./IRawClusterItem.cs/Свойства/Price.md) | *Описание* |
+| [`Bid`](./IRawClusterItem.cs/Свойства/Bid.md) | *Описание* |
+| [`Ask`](./IRawClusterItem.cs/Свойства/Ask.md) | *Описание* |
+| [`Volume`](./IRawClusterItem.cs/Свойства/Volume.md) | *Описание* |
+| [`Delta`](./IRawClusterItem.cs/Свойства/Delta.md) | *Описание* |
+| [`BidTrades`](./IRawClusterItem.cs/Свойства/BidTrades.md) | *Описание* |
+| [`AskTrades`](./IRawClusterItem.cs/Свойства/AskTrades.md) | *Описание* |
+| [`Trades`](./IRawClusterItem.cs/Свойства/Trades.md) | *Описание* |
+| [`OpenPosBid`](./IRawClusterItem.cs/Свойства/OpenPosBid.md) | *Описание* |
+| [`OpenPosAsk`](./IRawClusterItem.cs/Свойства/OpenPosAsk.md) | *Описание* |
+| [`OpenPos`](./IRawClusterItem.cs/Свойства/OpenPos.md) | *Описание* |
 
 
 ## Пример

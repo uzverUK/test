@@ -18,11 +18,11 @@ public interface IRawMarketDepth
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`MaxAskPrice`](./IRawMarketDepth.cs/svoistva/MaxAskPrice.md) | *Описание* |
-| [`MinAskPrice`](./IRawMarketDepth.cs/svoistva/MinAskPrice.md) | *Описание* |
-| [`MaxBidPrice`](./IRawMarketDepth.cs/svoistva/MaxBidPrice.md) | *Описание* |
-| [`MinBidPrice`](./IRawMarketDepth.cs/svoistva/MinBidPrice.md) | *Описание* |
-| [`MaxSize`](./IRawMarketDepth.cs/svoistva/MaxSize.md) | *Описание* |
+| [`MaxAskPrice`](./IRawMarketDepth.cs/Свойства/MaxAskPrice.md) | *Описание* |
+| [`MinAskPrice`](./IRawMarketDepth.cs/Свойства/MinAskPrice.md) | *Описание* |
+| [`MaxBidPrice`](./IRawMarketDepth.cs/Свойства/MaxBidPrice.md) | *Описание* |
+| [`MinBidPrice`](./IRawMarketDepth.cs/Свойства/MinBidPrice.md) | *Описание* |
+| [`MaxSize`](./IRawMarketDepth.cs/Свойства/MaxSize.md) | *Описание* |
 
 
 ## Пример

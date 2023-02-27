@@ -18,34 +18,34 @@ public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ChartSeries`](./ChartSeries.cs/metody/ChartSeries.md) | *Описание* |
-| [`ChartSeries`](./ChartSeries.cs/metody/ChartSeries.md) | *Описание* |
-| [`ChartSeries`](./ChartSeries.cs/metody/ChartSeries.md) | *Описание* |
-| [`CopyTheme`](./ChartSeries.cs/metody/CopyTheme.md) | *Описание* |
-| [`ToString`](./ChartSeries.cs/metody/ToString.md) | *Описание* |
-| [`GetPropertyVisibility`](./ChartSeries.cs/metody/GetPropertyVisibility.md) | *Описание* |
-| [`GetPropertyHasStandardValues`](./ChartSeries.cs/metody/GetPropertyHasStandardValues.md) | *Описание* |
-| [`GetPropertyReadOnly`](./ChartSeries.cs/metody/GetPropertyReadOnly.md) | *Описание* |
-| [`GetPropertyStandardValues`](./ChartSeries.cs/metody/GetPropertyStandardValues.md) | *Описание* |
+| [`ChartSeries`](./ChartSeries.cs/Методы/ChartSeries.md) | *Описание* |
+| [`ChartSeries`](./ChartSeries.cs/Методы/ChartSeries.md) | *Описание* |
+| [`ChartSeries`](./ChartSeries.cs/Методы/ChartSeries.md) | *Описание* |
+| [`CopyTheme`](./ChartSeries.cs/Методы/CopyTheme.md) | *Описание* |
+| [`ToString`](./ChartSeries.cs/Методы/ToString.md) | *Описание* |
+| [`GetPropertyVisibility`](./ChartSeries.cs/Методы/GetPropertyVisibility.md) | *Описание* |
+| [`GetPropertyHasStandardValues`](./ChartSeries.cs/Методы/GetPropertyHasStandardValues.md) | *Описание* |
+| [`GetPropertyReadOnly`](./ChartSeries.cs/Методы/GetPropertyReadOnly.md) | *Описание* |
+| [`GetPropertyStandardValues`](./ChartSeries.cs/Методы/GetPropertyStandardValues.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Visible`](./ChartSeries.cs/svoistva/Visible.md) | *Описание* |
-| [`ShowMarker`](./ChartSeries.cs/svoistva/ShowMarker.md) | *Описание* |
-| [`Type`](./ChartSeries.cs/svoistva/Type.md) | *Описание* |
-| [`ColorSplit`](./ChartSeries.cs/svoistva/ColorSplit.md) | *Описание* |
-| [`AllColors`](./ChartSeries.cs/svoistva/AllColors.md) | *Описание* |
-| [`Color`](./ChartSeries.cs/svoistva/Color.md) | *Описание* |
-| [`Color2`](./ChartSeries.cs/svoistva/Color2.md) | *Описание* |
-| [`Width`](./ChartSeries.cs/svoistva/Width.md) | *Описание* |
-| [`Style`](./ChartSeries.cs/svoistva/Style.md) | *Описание* |
-| [`DotStyle`](./ChartSeries.cs/svoistva/DotStyle.md) | *Описание* |
+| [`Visible`](./ChartSeries.cs/Свойства/Visible.md) | *Описание* |
+| [`ShowMarker`](./ChartSeries.cs/Свойства/ShowMarker.md) | *Описание* |
+| [`Type`](./ChartSeries.cs/Свойства/Type.md) | *Описание* |
+| [`ColorSplit`](./ChartSeries.cs/Свойства/ColorSplit.md) | *Описание* |
+| [`AllColors`](./ChartSeries.cs/Свойства/AllColors.md) | *Описание* |
+| [`Color`](./ChartSeries.cs/Свойства/Color.md) | *Описание* |
+| [`Color2`](./ChartSeries.cs/Свойства/Color2.md) | *Описание* |
+| [`Width`](./ChartSeries.cs/Свойства/Width.md) | *Описание* |
+| [`Style`](./ChartSeries.cs/Свойства/Style.md) | *Описание* |
+| [`DotStyle`](./ChartSeries.cs/Свойства/DotStyle.md) | *Описание* |
 
 ## События
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./ChartSeries.cs/sobytiya/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](./ChartSeries.cs/События/PropertyChanged.md) | *Описание* |
 
 
 ## Пример

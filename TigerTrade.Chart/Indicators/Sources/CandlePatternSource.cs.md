@@ -18,18 +18,18 @@ public sealed class CandlePatternSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`CandlePatternSource`](./CandlePatternSource.cs/metody/CandlePatternSource.md) | *Описание* |
-| [`GetSeriesList`](./CandlePatternSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./CandlePatternSource.cs/metody/GetSeries.md) | *Описание* |
-| [`SearchPattern`](./CandlePatternSource.cs/metody/SearchPattern.md) | *Описание* |
-| [`CopySettings`](./CandlePatternSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./CandlePatternSource.cs/metody/ToString.md) | *Описание* |
+| [`CandlePatternSource`](./CandlePatternSource.cs/Методы/CandlePatternSource.md) | *Описание* |
+| [`GetSeriesList`](./CandlePatternSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./CandlePatternSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`SearchPattern`](./CandlePatternSource.cs/Методы/SearchPattern.md) | *Описание* |
+| [`CopySettings`](./CandlePatternSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./CandlePatternSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`PatternType`](./CandlePatternSource.cs/svoistva/PatternType.md) | *Описание* |
-| [`Penetration`](./CandlePatternSource.cs/svoistva/Penetration.md) | *Описание* |
+| [`PatternType`](./CandlePatternSource.cs/Свойства/PatternType.md) | *Описание* |
+| [`Penetration`](./CandlePatternSource.cs/Свойства/Penetration.md) | *Описание* |
 
 
 ## Пример

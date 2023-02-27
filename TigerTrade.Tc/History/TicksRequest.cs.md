@@ -18,15 +18,15 @@ public sealed class TicksRequest
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`TicksRequest`](./TicksRequest.cs/metody/TicksRequest.md) | *Описание* |
+| [`TicksRequest`](./TicksRequest.cs/Методы/TicksRequest.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Symbol`](./TicksRequest.cs/svoistva/Symbol.md) | *Описание* |
-| [`RequestID`](./TicksRequest.cs/svoistva/RequestID.md) | *Описание* |
-| [`TargetID`](./TicksRequest.cs/svoistva/TargetID.md) | *Описание* |
-| [`CustomData`](./TicksRequest.cs/svoistva/CustomData.md) | *Описание* |
+| [`Symbol`](./TicksRequest.cs/Свойства/Symbol.md) | *Описание* |
+| [`RequestID`](./TicksRequest.cs/Свойства/RequestID.md) | *Описание* |
+| [`TargetID`](./TicksRequest.cs/Свойства/TargetID.md) | *Описание* |
+| [`CustomData`](./TicksRequest.cs/Свойства/CustomData.md) | *Описание* |
 
 
 ## Пример

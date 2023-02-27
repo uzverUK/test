@@ -18,15 +18,15 @@ public sealed class XPen
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`XPen`](./XPen.cs/metody/XPen.md) | *Описание* |
-| [`XPen`](./XPen.cs/metody/XPen.md) | *Описание* |
+| [`XPen`](./XPen.cs/Методы/XPen.md) | *Описание* |
+| [`XPen`](./XPen.cs/Методы/XPen.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Brush`](./XPen.cs/svoistva/Brush.md) | *Описание* |
-| [`Width`](./XPen.cs/svoistva/Width.md) | *Описание* |
-| [`Style`](./XPen.cs/svoistva/Style.md) | *Описание* |
+| [`Brush`](./XPen.cs/Свойства/Brush.md) | *Описание* |
+| [`Width`](./XPen.cs/Свойства/Width.md) | *Описание* |
+| [`Style`](./XPen.cs/Свойства/Style.md) | *Описание* |
 
 
 ## Пример

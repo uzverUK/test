@@ -18,26 +18,26 @@ public sealed class RulerObject : LineObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`RulerObject`](./RulerObject.cs/metody/RulerObject.md) | *Описание* |
-| [`PrettyFormatTimeSpan`](./RulerObject.cs/metody/PrettyFormatTimeSpan.md) | *Описание* |
-| [`ApplyTheme`](./RulerObject.cs/metody/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./RulerObject.cs/metody/CopyTemplate.md) | *Описание* |
+| [`RulerObject`](./RulerObject.cs/Методы/RulerObject.md) | *Описание* |
+| [`PrettyFormatTimeSpan`](./RulerObject.cs/Методы/PrettyFormatTimeSpan.md) | *Описание* |
+| [`ApplyTheme`](./RulerObject.cs/Методы/ApplyTheme.md) | *Описание* |
+| [`CopyTemplate`](./RulerObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./RulerObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
-| [`ShowInfoBars`](./RulerObject.cs/svoistva/ShowInfoBars.md) | *Описание* |
-| [`ShowInfoTime`](./RulerObject.cs/svoistva/ShowInfoTime.md) | *Описание* |
-| [`ShowInfoPrice`](./RulerObject.cs/svoistva/ShowInfoPrice.md) | *Описание* |
-| [`ShowInfoTicks`](./RulerObject.cs/svoistva/ShowInfoTicks.md) | *Описание* |
-| [`ShowInfoChange`](./RulerObject.cs/svoistva/ShowInfoChange.md) | *Описание* |
-| [`ShowInfoVolume`](./RulerObject.cs/svoistva/ShowInfoVolume.md) | *Описание* |
-| [`ShowInfoTrades`](./RulerObject.cs/svoistva/ShowInfoTrades.md) | *Описание* |
-| [`ShowInfoDelta`](./RulerObject.cs/svoistva/ShowInfoDelta.md) | *Описание* |
-| [`ShowInfoBid`](./RulerObject.cs/svoistva/ShowInfoBid.md) | *Описание* |
-| [`ShowInfoAsk`](./RulerObject.cs/svoistva/ShowInfoAsk.md) | *Описание* |
-| [`TextColor`](./RulerObject.cs/svoistva/TextColor.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./RulerObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`ShowInfoBars`](./RulerObject.cs/Свойства/ShowInfoBars.md) | *Описание* |
+| [`ShowInfoTime`](./RulerObject.cs/Свойства/ShowInfoTime.md) | *Описание* |
+| [`ShowInfoPrice`](./RulerObject.cs/Свойства/ShowInfoPrice.md) | *Описание* |
+| [`ShowInfoTicks`](./RulerObject.cs/Свойства/ShowInfoTicks.md) | *Описание* |
+| [`ShowInfoChange`](./RulerObject.cs/Свойства/ShowInfoChange.md) | *Описание* |
+| [`ShowInfoVolume`](./RulerObject.cs/Свойства/ShowInfoVolume.md) | *Описание* |
+| [`ShowInfoTrades`](./RulerObject.cs/Свойства/ShowInfoTrades.md) | *Описание* |
+| [`ShowInfoDelta`](./RulerObject.cs/Свойства/ShowInfoDelta.md) | *Описание* |
+| [`ShowInfoBid`](./RulerObject.cs/Свойства/ShowInfoBid.md) | *Описание* |
+| [`ShowInfoAsk`](./RulerObject.cs/Свойства/ShowInfoAsk.md) | *Описание* |
+| [`TextColor`](./RulerObject.cs/Свойства/TextColor.md) | *Описание* |
 
 
 ## Пример

@@ -18,14 +18,14 @@ public sealed class TrustAccount
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`TrustAccount`](./TrustAccount.cs/metody/TrustAccount.md) | *Описание* |
+| [`TrustAccount`](./TrustAccount.cs/Методы/TrustAccount.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`ID`](./TrustAccount.cs/svoistva/ID.md) | *Описание* |
-| [`Name`](./TrustAccount.cs/svoistva/Name.md) | *Описание* |
-| [`Accounts`](./TrustAccount.cs/svoistva/Accounts.md) | *Описание* |
+| [`ID`](./TrustAccount.cs/Свойства/ID.md) | *Описание* |
+| [`Name`](./TrustAccount.cs/Свойства/Name.md) | *Описание* |
+| [`Accounts`](./TrustAccount.cs/Свойства/Accounts.md) | *Описание* |
 
 
 ## Пример

@@ -18,11 +18,11 @@ public interface IChartMarketDepth
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`MaxAskPrice`](./IChartMarketDepth.cs/svoistva/MaxAskPrice.md) | *Описание* |
-| [`MinAskPrice`](./IChartMarketDepth.cs/svoistva/MinAskPrice.md) | *Описание* |
-| [`MaxBidPrice`](./IChartMarketDepth.cs/svoistva/MaxBidPrice.md) | *Описание* |
-| [`MinBidPrice`](./IChartMarketDepth.cs/svoistva/MinBidPrice.md) | *Описание* |
-| [`MaxSize`](./IChartMarketDepth.cs/svoistva/MaxSize.md) | *Описание* |
+| [`MaxAskPrice`](./IChartMarketDepth.cs/Свойства/MaxAskPrice.md) | *Описание* |
+| [`MinAskPrice`](./IChartMarketDepth.cs/Свойства/MinAskPrice.md) | *Описание* |
+| [`MaxBidPrice`](./IChartMarketDepth.cs/Свойства/MaxBidPrice.md) | *Описание* |
+| [`MinBidPrice`](./IChartMarketDepth.cs/Свойства/MinBidPrice.md) | *Описание* |
+| [`MaxSize`](./IChartMarketDepth.cs/Свойства/MaxSize.md) | *Описание* |
 
 
 ## Пример

@@ -18,14 +18,14 @@ public sealed class YesNoWindow : Window, IComponentConnector
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`YesNoWindow`](./YesNoWindow.cs/metody/YesNoWindow.md) | *Описание* |
-| [`ShowWindow`](./YesNoWindow.cs/metody/ShowWindow.md) | *Описание* |
-| [`InitializeComponent`](./YesNoWindow.cs/metody/InitializeComponent.md) | *Описание* |
+| [`YesNoWindow`](./YesNoWindow.cs/Методы/YesNoWindow.md) | *Описание* |
+| [`ShowWindow`](./YesNoWindow.cs/Методы/ShowWindow.md) | *Описание* |
+| [`InitializeComponent`](./YesNoWindow.cs/Методы/InitializeComponent.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Message`](./YesNoWindow.cs/svoistva/Message.md) | *Описание* |
+| [`Message`](./YesNoWindow.cs/Свойства/Message.md) | *Описание* |
 
 
 ## Пример

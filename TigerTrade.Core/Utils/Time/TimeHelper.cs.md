@@ -18,28 +18,28 @@ public static class TimeHelper
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`GetCurrTime`](./TimeHelper.cs/metody/GetCurrTime.md) | *Описание* |
-| [`GetCurrDate`](./TimeHelper.cs/metody/GetCurrDate.md) | *Описание* |
-| [`GetCityTime`](./TimeHelper.cs/metody/GetCityTime.md) | *Описание* |
-| [`GetSessionOffset`](./TimeHelper.cs/metody/GetSessionOffset.md) | *Описание* |
-| [`GetSessionOffsetTs`](./TimeHelper.cs/metody/GetSessionOffsetTs.md) | *Описание* |
-| [`GetSessionDate`](./TimeHelper.cs/metody/GetSessionDate.md) | *Описание* |
-| [`GetSessionDate`](./TimeHelper.cs/metody/GetSessionDate.md) | *Описание* |
-| [`IsInvalidTime`](./TimeHelper.cs/metody/IsInvalidTime.md) | *Описание* |
-| [`FormatTime`](./TimeHelper.cs/metody/FormatTime.md) | *Описание* |
-| [`ConvertFromExchangeTimeToUtc`](./TimeHelper.cs/metody/ConvertFromExchangeTimeToUtc.md) | *Описание* |
-| [`CorrectLocalTime`](./TimeHelper.cs/metody/CorrectLocalTime.md) | *Описание* |
-| [`CorrectUtcTime`](./TimeHelper.cs/metody/CorrectUtcTime.md) | *Описание* |
+| [`GetCurrTime`](./TimeHelper.cs/Методы/GetCurrTime.md) | *Описание* |
+| [`GetCurrDate`](./TimeHelper.cs/Методы/GetCurrDate.md) | *Описание* |
+| [`GetCityTime`](./TimeHelper.cs/Методы/GetCityTime.md) | *Описание* |
+| [`GetSessionOffset`](./TimeHelper.cs/Методы/GetSessionOffset.md) | *Описание* |
+| [`GetSessionOffsetTs`](./TimeHelper.cs/Методы/GetSessionOffsetTs.md) | *Описание* |
+| [`GetSessionDate`](./TimeHelper.cs/Методы/GetSessionDate.md) | *Описание* |
+| [`GetSessionDate`](./TimeHelper.cs/Методы/GetSessionDate.md) | *Описание* |
+| [`IsInvalidTime`](./TimeHelper.cs/Методы/IsInvalidTime.md) | *Описание* |
+| [`FormatTime`](./TimeHelper.cs/Методы/FormatTime.md) | *Описание* |
+| [`ConvertFromExchangeTimeToUtc`](./TimeHelper.cs/Методы/ConvertFromExchangeTimeToUtc.md) | *Описание* |
+| [`CorrectLocalTime`](./TimeHelper.cs/Методы/CorrectLocalTime.md) | *Описание* |
+| [`CorrectUtcTime`](./TimeHelper.cs/Методы/CorrectUtcTime.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`PlayerTimeProvider`](./TimeHelper.cs/svoistva/PlayerTimeProvider.md) | *Описание* |
-| [`MoscowTimeOffsetUtc`](./TimeHelper.cs/svoistva/MoscowTimeOffsetUtc.md) | *Описание* |
-| [`EasternTimeOffsetUtc`](./TimeHelper.cs/svoistva/EasternTimeOffsetUtc.md) | *Описание* |
-| [`CentralTimeOffsetUtc`](./TimeHelper.cs/svoistva/CentralTimeOffsetUtc.md) | *Описание* |
-| [`LocalTime`](./TimeHelper.cs/svoistva/LocalTime.md) | *Описание* |
-| [`AppLocalTime`](./TimeHelper.cs/svoistva/AppLocalTime.md) | *Описание* |
+| [`PlayerTimeProvider`](./TimeHelper.cs/Свойства/PlayerTimeProvider.md) | *Описание* |
+| [`MoscowTimeOffsetUtc`](./TimeHelper.cs/Свойства/MoscowTimeOffsetUtc.md) | *Описание* |
+| [`EasternTimeOffsetUtc`](./TimeHelper.cs/Свойства/EasternTimeOffsetUtc.md) | *Описание* |
+| [`CentralTimeOffsetUtc`](./TimeHelper.cs/Свойства/CentralTimeOffsetUtc.md) | *Описание* |
+| [`LocalTime`](./TimeHelper.cs/Свойства/LocalTime.md) | *Описание* |
+| [`AppLocalTime`](./TimeHelper.cs/Свойства/AppLocalTime.md) | *Описание* |
 
 
 ## Пример

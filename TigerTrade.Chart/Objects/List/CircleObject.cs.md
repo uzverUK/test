@@ -18,12 +18,12 @@ public sealed class CircleObject : PolygonObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`CircleObject`](./CircleObject.cs/metody/CircleObject.md) | *Описание* |
+| [`CircleObject`](./CircleObject.cs/Методы/CircleObject.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./CircleObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./CircleObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
 
 
 ## Пример

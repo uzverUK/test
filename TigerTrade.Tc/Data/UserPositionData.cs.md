@@ -18,14 +18,14 @@ public sealed class UserPositionData
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ClearPosition`](./UserPositionData.cs/metody/ClearPosition.md) | *Описание* |
-| [`ClosePosition`](./UserPositionData.cs/metody/ClosePosition.md) | *Описание* |
-| [`HidePosition`](./UserPositionData.cs/metody/HidePosition.md) | *Описание* |
+| [`ClearPosition`](./UserPositionData.cs/Методы/ClearPosition.md) | *Описание* |
+| [`ClosePosition`](./UserPositionData.cs/Методы/ClosePosition.md) | *Описание* |
+| [`HidePosition`](./UserPositionData.cs/Методы/HidePosition.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`IsLive`](./UserPositionData.cs/svoistva/IsLive.md) | *Описание* |
+| [`IsLive`](./UserPositionData.cs/Свойства/IsLive.md) | *Описание* |
 
 
 ## Пример

@@ -18,19 +18,19 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ObjectPointInfo`](./ObjectPointInfo.cs/metody/ObjectPointInfo.md) | *Описание* |
-| [`ToString`](./ObjectPointInfo.cs/metody/ToString.md) | *Описание* |
+| [`ObjectPointInfo`](./ObjectPointInfo.cs/Методы/ObjectPointInfo.md) | *Описание* |
+| [`ToString`](./ObjectPointInfo.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Time`](./ObjectPointInfo.cs/svoistva/Time.md) | *Описание* |
-| [`Price`](./ObjectPointInfo.cs/svoistva/Price.md) | *Описание* |
+| [`Time`](./ObjectPointInfo.cs/Свойства/Time.md) | *Описание* |
+| [`Price`](./ObjectPointInfo.cs/Свойства/Price.md) | *Описание* |
 
 ## События
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./ObjectPointInfo.cs/sobytiya/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](./ObjectPointInfo.cs/События/PropertyChanged.md) | *Описание* |
 
 
 ## Пример

@@ -18,7 +18,7 @@ public sealed class DescriptionLocalizedAttribute : DescriptionAttribute
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`DescriptionLocalizedAttribute`](./DescriptionLocalizedAttribute.cs/metody/DescriptionLocalizedAttribute.md) | *Описание* |
+| [`DescriptionLocalizedAttribute`](./DescriptionLocalizedAttribute.cs/Методы/DescriptionLocalizedAttribute.md) | *Описание* |
 
 
 ## Пример

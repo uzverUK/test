@@ -18,13 +18,13 @@ public sealed class BarsResponce
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`BarsResponce`](./BarsResponce.cs/metody/BarsResponce.md) | *Описание* |
+| [`BarsResponce`](./BarsResponce.cs/Методы/BarsResponce.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Request`](./BarsResponce.cs/svoistva/Request.md) | *Описание* |
-| [`Reader`](./BarsResponce.cs/svoistva/Reader.md) | *Описание* |
+| [`Request`](./BarsResponce.cs/Свойства/Request.md) | *Описание* |
+| [`Reader`](./BarsResponce.cs/Свойства/Reader.md) | *Описание* |
 
 
 ## Пример

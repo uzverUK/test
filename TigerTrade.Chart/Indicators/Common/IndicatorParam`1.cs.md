@@ -18,16 +18,16 @@ public abstract class IndicatorParam<T>
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Get`](./IndicatorParam`1.cs/metody/Get.md) | *Описание* |
-| [`Get`](./IndicatorParam`1.cs/metody/Get.md) | *Описание* |
-| [`Copy`](./IndicatorParam`1.cs/metody/Copy.md) | *Описание* |
-| [`Clear`](./IndicatorParam`1.cs/metody/Clear.md) | *Описание* |
+| [`Get`](./IndicatorParam`1.cs/Методы/Get.md) | *Описание* |
+| [`Get`](./IndicatorParam`1.cs/Методы/Get.md) | *Описание* |
+| [`Copy`](./IndicatorParam`1.cs/Методы/Copy.md) | *Описание* |
+| [`Clear`](./IndicatorParam`1.cs/Методы/Clear.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Value`](./IndicatorParam`1.cs/svoistva/Value.md) | *Описание* |
-| [`Values`](./IndicatorParam`1.cs/svoistva/Values.md) | *Описание* |
+| [`Value`](./IndicatorParam`1.cs/Свойства/Value.md) | *Описание* |
+| [`Values`](./IndicatorParam`1.cs/Свойства/Values.md) | *Описание* |
 
 
 ## Пример

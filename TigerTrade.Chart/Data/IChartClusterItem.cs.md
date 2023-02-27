@@ -18,17 +18,17 @@ public interface IChartClusterItem
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Price`](./IChartClusterItem.cs/svoistva/Price.md) | *Описание* |
-| [`Bid`](./IChartClusterItem.cs/svoistva/Bid.md) | *Описание* |
-| [`Ask`](./IChartClusterItem.cs/svoistva/Ask.md) | *Описание* |
-| [`Volume`](./IChartClusterItem.cs/svoistva/Volume.md) | *Описание* |
-| [`Delta`](./IChartClusterItem.cs/svoistva/Delta.md) | *Описание* |
-| [`BidTrades`](./IChartClusterItem.cs/svoistva/BidTrades.md) | *Описание* |
-| [`AskTrades`](./IChartClusterItem.cs/svoistva/AskTrades.md) | *Описание* |
-| [`Trades`](./IChartClusterItem.cs/svoistva/Trades.md) | *Описание* |
-| [`OpenPosBid`](./IChartClusterItem.cs/svoistva/OpenPosBid.md) | *Описание* |
-| [`OpenPosAsk`](./IChartClusterItem.cs/svoistva/OpenPosAsk.md) | *Описание* |
-| [`OpenPos`](./IChartClusterItem.cs/svoistva/OpenPos.md) | *Описание* |
+| [`Price`](./IChartClusterItem.cs/Свойства/Price.md) | *Описание* |
+| [`Bid`](./IChartClusterItem.cs/Свойства/Bid.md) | *Описание* |
+| [`Ask`](./IChartClusterItem.cs/Свойства/Ask.md) | *Описание* |
+| [`Volume`](./IChartClusterItem.cs/Свойства/Volume.md) | *Описание* |
+| [`Delta`](./IChartClusterItem.cs/Свойства/Delta.md) | *Описание* |
+| [`BidTrades`](./IChartClusterItem.cs/Свойства/BidTrades.md) | *Описание* |
+| [`AskTrades`](./IChartClusterItem.cs/Свойства/AskTrades.md) | *Описание* |
+| [`Trades`](./IChartClusterItem.cs/Свойства/Trades.md) | *Описание* |
+| [`OpenPosBid`](./IChartClusterItem.cs/Свойства/OpenPosBid.md) | *Описание* |
+| [`OpenPosAsk`](./IChartClusterItem.cs/Свойства/OpenPosAsk.md) | *Описание* |
+| [`OpenPos`](./IChartClusterItem.cs/Свойства/OpenPos.md) | *Описание* |
 
 
 ## Пример

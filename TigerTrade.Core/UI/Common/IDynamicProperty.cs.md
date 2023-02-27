@@ -18,9 +18,9 @@ public interface IDynamicProperty
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`GetPropertyHasStandardValues`](./IDynamicProperty.cs/metody/GetPropertyHasStandardValues.md) | *Описание* |
-| [`GetPropertyReadOnly`](./IDynamicProperty.cs/metody/GetPropertyReadOnly.md) | *Описание* |
-| [`GetPropertyVisibility`](./IDynamicProperty.cs/metody/GetPropertyVisibility.md) | *Описание* |
+| [`GetPropertyHasStandardValues`](./IDynamicProperty.cs/Методы/GetPropertyHasStandardValues.md) | *Описание* |
+| [`GetPropertyReadOnly`](./IDynamicProperty.cs/Методы/GetPropertyReadOnly.md) | *Описание* |
+| [`GetPropertyVisibility`](./IDynamicProperty.cs/Методы/GetPropertyVisibility.md) | *Описание* |
 
 
 ## Пример

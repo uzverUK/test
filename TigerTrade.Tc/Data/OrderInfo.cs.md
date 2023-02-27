@@ -18,15 +18,15 @@ public sealed class OrderInfo
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`OrderInfo`](./OrderInfo.cs/metody/OrderInfo.md) | *Описание* |
+| [`OrderInfo`](./OrderInfo.cs/Методы/OrderInfo.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Order`](./OrderInfo.cs/svoistva/Order.md) | *Описание* |
-| [`Status`](./OrderInfo.cs/svoistva/Status.md) | *Описание* |
-| [`Silent`](./OrderInfo.cs/svoistva/Silent.md) | *Описание* |
-| [`ErrorMsg`](./OrderInfo.cs/svoistva/ErrorMsg.md) | *Описание* |
+| [`Order`](./OrderInfo.cs/Свойства/Order.md) | *Описание* |
+| [`Status`](./OrderInfo.cs/Свойства/Status.md) | *Описание* |
+| [`Silent`](./OrderInfo.cs/Свойства/Silent.md) | *Описание* |
+| [`ErrorMsg`](./OrderInfo.cs/Свойства/ErrorMsg.md) | *Описание* |
 
 
 ## Пример

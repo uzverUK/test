@@ -18,16 +18,16 @@ public sealed class VerticalLineObject : LineObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`DrawControlPoints`](./VerticalLineObject.cs/metody/DrawControlPoints.md) | *Описание* |
-| [`CopyTemplate`](./VerticalLineObject.cs/metody/CopyTemplate.md) | *Описание* |
-| [`CheckAlert`](./VerticalLineObject.cs/metody/CheckAlert.md) | *Описание* |
-| [`VerticalLineObject`](./VerticalLineObject.cs/metody/VerticalLineObject.md) | *Описание* |
+| [`DrawControlPoints`](./VerticalLineObject.cs/Методы/DrawControlPoints.md) | *Описание* |
+| [`CopyTemplate`](./VerticalLineObject.cs/Методы/CopyTemplate.md) | *Описание* |
+| [`CheckAlert`](./VerticalLineObject.cs/Методы/CheckAlert.md) | *Описание* |
+| [`VerticalLineObject`](./VerticalLineObject.cs/Методы/VerticalLineObject.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./VerticalLineObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
-| [`Alert`](./VerticalLineObject.cs/svoistva/Alert.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./VerticalLineObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`Alert`](./VerticalLineObject.cs/Свойства/Alert.md) | *Описание* |
 
 
 ## Пример

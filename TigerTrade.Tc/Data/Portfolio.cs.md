@@ -18,26 +18,26 @@ public sealed class Portfolio
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Portfolio`](./Portfolio.cs/metody/Portfolio.md) | *Описание* |
-| [`ToString`](./Portfolio.cs/metody/ToString.md) | *Описание* |
+| [`Portfolio`](./Portfolio.cs/Методы/Portfolio.md) | *Описание* |
+| [`ToString`](./Portfolio.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Connection`](./Portfolio.cs/svoistva/Connection.md) | *Описание* |
-| [`ConnectionID`](./Portfolio.cs/svoistva/ConnectionID.md) | *Описание* |
-| [`Name`](./Portfolio.cs/svoistva/Name.md) | *Описание* |
-| [`Currency`](./Portfolio.cs/svoistva/Currency.md) | *Описание* |
-| [`Register`](./Portfolio.cs/svoistva/Register.md) | *Описание* |
-| [`Leverage`](./Portfolio.cs/svoistva/Leverage.md) | *Описание* |
-| [`Balance`](./Portfolio.cs/svoistva/Balance.md) | *Описание* |
-| [`UsedMargin`](./Portfolio.cs/svoistva/UsedMargin.md) | *Описание* |
-| [`FreeMargin`](./Portfolio.cs/svoistva/FreeMargin.md) | *Описание* |
-| [`UnrealizedPnl`](./Portfolio.cs/svoistva/UnrealizedPnl.md) | *Описание* |
-| [`RealizedPnl`](./Portfolio.cs/svoistva/RealizedPnl.md) | *Описание* |
-| [`Comission`](./Portfolio.cs/svoistva/Comission.md) | *Описание* |
-| [`Precision`](./Portfolio.cs/svoistva/Precision.md) | *Описание* |
-| [`PortfolioID`](./Portfolio.cs/svoistva/PortfolioID.md) | *Описание* |
+| [`Connection`](./Portfolio.cs/Свойства/Connection.md) | *Описание* |
+| [`ConnectionID`](./Portfolio.cs/Свойства/ConnectionID.md) | *Описание* |
+| [`Name`](./Portfolio.cs/Свойства/Name.md) | *Описание* |
+| [`Currency`](./Portfolio.cs/Свойства/Currency.md) | *Описание* |
+| [`Register`](./Portfolio.cs/Свойства/Register.md) | *Описание* |
+| [`Leverage`](./Portfolio.cs/Свойства/Leverage.md) | *Описание* |
+| [`Balance`](./Portfolio.cs/Свойства/Balance.md) | *Описание* |
+| [`UsedMargin`](./Portfolio.cs/Свойства/UsedMargin.md) | *Описание* |
+| [`FreeMargin`](./Portfolio.cs/Свойства/FreeMargin.md) | *Описание* |
+| [`UnrealizedPnl`](./Portfolio.cs/Свойства/UnrealizedPnl.md) | *Описание* |
+| [`RealizedPnl`](./Portfolio.cs/Свойства/RealizedPnl.md) | *Описание* |
+| [`Comission`](./Portfolio.cs/Свойства/Comission.md) | *Описание* |
+| [`Precision`](./Portfolio.cs/Свойства/Precision.md) | *Описание* |
+| [`PortfolioID`](./Portfolio.cs/Свойства/PortfolioID.md) | *Описание* |
 
 
 ## Пример

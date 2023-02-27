@@ -18,16 +18,16 @@ public sealed class MoneyFlowIndexSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`MoneyFlowIndexSource`](./MoneyFlowIndexSource.cs/metody/MoneyFlowIndexSource.md) | *Описание* |
-| [`GetSeriesList`](./MoneyFlowIndexSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./MoneyFlowIndexSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./MoneyFlowIndexSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./MoneyFlowIndexSource.cs/metody/ToString.md) | *Описание* |
+| [`MoneyFlowIndexSource`](./MoneyFlowIndexSource.cs/Методы/MoneyFlowIndexSource.md) | *Описание* |
+| [`GetSeriesList`](./MoneyFlowIndexSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./MoneyFlowIndexSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./MoneyFlowIndexSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./MoneyFlowIndexSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./MoneyFlowIndexSource.cs/svoistva/Period.md) | *Описание* |
+| [`Period`](./MoneyFlowIndexSource.cs/Свойства/Period.md) | *Описание* |
 
 
 ## Пример

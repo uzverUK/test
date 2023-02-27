@@ -18,7 +18,7 @@ public interface IContainsSelection
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`GetSelection`](./IContainsSelection.cs/metody/GetSelection.md) | *Описание* |
+| [`GetSelection`](./IContainsSelection.cs/Методы/GetSelection.md) | *Описание* |
 
 
 ## Пример

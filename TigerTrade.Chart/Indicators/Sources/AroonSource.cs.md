@@ -18,16 +18,16 @@ public sealed class AroonSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`AroonSource`](./AroonSource.cs/metody/AroonSource.md) | *Описание* |
-| [`GetSeriesList`](./AroonSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./AroonSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./AroonSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./AroonSource.cs/metody/ToString.md) | *Описание* |
+| [`AroonSource`](./AroonSource.cs/Методы/AroonSource.md) | *Описание* |
+| [`GetSeriesList`](./AroonSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./AroonSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./AroonSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./AroonSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./AroonSource.cs/svoistva/Period.md) | *Описание* |
+| [`Period`](./AroonSource.cs/Свойства/Period.md) | *Описание* |
 
 
 ## Пример

@@ -18,19 +18,19 @@ public sealed class BollingerBandsSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`BollingerBandsSource`](./BollingerBandsSource.cs/metody/BollingerBandsSource.md) | *Описание* |
-| [`GetSeriesList`](./BollingerBandsSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./BollingerBandsSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./BollingerBandsSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./BollingerBandsSource.cs/metody/ToString.md) | *Описание* |
+| [`BollingerBandsSource`](./BollingerBandsSource.cs/Методы/BollingerBandsSource.md) | *Описание* |
+| [`GetSeriesList`](./BollingerBandsSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./BollingerBandsSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./BollingerBandsSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./BollingerBandsSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./BollingerBandsSource.cs/svoistva/Period.md) | *Описание* |
-| [`StdDev`](./BollingerBandsSource.cs/svoistva/StdDev.md) | *Описание* |
-| [`MaType`](./BollingerBandsSource.cs/svoistva/MaType.md) | *Описание* |
-| [`Source`](./BollingerBandsSource.cs/svoistva/Source.md) | *Описание* |
+| [`Period`](./BollingerBandsSource.cs/Свойства/Period.md) | *Описание* |
+| [`StdDev`](./BollingerBandsSource.cs/Свойства/StdDev.md) | *Описание* |
+| [`MaType`](./BollingerBandsSource.cs/Свойства/MaType.md) | *Описание* |
+| [`Source`](./BollingerBandsSource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

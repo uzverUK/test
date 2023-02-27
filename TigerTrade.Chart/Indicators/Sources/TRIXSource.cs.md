@@ -18,16 +18,16 @@ public sealed class TRIXSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`TRIXSource`](./TRIXSource.cs/metody/TRIXSource.md) | *Описание* |
-| [`GetSeriesList`](./TRIXSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./TRIXSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./TRIXSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./TRIXSource.cs/metody/ToString.md) | *Описание* |
+| [`TRIXSource`](./TRIXSource.cs/Методы/TRIXSource.md) | *Описание* |
+| [`GetSeriesList`](./TRIXSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./TRIXSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./TRIXSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./TRIXSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./TRIXSource.cs/svoistva/Period.md) | *Описание* |
+| [`Period`](./TRIXSource.cs/Свойства/Period.md) | *Описание* |
 
 
 ## Пример

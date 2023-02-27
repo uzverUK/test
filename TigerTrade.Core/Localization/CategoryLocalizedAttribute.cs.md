@@ -18,7 +18,7 @@ public sealed class CategoryLocalizedAttribute : CategoryAttribute
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`CategoryLocalizedAttribute`](./CategoryLocalizedAttribute.cs/metody/CategoryLocalizedAttribute.md) | *Описание* |
+| [`CategoryLocalizedAttribute`](./CategoryLocalizedAttribute.cs/Методы/CategoryLocalizedAttribute.md) | *Описание* |
 
 
 ## Пример

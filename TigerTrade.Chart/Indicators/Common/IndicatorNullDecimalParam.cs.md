@@ -18,9 +18,9 @@ public sealed class IndicatorNullDecimalParam : IndicatorParam<Decimal?>
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`IndicatorNullDecimalParam`](./IndicatorNullDecimalParam.cs/metody/IndicatorNullDecimalParam.md) | *Описание* |
-| [`IndicatorNullDecimalParam`](./IndicatorNullDecimalParam.cs/metody/IndicatorNullDecimalParam.md) | *Описание* |
-| [`Set`](./IndicatorNullDecimalParam.cs/metody/Set.md) | *Описание* |
+| [`IndicatorNullDecimalParam`](./IndicatorNullDecimalParam.cs/Методы/IndicatorNullDecimalParam.md) | *Описание* |
+| [`IndicatorNullDecimalParam`](./IndicatorNullDecimalParam.cs/Методы/IndicatorNullDecimalParam.md) | *Описание* |
+| [`Set`](./IndicatorNullDecimalParam.cs/Методы/Set.md) | *Описание* |
 
 
 ## Пример

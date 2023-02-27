@@ -18,31 +18,31 @@ public sealed class UserDeal
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`UserDeal`](./UserDeal.cs/metody/UserDeal.md) | *Описание* |
+| [`UserDeal`](./UserDeal.cs/Методы/UserDeal.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`DealID`](./UserDeal.cs/svoistva/DealID.md) | *Описание* |
-| [`SymbolID`](./UserDeal.cs/svoistva/SymbolID.md) | *Описание* |
-| [`SymbolName`](./UserDeal.cs/svoistva/SymbolName.md) | *Описание* |
-| [`AccountID`](./UserDeal.cs/svoistva/AccountID.md) | *Описание* |
-| [`AccountName`](./UserDeal.cs/svoistva/AccountName.md) | *Описание* |
-| [`OpenTime`](./UserDeal.cs/svoistva/OpenTime.md) | *Описание* |
-| [`OpenPrice`](./UserDeal.cs/svoistva/OpenPrice.md) | *Описание* |
-| [`CloseTime`](./UserDeal.cs/svoistva/CloseTime.md) | *Описание* |
-| [`ClosePrice`](./UserDeal.cs/svoistva/ClosePrice.md) | *Описание* |
-| [`Side`](./UserDeal.cs/svoistva/Side.md) | *Описание* |
-| [`Quantity`](./UserDeal.cs/svoistva/Quantity.md) | *Описание* |
-| [`MaxQuantity`](./UserDeal.cs/svoistva/MaxQuantity.md) | *Описание* |
-| [`TotalValue`](./UserDeal.cs/svoistva/TotalValue.md) | *Описание* |
-| [`Points`](./UserDeal.cs/svoistva/Points.md) | *Описание* |
-| [`Profit`](./UserDeal.cs/svoistva/Profit.md) | *Описание* |
-| [`Comission`](./UserDeal.cs/svoistva/Comission.md) | *Описание* |
-| [`Tags`](./UserDeal.cs/svoistva/Tags.md) | *Описание* |
-| [`Description`](./UserDeal.cs/svoistva/Description.md) | *Описание* |
-| [`LocalTime`](./UserDeal.cs/svoistva/LocalTime.md) | *Описание* |
-| [`IsMt5TimeValid`](./UserDeal.cs/svoistva/IsMt5TimeValid.md) | *Описание* |
+| [`DealID`](./UserDeal.cs/Свойства/DealID.md) | *Описание* |
+| [`SymbolID`](./UserDeal.cs/Свойства/SymbolID.md) | *Описание* |
+| [`SymbolName`](./UserDeal.cs/Свойства/SymbolName.md) | *Описание* |
+| [`AccountID`](./UserDeal.cs/Свойства/AccountID.md) | *Описание* |
+| [`AccountName`](./UserDeal.cs/Свойства/AccountName.md) | *Описание* |
+| [`OpenTime`](./UserDeal.cs/Свойства/OpenTime.md) | *Описание* |
+| [`OpenPrice`](./UserDeal.cs/Свойства/OpenPrice.md) | *Описание* |
+| [`CloseTime`](./UserDeal.cs/Свойства/CloseTime.md) | *Описание* |
+| [`ClosePrice`](./UserDeal.cs/Свойства/ClosePrice.md) | *Описание* |
+| [`Side`](./UserDeal.cs/Свойства/Side.md) | *Описание* |
+| [`Quantity`](./UserDeal.cs/Свойства/Quantity.md) | *Описание* |
+| [`MaxQuantity`](./UserDeal.cs/Свойства/MaxQuantity.md) | *Описание* |
+| [`TotalValue`](./UserDeal.cs/Свойства/TotalValue.md) | *Описание* |
+| [`Points`](./UserDeal.cs/Свойства/Points.md) | *Описание* |
+| [`Profit`](./UserDeal.cs/Свойства/Profit.md) | *Описание* |
+| [`Comission`](./UserDeal.cs/Свойства/Comission.md) | *Описание* |
+| [`Tags`](./UserDeal.cs/Свойства/Tags.md) | *Описание* |
+| [`Description`](./UserDeal.cs/Свойства/Description.md) | *Описание* |
+| [`LocalTime`](./UserDeal.cs/Свойства/LocalTime.md) | *Описание* |
+| [`IsMt5TimeValid`](./UserDeal.cs/Свойства/IsMt5TimeValid.md) | *Описание* |
 
 
 ## Пример

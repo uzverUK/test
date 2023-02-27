@@ -18,9 +18,9 @@ public sealed class IndicatorDoubleParam : IndicatorParam<double>
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`IndicatorDoubleParam`](./IndicatorDoubleParam.cs/metody/IndicatorDoubleParam.md) | *Описание* |
-| [`IndicatorDoubleParam`](./IndicatorDoubleParam.cs/metody/IndicatorDoubleParam.md) | *Описание* |
-| [`Set`](./IndicatorDoubleParam.cs/metody/Set.md) | *Описание* |
+| [`IndicatorDoubleParam`](./IndicatorDoubleParam.cs/Методы/IndicatorDoubleParam.md) | *Описание* |
+| [`IndicatorDoubleParam`](./IndicatorDoubleParam.cs/Методы/IndicatorDoubleParam.md) | *Описание* |
+| [`Set`](./IndicatorDoubleParam.cs/Методы/Set.md) | *Описание* |
 
 
 ## Пример

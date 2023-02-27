@@ -18,21 +18,21 @@ public sealed class ChartClusterMaxValues : IChartClusterMaxValues
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ChartClusterMaxValues`](./ChartClusterMaxValues.cs/metody/ChartClusterMaxValues.md) | *Описание* |
-| [`Update`](./ChartClusterMaxValues.cs/metody/Update.md) | *Описание* |
+| [`ChartClusterMaxValues`](./ChartClusterMaxValues.cs/Методы/ChartClusterMaxValues.md) | *Описание* |
+| [`Update`](./ChartClusterMaxValues.cs/Методы/Update.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`MaxBid`](./ChartClusterMaxValues.cs/svoistva/MaxBid.md) | *Описание* |
-| [`MaxAsk`](./ChartClusterMaxValues.cs/svoistva/MaxAsk.md) | *Описание* |
-| [`MaxVolume`](./ChartClusterMaxValues.cs/svoistva/MaxVolume.md) | *Описание* |
-| [`MaxTrades`](./ChartClusterMaxValues.cs/svoistva/MaxTrades.md) | *Описание* |
-| [`MaxDelta`](./ChartClusterMaxValues.cs/svoistva/MaxDelta.md) | *Описание* |
-| [`MinDelta`](./ChartClusterMaxValues.cs/svoistva/MinDelta.md) | *Описание* |
-| [`MaxOpenPos`](./ChartClusterMaxValues.cs/svoistva/MaxOpenPos.md) | *Описание* |
-| [`MinOpenPos`](./ChartClusterMaxValues.cs/svoistva/MinOpenPos.md) | *Описание* |
-| [`Poc`](./ChartClusterMaxValues.cs/svoistva/Poc.md) | *Описание* |
+| [`MaxBid`](./ChartClusterMaxValues.cs/Свойства/MaxBid.md) | *Описание* |
+| [`MaxAsk`](./ChartClusterMaxValues.cs/Свойства/MaxAsk.md) | *Описание* |
+| [`MaxVolume`](./ChartClusterMaxValues.cs/Свойства/MaxVolume.md) | *Описание* |
+| [`MaxTrades`](./ChartClusterMaxValues.cs/Свойства/MaxTrades.md) | *Описание* |
+| [`MaxDelta`](./ChartClusterMaxValues.cs/Свойства/MaxDelta.md) | *Описание* |
+| [`MinDelta`](./ChartClusterMaxValues.cs/Свойства/MinDelta.md) | *Описание* |
+| [`MaxOpenPos`](./ChartClusterMaxValues.cs/Свойства/MaxOpenPos.md) | *Описание* |
+| [`MinOpenPos`](./ChartClusterMaxValues.cs/Свойства/MinOpenPos.md) | *Описание* |
+| [`Poc`](./ChartClusterMaxValues.cs/Свойства/Poc.md) | *Описание* |
 
 
 ## Пример

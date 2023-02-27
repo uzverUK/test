@@ -18,17 +18,17 @@ public sealed class LabelObject : PolygonObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`LabelObject`](./LabelObject.cs/metody/LabelObject.md) | *Описание* |
-| [`ApplyTheme`](./LabelObject.cs/metody/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./LabelObject.cs/metody/CopyTemplate.md) | *Описание* |
+| [`LabelObject`](./LabelObject.cs/Методы/LabelObject.md) | *Описание* |
+| [`ApplyTheme`](./LabelObject.cs/Методы/ApplyTheme.md) | *Описание* |
+| [`CopyTemplate`](./LabelObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./LabelObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
-| [`LabelText`](./LabelObject.cs/svoistva/LabelText.md) | *Описание* |
-| [`LabelColor`](./LabelObject.cs/svoistva/LabelColor.md) | *Описание* |
-| [`FontSize`](./LabelObject.cs/svoistva/FontSize.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./LabelObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`LabelText`](./LabelObject.cs/Свойства/LabelText.md) | *Описание* |
+| [`LabelColor`](./LabelObject.cs/Свойства/LabelColor.md) | *Описание* |
+| [`FontSize`](./LabelObject.cs/Свойства/FontSize.md) | *Описание* |
 
 
 ## Пример

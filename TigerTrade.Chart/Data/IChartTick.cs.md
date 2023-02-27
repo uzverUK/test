@@ -18,11 +18,11 @@ public interface IChartTick
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Time`](./IChartTick.cs/svoistva/Time.md) | *Описание* |
-| [`Price`](./IChartTick.cs/svoistva/Price.md) | *Описание* |
-| [`Size`](./IChartTick.cs/svoistva/Size.md) | *Описание* |
-| [`OpenInterest`](./IChartTick.cs/svoistva/OpenInterest.md) | *Описание* |
-| [`IsBuy`](./IChartTick.cs/svoistva/IsBuy.md) | *Описание* |
+| [`Time`](./IChartTick.cs/Свойства/Time.md) | *Описание* |
+| [`Price`](./IChartTick.cs/Свойства/Price.md) | *Описание* |
+| [`Size`](./IChartTick.cs/Свойства/Size.md) | *Описание* |
+| [`OpenInterest`](./IChartTick.cs/Свойства/OpenInterest.md) | *Описание* |
+| [`IsBuy`](./IChartTick.cs/Свойства/IsBuy.md) | *Описание* |
 
 
 ## Пример

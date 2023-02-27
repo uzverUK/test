@@ -18,9 +18,9 @@ public sealed class EnumDescriptionTypeConverter : EnumConverter
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`EnumDescriptionTypeConverter`](./EnumDescriptionTypeConverter.cs/metody/EnumDescriptionTypeConverter.md) | *Описание* |
-| [`GetDescription`](./EnumDescriptionTypeConverter.cs/metody/GetDescription.md) | *Описание* |
-| [`GetValue`](./EnumDescriptionTypeConverter.cs/metody/GetValue.md) | *Описание* |
+| [`EnumDescriptionTypeConverter`](./EnumDescriptionTypeConverter.cs/Методы/EnumDescriptionTypeConverter.md) | *Описание* |
+| [`GetDescription`](./EnumDescriptionTypeConverter.cs/Методы/GetDescription.md) | *Описание* |
+| [`GetValue`](./EnumDescriptionTypeConverter.cs/Методы/GetValue.md) | *Описание* |
 
 
 ## Пример

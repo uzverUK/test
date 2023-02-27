@@ -18,19 +18,19 @@ public sealed class KeltnerChannelSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`KeltnerChannelSource`](./KeltnerChannelSource.cs/metody/KeltnerChannelSource.md) | *Описание* |
-| [`GetSeriesList`](./KeltnerChannelSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./KeltnerChannelSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./KeltnerChannelSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./KeltnerChannelSource.cs/metody/ToString.md) | *Описание* |
+| [`KeltnerChannelSource`](./KeltnerChannelSource.cs/Методы/KeltnerChannelSource.md) | *Описание* |
+| [`GetSeriesList`](./KeltnerChannelSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./KeltnerChannelSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./KeltnerChannelSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./KeltnerChannelSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./KeltnerChannelSource.cs/svoistva/Period.md) | *Описание* |
-| [`Factor`](./KeltnerChannelSource.cs/svoistva/Factor.md) | *Описание* |
-| [`MaType`](./KeltnerChannelSource.cs/svoistva/MaType.md) | *Описание* |
-| [`Source`](./KeltnerChannelSource.cs/svoistva/Source.md) | *Описание* |
+| [`Period`](./KeltnerChannelSource.cs/Свойства/Period.md) | *Описание* |
+| [`Factor`](./KeltnerChannelSource.cs/Свойства/Factor.md) | *Описание* |
+| [`MaType`](./KeltnerChannelSource.cs/Свойства/MaType.md) | *Описание* |
+| [`Source`](./KeltnerChannelSource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

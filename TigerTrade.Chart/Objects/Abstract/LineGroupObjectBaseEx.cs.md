@@ -18,13 +18,13 @@ public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`CopyTemplate`](./LineGroupObjectBaseEx.cs/metody/CopyTemplate.md) | *Описание* |
+| [`CopyTemplate`](./LineGroupObjectBaseEx.cs/Методы/CopyTemplate.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`OpenStart`](./LineGroupObjectBaseEx.cs/svoistva/OpenStart.md) | *Описание* |
-| [`OpenEnd`](./LineGroupObjectBaseEx.cs/svoistva/OpenEnd.md) | *Описание* |
+| [`OpenStart`](./LineGroupObjectBaseEx.cs/Свойства/OpenStart.md) | *Описание* |
+| [`OpenEnd`](./LineGroupObjectBaseEx.cs/Свойства/OpenEnd.md) | *Описание* |
 
 
 ## Пример

@@ -18,15 +18,15 @@ public sealed class RelayCommand : ICommand
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`RelayCommand`](./RelayCommand.cs/metody/RelayCommand.md) | *Описание* |
-| [`RelayCommand`](./RelayCommand.cs/metody/RelayCommand.md) | *Описание* |
-| [`CanExecute`](./RelayCommand.cs/metody/CanExecute.md) | *Описание* |
-| [`Execute`](./RelayCommand.cs/metody/Execute.md) | *Описание* |
+| [`RelayCommand`](./RelayCommand.cs/Методы/RelayCommand.md) | *Описание* |
+| [`RelayCommand`](./RelayCommand.cs/Методы/RelayCommand.md) | *Описание* |
+| [`CanExecute`](./RelayCommand.cs/Методы/CanExecute.md) | *Описание* |
+| [`Execute`](./RelayCommand.cs/Методы/Execute.md) | *Описание* |
 
 ## События
 | Название | Описание |
 | --- | --- |
-| [`CanExecuteChanged`](./RelayCommand.cs/sobytiya/CanExecuteChanged.md) | *Описание* |
+| [`CanExecuteChanged`](./RelayCommand.cs/События/CanExecuteChanged.md) | *Описание* |
 
 
 ## Пример

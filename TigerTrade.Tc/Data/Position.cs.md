@@ -18,23 +18,23 @@ public sealed class Position
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Position`](./Position.cs/metody/Position.md) | *Описание* |
+| [`Position`](./Position.cs/Методы/Position.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Symbol`](./Position.cs/svoistva/Symbol.md) | *Описание* |
-| [`Account`](./Position.cs/svoistva/Account.md) | *Описание* |
-| [`Register`](./Position.cs/svoistva/Register.md) | *Описание* |
-| [`Quantity`](./Position.cs/svoistva/Quantity.md) | *Описание* |
-| [`AvgPrice`](./Position.cs/svoistva/AvgPrice.md) | *Описание* |
-| [`Liquidation`](./Position.cs/svoistva/Liquidation.md) | *Описание* |
-| [`UnrealizedPnl`](./Position.cs/svoistva/UnrealizedPnl.md) | *Описание* |
-| [`RealizedPnl`](./Position.cs/svoistva/RealizedPnl.md) | *Описание* |
-| [`Comission`](./Position.cs/svoistva/Comission.md) | *Описание* |
-| [`TpPrice`](./Position.cs/svoistva/TpPrice.md) | *Описание* |
-| [`SlPrice`](./Position.cs/svoistva/SlPrice.md) | *Описание* |
-| [`PosNumID`](./Position.cs/svoistva/PosNumID.md) | *Описание* |
+| [`Symbol`](./Position.cs/Свойства/Symbol.md) | *Описание* |
+| [`Account`](./Position.cs/Свойства/Account.md) | *Описание* |
+| [`Register`](./Position.cs/Свойства/Register.md) | *Описание* |
+| [`Quantity`](./Position.cs/Свойства/Quantity.md) | *Описание* |
+| [`AvgPrice`](./Position.cs/Свойства/AvgPrice.md) | *Описание* |
+| [`Liquidation`](./Position.cs/Свойства/Liquidation.md) | *Описание* |
+| [`UnrealizedPnl`](./Position.cs/Свойства/UnrealizedPnl.md) | *Описание* |
+| [`RealizedPnl`](./Position.cs/Свойства/RealizedPnl.md) | *Описание* |
+| [`Comission`](./Position.cs/Свойства/Comission.md) | *Описание* |
+| [`TpPrice`](./Position.cs/Свойства/TpPrice.md) | *Описание* |
+| [`SlPrice`](./Position.cs/Свойства/SlPrice.md) | *Описание* |
+| [`PosNumID`](./Position.cs/Свойства/PosNumID.md) | *Описание* |
 
 
 ## Пример

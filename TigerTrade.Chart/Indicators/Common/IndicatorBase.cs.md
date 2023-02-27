@@ -18,52 +18,52 @@ public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Run`](./IndicatorBase.cs/metody/Run.md) | *Описание* |
-| [`GetMinMax`](./IndicatorBase.cs/metody/GetMinMax.md) | *Описание* |
-| [`GetDistance`](./IndicatorBase.cs/metody/GetDistance.md) | *Описание* |
-| [`GetTitle`](./IndicatorBase.cs/metody/GetTitle.md) | *Описание* |
-| [`GetValues`](./IndicatorBase.cs/metody/GetValues.md) | *Описание* |
-| [`GetLabels`](./IndicatorBase.cs/metody/GetLabels.md) | *Описание* |
-| [`Render`](./IndicatorBase.cs/metody/Render.md) | *Описание* |
-| [`GetAlerts`](./IndicatorBase.cs/metody/GetAlerts.md) | *Описание* |
-| [`ApplyColors`](./IndicatorBase.cs/metody/ApplyColors.md) | *Описание* |
-| [`CopyTemplate`](./IndicatorBase.cs/metody/CopyTemplate.md) | *Описание* |
-| [`ToString`](./IndicatorBase.cs/metody/ToString.md) | *Описание* |
-| [`CheckNeedRedraw`](./IndicatorBase.cs/metody/CheckNeedRedraw.md) | *Описание* |
-| [`SetSettingsParam`](./IndicatorBase.cs/metody/SetSettingsParam.md) | *Описание* |
-| [`GetPropertyVisibility`](./IndicatorBase.cs/metody/GetPropertyVisibility.md) | *Описание* |
-| [`GetPropertyHasStandardValues`](./IndicatorBase.cs/metody/GetPropertyHasStandardValues.md) | *Описание* |
-| [`GetPropertyReadOnly`](./IndicatorBase.cs/metody/GetPropertyReadOnly.md) | *Описание* |
-| [`GetPropertyStandardValues`](./IndicatorBase.cs/metody/GetPropertyStandardValues.md) | *Описание* |
-| [`PropChanged`](./IndicatorBase.cs/metody/PropChanged.md) | *Описание* |
+| [`Run`](./IndicatorBase.cs/Методы/Run.md) | *Описание* |
+| [`GetMinMax`](./IndicatorBase.cs/Методы/GetMinMax.md) | *Описание* |
+| [`GetDistance`](./IndicatorBase.cs/Методы/GetDistance.md) | *Описание* |
+| [`GetTitle`](./IndicatorBase.cs/Методы/GetTitle.md) | *Описание* |
+| [`GetValues`](./IndicatorBase.cs/Методы/GetValues.md) | *Описание* |
+| [`GetLabels`](./IndicatorBase.cs/Методы/GetLabels.md) | *Описание* |
+| [`Render`](./IndicatorBase.cs/Методы/Render.md) | *Описание* |
+| [`GetAlerts`](./IndicatorBase.cs/Методы/GetAlerts.md) | *Описание* |
+| [`ApplyColors`](./IndicatorBase.cs/Методы/ApplyColors.md) | *Описание* |
+| [`CopyTemplate`](./IndicatorBase.cs/Методы/CopyTemplate.md) | *Описание* |
+| [`ToString`](./IndicatorBase.cs/Методы/ToString.md) | *Описание* |
+| [`CheckNeedRedraw`](./IndicatorBase.cs/Методы/CheckNeedRedraw.md) | *Описание* |
+| [`SetSettingsParam`](./IndicatorBase.cs/Методы/SetSettingsParam.md) | *Описание* |
+| [`GetPropertyVisibility`](./IndicatorBase.cs/Методы/GetPropertyVisibility.md) | *Описание* |
+| [`GetPropertyHasStandardValues`](./IndicatorBase.cs/Методы/GetPropertyHasStandardValues.md) | *Описание* |
+| [`GetPropertyReadOnly`](./IndicatorBase.cs/Методы/GetPropertyReadOnly.md) | *Описание* |
+| [`GetPropertyStandardValues`](./IndicatorBase.cs/Методы/GetPropertyStandardValues.md) | *Описание* |
+| [`PropChanged`](./IndicatorBase.cs/Методы/PropChanged.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Levels`](./IndicatorBase.cs/svoistva/Levels.md) | *Описание* |
-| [`ID`](./IndicatorBase.cs/svoistva/ID.md) | *Описание* |
-| [`Name`](./IndicatorBase.cs/svoistva/Name.md) | *Описание* |
-| [`ChartDataType`](./IndicatorBase.cs/svoistva/ChartDataType.md) | *Описание* |
-| [`IsStock`](./IndicatorBase.cs/svoistva/IsStock.md) | *Описание* |
-| [`IntegerValues`](./IndicatorBase.cs/svoistva/IntegerValues.md) | *Описание* |
-| [`DisableRender`](./IndicatorBase.cs/svoistva/DisableRender.md) | *Описание* |
-| [`Canvas`](./IndicatorBase.cs/svoistva/Canvas.md) | *Описание* |
-| [`ShowIndicatorParam`](./IndicatorBase.cs/svoistva/ShowIndicatorParam.md) | *Описание* |
-| [`ShowIndicator`](./IndicatorBase.cs/svoistva/ShowIndicator.md) | *Описание* |
-| [`ShowIndicatorTitleParam`](./IndicatorBase.cs/svoistva/ShowIndicatorTitleParam.md) | *Описание* |
-| [`ShowIndicatorTitle`](./IndicatorBase.cs/svoistva/ShowIndicatorTitle.md) | *Описание* |
-| [`ShowIndicatorValuesParam`](./IndicatorBase.cs/svoistva/ShowIndicatorValuesParam.md) | *Описание* |
-| [`ShowIndicatorValues`](./IndicatorBase.cs/svoistva/ShowIndicatorValues.md) | *Описание* |
-| [`ShowIndicatorLabelsParam`](./IndicatorBase.cs/svoistva/ShowIndicatorLabelsParam.md) | *Описание* |
-| [`ShowIndicatorLabels`](./IndicatorBase.cs/svoistva/ShowIndicatorLabels.md) | *Описание* |
-| [`DefaultCalculation`](./IndicatorBase.cs/svoistva/DefaultCalculation.md) | *Описание* |
-| [`Calculation`](./IndicatorBase.cs/svoistva/Calculation.md) | *Описание* |
-| [`Panel`](./IndicatorBase.cs/svoistva/Panel.md) | *Описание* |
+| [`Levels`](./IndicatorBase.cs/Свойства/Levels.md) | *Описание* |
+| [`ID`](./IndicatorBase.cs/Свойства/ID.md) | *Описание* |
+| [`Name`](./IndicatorBase.cs/Свойства/Name.md) | *Описание* |
+| [`ChartDataType`](./IndicatorBase.cs/Свойства/ChartDataType.md) | *Описание* |
+| [`IsStock`](./IndicatorBase.cs/Свойства/IsStock.md) | *Описание* |
+| [`IntegerValues`](./IndicatorBase.cs/Свойства/IntegerValues.md) | *Описание* |
+| [`DisableRender`](./IndicatorBase.cs/Свойства/DisableRender.md) | *Описание* |
+| [`Canvas`](./IndicatorBase.cs/Свойства/Canvas.md) | *Описание* |
+| [`ShowIndicatorParam`](./IndicatorBase.cs/Свойства/ShowIndicatorParam.md) | *Описание* |
+| [`ShowIndicator`](./IndicatorBase.cs/Свойства/ShowIndicator.md) | *Описание* |
+| [`ShowIndicatorTitleParam`](./IndicatorBase.cs/Свойства/ShowIndicatorTitleParam.md) | *Описание* |
+| [`ShowIndicatorTitle`](./IndicatorBase.cs/Свойства/ShowIndicatorTitle.md) | *Описание* |
+| [`ShowIndicatorValuesParam`](./IndicatorBase.cs/Свойства/ShowIndicatorValuesParam.md) | *Описание* |
+| [`ShowIndicatorValues`](./IndicatorBase.cs/Свойства/ShowIndicatorValues.md) | *Описание* |
+| [`ShowIndicatorLabelsParam`](./IndicatorBase.cs/Свойства/ShowIndicatorLabelsParam.md) | *Описание* |
+| [`ShowIndicatorLabels`](./IndicatorBase.cs/Свойства/ShowIndicatorLabels.md) | *Описание* |
+| [`DefaultCalculation`](./IndicatorBase.cs/Свойства/DefaultCalculation.md) | *Описание* |
+| [`Calculation`](./IndicatorBase.cs/Свойства/Calculation.md) | *Описание* |
+| [`Panel`](./IndicatorBase.cs/Свойства/Panel.md) | *Описание* |
 
 ## События
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./IndicatorBase.cs/sobytiya/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](./IndicatorBase.cs/События/PropertyChanged.md) | *Описание* |
 
 
 ## Пример

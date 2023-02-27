@@ -18,16 +18,16 @@ public sealed class ChaikinMoneyFlowSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ChaikinMoneyFlowSource`](./ChaikinMoneyFlowSource.cs/metody/ChaikinMoneyFlowSource.md) | *Описание* |
-| [`GetSeriesList`](./ChaikinMoneyFlowSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./ChaikinMoneyFlowSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./ChaikinMoneyFlowSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./ChaikinMoneyFlowSource.cs/metody/ToString.md) | *Описание* |
+| [`ChaikinMoneyFlowSource`](./ChaikinMoneyFlowSource.cs/Методы/ChaikinMoneyFlowSource.md) | *Описание* |
+| [`GetSeriesList`](./ChaikinMoneyFlowSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./ChaikinMoneyFlowSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./ChaikinMoneyFlowSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./ChaikinMoneyFlowSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./ChaikinMoneyFlowSource.cs/svoistva/Period.md) | *Описание* |
+| [`Period`](./ChaikinMoneyFlowSource.cs/Свойства/Period.md) | *Описание* |
 
 
 ## Пример

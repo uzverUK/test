@@ -18,17 +18,17 @@ public sealed class MomentumSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`MomentumSource`](./MomentumSource.cs/metody/MomentumSource.md) | *Описание* |
-| [`GetSeriesList`](./MomentumSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./MomentumSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./MomentumSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./MomentumSource.cs/metody/ToString.md) | *Описание* |
+| [`MomentumSource`](./MomentumSource.cs/Методы/MomentumSource.md) | *Описание* |
+| [`GetSeriesList`](./MomentumSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./MomentumSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./MomentumSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./MomentumSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./MomentumSource.cs/svoistva/Period.md) | *Описание* |
-| [`Source`](./MomentumSource.cs/svoistva/Source.md) | *Описание* |
+| [`Period`](./MomentumSource.cs/Свойства/Period.md) | *Описание* |
+| [`Source`](./MomentumSource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

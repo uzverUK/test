@@ -18,18 +18,18 @@ public sealed class ObjectLabelInfo
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ObjectLabelInfo`](./ObjectLabelInfo.cs/metody/ObjectLabelInfo.md) | *Описание* |
-| [`ObjectLabelInfo`](./ObjectLabelInfo.cs/metody/ObjectLabelInfo.md) | *Описание* |
+| [`ObjectLabelInfo`](./ObjectLabelInfo.cs/Методы/ObjectLabelInfo.md) | *Описание* |
+| [`ObjectLabelInfo`](./ObjectLabelInfo.cs/Методы/ObjectLabelInfo.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Value`](./ObjectLabelInfo.cs/svoistva/Value.md) | *Описание* |
-| [`Color`](./ObjectLabelInfo.cs/svoistva/Color.md) | *Описание* |
-| [`Position`](./ObjectLabelInfo.cs/svoistva/Position.md) | *Описание* |
-| [`Extanded`](./ObjectLabelInfo.cs/svoistva/Extanded.md) | *Описание* |
-| [`Y1`](./ObjectLabelInfo.cs/svoistva/Y1.md) | *Описание* |
-| [`Y2`](./ObjectLabelInfo.cs/svoistva/Y2.md) | *Описание* |
+| [`Value`](./ObjectLabelInfo.cs/Свойства/Value.md) | *Описание* |
+| [`Color`](./ObjectLabelInfo.cs/Свойства/Color.md) | *Описание* |
+| [`Position`](./ObjectLabelInfo.cs/Свойства/Position.md) | *Описание* |
+| [`Extanded`](./ObjectLabelInfo.cs/Свойства/Extanded.md) | *Описание* |
+| [`Y1`](./ObjectLabelInfo.cs/Свойства/Y1.md) | *Описание* |
+| [`Y2`](./ObjectLabelInfo.cs/Свойства/Y2.md) | *Описание* |
 
 
 ## Пример

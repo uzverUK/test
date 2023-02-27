@@ -18,14 +18,14 @@ public sealed class OrderModifyParams
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`OrderModifyParams`](./OrderModifyParams.cs/metody/OrderModifyParams.md) | *Описание* |
+| [`OrderModifyParams`](./OrderModifyParams.cs/Методы/OrderModifyParams.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Price`](./OrderModifyParams.cs/svoistva/Price.md) | *Описание* |
-| [`StopPrice`](./OrderModifyParams.cs/svoistva/StopPrice.md) | *Описание* |
-| [`Quantity`](./OrderModifyParams.cs/svoistva/Quantity.md) | *Описание* |
+| [`Price`](./OrderModifyParams.cs/Свойства/Price.md) | *Описание* |
+| [`StopPrice`](./OrderModifyParams.cs/Свойства/StopPrice.md) | *Описание* |
+| [`Quantity`](./OrderModifyParams.cs/Свойства/Quantity.md) | *Описание* |
 
 
 ## Пример

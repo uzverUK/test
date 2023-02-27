@@ -18,40 +18,40 @@ public interface IChartCanvas
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`GetX`](./IChartCanvas.cs/metody/GetX.md) | *Описание* |
-| [`GetXX`](./IChartCanvas.cs/metody/GetXX.md) | *Описание* |
-| [`GetXScreen`](./IChartCanvas.cs/metody/GetXScreen.md) | *Описание* |
-| [`GetIndex`](./IChartCanvas.cs/metody/GetIndex.md) | *Описание* |
-| [`GetY`](./IChartCanvas.cs/metody/GetY.md) | *Описание* |
-| [`GetValue`](./IChartCanvas.cs/metody/GetValue.md) | *Описание* |
-| [`GetValueFromPos`](./IChartCanvas.cs/metody/GetValueFromPos.md) | *Описание* |
-| [`GetValueFromPos`](./IChartCanvas.cs/metody/GetValueFromPos.md) | *Описание* |
-| [`IndexToDate`](./IChartCanvas.cs/metody/IndexToDate.md) | *Описание* |
-| [`DateToIndex`](./IChartCanvas.cs/metody/DateToIndex.md) | *Описание* |
-| [`DateToIndex`](./IChartCanvas.cs/metody/DateToIndex.md) | *Описание* |
-| [`ConvertTimeFromLocal`](./IChartCanvas.cs/metody/ConvertTimeFromLocal.md) | *Описание* |
-| [`ConvertTimeToLocal`](./IChartCanvas.cs/metody/ConvertTimeToLocal.md) | *Описание* |
-| [`FormatValue`](./IChartCanvas.cs/metody/FormatValue.md) | *Описание* |
-| [`FormatTime`](./IChartCanvas.cs/metody/FormatTime.md) | *Описание* |
+| [`GetX`](./IChartCanvas.cs/Методы/GetX.md) | *Описание* |
+| [`GetXX`](./IChartCanvas.cs/Методы/GetXX.md) | *Описание* |
+| [`GetXScreen`](./IChartCanvas.cs/Методы/GetXScreen.md) | *Описание* |
+| [`GetIndex`](./IChartCanvas.cs/Методы/GetIndex.md) | *Описание* |
+| [`GetY`](./IChartCanvas.cs/Методы/GetY.md) | *Описание* |
+| [`GetValue`](./IChartCanvas.cs/Методы/GetValue.md) | *Описание* |
+| [`GetValueFromPos`](./IChartCanvas.cs/Методы/GetValueFromPos.md) | *Описание* |
+| [`GetValueFromPos`](./IChartCanvas.cs/Методы/GetValueFromPos.md) | *Описание* |
+| [`IndexToDate`](./IChartCanvas.cs/Методы/IndexToDate.md) | *Описание* |
+| [`DateToIndex`](./IChartCanvas.cs/Методы/DateToIndex.md) | *Описание* |
+| [`DateToIndex`](./IChartCanvas.cs/Методы/DateToIndex.md) | *Описание* |
+| [`ConvertTimeFromLocal`](./IChartCanvas.cs/Методы/ConvertTimeFromLocal.md) | *Описание* |
+| [`ConvertTimeToLocal`](./IChartCanvas.cs/Методы/ConvertTimeToLocal.md) | *Описание* |
+| [`FormatValue`](./IChartCanvas.cs/Методы/FormatValue.md) | *Описание* |
+| [`FormatTime`](./IChartCanvas.cs/Методы/FormatTime.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Theme`](./IChartCanvas.cs/svoistva/Theme.md) | *Описание* |
-| [`ChartFont`](./IChartCanvas.cs/svoistva/ChartFont.md) | *Описание* |
-| [`ChartFontBold`](./IChartCanvas.cs/svoistva/ChartFontBold.md) | *Описание* |
-| [`Rect`](./IChartCanvas.cs/svoistva/Rect.md) | *Описание* |
-| [`StockType`](./IChartCanvas.cs/svoistva/StockType.md) | *Описание* |
-| [`IsStock`](./IChartCanvas.cs/svoistva/IsStock.md) | *Описание* |
-| [`ColumnPercent`](./IChartCanvas.cs/svoistva/ColumnPercent.md) | *Описание* |
-| [`ColumnWidth`](./IChartCanvas.cs/svoistva/ColumnWidth.md) | *Описание* |
-| [`StepHeight`](./IChartCanvas.cs/svoistva/StepHeight.md) | *Описание* |
-| [`MaxY`](./IChartCanvas.cs/svoistva/MaxY.md) | *Описание* |
-| [`MinY`](./IChartCanvas.cs/svoistva/MinY.md) | *Описание* |
-| [`Start`](./IChartCanvas.cs/svoistva/Start.md) | *Описание* |
-| [`Count`](./IChartCanvas.cs/svoistva/Count.md) | *Описание* |
-| [`Stop`](./IChartCanvas.cs/svoistva/Stop.md) | *Описание* |
-| [`AfterBars`](./IChartCanvas.cs/svoistva/AfterBars.md) | *Описание* |
+| [`Theme`](./IChartCanvas.cs/Свойства/Theme.md) | *Описание* |
+| [`ChartFont`](./IChartCanvas.cs/Свойства/ChartFont.md) | *Описание* |
+| [`ChartFontBold`](./IChartCanvas.cs/Свойства/ChartFontBold.md) | *Описание* |
+| [`Rect`](./IChartCanvas.cs/Свойства/Rect.md) | *Описание* |
+| [`StockType`](./IChartCanvas.cs/Свойства/StockType.md) | *Описание* |
+| [`IsStock`](./IChartCanvas.cs/Свойства/IsStock.md) | *Описание* |
+| [`ColumnPercent`](./IChartCanvas.cs/Свойства/ColumnPercent.md) | *Описание* |
+| [`ColumnWidth`](./IChartCanvas.cs/Свойства/ColumnWidth.md) | *Описание* |
+| [`StepHeight`](./IChartCanvas.cs/Свойства/StepHeight.md) | *Описание* |
+| [`MaxY`](./IChartCanvas.cs/Свойства/MaxY.md) | *Описание* |
+| [`MinY`](./IChartCanvas.cs/Свойства/MinY.md) | *Описание* |
+| [`Start`](./IChartCanvas.cs/Свойства/Start.md) | *Описание* |
+| [`Count`](./IChartCanvas.cs/Свойства/Count.md) | *Описание* |
+| [`Stop`](./IChartCanvas.cs/Свойства/Stop.md) | *Описание* |
+| [`AfterBars`](./IChartCanvas.cs/Свойства/AfterBars.md) | *Описание* |
 
 
 ## Пример

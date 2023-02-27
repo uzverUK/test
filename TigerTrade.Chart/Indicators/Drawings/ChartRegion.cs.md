@@ -18,21 +18,21 @@ public sealed class ChartRegion : INotifyPropertyChanged
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ChartRegion`](./ChartRegion.cs/metody/ChartRegion.md) | *Описание* |
-| [`ChartRegion`](./ChartRegion.cs/metody/ChartRegion.md) | *Описание* |
-| [`CopyTheme`](./ChartRegion.cs/metody/CopyTheme.md) | *Описание* |
-| [`ToString`](./ChartRegion.cs/metody/ToString.md) | *Описание* |
+| [`ChartRegion`](./ChartRegion.cs/Методы/ChartRegion.md) | *Описание* |
+| [`ChartRegion`](./ChartRegion.cs/Методы/ChartRegion.md) | *Описание* |
+| [`CopyTheme`](./ChartRegion.cs/Методы/CopyTheme.md) | *Описание* |
+| [`ToString`](./ChartRegion.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Visible`](./ChartRegion.cs/svoistva/Visible.md) | *Описание* |
-| [`Color`](./ChartRegion.cs/svoistva/Color.md) | *Описание* |
+| [`Visible`](./ChartRegion.cs/Свойства/Visible.md) | *Описание* |
+| [`Color`](./ChartRegion.cs/Свойства/Color.md) | *Описание* |
 
 ## События
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./ChartRegion.cs/sobytiya/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](./ChartRegion.cs/События/PropertyChanged.md) | *Описание* |
 
 
 ## Пример

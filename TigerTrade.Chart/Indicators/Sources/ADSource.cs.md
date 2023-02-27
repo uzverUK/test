@@ -18,11 +18,11 @@ public sealed class ADSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ADSource`](./ADSource.cs/metody/ADSource.md) | *Описание* |
-| [`GetSeriesList`](./ADSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./ADSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./ADSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./ADSource.cs/metody/ToString.md) | *Описание* |
+| [`ADSource`](./ADSource.cs/Методы/ADSource.md) | *Описание* |
+| [`GetSeriesList`](./ADSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./ADSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./ADSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./ADSource.cs/Методы/ToString.md) | *Описание* |
 
 
 ## Пример

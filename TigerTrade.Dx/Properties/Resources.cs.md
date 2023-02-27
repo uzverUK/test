@@ -18,8 +18,8 @@ public class Resources
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`ResourceManager`](./Resources.cs/svoistva/ResourceManager.md) | *Описание* |
-| [`Culture`](./Resources.cs/svoistva/Culture.md) | *Описание* |
+| [`ResourceManager`](./Resources.cs/Свойства/ResourceManager.md) | *Описание* |
+| [`Culture`](./Resources.cs/Свойства/Culture.md) | *Описание* |
 
 
 ## Пример

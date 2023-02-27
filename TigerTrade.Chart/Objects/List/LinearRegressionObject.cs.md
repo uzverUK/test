@@ -18,19 +18,19 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`LinearRegressionObject`](./LinearRegressionObject.cs/metody/LinearRegressionObject.md) | *Описание* |
-| [`CopyTemplate`](./LinearRegressionObject.cs/metody/CopyTemplate.md) | *Описание* |
+| [`LinearRegressionObject`](./LinearRegressionObject.cs/Методы/LinearRegressionObject.md) | *Описание* |
+| [`CopyTemplate`](./LinearRegressionObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./LinearRegressionObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
-| [`UpLine`](./LinearRegressionObject.cs/svoistva/UpLine.md) | *Описание* |
-| [`CenterLine`](./LinearRegressionObject.cs/svoistva/CenterLine.md) | *Описание* |
-| [`DownLine`](./LinearRegressionObject.cs/svoistva/DownLine.md) | *Описание* |
-| [`ShowAuxLine`](./LinearRegressionObject.cs/svoistva/ShowAuxLine.md) | *Описание* |
-| [`Percentage`](./LinearRegressionObject.cs/svoistva/Percentage.md) | *Описание* |
-| [`RegressionType`](./LinearRegressionObject.cs/svoistva/RegressionType.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./LinearRegressionObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`UpLine`](./LinearRegressionObject.cs/Свойства/UpLine.md) | *Описание* |
+| [`CenterLine`](./LinearRegressionObject.cs/Свойства/CenterLine.md) | *Описание* |
+| [`DownLine`](./LinearRegressionObject.cs/Свойства/DownLine.md) | *Описание* |
+| [`ShowAuxLine`](./LinearRegressionObject.cs/Свойства/ShowAuxLine.md) | *Описание* |
+| [`Percentage`](./LinearRegressionObject.cs/Свойства/Percentage.md) | *Описание* |
+| [`RegressionType`](./LinearRegressionObject.cs/Свойства/RegressionType.md) | *Описание* |
 
 
 ## Пример

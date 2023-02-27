@@ -18,18 +18,18 @@ public sealed class MASource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`MASource`](./MASource.cs/metody/MASource.md) | *Описание* |
-| [`GetSeriesList`](./MASource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./MASource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./MASource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./MASource.cs/metody/ToString.md) | *Описание* |
+| [`MASource`](./MASource.cs/Методы/MASource.md) | *Описание* |
+| [`GetSeriesList`](./MASource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./MASource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./MASource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./MASource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./MASource.cs/svoistva/Period.md) | *Описание* |
-| [`MaType`](./MASource.cs/svoistva/MaType.md) | *Описание* |
-| [`Source`](./MASource.cs/svoistva/Source.md) | *Описание* |
+| [`Period`](./MASource.cs/Свойства/Period.md) | *Описание* |
+| [`MaType`](./MASource.cs/Свойства/MaType.md) | *Описание* |
+| [`Source`](./MASource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

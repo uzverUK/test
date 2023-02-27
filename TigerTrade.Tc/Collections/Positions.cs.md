@@ -18,10 +18,10 @@ internal sealed class Positions
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`pnYwtI4miN9`](./Positions.cs/metody/pnYwtI4miN9.md) | *Описание* |
-| [`pJiwtxrhGY0`](./Positions.cs/metody/pJiwtxrhGY0.md) | *Описание* |
-| [`Clear`](./Positions.cs/metody/Clear.md) | *Описание* |
-| [`Positions`](./Positions.cs/metody/Positions.md) | *Описание* |
+| [`pnYwtI4miN9`](./Positions.cs/Методы/pnYwtI4miN9.md) | *Описание* |
+| [`pJiwtxrhGY0`](./Positions.cs/Методы/pJiwtxrhGY0.md) | *Описание* |
+| [`Clear`](./Positions.cs/Методы/Clear.md) | *Описание* |
+| [`Positions`](./Positions.cs/Методы/Positions.md) | *Описание* |
 
 
 ## Пример

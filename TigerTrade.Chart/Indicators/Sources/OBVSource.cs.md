@@ -18,11 +18,11 @@ public sealed class OBVSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`OBVSource`](./OBVSource.cs/metody/OBVSource.md) | *Описание* |
-| [`GetSeriesList`](./OBVSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./OBVSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./OBVSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./OBVSource.cs/metody/ToString.md) | *Описание* |
+| [`OBVSource`](./OBVSource.cs/Методы/OBVSource.md) | *Описание* |
+| [`GetSeriesList`](./OBVSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./OBVSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./OBVSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./OBVSource.cs/Методы/ToString.md) | *Описание* |
 
 
 ## Пример

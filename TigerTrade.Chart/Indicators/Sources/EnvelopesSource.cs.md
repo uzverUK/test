@@ -18,19 +18,19 @@ public sealed class EnvelopesSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`EnvelopesSource`](./EnvelopesSource.cs/metody/EnvelopesSource.md) | *Описание* |
-| [`GetSeriesList`](./EnvelopesSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./EnvelopesSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./EnvelopesSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./EnvelopesSource.cs/metody/ToString.md) | *Описание* |
+| [`EnvelopesSource`](./EnvelopesSource.cs/Методы/EnvelopesSource.md) | *Описание* |
+| [`GetSeriesList`](./EnvelopesSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./EnvelopesSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./EnvelopesSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./EnvelopesSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./EnvelopesSource.cs/svoistva/Period.md) | *Описание* |
-| [`Factor`](./EnvelopesSource.cs/svoistva/Factor.md) | *Описание* |
-| [`MaType`](./EnvelopesSource.cs/svoistva/MaType.md) | *Описание* |
-| [`Source`](./EnvelopesSource.cs/svoistva/Source.md) | *Описание* |
+| [`Period`](./EnvelopesSource.cs/Свойства/Period.md) | *Описание* |
+| [`Factor`](./EnvelopesSource.cs/Свойства/Factor.md) | *Описание* |
+| [`MaType`](./EnvelopesSource.cs/Свойства/MaType.md) | *Описание* |
+| [`Source`](./EnvelopesSource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

@@ -18,10 +18,10 @@ public sealed class RoundTrip
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Start`](./RoundTrip.cs/metody/Start.md) | *Описание* |
-| [`Stop`](./RoundTrip.cs/metody/Stop.md) | *Описание* |
-| [`ToString`](./RoundTrip.cs/metody/ToString.md) | *Описание* |
-| [`RoundTrip`](./RoundTrip.cs/metody/RoundTrip.md) | *Описание* |
+| [`Start`](./RoundTrip.cs/Методы/Start.md) | *Описание* |
+| [`Stop`](./RoundTrip.cs/Методы/Stop.md) | *Описание* |
+| [`ToString`](./RoundTrip.cs/Методы/ToString.md) | *Описание* |
+| [`RoundTrip`](./RoundTrip.cs/Методы/RoundTrip.md) | *Описание* |
 
 
 ## Пример

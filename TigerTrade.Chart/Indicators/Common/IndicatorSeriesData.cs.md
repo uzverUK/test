@@ -18,24 +18,24 @@ public sealed class IndicatorSeriesData
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/metody/IndicatorSeriesData.md) | *Описание* |
-| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/metody/IndicatorSeriesData.md) | *Описание* |
-| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/metody/IndicatorSeriesData.md) | *Описание* |
-| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/metody/IndicatorSeriesData.md) | *Описание* |
-| [`MaxValue`](./IndicatorSeriesData.cs/metody/MaxValue.md) | *Описание* |
-| [`MaxValue`](./IndicatorSeriesData.cs/metody/MaxValue.md) | *Описание* |
-| [`MinValue`](./IndicatorSeriesData.cs/metody/MinValue.md) | *Описание* |
-| [`MinValue`](./IndicatorSeriesData.cs/metody/MinValue.md) | *Описание* |
-| [`CachePoints`](./IndicatorSeriesData.cs/metody/CachePoints.md) | *Описание* |
-| [`GetDistance`](./IndicatorSeriesData.cs/metody/GetDistance.md) | *Описание* |
+| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/Методы/IndicatorSeriesData.md) | *Описание* |
+| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/Методы/IndicatorSeriesData.md) | *Описание* |
+| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/Методы/IndicatorSeriesData.md) | *Описание* |
+| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/Методы/IndicatorSeriesData.md) | *Описание* |
+| [`MaxValue`](./IndicatorSeriesData.cs/Методы/MaxValue.md) | *Описание* |
+| [`MaxValue`](./IndicatorSeriesData.cs/Методы/MaxValue.md) | *Описание* |
+| [`MinValue`](./IndicatorSeriesData.cs/Методы/MinValue.md) | *Описание* |
+| [`MinValue`](./IndicatorSeriesData.cs/Методы/MinValue.md) | *Описание* |
+| [`CachePoints`](./IndicatorSeriesData.cs/Методы/CachePoints.md) | *Описание* |
+| [`GetDistance`](./IndicatorSeriesData.cs/Методы/GetDistance.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Data`](./IndicatorSeriesData.cs/svoistva/Data.md) | *Описание* |
-| [`Style`](./IndicatorSeriesData.cs/svoistva/Style.md) | *Описание* |
-| [`UserData`](./IndicatorSeriesData.cs/svoistva/UserData.md) | *Описание* |
-| [`Length`](./IndicatorSeriesData.cs/svoistva/Length.md) | *Описание* |
+| [`Data`](./IndicatorSeriesData.cs/Свойства/Data.md) | *Описание* |
+| [`Style`](./IndicatorSeriesData.cs/Свойства/Style.md) | *Описание* |
+| [`UserData`](./IndicatorSeriesData.cs/Свойства/UserData.md) | *Описание* |
+| [`Length`](./IndicatorSeriesData.cs/Свойства/Length.md) | *Описание* |
 
 
 ## Пример

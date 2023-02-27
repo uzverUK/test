@@ -18,11 +18,11 @@ public sealed class CumulativeDeltaSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`CumulativeDeltaSource`](./CumulativeDeltaSource.cs/metody/CumulativeDeltaSource.md) | *Описание* |
-| [`GetSeriesList`](./CumulativeDeltaSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./CumulativeDeltaSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./CumulativeDeltaSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./CumulativeDeltaSource.cs/metody/ToString.md) | *Описание* |
+| [`CumulativeDeltaSource`](./CumulativeDeltaSource.cs/Методы/CumulativeDeltaSource.md) | *Описание* |
+| [`GetSeriesList`](./CumulativeDeltaSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./CumulativeDeltaSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./CumulativeDeltaSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./CumulativeDeltaSource.cs/Методы/ToString.md) | *Описание* |
 
 
 ## Пример

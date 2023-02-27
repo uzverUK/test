@@ -18,10 +18,10 @@ public interface IChartExecution
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Time`](./IChartExecution.cs/svoistva/Time.md) | *Описание* |
-| [`Price`](./IChartExecution.cs/svoistva/Price.md) | *Описание* |
-| [`Quantity`](./IChartExecution.cs/svoistva/Quantity.md) | *Описание* |
-| [`IsBuy`](./IChartExecution.cs/svoistva/IsBuy.md) | *Описание* |
+| [`Time`](./IChartExecution.cs/Свойства/Time.md) | *Описание* |
+| [`Price`](./IChartExecution.cs/Свойства/Price.md) | *Описание* |
+| [`Quantity`](./IChartExecution.cs/Свойства/Quantity.md) | *Описание* |
+| [`IsBuy`](./IChartExecution.cs/Свойства/IsBuy.md) | *Описание* |
 
 
 ## Пример

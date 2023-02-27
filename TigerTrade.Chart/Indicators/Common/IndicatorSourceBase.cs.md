@@ -18,23 +18,23 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`GetSeriesList`](./IndicatorSourceBase.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./IndicatorSourceBase.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./IndicatorSourceBase.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./IndicatorSourceBase.cs/metody/ToString.md) | *Описание* |
-| [`CloneSource`](./IndicatorSourceBase.cs/metody/CloneSource.md) | *Описание* |
-| [`SetSources`](./IndicatorSourceBase.cs/metody/SetSources.md) | *Описание* |
+| [`GetSeriesList`](./IndicatorSourceBase.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./IndicatorSourceBase.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./IndicatorSourceBase.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./IndicatorSourceBase.cs/Методы/ToString.md) | *Описание* |
+| [`CloneSource`](./IndicatorSourceBase.cs/Методы/CloneSource.md) | *Описание* |
+| [`SetSources`](./IndicatorSourceBase.cs/Методы/SetSources.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Name`](./IndicatorSourceBase.cs/svoistva/Name.md) | *Описание* |
-| [`SelectedSeries`](./IndicatorSourceBase.cs/svoistva/SelectedSeries.md) | *Описание* |
+| [`Name`](./IndicatorSourceBase.cs/Свойства/Name.md) | *Описание* |
+| [`SelectedSeries`](./IndicatorSourceBase.cs/Свойства/SelectedSeries.md) | *Описание* |
 
 ## События
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./IndicatorSourceBase.cs/sobytiya/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](./IndicatorSourceBase.cs/События/PropertyChanged.md) | *Описание* |
 
 
 ## Пример

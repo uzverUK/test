@@ -18,7 +18,7 @@ public static class StaticFunctions
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Round`](./StaticFunctions.cs/metody/Round.md) | *Описание* |
+| [`Round`](./StaticFunctions.cs/Методы/Round.md) | *Описание* |
 
 
 ## Пример

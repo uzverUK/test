@@ -18,15 +18,15 @@ public interface IRawClusterMaxValues
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`MaxBid`](./IRawClusterMaxValues.cs/svoistva/MaxBid.md) | *Описание* |
-| [`MaxAsk`](./IRawClusterMaxValues.cs/svoistva/MaxAsk.md) | *Описание* |
-| [`MaxVolume`](./IRawClusterMaxValues.cs/svoistva/MaxVolume.md) | *Описание* |
-| [`MaxTrades`](./IRawClusterMaxValues.cs/svoistva/MaxTrades.md) | *Описание* |
-| [`MaxDelta`](./IRawClusterMaxValues.cs/svoistva/MaxDelta.md) | *Описание* |
-| [`MinDelta`](./IRawClusterMaxValues.cs/svoistva/MinDelta.md) | *Описание* |
-| [`MaxOpenPos`](./IRawClusterMaxValues.cs/svoistva/MaxOpenPos.md) | *Описание* |
-| [`MinOpenPos`](./IRawClusterMaxValues.cs/svoistva/MinOpenPos.md) | *Описание* |
-| [`Poc`](./IRawClusterMaxValues.cs/svoistva/Poc.md) | *Описание* |
+| [`MaxBid`](./IRawClusterMaxValues.cs/Свойства/MaxBid.md) | *Описание* |
+| [`MaxAsk`](./IRawClusterMaxValues.cs/Свойства/MaxAsk.md) | *Описание* |
+| [`MaxVolume`](./IRawClusterMaxValues.cs/Свойства/MaxVolume.md) | *Описание* |
+| [`MaxTrades`](./IRawClusterMaxValues.cs/Свойства/MaxTrades.md) | *Описание* |
+| [`MaxDelta`](./IRawClusterMaxValues.cs/Свойства/MaxDelta.md) | *Описание* |
+| [`MinDelta`](./IRawClusterMaxValues.cs/Свойства/MinDelta.md) | *Описание* |
+| [`MaxOpenPos`](./IRawClusterMaxValues.cs/Свойства/MaxOpenPos.md) | *Описание* |
+| [`MinOpenPos`](./IRawClusterMaxValues.cs/Свойства/MinOpenPos.md) | *Описание* |
+| [`Poc`](./IRawClusterMaxValues.cs/Свойства/Poc.md) | *Описание* |
 
 
 ## Пример

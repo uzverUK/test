@@ -18,30 +18,30 @@ public sealed class PriceRangeObject : PolygonObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`PriceRangeObject`](./PriceRangeObject.cs/metody/PriceRangeObject.md) | *Описание* |
-| [`DrawControlPoints`](./PriceRangeObject.cs/metody/DrawControlPoints.md) | *Описание* |
-| [`GetControlPoint`](./PriceRangeObject.cs/metody/GetControlPoint.md) | *Описание* |
-| [`CopyTemplate`](./PriceRangeObject.cs/metody/CopyTemplate.md) | *Описание* |
-| [`CheckAlert`](./PriceRangeObject.cs/metody/CheckAlert.md) | *Описание* |
-| [`CQTqeP3bJqxWKjH4hGUt`](./PriceRangeObject.cs/metody/CQTqeP3bJqxWKjH4hGUt.md) | *Описание* |
+| [`PriceRangeObject`](./PriceRangeObject.cs/Методы/PriceRangeObject.md) | *Описание* |
+| [`DrawControlPoints`](./PriceRangeObject.cs/Методы/DrawControlPoints.md) | *Описание* |
+| [`GetControlPoint`](./PriceRangeObject.cs/Методы/GetControlPoint.md) | *Описание* |
+| [`CopyTemplate`](./PriceRangeObject.cs/Методы/CopyTemplate.md) | *Описание* |
+| [`CheckAlert`](./PriceRangeObject.cs/Методы/CheckAlert.md) | *Описание* |
+| [`CQTqeP3bJqxWKjH4hGUt`](./PriceRangeObject.cs/Методы/CQTqeP3bJqxWKjH4hGUt.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./PriceRangeObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
-| [`Price1`](./PriceRangeObject.cs/svoistva/Price1.md) | *Описание* |
-| [`Price2`](./PriceRangeObject.cs/svoistva/Price2.md) | *Описание* |
-| [`Alert`](./PriceRangeObject.cs/svoistva/Alert.md) | *Описание* |
-| [`Text`](./PriceRangeObject.cs/svoistva/Text.md) | *Описание* |
-| [`TextAlignment`](./PriceRangeObject.cs/svoistva/TextAlignment.md) | *Описание* |
-| [`FontSize`](./PriceRangeObject.cs/svoistva/FontSize.md) | *Описание* |
-| [`ByT3bF65jIi;`](./PriceRangeObject.cs/svoistva/ByT3bF65jIi;.md) | *Описание* |
-| [`PhT3bdqjeim;`](./PriceRangeObject.cs/svoistva/PhT3bdqjeim;.md) | *Описание* |
-| [`Center;`](./PriceRangeObject.cs/svoistva/Center;.md) | *Описание* |
-| [`vcu3bCSJvax;`](./PriceRangeObject.cs/svoistva/vcu3bCSJvax;.md) | *Описание* |
-| [`VML3bztEtWe;`](./PriceRangeObject.cs/svoistva/VML3bztEtWe;.md) | *Описание* |
-| [`cjH3RyrD3YP;`](./PriceRangeObject.cs/svoistva/cjH3RyrD3YP;.md) | *Описание* |
-| [`jjL3RqnWW1s;`](./PriceRangeObject.cs/svoistva/jjL3RqnWW1s;.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./PriceRangeObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`Price1`](./PriceRangeObject.cs/Свойства/Price1.md) | *Описание* |
+| [`Price2`](./PriceRangeObject.cs/Свойства/Price2.md) | *Описание* |
+| [`Alert`](./PriceRangeObject.cs/Свойства/Alert.md) | *Описание* |
+| [`Text`](./PriceRangeObject.cs/Свойства/Text.md) | *Описание* |
+| [`TextAlignment`](./PriceRangeObject.cs/Свойства/TextAlignment.md) | *Описание* |
+| [`FontSize`](./PriceRangeObject.cs/Свойства/FontSize.md) | *Описание* |
+| [`ByT3bF65jIi;`](./PriceRangeObject.cs/Свойства/ByT3bF65jIi;.md) | *Описание* |
+| [`PhT3bdqjeim;`](./PriceRangeObject.cs/Свойства/PhT3bdqjeim;.md) | *Описание* |
+| [`Center;`](./PriceRangeObject.cs/Свойства/Center;.md) | *Описание* |
+| [`vcu3bCSJvax;`](./PriceRangeObject.cs/Свойства/vcu3bCSJvax;.md) | *Описание* |
+| [`VML3bztEtWe;`](./PriceRangeObject.cs/Свойства/VML3bztEtWe;.md) | *Описание* |
+| [`cjH3RyrD3YP;`](./PriceRangeObject.cs/Свойства/cjH3RyrD3YP;.md) | *Описание* |
+| [`jjL3RqnWW1s;`](./PriceRangeObject.cs/Свойства/jjL3RqnWW1s;.md) | *Описание* |
 
 
 ## Пример

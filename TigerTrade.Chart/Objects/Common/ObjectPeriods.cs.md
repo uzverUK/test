@@ -18,16 +18,16 @@ public sealed class ObjectPeriods
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`CheckPeriod`](./ObjectPeriods.cs/metody/CheckPeriod.md) | *Описание* |
-| [`Update`](./ObjectPeriods.cs/metody/Update.md) | *Описание* |
-| [`Copy`](./ObjectPeriods.cs/metody/Copy.md) | *Описание* |
-| [`Equals`](./ObjectPeriods.cs/metody/Equals.md) | *Описание* |
-| [`ObjectPeriods`](./ObjectPeriods.cs/metody/ObjectPeriods.md) | *Описание* |
+| [`CheckPeriod`](./ObjectPeriods.cs/Методы/CheckPeriod.md) | *Описание* |
+| [`Update`](./ObjectPeriods.cs/Методы/Update.md) | *Описание* |
+| [`Copy`](./ObjectPeriods.cs/Методы/Copy.md) | *Описание* |
+| [`Equals`](./ObjectPeriods.cs/Методы/Equals.md) | *Описание* |
+| [`ObjectPeriods`](./ObjectPeriods.cs/Методы/ObjectPeriods.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Periods`](./ObjectPeriods.cs/svoistva/Periods.md) | *Описание* |
+| [`Periods`](./ObjectPeriods.cs/Свойства/Periods.md) | *Описание* |
 
 
 ## Пример

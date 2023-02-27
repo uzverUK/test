@@ -18,16 +18,16 @@ public class IndicatorAttribute : Attribute
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`IndicatorAttribute`](./IndicatorAttribute.cs/metody/IndicatorAttribute.md) | *Описание* |
+| [`IndicatorAttribute`](./IndicatorAttribute.cs/Методы/IndicatorAttribute.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`ID`](./IndicatorAttribute.cs/svoistva/ID.md) | *Описание* |
-| [`Name`](./IndicatorAttribute.cs/svoistva/Name.md) | *Описание* |
-| [`Overlay`](./IndicatorAttribute.cs/svoistva/Overlay.md) | *Описание* |
-| [`Category`](./IndicatorAttribute.cs/svoistva/Category.md) | *Описание* |
-| [`Type`](./IndicatorAttribute.cs/svoistva/Type.md) | *Описание* |
+| [`ID`](./IndicatorAttribute.cs/Свойства/ID.md) | *Описание* |
+| [`Name`](./IndicatorAttribute.cs/Свойства/Name.md) | *Описание* |
+| [`Overlay`](./IndicatorAttribute.cs/Свойства/Overlay.md) | *Описание* |
+| [`Category`](./IndicatorAttribute.cs/Свойства/Category.md) | *Описание* |
+| [`Type`](./IndicatorAttribute.cs/Свойства/Type.md) | *Описание* |
 
 
 ## Пример

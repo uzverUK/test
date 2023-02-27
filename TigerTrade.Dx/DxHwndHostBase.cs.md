@@ -18,21 +18,21 @@ public class DxHwndHostBase : HwndHost
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`DxHwndHostBase`](./DxHwndHostBase.cs/metody/DxHwndHostBase.md) | *Описание* |
+| [`DxHwndHostBase`](./DxHwndHostBase.cs/Методы/DxHwndHostBase.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`JhZjcrtFS5G;`](./DxHwndHostBase.cs/svoistva/JhZjcrtFS5G;.md) | *Описание* |
-| [`AmRjcZuMlRk;`](./DxHwndHostBase.cs/svoistva/AmRjcZuMlRk;.md) | *Описание* |
-| [`J1XjcmvFG6Q;`](./DxHwndHostBase.cs/svoistva/J1XjcmvFG6Q;.md) | *Описание* |
-| [`QgujcpdwuL2;`](./DxHwndHostBase.cs/svoistva/QgujcpdwuL2;.md) | *Описание* |
-| [`RbpjcKgQmhW;`](./DxHwndHostBase.cs/svoistva/RbpjcKgQmhW;.md) | *Описание* |
-| [`i5NjclyGDO6;`](./DxHwndHostBase.cs/svoistva/i5NjclyGDO6;.md) | *Описание* |
-| [`UIrjcLP9CAY;`](./DxHwndHostBase.cs/svoistva/UIrjcLP9CAY;.md) | *Описание* |
-| [`Lfrjcnq3MxI;`](./DxHwndHostBase.cs/svoistva/Lfrjcnq3MxI;.md) | *Описание* |
-| [`MSIjcksg8fF;`](./DxHwndHostBase.cs/svoistva/MSIjcksg8fF;.md) | *Описание* |
-| [`rEWjc6mm0du;`](./DxHwndHostBase.cs/svoistva/rEWjc6mm0du;.md) | *Описание* |
+| [`JhZjcrtFS5G;`](./DxHwndHostBase.cs/Свойства/JhZjcrtFS5G;.md) | *Описание* |
+| [`AmRjcZuMlRk;`](./DxHwndHostBase.cs/Свойства/AmRjcZuMlRk;.md) | *Описание* |
+| [`J1XjcmvFG6Q;`](./DxHwndHostBase.cs/Свойства/J1XjcmvFG6Q;.md) | *Описание* |
+| [`QgujcpdwuL2;`](./DxHwndHostBase.cs/Свойства/QgujcpdwuL2;.md) | *Описание* |
+| [`RbpjcKgQmhW;`](./DxHwndHostBase.cs/Свойства/RbpjcKgQmhW;.md) | *Описание* |
+| [`i5NjclyGDO6;`](./DxHwndHostBase.cs/Свойства/i5NjclyGDO6;.md) | *Описание* |
+| [`UIrjcLP9CAY;`](./DxHwndHostBase.cs/Свойства/UIrjcLP9CAY;.md) | *Описание* |
+| [`Lfrjcnq3MxI;`](./DxHwndHostBase.cs/Свойства/Lfrjcnq3MxI;.md) | *Описание* |
+| [`MSIjcksg8fF;`](./DxHwndHostBase.cs/Свойства/MSIjcksg8fF;.md) | *Описание* |
+| [`rEWjc6mm0du;`](./DxHwndHostBase.cs/Свойства/rEWjc6mm0du;.md) | *Описание* |
 
 
 ## Пример

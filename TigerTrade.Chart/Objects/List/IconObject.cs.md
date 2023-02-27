@@ -18,17 +18,17 @@ public class IconObject : ObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`IconObject`](./IconObject.cs/metody/IconObject.md) | *Описание* |
-| [`ApplyTheme`](./IconObject.cs/metody/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./IconObject.cs/metody/CopyTemplate.md) | *Описание* |
+| [`IconObject`](./IconObject.cs/Методы/IconObject.md) | *Описание* |
+| [`ApplyTheme`](./IconObject.cs/Методы/ApplyTheme.md) | *Описание* |
+| [`CopyTemplate`](./IconObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./IconObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
-| [`Icon`](./IconObject.cs/svoistva/Icon.md) | *Описание* |
-| [`Color`](./IconObject.cs/svoistva/Color.md) | *Описание* |
-| [`Size`](./IconObject.cs/svoistva/Size.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./IconObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`Icon`](./IconObject.cs/Свойства/Icon.md) | *Описание* |
+| [`Color`](./IconObject.cs/Свойства/Color.md) | *Описание* |
+| [`Size`](./IconObject.cs/Свойства/Size.md) | *Описание* |
 
 
 ## Пример

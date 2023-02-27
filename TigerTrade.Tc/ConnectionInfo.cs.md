@@ -18,35 +18,35 @@ public sealed class ConnectionInfo : INotifyPropertyChanged
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`SetLogsPath`](./ConnectionInfo.cs/metody/SetLogsPath.md) | *Описание* |
-| [`ToString`](./ConnectionInfo.cs/metody/ToString.md) | *Описание* |
+| [`SetLogsPath`](./ConnectionInfo.cs/Методы/SetLogsPath.md) | *Описание* |
+| [`ToString`](./ConnectionInfo.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`TradeClientID`](./ConnectionInfo.cs/svoistva/TradeClientID.md) | *Описание* |
-| [`TradeClientName`](./ConnectionInfo.cs/svoistva/TradeClientName.md) | *Описание* |
-| [`TradeClientExtra`](./ConnectionInfo.cs/svoistva/TradeClientExtra.md) | *Описание* |
-| [`ConnectionID`](./ConnectionInfo.cs/svoistva/ConnectionID.md) | *Описание* |
-| [`ConnectionName`](./ConnectionInfo.cs/svoistva/ConnectionName.md) | *Описание* |
-| [`Simulator`](./ConnectionInfo.cs/svoistva/Simulator.md) | *Описание* |
-| [`Trust`](./ConnectionInfo.cs/svoistva/Trust.md) | *Описание* |
-| [`MarketType`](./ConnectionInfo.cs/svoistva/MarketType.md) | *Описание* |
-| [`MarketData`](./ConnectionInfo.cs/svoistva/MarketData.md) | *Описание* |
-| [`AutoConnect`](./ConnectionInfo.cs/svoistva/AutoConnect.md) | *Описание* |
-| [`IsConnected`](./ConnectionInfo.cs/svoistva/IsConnected.md) | *Описание* |
-| [`IsConnecting`](./ConnectionInfo.cs/svoistva/IsConnecting.md) | *Описание* |
-| [`ConnectState`](./ConnectionInfo.cs/svoistva/ConnectState.md) | *Описание* |
-| [`AllowConnect`](./ConnectionInfo.cs/svoistva/AllowConnect.md) | *Описание* |
-| [`AllowMarketData`](./ConnectionInfo.cs/svoistva/AllowMarketData.md) | *Описание* |
-| [`Indicator`](./ConnectionInfo.cs/svoistva/Indicator.md) | *Описание* |
-| [`Proxy`](./ConnectionInfo.cs/svoistva/Proxy.md) | *Описание* |
-| [`HasProxy`](./ConnectionInfo.cs/svoistva/HasProxy.md) | *Описание* |
+| [`TradeClientID`](./ConnectionInfo.cs/Свойства/TradeClientID.md) | *Описание* |
+| [`TradeClientName`](./ConnectionInfo.cs/Свойства/TradeClientName.md) | *Описание* |
+| [`TradeClientExtra`](./ConnectionInfo.cs/Свойства/TradeClientExtra.md) | *Описание* |
+| [`ConnectionID`](./ConnectionInfo.cs/Свойства/ConnectionID.md) | *Описание* |
+| [`ConnectionName`](./ConnectionInfo.cs/Свойства/ConnectionName.md) | *Описание* |
+| [`Simulator`](./ConnectionInfo.cs/Свойства/Simulator.md) | *Описание* |
+| [`Trust`](./ConnectionInfo.cs/Свойства/Trust.md) | *Описание* |
+| [`MarketType`](./ConnectionInfo.cs/Свойства/MarketType.md) | *Описание* |
+| [`MarketData`](./ConnectionInfo.cs/Свойства/MarketData.md) | *Описание* |
+| [`AutoConnect`](./ConnectionInfo.cs/Свойства/AutoConnect.md) | *Описание* |
+| [`IsConnected`](./ConnectionInfo.cs/Свойства/IsConnected.md) | *Описание* |
+| [`IsConnecting`](./ConnectionInfo.cs/Свойства/IsConnecting.md) | *Описание* |
+| [`ConnectState`](./ConnectionInfo.cs/Свойства/ConnectState.md) | *Описание* |
+| [`AllowConnect`](./ConnectionInfo.cs/Свойства/AllowConnect.md) | *Описание* |
+| [`AllowMarketData`](./ConnectionInfo.cs/Свойства/AllowMarketData.md) | *Описание* |
+| [`Indicator`](./ConnectionInfo.cs/Свойства/Indicator.md) | *Описание* |
+| [`Proxy`](./ConnectionInfo.cs/Свойства/Proxy.md) | *Описание* |
+| [`HasProxy`](./ConnectionInfo.cs/Свойства/HasProxy.md) | *Описание* |
 
 ## События
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./ConnectionInfo.cs/sobytiya/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](./ConnectionInfo.cs/События/PropertyChanged.md) | *Описание* |
 
 
 ## Пример

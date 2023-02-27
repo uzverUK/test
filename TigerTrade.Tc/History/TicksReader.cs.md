@@ -18,14 +18,14 @@ public sealed class TicksReader : BinReader<Tick>, IDataReader<Tick>
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Reset`](./TicksReader.cs/metody/Reset.md) | *Описание* |
+| [`Reset`](./TicksReader.cs/Методы/Reset.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Version`](./TicksReader.cs/svoistva/Version.md) | *Описание* |
-| [`PriceStep`](./TicksReader.cs/svoistva/PriceStep.md) | *Описание* |
-| [`SizeStep`](./TicksReader.cs/svoistva/SizeStep.md) | *Описание* |
+| [`Version`](./TicksReader.cs/Свойства/Version.md) | *Описание* |
+| [`PriceStep`](./TicksReader.cs/Свойства/PriceStep.md) | *Описание* |
+| [`SizeStep`](./TicksReader.cs/Свойства/SizeStep.md) | *Описание* |
 
 
 ## Пример

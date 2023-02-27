@@ -18,13 +18,13 @@ public class IndicatorSourceAttribute : Attribute
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`IndicatorSourceAttribute`](./IndicatorSourceAttribute.cs/metody/IndicatorSourceAttribute.md) | *Описание* |
+| [`IndicatorSourceAttribute`](./IndicatorSourceAttribute.cs/Методы/IndicatorSourceAttribute.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Name`](./IndicatorSourceAttribute.cs/svoistva/Name.md) | *Описание* |
-| [`Type`](./IndicatorSourceAttribute.cs/svoistva/Type.md) | *Описание* |
+| [`Name`](./IndicatorSourceAttribute.cs/Свойства/Name.md) | *Описание* |
+| [`Type`](./IndicatorSourceAttribute.cs/Свойства/Type.md) | *Описание* |
 
 
 ## Пример

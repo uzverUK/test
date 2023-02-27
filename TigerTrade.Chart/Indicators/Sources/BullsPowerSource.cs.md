@@ -18,16 +18,16 @@ public sealed class BullsPowerSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`BullsPowerSource`](./BullsPowerSource.cs/metody/BullsPowerSource.md) | *Описание* |
-| [`GetSeriesList`](./BullsPowerSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./BullsPowerSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./BullsPowerSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./BullsPowerSource.cs/metody/ToString.md) | *Описание* |
+| [`BullsPowerSource`](./BullsPowerSource.cs/Методы/BullsPowerSource.md) | *Описание* |
+| [`GetSeriesList`](./BullsPowerSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./BullsPowerSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./BullsPowerSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./BullsPowerSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./BullsPowerSource.cs/svoistva/Period.md) | *Описание* |
+| [`Period`](./BullsPowerSource.cs/Свойства/Period.md) | *Описание* |
 
 
 ## Пример

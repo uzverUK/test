@@ -18,17 +18,17 @@ public sealed class StandardDeviationSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`StandardDeviationSource`](./StandardDeviationSource.cs/metody/StandardDeviationSource.md) | *Описание* |
-| [`GetSeriesList`](./StandardDeviationSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./StandardDeviationSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./StandardDeviationSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./StandardDeviationSource.cs/metody/ToString.md) | *Описание* |
+| [`StandardDeviationSource`](./StandardDeviationSource.cs/Методы/StandardDeviationSource.md) | *Описание* |
+| [`GetSeriesList`](./StandardDeviationSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./StandardDeviationSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./StandardDeviationSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./StandardDeviationSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./StandardDeviationSource.cs/svoistva/Period.md) | *Описание* |
-| [`Source`](./StandardDeviationSource.cs/svoistva/Source.md) | *Описание* |
+| [`Period`](./StandardDeviationSource.cs/Свойства/Period.md) | *Описание* |
+| [`Source`](./StandardDeviationSource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

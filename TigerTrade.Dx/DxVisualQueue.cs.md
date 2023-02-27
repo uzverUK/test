@@ -18,32 +18,32 @@ public sealed class DxVisualQueue
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`DxVisualQueue`](./DxVisualQueue.cs/metody/DxVisualQueue.md) | *Описание* |
-| [`Clear`](./DxVisualQueue.cs/metody/Clear.md) | *Описание* |
-| [`SetClip`](./DxVisualQueue.cs/metody/SetClip.md) | *Описание* |
-| [`ResetClip`](./DxVisualQueue.cs/metody/ResetClip.md) | *Описание* |
-| [`DrawLine`](./DxVisualQueue.cs/metody/DrawLine.md) | *Описание* |
-| [`DrawLine`](./DxVisualQueue.cs/metody/DrawLine.md) | *Описание* |
-| [`DrawLines`](./DxVisualQueue.cs/metody/DrawLines.md) | *Описание* |
-| [`DrawLines`](./DxVisualQueue.cs/metody/DrawLines.md) | *Описание* |
-| [`DrawSmoothLines`](./DxVisualQueue.cs/metody/DrawSmoothLines.md) | *Описание* |
-| [`DrawRectangle`](./DxVisualQueue.cs/metody/DrawRectangle.md) | *Описание* |
-| [`FillRectangle`](./DxVisualQueue.cs/metody/FillRectangle.md) | *Описание* |
-| [`DrawRectangles`](./DxVisualQueue.cs/metody/DrawRectangles.md) | *Описание* |
-| [`FillRectangles`](./DxVisualQueue.cs/metody/FillRectangles.md) | *Описание* |
-| [`FillGradientRectangle`](./DxVisualQueue.cs/metody/FillGradientRectangle.md) | *Описание* |
-| [`DrawRoundedRectangle`](./DxVisualQueue.cs/metody/DrawRoundedRectangle.md) | *Описание* |
-| [`FillRoundedRectangle`](./DxVisualQueue.cs/metody/FillRoundedRectangle.md) | *Описание* |
-| [`DrawPolygon`](./DxVisualQueue.cs/metody/DrawPolygon.md) | *Описание* |
-| [`FillPolygon`](./DxVisualQueue.cs/metody/FillPolygon.md) | *Описание* |
-| [`DrawArc`](./DxVisualQueue.cs/metody/DrawArc.md) | *Описание* |
-| [`DrawEllipse`](./DxVisualQueue.cs/metody/DrawEllipse.md) | *Описание* |
-| [`FillEllipse`](./DxVisualQueue.cs/metody/FillEllipse.md) | *Описание* |
+| [`DxVisualQueue`](./DxVisualQueue.cs/Методы/DxVisualQueue.md) | *Описание* |
+| [`Clear`](./DxVisualQueue.cs/Методы/Clear.md) | *Описание* |
+| [`SetClip`](./DxVisualQueue.cs/Методы/SetClip.md) | *Описание* |
+| [`ResetClip`](./DxVisualQueue.cs/Методы/ResetClip.md) | *Описание* |
+| [`DrawLine`](./DxVisualQueue.cs/Методы/DrawLine.md) | *Описание* |
+| [`DrawLine`](./DxVisualQueue.cs/Методы/DrawLine.md) | *Описание* |
+| [`DrawLines`](./DxVisualQueue.cs/Методы/DrawLines.md) | *Описание* |
+| [`DrawLines`](./DxVisualQueue.cs/Методы/DrawLines.md) | *Описание* |
+| [`DrawSmoothLines`](./DxVisualQueue.cs/Методы/DrawSmoothLines.md) | *Описание* |
+| [`DrawRectangle`](./DxVisualQueue.cs/Методы/DrawRectangle.md) | *Описание* |
+| [`FillRectangle`](./DxVisualQueue.cs/Методы/FillRectangle.md) | *Описание* |
+| [`DrawRectangles`](./DxVisualQueue.cs/Методы/DrawRectangles.md) | *Описание* |
+| [`FillRectangles`](./DxVisualQueue.cs/Методы/FillRectangles.md) | *Описание* |
+| [`FillGradientRectangle`](./DxVisualQueue.cs/Методы/FillGradientRectangle.md) | *Описание* |
+| [`DrawRoundedRectangle`](./DxVisualQueue.cs/Методы/DrawRoundedRectangle.md) | *Описание* |
+| [`FillRoundedRectangle`](./DxVisualQueue.cs/Методы/FillRoundedRectangle.md) | *Описание* |
+| [`DrawPolygon`](./DxVisualQueue.cs/Методы/DrawPolygon.md) | *Описание* |
+| [`FillPolygon`](./DxVisualQueue.cs/Методы/FillPolygon.md) | *Описание* |
+| [`DrawArc`](./DxVisualQueue.cs/Методы/DrawArc.md) | *Описание* |
+| [`DrawEllipse`](./DxVisualQueue.cs/Методы/DrawEllipse.md) | *Описание* |
+| [`FillEllipse`](./DxVisualQueue.cs/Методы/FillEllipse.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Empty`](./DxVisualQueue.cs/svoistva/Empty.md) | *Описание* |
+| [`Empty`](./DxVisualQueue.cs/Свойства/Empty.md) | *Описание* |
 
 
 ## Пример

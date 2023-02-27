@@ -18,7 +18,7 @@ public sealed class DisplayNameLocalizedAttribute : DisplayNameAttribute
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`DisplayNameLocalizedAttribute`](./DisplayNameLocalizedAttribute.cs/metody/DisplayNameLocalizedAttribute.md) | *Описание* |
+| [`DisplayNameLocalizedAttribute`](./DisplayNameLocalizedAttribute.cs/Методы/DisplayNameLocalizedAttribute.md) | *Описание* |
 
 
 ## Пример

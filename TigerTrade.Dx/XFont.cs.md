@@ -18,24 +18,24 @@ public sealed class XFont
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`XFont`](./XFont.cs/metody/XFont.md) | *Описание* |
-| [`XFont`](./XFont.cs/metody/XFont.md) | *Описание* |
-| [`XFont`](./XFont.cs/metody/XFont.md) | *Описание* |
-| [`XFont`](./XFont.cs/metody/XFont.md) | *Описание* |
-| [`GetHeight`](./XFont.cs/metody/GetHeight.md) | *Описание* |
-| [`GetWidth`](./XFont.cs/metody/GetWidth.md) | *Описание* |
-| [`ToString`](./XFont.cs/metody/ToString.md) | *Описание* |
-| [`GetFont`](./XFont.cs/metody/GetFont.md) | *Описание* |
-| [`GetFontName`](./XFont.cs/metody/GetFontName.md) | *Описание* |
+| [`XFont`](./XFont.cs/Методы/XFont.md) | *Описание* |
+| [`XFont`](./XFont.cs/Методы/XFont.md) | *Описание* |
+| [`XFont`](./XFont.cs/Методы/XFont.md) | *Описание* |
+| [`XFont`](./XFont.cs/Методы/XFont.md) | *Описание* |
+| [`GetHeight`](./XFont.cs/Методы/GetHeight.md) | *Описание* |
+| [`GetWidth`](./XFont.cs/Методы/GetWidth.md) | *Описание* |
+| [`ToString`](./XFont.cs/Методы/ToString.md) | *Описание* |
+| [`GetFont`](./XFont.cs/Методы/GetFont.md) | *Описание* |
+| [`GetFontName`](./XFont.cs/Методы/GetFontName.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Fonts;`](./XFont.cs/svoistva/Fonts;.md) | *Описание* |
-| [`Name`](./XFont.cs/svoistva/Name.md) | *Описание* |
-| [`Size`](./XFont.cs/svoistva/Size.md) | *Описание* |
-| [`Bold`](./XFont.cs/svoistva/Bold.md) | *Описание* |
-| [`UniquID`](./XFont.cs/svoistva/UniquID.md) | *Описание* |
+| [`Fonts;`](./XFont.cs/Свойства/Fonts;.md) | *Описание* |
+| [`Name`](./XFont.cs/Свойства/Name.md) | *Описание* |
+| [`Size`](./XFont.cs/Свойства/Size.md) | *Описание* |
+| [`Bold`](./XFont.cs/Свойства/Bold.md) | *Описание* |
+| [`UniquID`](./XFont.cs/Свойства/UniquID.md) | *Описание* |
 
 
 ## Пример

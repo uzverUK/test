@@ -18,7 +18,7 @@ public static class ScreenOperations
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`WindowCorrect`](./ScreenOperations.cs/metody/WindowCorrect.md) | *Описание* |
+| [`WindowCorrect`](./ScreenOperations.cs/Методы/WindowCorrect.md) | *Описание* |
 
 
 ## Пример

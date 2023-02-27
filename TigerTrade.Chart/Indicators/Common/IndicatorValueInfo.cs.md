@@ -18,14 +18,14 @@ public sealed class IndicatorValueInfo
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`IndicatorValueInfo`](./IndicatorValueInfo.cs/metody/IndicatorValueInfo.md) | *Описание* |
-| [`IndicatorValueInfo`](./IndicatorValueInfo.cs/metody/IndicatorValueInfo.md) | *Описание* |
+| [`IndicatorValueInfo`](./IndicatorValueInfo.cs/Методы/IndicatorValueInfo.md) | *Описание* |
+| [`IndicatorValueInfo`](./IndicatorValueInfo.cs/Методы/IndicatorValueInfo.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Value`](./IndicatorValueInfo.cs/svoistva/Value.md) | *Описание* |
-| [`Brush`](./IndicatorValueInfo.cs/svoistva/Brush.md) | *Описание* |
+| [`Value`](./IndicatorValueInfo.cs/Свойства/Value.md) | *Описание* |
+| [`Brush`](./IndicatorValueInfo.cs/Свойства/Brush.md) | *Описание* |
 
 
 ## Пример

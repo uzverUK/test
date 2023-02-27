@@ -18,11 +18,11 @@ public sealed class WilliamsADSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`WilliamsADSource`](./WilliamsADSource.cs/metody/WilliamsADSource.md) | *Описание* |
-| [`GetSeriesList`](./WilliamsADSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./WilliamsADSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./WilliamsADSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./WilliamsADSource.cs/metody/ToString.md) | *Описание* |
+| [`WilliamsADSource`](./WilliamsADSource.cs/Методы/WilliamsADSource.md) | *Описание* |
+| [`GetSeriesList`](./WilliamsADSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./WilliamsADSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./WilliamsADSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./WilliamsADSource.cs/Методы/ToString.md) | *Описание* |
 
 
 ## Пример

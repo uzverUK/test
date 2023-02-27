@@ -18,24 +18,24 @@ public sealed class RawClusterItem : IRawClusterItem
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`RawClusterItem`](./RawClusterItem.cs/metody/RawClusterItem.md) | *Описание* |
-| [`RawClusterItem`](./RawClusterItem.cs/metody/RawClusterItem.md) | *Описание* |
-| [`Add`](./RawClusterItem.cs/metody/Add.md) | *Описание* |
+| [`RawClusterItem`](./RawClusterItem.cs/Методы/RawClusterItem.md) | *Описание* |
+| [`RawClusterItem`](./RawClusterItem.cs/Методы/RawClusterItem.md) | *Описание* |
+| [`Add`](./RawClusterItem.cs/Методы/Add.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Price`](./RawClusterItem.cs/svoistva/Price.md) | *Описание* |
-| [`Bid`](./RawClusterItem.cs/svoistva/Bid.md) | *Описание* |
-| [`Ask`](./RawClusterItem.cs/svoistva/Ask.md) | *Описание* |
-| [`BidTrades`](./RawClusterItem.cs/svoistva/BidTrades.md) | *Описание* |
-| [`AskTrades`](./RawClusterItem.cs/svoistva/AskTrades.md) | *Описание* |
-| [`OpenPosBid`](./RawClusterItem.cs/svoistva/OpenPosBid.md) | *Описание* |
-| [`OpenPosAsk`](./RawClusterItem.cs/svoistva/OpenPosAsk.md) | *Описание* |
-| [`Volume`](./RawClusterItem.cs/svoistva/Volume.md) | *Описание* |
-| [`Delta`](./RawClusterItem.cs/svoistva/Delta.md) | *Описание* |
-| [`Trades`](./RawClusterItem.cs/svoistva/Trades.md) | *Описание* |
-| [`OpenPos`](./RawClusterItem.cs/svoistva/OpenPos.md) | *Описание* |
+| [`Price`](./RawClusterItem.cs/Свойства/Price.md) | *Описание* |
+| [`Bid`](./RawClusterItem.cs/Свойства/Bid.md) | *Описание* |
+| [`Ask`](./RawClusterItem.cs/Свойства/Ask.md) | *Описание* |
+| [`BidTrades`](./RawClusterItem.cs/Свойства/BidTrades.md) | *Описание* |
+| [`AskTrades`](./RawClusterItem.cs/Свойства/AskTrades.md) | *Описание* |
+| [`OpenPosBid`](./RawClusterItem.cs/Свойства/OpenPosBid.md) | *Описание* |
+| [`OpenPosAsk`](./RawClusterItem.cs/Свойства/OpenPosAsk.md) | *Описание* |
+| [`Volume`](./RawClusterItem.cs/Свойства/Volume.md) | *Описание* |
+| [`Delta`](./RawClusterItem.cs/Свойства/Delta.md) | *Описание* |
+| [`Trades`](./RawClusterItem.cs/Свойства/Trades.md) | *Описание* |
+| [`OpenPos`](./RawClusterItem.cs/Свойства/OpenPos.md) | *Описание* |
 
 
 ## Пример

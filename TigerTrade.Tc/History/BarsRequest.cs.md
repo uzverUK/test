@@ -18,14 +18,14 @@ public sealed class BarsRequest
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`BarsRequest`](./BarsRequest.cs/metody/BarsRequest.md) | *Описание* |
+| [`BarsRequest`](./BarsRequest.cs/Методы/BarsRequest.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Symbol`](./BarsRequest.cs/svoistva/Symbol.md) | *Описание* |
-| [`RequestID`](./BarsRequest.cs/svoistva/RequestID.md) | *Описание* |
-| [`TargetID`](./BarsRequest.cs/svoistva/TargetID.md) | *Описание* |
+| [`Symbol`](./BarsRequest.cs/Свойства/Symbol.md) | *Описание* |
+| [`RequestID`](./BarsRequest.cs/Свойства/RequestID.md) | *Описание* |
+| [`TargetID`](./BarsRequest.cs/Свойства/TargetID.md) | *Описание* |
 
 
 ## Пример

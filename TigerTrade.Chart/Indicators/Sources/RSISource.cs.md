@@ -18,17 +18,17 @@ public sealed class RSISource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`RSISource`](./RSISource.cs/metody/RSISource.md) | *Описание* |
-| [`GetSeriesList`](./RSISource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./RSISource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./RSISource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./RSISource.cs/metody/ToString.md) | *Описание* |
+| [`RSISource`](./RSISource.cs/Методы/RSISource.md) | *Описание* |
+| [`GetSeriesList`](./RSISource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./RSISource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./RSISource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./RSISource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./RSISource.cs/svoistva/Period.md) | *Описание* |
-| [`Source`](./RSISource.cs/svoistva/Source.md) | *Описание* |
+| [`Period`](./RSISource.cs/Свойства/Period.md) | *Описание* |
+| [`Source`](./RSISource.cs/Свойства/Source.md) | *Описание* |
 
 
 ## Пример

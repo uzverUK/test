@@ -18,8 +18,8 @@ public interface IRawClusterValueArea
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Vah`](./IRawClusterValueArea.cs/svoistva/Vah.md) | *Описание* |
-| [`Val`](./IRawClusterValueArea.cs/svoistva/Val.md) | *Описание* |
+| [`Vah`](./IRawClusterValueArea.cs/Свойства/Vah.md) | *Описание* |
+| [`Val`](./IRawClusterValueArea.cs/Свойства/Val.md) | *Описание* |
 
 
 ## Пример

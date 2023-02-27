@@ -18,21 +18,21 @@ public class HorizontalLineObject : LineObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`HorizontalLineObject`](./HorizontalLineObject.cs/metody/HorizontalLineObject.md) | *Описание* |
-| [`DrawControlPoints`](./HorizontalLineObject.cs/metody/DrawControlPoints.md) | *Описание* |
-| [`CopyTemplate`](./HorizontalLineObject.cs/metody/CopyTemplate.md) | *Описание* |
-| [`CheckAlert`](./HorizontalLineObject.cs/metody/CheckAlert.md) | *Описание* |
+| [`HorizontalLineObject`](./HorizontalLineObject.cs/Методы/HorizontalLineObject.md) | *Описание* |
+| [`DrawControlPoints`](./HorizontalLineObject.cs/Методы/DrawControlPoints.md) | *Описание* |
+| [`CopyTemplate`](./HorizontalLineObject.cs/Методы/CopyTemplate.md) | *Описание* |
+| [`CheckAlert`](./HorizontalLineObject.cs/Методы/CheckAlert.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./HorizontalLineObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
-| [`Price`](./HorizontalLineObject.cs/svoistva/Price.md) | *Описание* |
-| [`Alert`](./HorizontalLineObject.cs/svoistva/Alert.md) | *Описание* |
-| [`AlertMinDistance`](./HorizontalLineObject.cs/svoistva/AlertMinDistance.md) | *Описание* |
-| [`Text`](./HorizontalLineObject.cs/svoistva/Text.md) | *Описание* |
-| [`TextAlignment`](./HorizontalLineObject.cs/svoistva/TextAlignment.md) | *Описание* |
-| [`FontSize`](./HorizontalLineObject.cs/svoistva/FontSize.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./HorizontalLineObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`Price`](./HorizontalLineObject.cs/Свойства/Price.md) | *Описание* |
+| [`Alert`](./HorizontalLineObject.cs/Свойства/Alert.md) | *Описание* |
+| [`AlertMinDistance`](./HorizontalLineObject.cs/Свойства/AlertMinDistance.md) | *Описание* |
+| [`Text`](./HorizontalLineObject.cs/Свойства/Text.md) | *Описание* |
+| [`TextAlignment`](./HorizontalLineObject.cs/Свойства/TextAlignment.md) | *Описание* |
+| [`FontSize`](./HorizontalLineObject.cs/Свойства/FontSize.md) | *Описание* |
 
 
 ## Пример

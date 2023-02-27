@@ -18,15 +18,15 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`FibonacciTimeZonesObject`](./FibonacciTimeZonesObject.cs/metody/FibonacciTimeZonesObject.md) | *Описание* |
-| [`CopyTemplate`](./FibonacciTimeZonesObject.cs/metody/CopyTemplate.md) | *Описание* |
+| [`FibonacciTimeZonesObject`](./FibonacciTimeZonesObject.cs/Методы/FibonacciTimeZonesObject.md) | *Описание* |
+| [`CopyTemplate`](./FibonacciTimeZonesObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./FibonacciTimeZonesObject.cs/svoistva/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
-| [`MaxLines`](./FibonacciTimeZonesObject.cs/svoistva/MaxLines.md) | *Описание* |
-| [`TextAlignment`](./FibonacciTimeZonesObject.cs/svoistva/TextAlignment.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](./FibonacciTimeZonesObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`MaxLines`](./FibonacciTimeZonesObject.cs/Свойства/MaxLines.md) | *Описание* |
+| [`TextAlignment`](./FibonacciTimeZonesObject.cs/Свойства/TextAlignment.md) | *Описание* |
 
 
 ## Пример

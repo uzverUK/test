@@ -18,17 +18,17 @@ public sealed class ParabolicSARSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ParabolicSARSource`](./ParabolicSARSource.cs/metody/ParabolicSARSource.md) | *Описание* |
-| [`GetSeriesList`](./ParabolicSARSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./ParabolicSARSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./ParabolicSARSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./ParabolicSARSource.cs/metody/ToString.md) | *Описание* |
+| [`ParabolicSARSource`](./ParabolicSARSource.cs/Методы/ParabolicSARSource.md) | *Описание* |
+| [`GetSeriesList`](./ParabolicSARSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./ParabolicSARSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./ParabolicSARSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./ParabolicSARSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Max`](./ParabolicSARSource.cs/svoistva/Max.md) | *Описание* |
-| [`Step`](./ParabolicSARSource.cs/svoistva/Step.md) | *Описание* |
+| [`Max`](./ParabolicSARSource.cs/Свойства/Max.md) | *Описание* |
+| [`Step`](./ParabolicSARSource.cs/Свойства/Step.md) | *Описание* |
 
 
 ## Пример

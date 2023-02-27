@@ -18,16 +18,16 @@ public sealed class ATRSource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`ATRSource`](./ATRSource.cs/metody/ATRSource.md) | *Описание* |
-| [`GetSeriesList`](./ATRSource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./ATRSource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./ATRSource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./ATRSource.cs/metody/ToString.md) | *Описание* |
+| [`ATRSource`](./ATRSource.cs/Методы/ATRSource.md) | *Описание* |
+| [`GetSeriesList`](./ATRSource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./ATRSource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./ATRSource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./ATRSource.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Period`](./ATRSource.cs/svoistva/Period.md) | *Описание* |
+| [`Period`](./ATRSource.cs/Свойства/Period.md) | *Описание* |
 
 
 ## Пример

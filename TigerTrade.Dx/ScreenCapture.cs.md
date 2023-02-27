@@ -18,25 +18,25 @@ public static class ScreenCapture
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`CaptureWindow`](./ScreenCapture.cs/metody/CaptureWindow.md) | *Описание* |
-| [`FewjcWVZLPm`](./ScreenCapture.cs/metody/FewjcWVZLPm.md) | *Описание* |
-| [`DwmjcitxLDp`](./ScreenCapture.cs/metody/DwmjcitxLDp.md) | *Описание* |
-| [`qYnjc2kmd1w`](./ScreenCapture.cs/metody/qYnjc2kmd1w.md) | *Описание* |
-| [`s1pjc9RD0u3`](./ScreenCapture.cs/metody/s1pjc9RD0u3.md) | *Описание* |
-| [`mZwjcXYDejQ`](./ScreenCapture.cs/metody/mZwjcXYDejQ.md) | *Описание* |
-| [`qL1C1PjcbfSt1jRc4poB`](./ScreenCapture.cs/metody/qL1C1PjcbfSt1jRc4poB.md) | *Описание* |
-| [`ReQjc4BwG6e`](./ScreenCapture.cs/metody/ReQjc4BwG6e.md) | *Описание* |
-| [`rV4jcN5vdat`](./ScreenCapture.cs/metody/rV4jcN5vdat.md) | *Описание* |
-| [`MI4B91jctfcyGZHN2j65`](./ScreenCapture.cs/metody/MI4B91jctfcyGZHN2j65.md) | *Описание* |
+| [`CaptureWindow`](./ScreenCapture.cs/Методы/CaptureWindow.md) | *Описание* |
+| [`FewjcWVZLPm`](./ScreenCapture.cs/Методы/FewjcWVZLPm.md) | *Описание* |
+| [`DwmjcitxLDp`](./ScreenCapture.cs/Методы/DwmjcitxLDp.md) | *Описание* |
+| [`qYnjc2kmd1w`](./ScreenCapture.cs/Методы/qYnjc2kmd1w.md) | *Описание* |
+| [`s1pjc9RD0u3`](./ScreenCapture.cs/Методы/s1pjc9RD0u3.md) | *Описание* |
+| [`mZwjcXYDejQ`](./ScreenCapture.cs/Методы/mZwjcXYDejQ.md) | *Описание* |
+| [`qL1C1PjcbfSt1jRc4poB`](./ScreenCapture.cs/Методы/qL1C1PjcbfSt1jRc4poB.md) | *Описание* |
+| [`ReQjc4BwG6e`](./ScreenCapture.cs/Методы/ReQjc4BwG6e.md) | *Описание* |
+| [`rV4jcN5vdat`](./ScreenCapture.cs/Методы/rV4jcN5vdat.md) | *Описание* |
+| [`MI4B91jctfcyGZHN2j65`](./ScreenCapture.cs/Методы/MI4B91jctfcyGZHN2j65.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`Lih7BdjIykOwQHbXkmse`](./ScreenCapture.cs/svoistva/Lih7BdjIykOwQHbXkmse.md) | *Описание* |
-| [`M7hjIq2CkDG;`](./ScreenCapture.cs/svoistva/M7hjIq2CkDG;.md) | *Описание* |
-| [`UjGjIfBfPQ0;`](./ScreenCapture.cs/svoistva/UjGjIfBfPQ0;.md) | *Описание* |
-| [`ktDjIMg1ZJN;`](./ScreenCapture.cs/svoistva/ktDjIMg1ZJN;.md) | *Описание* |
-| [`TNyjIj7U16k;`](./ScreenCapture.cs/svoistva/TNyjIj7U16k;.md) | *Описание* |
+| [`Lih7BdjIykOwQHbXkmse`](./ScreenCapture.cs/Свойства/Lih7BdjIykOwQHbXkmse.md) | *Описание* |
+| [`M7hjIq2CkDG;`](./ScreenCapture.cs/Свойства/M7hjIq2CkDG;.md) | *Описание* |
+| [`UjGjIfBfPQ0;`](./ScreenCapture.cs/Свойства/UjGjIfBfPQ0;.md) | *Описание* |
+| [`ktDjIMg1ZJN;`](./ScreenCapture.cs/Свойства/ktDjIMg1ZJN;.md) | *Описание* |
+| [`TNyjIj7U16k;`](./ScreenCapture.cs/Свойства/TNyjIj7U16k;.md) | *Описание* |
 
 
 ## Пример

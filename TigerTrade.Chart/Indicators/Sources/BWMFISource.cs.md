@@ -18,11 +18,11 @@ public sealed class BWMFISource : IndicatorSourceBase
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`BWMFISource`](./BWMFISource.cs/metody/BWMFISource.md) | *Описание* |
-| [`GetSeriesList`](./BWMFISource.cs/metody/GetSeriesList.md) | *Описание* |
-| [`GetSeries`](./BWMFISource.cs/metody/GetSeries.md) | *Описание* |
-| [`CopySettings`](./BWMFISource.cs/metody/CopySettings.md) | *Описание* |
-| [`ToString`](./BWMFISource.cs/metody/ToString.md) | *Описание* |
+| [`BWMFISource`](./BWMFISource.cs/Методы/BWMFISource.md) | *Описание* |
+| [`GetSeriesList`](./BWMFISource.cs/Методы/GetSeriesList.md) | *Описание* |
+| [`GetSeries`](./BWMFISource.cs/Методы/GetSeries.md) | *Описание* |
+| [`CopySettings`](./BWMFISource.cs/Методы/CopySettings.md) | *Описание* |
+| [`ToString`](./BWMFISource.cs/Методы/ToString.md) | *Описание* |
 
 
 ## Пример

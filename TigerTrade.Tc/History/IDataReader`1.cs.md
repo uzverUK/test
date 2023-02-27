@@ -18,16 +18,16 @@ public interface IDataReader<out T>
 ## Методы
 | Название | Описание |
 | --- | --- |
-| [`Read`](./IDataReader`1.cs/metody/Read.md) | *Описание* |
-| [`Reset`](./IDataReader`1.cs/metody/Reset.md) | *Описание* |
-| [`Dispose`](./IDataReader`1.cs/metody/Dispose.md) | *Описание* |
+| [`Read`](./IDataReader`1.cs/Методы/Read.md) | *Описание* |
+| [`Reset`](./IDataReader`1.cs/Методы/Reset.md) | *Описание* |
+| [`Dispose`](./IDataReader`1.cs/Методы/Dispose.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |
 | --- | --- |
-| [`IsEmpty`](./IDataReader`1.cs/svoistva/IsEmpty.md) | *Описание* |
-| [`LastItem`](./IDataReader`1.cs/svoistva/LastItem.md) | *Описание* |
-| [`PrevItem`](./IDataReader`1.cs/svoistva/PrevItem.md) | *Описание* |
+| [`IsEmpty`](./IDataReader`1.cs/Свойства/IsEmpty.md) | *Описание* |
+| [`LastItem`](./IDataReader`1.cs/Свойства/LastItem.md) | *Описание* |
+| [`PrevItem`](./IDataReader`1.cs/Свойства/PrevItem.md) | *Описание* |
 
 
 ## Пример
