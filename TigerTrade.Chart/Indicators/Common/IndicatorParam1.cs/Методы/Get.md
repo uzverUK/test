@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public T Get(string key, T defaultValue)
 public T Get(string key)
-
 ```

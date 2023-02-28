@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Base
 ```csharp
 int DateToIndex(DateTime dt, int dir)
 int DateToIndex(double dt, int dir)
-
 ```

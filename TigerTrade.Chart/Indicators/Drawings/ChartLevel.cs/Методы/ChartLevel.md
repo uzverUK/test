@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Indicators.Drawings
 ```csharp
 public ChartLevel()
 public ChartLevel(Decimal level, XColor color)
-
 ```

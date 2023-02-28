@@ -12,5 +12,4 @@ namespace TigerTrade.Tc.Manager
 ```csharp
 public static Symbol Get(string id)
 public static Symbol[] Get(params string[] ids)
-
 ```

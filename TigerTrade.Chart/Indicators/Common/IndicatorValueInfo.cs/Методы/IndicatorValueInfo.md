@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public IndicatorValueInfo(string value, XBrush brush)
 public IndicatorValueInfo(string value, XColor color)
-
 ```

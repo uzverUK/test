@@ -12,5 +12,4 @@ namespace TigerTrade.Tc.Data
 ```csharp
 public bool CheckContract(string symbolID)
 public bool CheckContract(Symbol symbol)
-
 ```

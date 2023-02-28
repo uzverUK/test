@@ -12,5 +12,4 @@ namespace TigerTrade.Tc.Data
 ```csharp
 public Symbol GetSymbol()
 public Symbol GetSymbol(DateTime date)
-
 ```

@@ -11,6 +11,5 @@ namespace TigerTrade.Chart.Objects.Common
 ## Синтаксис
 ```csharp
 public ObjectLine()
-public ObjectLine(double value, XColor color)
-public ObjectLine(ObjectLine line)
+public ObjectLine(double value, XColor color)                    public ObjectLine(ObjectLine line)
 ```

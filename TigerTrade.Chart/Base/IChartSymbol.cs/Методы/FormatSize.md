@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Base
 ```csharp
 string FormatSize(Decimal size, int round = 2)
 string FormatSize(Decimal size, int round, bool minimize)
-
 ```

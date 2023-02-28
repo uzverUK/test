@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Base
 ```csharp
 int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double timeOffset)
 int GetSequence(ChartPeriodType type, int interval, double dateTime, double timeOffset)
-
 ```

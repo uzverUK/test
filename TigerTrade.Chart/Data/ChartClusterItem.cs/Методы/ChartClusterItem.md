@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Data
 ```csharp
 public ChartClusterItem(Decimal price)
 public ChartClusterItem(IChartClusterItem item)
-
 ```

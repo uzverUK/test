@@ -12,5 +12,4 @@ namespace TigerTrade.Dx
 ```csharp
 public XBrush(XColor color)
 public XBrush(XColor color, int alpha)
-
 ```

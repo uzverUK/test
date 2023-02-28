@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public IndicatorDecimalParam()
 public IndicatorDecimalParam(Decimal value)
-
 ```

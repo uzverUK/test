@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double MinValue()
 public double MinValue(int start, int count)
-
 ```

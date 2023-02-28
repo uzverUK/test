@@ -12,5 +12,4 @@ namespace TigerTrade.Tc.Data
 ```csharp
 public double GetMoneyPnl(long exitPrice)
 public double GetMoneyPnl(long entryPrice, long exitPrice, long size)
-
 ```

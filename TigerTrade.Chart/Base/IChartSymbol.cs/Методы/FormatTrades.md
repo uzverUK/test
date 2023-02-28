@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Base
 ```csharp
 string FormatTrades(long trades)
 string FormatTrades(long trades, int round, bool minimize)
-
 ```

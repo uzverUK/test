@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double MaxValue()
 public double MaxValue(int start, int count)
-
 ```

@@ -12,5 +12,4 @@ namespace TigerTrade.Core.Utils.Config
 ```csharp
 public static string SaveToString<T>(T o, DataContractResolver resolver = null)
 public static string SaveToString<T>(T o, IEnumerable<Type> knownTypes)
-
 ```

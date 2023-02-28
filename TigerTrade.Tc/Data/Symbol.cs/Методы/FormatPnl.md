@@ -12,5 +12,4 @@ namespace TigerTrade.Tc.Data
 ```csharp
 public string FormatPnl(double pnl, bool f = false)
 public string FormatPnl(double? pnl, bool f = false)
-
 ```

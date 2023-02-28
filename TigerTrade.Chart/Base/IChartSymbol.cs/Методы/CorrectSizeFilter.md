@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Base
 ```csharp
 long CorrectSizeFilter(double filter)
 long? CorrectSizeFilter(double? filter)
-
 ```

@@ -12,5 +12,4 @@ namespace TigerTrade.Chart.Indicators.Drawings
 ```csharp
 public ChartRegion()
 public ChartRegion(XColor color)
-
 ```

@@ -12,5 +12,4 @@ namespace TigerTrade.Tc.Manager
 ```csharp
 public static bool FilterAccount(Account account)
 public static bool FilterAccount(string accountID)
-
 ```
