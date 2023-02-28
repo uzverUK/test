@@ -11,5 +11,6 @@ namespace TigerTrade.Chart.Indicators.Common
 ## Синтаксис
 ```csharp
 public void Set(ChartSeries series, string name = "")
-public void Set(ChartRegion region)                    public void Set(ChartLine line)
+public void Set(ChartRegion region)
+public void Set(ChartLine line)
 ```
