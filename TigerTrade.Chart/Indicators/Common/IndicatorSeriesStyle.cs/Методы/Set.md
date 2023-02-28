@@ -13,5 +13,4 @@ namespace TigerTrade.Chart.Indicators.Common
 public void Set(ChartSeries series, string name = "")
 public void Set(ChartRegion region)
 public void Set(ChartLine line)
-public void Set(ChartLine line)
 ```

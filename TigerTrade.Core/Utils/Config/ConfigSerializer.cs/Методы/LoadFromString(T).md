@@ -14,5 +14,4 @@ public static T LoadFromString<T>(string data, DataContractResolver resolver = n
 public static T LoadFromString<T>(string data, IEnumerable<Type> knownTypes)
 public static T LoadFromString<T>(byte[] data, DataContractResolver resolver = null)
 public static T LoadFromString<T>(byte[] data, IEnumerable<Type> knownTypes)
-public static T LoadFromString<T>(byte[] data, IEnumerable<Type> knownTypes)
 ```

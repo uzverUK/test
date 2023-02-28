@@ -13,5 +13,4 @@ namespace TigerTrade.Chart.Indicators.Drawings
 public ChartSeries()
 public ChartSeries(ChartSeriesType type, XColor color)
 public ChartSeries(ChartSeriesType type, XColor color, XDashStyle style)
-public ChartSeries(ChartSeriesType type, XColor color, XDashStyle style)
 ```

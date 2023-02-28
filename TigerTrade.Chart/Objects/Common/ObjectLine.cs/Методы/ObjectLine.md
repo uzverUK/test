@@ -13,5 +13,4 @@ namespace TigerTrade.Chart.Objects.Common
 public ObjectLine()
 public ObjectLine(double value, XColor color)
 public ObjectLine(ObjectLine line)
-public ObjectLine(ObjectLine line)
 ```

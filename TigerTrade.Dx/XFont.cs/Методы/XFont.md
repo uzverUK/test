@@ -14,5 +14,4 @@ public XFont()
 public XFont(bool bold)
 public XFont(string fontName, double size)
 public XFont(string fontName, double size, bool bold)
-public XFont(string fontName, double size, bool bold)
 ```
