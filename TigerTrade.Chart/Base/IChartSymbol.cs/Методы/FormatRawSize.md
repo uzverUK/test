@@ -10,5 +10,7 @@ namespace TigerTrade.Chart.Base
 
 ## Синтаксис
 ```csharp
+string FormatRawSize(long size, int round = 2)
 string FormatRawSize(long size, int round, bool minimize)
+
 ```

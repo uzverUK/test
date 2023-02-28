@@ -10,5 +10,7 @@ namespace TigerTrade.Tc.Data
 
 ## Синтаксис
 ```csharp
+public string FormatTime(DateTime dt, string format)
 public string FormatTime(DateTime dt, string dateFormat, string timeFormat)
+
 ```

@@ -10,5 +10,7 @@ namespace TigerTrade.Dx
 
 ## Синтаксис
 ```csharp
+public XPen(XBrush brush, int width)
 public XPen(XBrush brush, int width, XDashStyle style)
+
 ```

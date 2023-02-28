@@ -10,5 +10,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ## Синтаксис
 ```csharp
+public IndicatorIntParam()
 public IndicatorIntParam(int value)
+
 ```

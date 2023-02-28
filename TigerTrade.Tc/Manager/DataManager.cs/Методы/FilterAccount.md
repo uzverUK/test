@@ -10,5 +10,7 @@ namespace TigerTrade.Tc.Manager
 
 ## Синтаксис
 ```csharp
+public static bool FilterAccount(Account account)
 public static bool FilterAccount(string accountID)
+
 ```

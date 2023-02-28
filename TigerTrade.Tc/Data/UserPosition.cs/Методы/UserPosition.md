@@ -10,5 +10,7 @@ namespace TigerTrade.Tc.Data
 
 ## Синтаксис
 ```csharp
+public UserPosition()
 public UserPosition(ConnectionInfo info, Symbol symbol, Account account)
+
 ```

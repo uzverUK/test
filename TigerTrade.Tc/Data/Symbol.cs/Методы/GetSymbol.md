@@ -10,5 +10,7 @@ namespace TigerTrade.Tc.Data
 
 ## Синтаксис
 ```csharp
+public Symbol GetSymbol()
 public Symbol GetSymbol(DateTime date)
+
 ```

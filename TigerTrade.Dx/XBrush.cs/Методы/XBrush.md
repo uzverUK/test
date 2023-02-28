@@ -10,5 +10,7 @@ namespace TigerTrade.Dx
 
 ## Синтаксис
 ```csharp
+public XBrush(XColor color)
 public XBrush(XColor color, int alpha)
+
 ```

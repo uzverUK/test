@@ -10,5 +10,7 @@ namespace TigerTrade.Tc.Collections
 
 ## Синтаксис
 ```csharp
+public IList<U81cMgjWlqphcZEdk6RV> GetAll()
 public IList<U81cMgjWlqphcZEdk6RV> GetAll(bool isConnected)
+
 ```

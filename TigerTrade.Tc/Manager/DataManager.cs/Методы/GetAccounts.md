@@ -10,5 +10,7 @@ namespace TigerTrade.Tc.Manager
 
 ## Синтаксис
 ```csharp
+public static List<Account> GetAccounts(Symbol symbol, bool isOfflineAccount = false)
 public static List<Account> GetAccounts()
+
 ```

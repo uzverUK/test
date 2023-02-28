@@ -10,5 +10,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ## Синтаксис
 ```csharp
+public IndicatorTitleInfo(string title, XBrush brush)
 public IndicatorTitleInfo(string title, XColor color)
+
 ```

@@ -10,5 +10,7 @@ namespace TigerTrade.Chart.Data
 
 ## Синтаксис
 ```csharp
+public RawClusterItem(long price)
 public RawClusterItem(IRawClusterItem item)
+
 ```

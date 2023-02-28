@@ -10,5 +10,7 @@ namespace TigerTrade.Tc.Manager
 
 ## Синтаксис
 ```csharp
+public static bool IsTradeAllowed(UserPosition position)
 public static bool IsTradeAllowed(Symbol symbol)
+
 ```

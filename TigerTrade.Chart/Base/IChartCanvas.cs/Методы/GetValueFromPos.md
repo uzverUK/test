@@ -10,5 +10,7 @@ namespace TigerTrade.Chart.Base
 
 ## Синтаксис
 ```csharp
+Point GetValueFromPos(double x, double y)
 Point GetValueFromPos(double x, double y, bool snapToGrid)
+
 ```

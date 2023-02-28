@@ -10,5 +10,8 @@ namespace TigerTrade.Core.Utils.Logging
 
 ## Синтаксис
 ```csharp
+public static void WriteError(string e)
+public static void WriteError(Exception e)
+public static void WriteError(string errorInfo, Exception e)
 public static void WriteError(string errorInfo, Exception e)
 ```

@@ -10,5 +10,7 @@ namespace TigerTrade.Tc.Data
 
 ## Синтаксис
 ```csharp
+public string FormatSize(long size)
 public string FormatSize(double size, bool f = false)
+
 ```

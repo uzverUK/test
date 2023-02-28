@@ -10,5 +10,7 @@ namespace TigerTrade.Tc.Data
 
 ## Синтаксис
 ```csharp
+public bool CheckContract(string symbolID)
 public bool CheckContract(Symbol symbol)
+
 ```

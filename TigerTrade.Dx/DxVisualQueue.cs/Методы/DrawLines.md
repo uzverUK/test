@@ -10,5 +10,7 @@ namespace TigerTrade.Dx
 
 ## Синтаксис
 ```csharp
+public void DrawLines(XPen pen, Point[] points)
 public void DrawLines(XPen pen, Point[] points, int pointsLength)
+
 ```

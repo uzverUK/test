@@ -10,5 +10,9 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ## Синтаксис
 ```csharp
+public IndicatorSeriesData(double[] data)
+public IndicatorSeriesData(double[] data, ChartSeries style, string name = "")
+public IndicatorSeriesData(double[] data, ChartRegion style)
+public IndicatorSeriesData(double[] data, ChartLine style)
 public IndicatorSeriesData(double[] data, ChartLine style)
 ```

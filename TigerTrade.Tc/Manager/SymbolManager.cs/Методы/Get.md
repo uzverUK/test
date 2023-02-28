@@ -10,5 +10,7 @@ namespace TigerTrade.Tc.Manager
 
 ## Синтаксис
 ```csharp
+public static Symbol Get(string id)
 public static Symbol[] Get(params string[] ids)
+
 ```
