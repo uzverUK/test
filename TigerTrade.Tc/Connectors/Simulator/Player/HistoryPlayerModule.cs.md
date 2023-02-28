@@ -19,7 +19,6 @@ public static class HistoryPlayerModule
 | Название | Описание |
 | --- | --- |
 | [`Init`](./HistoryPlayerModule.cs/Методы/Init.md) | *Описание* |
-| [`Init`](./HistoryPlayerModule.cs/Методы/Init.md) | *Описание* |
 | [`Clear`](./HistoryPlayerModule.cs/Методы/Clear.md) | *Описание* |
 | [`Play`](./HistoryPlayerModule.cs/Методы/Play.md) | *Описание* |
 | [`Stop`](./HistoryPlayerModule.cs/Методы/Stop.md) | *Описание* |

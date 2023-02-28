@@ -19,12 +19,7 @@ public sealed class IndicatorSeriesData
 | Название | Описание |
 | --- | --- |
 | [`IndicatorSeriesData`](./IndicatorSeriesData.cs/Методы/IndicatorSeriesData.md) | *Описание* |
-| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/Методы/IndicatorSeriesData.md) | *Описание* |
-| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/Методы/IndicatorSeriesData.md) | *Описание* |
-| [`IndicatorSeriesData`](./IndicatorSeriesData.cs/Методы/IndicatorSeriesData.md) | *Описание* |
 | [`MaxValue`](./IndicatorSeriesData.cs/Методы/MaxValue.md) | *Описание* |
-| [`MaxValue`](./IndicatorSeriesData.cs/Методы/MaxValue.md) | *Описание* |
-| [`MinValue`](./IndicatorSeriesData.cs/Методы/MinValue.md) | *Описание* |
 | [`MinValue`](./IndicatorSeriesData.cs/Методы/MinValue.md) | *Описание* |
 | [`CachePoints`](./IndicatorSeriesData.cs/Методы/CachePoints.md) | *Описание* |
 | [`GetDistance`](./IndicatorSeriesData.cs/Методы/GetDistance.md) | *Описание* |

@@ -19,9 +19,6 @@ public sealed class XFont
 | Название | Описание |
 | --- | --- |
 | [`XFont`](./XFont.cs/Методы/XFont.md) | *Описание* |
-| [`XFont`](./XFont.cs/Методы/XFont.md) | *Описание* |
-| [`XFont`](./XFont.cs/Методы/XFont.md) | *Описание* |
-| [`XFont`](./XFont.cs/Методы/XFont.md) | *Описание* |
 | [`GetHeight`](./XFont.cs/Методы/GetHeight.md) | *Описание* |
 | [`GetWidth`](./XFont.cs/Методы/GetWidth.md) | *Описание* |
 | [`ToString`](./XFont.cs/Методы/ToString.md) | *Описание* |

@@ -19,7 +19,6 @@ public sealed class ChartLevel : INotifyPropertyChanged
 | Название | Описание |
 | --- | --- |
 | [`ChartLevel`](./ChartLevel.cs/Методы/ChartLevel.md) | *Описание* |
-| [`ChartLevel`](./ChartLevel.cs/Методы/ChartLevel.md) | *Описание* |
 | [`CopyTheme`](./ChartLevel.cs/Методы/CopyTheme.md) | *Описание* |
 | [`ToString`](./ChartLevel.cs/Методы/ToString.md) | *Описание* |
 

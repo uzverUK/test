@@ -19,7 +19,6 @@ public sealed class XBrush
 | Название | Описание |
 | --- | --- |
 | [`XBrush`](./XBrush.cs/Методы/XBrush.md) | *Описание* |
-| [`XBrush`](./XBrush.cs/Методы/XBrush.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |

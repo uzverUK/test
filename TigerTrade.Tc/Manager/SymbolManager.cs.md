@@ -21,7 +21,6 @@ public static class SymbolManager
 | [`LoadOrUpdate`](./SymbolManager.cs/Методы/LoadOrUpdate.md) | *Описание* |
 | [`FireSymbolUpdatedEvent`](./SymbolManager.cs/Методы/FireSymbolUpdatedEvent.md) | *Описание* |
 | [`Get`](./SymbolManager.cs/Методы/Get.md) | *Описание* |
-| [`Get`](./SymbolManager.cs/Методы/Get.md) | *Описание* |
 | [`GetAll`](./SymbolManager.cs/Методы/GetAll.md) | *Описание* |
 | [`GetAllOptions`](./SymbolManager.cs/Методы/GetAllOptions.md) | *Описание* |
 | [`Clear`](./SymbolManager.cs/Методы/Clear.md) | *Описание* |

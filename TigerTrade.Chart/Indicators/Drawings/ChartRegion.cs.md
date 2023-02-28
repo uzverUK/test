@@ -19,7 +19,6 @@ public sealed class ChartRegion : INotifyPropertyChanged
 | Название | Описание |
 | --- | --- |
 | [`ChartRegion`](./ChartRegion.cs/Методы/ChartRegion.md) | *Описание* |
-| [`ChartRegion`](./ChartRegion.cs/Методы/ChartRegion.md) | *Описание* |
 | [`CopyTheme`](./ChartRegion.cs/Методы/CopyTheme.md) | *Описание* |
 | [`ToString`](./ChartRegion.cs/Методы/ToString.md) | *Описание* |
 

@@ -19,12 +19,10 @@ public sealed class UserPosition
 | Название | Описание |
 | --- | --- |
 | [`UserPosition`](./UserPosition.cs/Методы/UserPosition.md) | *Описание* |
-| [`UserPosition`](./UserPosition.cs/Методы/UserPosition.md) | *Описание* |
 | [`GetPointsPnl`](./UserPosition.cs/Методы/GetPointsPnl.md) | *Описание* |
 | [`GetMoneyPnl`](./UserPosition.cs/Методы/GetMoneyPnl.md) | *Описание* |
 | [`GetPercentPnl`](./UserPosition.cs/Методы/GetPercentPnl.md) | *Описание* |
 | [`GetPointsPnl`](./UserPosition.cs/Методы/GetPointsPnl.md) | *Описание* |
-| [`GetMoneyPnl`](./UserPosition.cs/Методы/GetMoneyPnl.md) | *Описание* |
 | [`GetMoneyPnl`](./UserPosition.cs/Методы/GetMoneyPnl.md) | *Описание* |
 | [`GetPercentPnl`](./UserPosition.cs/Методы/GetPercentPnl.md) | *Описание* |
 | [`InitStrategy`](./UserPosition.cs/Методы/InitStrategy.md) | *Описание* |

@@ -19,7 +19,6 @@ public sealed class ChartClusterItem : IChartClusterItem
 | Название | Описание |
 | --- | --- |
 | [`ChartClusterItem`](./ChartClusterItem.cs/Методы/ChartClusterItem.md) | *Описание* |
-| [`ChartClusterItem`](./ChartClusterItem.cs/Методы/ChartClusterItem.md) | *Описание* |
 | [`Add`](./ChartClusterItem.cs/Методы/Add.md) | *Описание* |
 
 ## Свойства

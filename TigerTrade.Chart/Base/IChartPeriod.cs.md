@@ -19,7 +19,6 @@ public interface IChartPeriod
 | Название | Описание |
 | --- | --- |
 | [`GetSequence`](./IChartPeriod.cs/Методы/GetSequence.md) | *Описание* |
-| [`GetSequence`](./IChartPeriod.cs/Методы/GetSequence.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |

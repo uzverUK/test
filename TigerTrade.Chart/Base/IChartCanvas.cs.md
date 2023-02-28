@@ -25,9 +25,7 @@ public interface IChartCanvas
 | [`GetY`](./IChartCanvas.cs/Методы/GetY.md) | *Описание* |
 | [`GetValue`](./IChartCanvas.cs/Методы/GetValue.md) | *Описание* |
 | [`GetValueFromPos`](./IChartCanvas.cs/Методы/GetValueFromPos.md) | *Описание* |
-| [`GetValueFromPos`](./IChartCanvas.cs/Методы/GetValueFromPos.md) | *Описание* |
 | [`IndexToDate`](./IChartCanvas.cs/Методы/IndexToDate.md) | *Описание* |
-| [`DateToIndex`](./IChartCanvas.cs/Методы/DateToIndex.md) | *Описание* |
 | [`DateToIndex`](./IChartCanvas.cs/Методы/DateToIndex.md) | *Описание* |
 | [`ConvertTimeFromLocal`](./IChartCanvas.cs/Методы/ConvertTimeFromLocal.md) | *Описание* |
 | [`ConvertTimeToLocal`](./IChartCanvas.cs/Методы/ConvertTimeToLocal.md) | *Описание* |

@@ -19,7 +19,6 @@ public sealed class IndicatorValueInfo
 | Название | Описание |
 | --- | --- |
 | [`IndicatorValueInfo`](./IndicatorValueInfo.cs/Методы/IndicatorValueInfo.md) | *Описание* |
-| [`IndicatorValueInfo`](./IndicatorValueInfo.cs/Методы/IndicatorValueInfo.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |

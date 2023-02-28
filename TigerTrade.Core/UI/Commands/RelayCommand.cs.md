@@ -19,7 +19,6 @@ public sealed class RelayCommand : ICommand
 | Название | Описание |
 | --- | --- |
 | [`RelayCommand`](./RelayCommand.cs/Методы/RelayCommand.md) | *Описание* |
-| [`RelayCommand`](./RelayCommand.cs/Методы/RelayCommand.md) | *Описание* |
 | [`CanExecute`](./RelayCommand.cs/Методы/CanExecute.md) | *Описание* |
 | [`Execute`](./RelayCommand.cs/Методы/Execute.md) | *Описание* |
 

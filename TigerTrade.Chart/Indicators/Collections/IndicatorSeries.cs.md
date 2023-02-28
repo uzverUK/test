@@ -19,8 +19,6 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 | Название | Описание |
 | --- | --- |
 | [`Add`](./IndicatorSeries.cs/Методы/Add.md) | *Описание* |
-| [`Add`](./IndicatorSeries.cs/Методы/Add.md) | *Описание* |
-| [`Add`](./IndicatorSeries.cs/Методы/Add.md) | *Описание* |
 | [`Clear`](./IndicatorSeries.cs/Методы/Clear.md) | *Описание* |
 | [`GetEnumerator`](./IndicatorSeries.cs/Методы/GetEnumerator.md) | *Описание* |
 | [`IndicatorSeries`](./IndicatorSeries.cs/Методы/IndicatorSeries.md) | *Описание* |

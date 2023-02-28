@@ -20,8 +20,6 @@ public sealed class IndicatorSeriesStyle
 | --- | --- |
 | [`IndicatorSeriesStyle`](./IndicatorSeriesStyle.cs/Методы/IndicatorSeriesStyle.md) | *Описание* |
 | [`Set`](./IndicatorSeriesStyle.cs/Методы/Set.md) | *Описание* |
-| [`Set`](./IndicatorSeriesStyle.cs/Методы/Set.md) | *Описание* |
-| [`Set`](./IndicatorSeriesStyle.cs/Методы/Set.md) | *Описание* |
 | [`DisableAll`](./IndicatorSeriesStyle.cs/Методы/DisableAll.md) | *Описание* |
 
 ## Свойства

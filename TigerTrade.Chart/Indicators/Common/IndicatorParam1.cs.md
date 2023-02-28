@@ -19,7 +19,6 @@ public abstract class IndicatorParam<T>
 | Название | Описание |
 | --- | --- |
 | [`Get`](./IndicatorParam1.cs/Методы/Get.md) | *Описание* |
-| [`Get`](./IndicatorParam1.cs/Методы/Get.md) | *Описание* |
 | [`Copy`](./IndicatorParam1.cs/Методы/Copy.md) | *Описание* |
 | [`Clear`](./IndicatorParam1.cs/Методы/Clear.md) | *Описание* |
 

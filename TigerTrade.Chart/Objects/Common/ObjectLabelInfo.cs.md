@@ -19,7 +19,6 @@ public sealed class ObjectLabelInfo
 | Название | Описание |
 | --- | --- |
 | [`ObjectLabelInfo`](./ObjectLabelInfo.cs/Методы/ObjectLabelInfo.md) | *Описание* |
-| [`ObjectLabelInfo`](./ObjectLabelInfo.cs/Методы/ObjectLabelInfo.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |

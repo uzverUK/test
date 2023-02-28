@@ -19,8 +19,6 @@ public sealed class Symbol
 | Название | Описание |
 | --- | --- |
 | [`GetSymbol`](./Symbol.cs/Методы/GetSymbol.md) | *Описание* |
-| [`GetSymbol`](./Symbol.cs/Методы/GetSymbol.md) | *Описание* |
-| [`CheckContract`](./Symbol.cs/Методы/CheckContract.md) | *Описание* |
 | [`CheckContract`](./Symbol.cs/Методы/CheckContract.md) | *Описание* |
 | [`CurrentSymbolID`](./Symbol.cs/Методы/CurrentSymbolID.md) | *Описание* |
 | [`GetContracts`](./Symbol.cs/Методы/GetContracts.md) | *Описание* |
@@ -30,18 +28,10 @@ public sealed class Symbol
 | [`GetShortSize`](./Symbol.cs/Методы/GetShortSize.md) | *Описание* |
 | [`GetRealSize`](./Symbol.cs/Методы/GetRealSize.md) | *Описание* |
 | [`FormatPrice`](./Symbol.cs/Методы/FormatPrice.md) | *Описание* |
-| [`FormatPrice`](./Symbol.cs/Методы/FormatPrice.md) | *Описание* |
-| [`FormatPrice`](./Symbol.cs/Методы/FormatPrice.md) | *Описание* |
-| [`FormatPrice`](./Symbol.cs/Методы/FormatPrice.md) | *Описание* |
-| [`FormatSize`](./Symbol.cs/Методы/FormatSize.md) | *Описание* |
 | [`FormatSize`](./Symbol.cs/Методы/FormatSize.md) | *Описание* |
 | [`FormatAvgSize`](./Symbol.cs/Методы/FormatAvgSize.md) | *Описание* |
 | [`FormatFullSize`](./Symbol.cs/Методы/FormatFullSize.md) | *Описание* |
-| [`FormatFullSize`](./Symbol.cs/Методы/FormatFullSize.md) | *Описание* |
-| [`FormatFullSize`](./Symbol.cs/Методы/FormatFullSize.md) | *Описание* |
 | [`FormatPnl`](./Symbol.cs/Методы/FormatPnl.md) | *Описание* |
-| [`FormatPnl`](./Symbol.cs/Методы/FormatPnl.md) | *Описание* |
-| [`FormatTime`](./Symbol.cs/Методы/FormatTime.md) | *Описание* |
 | [`FormatTime`](./Symbol.cs/Методы/FormatTime.md) | *Описание* |
 | [`ConvertTimeToLocal`](./Symbol.cs/Методы/ConvertTimeToLocal.md) | *Описание* |
 | [`ConvertTimeFromLocal`](./Symbol.cs/Методы/ConvertTimeFromLocal.md) | *Описание* |

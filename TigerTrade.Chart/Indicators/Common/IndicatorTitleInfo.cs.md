@@ -19,7 +19,6 @@ public sealed class IndicatorTitleInfo
 | Название | Описание |
 | --- | --- |
 | [`IndicatorTitleInfo`](./IndicatorTitleInfo.cs/Методы/IndicatorTitleInfo.md) | *Описание* |
-| [`IndicatorTitleInfo`](./IndicatorTitleInfo.cs/Методы/IndicatorTitleInfo.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |

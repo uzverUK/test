@@ -20,8 +20,6 @@ public static class LogManager
 | --- | --- |
 | [`Init`](./LogManager.cs/Методы/Init.md) | *Описание* |
 | [`WriteError`](./LogManager.cs/Методы/WriteError.md) | *Описание* |
-| [`WriteError`](./LogManager.cs/Методы/WriteError.md) | *Описание* |
-| [`WriteError`](./LogManager.cs/Методы/WriteError.md) | *Описание* |
 | [`WriteInfo`](./LogManager.cs/Методы/WriteInfo.md) | *Описание* |
 | [`WriteFake`](./LogManager.cs/Методы/WriteFake.md) | *Описание* |
 | [`GetErrorLog`](./LogManager.cs/Методы/GetErrorLog.md) | *Описание* |

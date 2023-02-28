@@ -27,9 +27,7 @@ public static class DataManager
 | [`GetSimAccounts`](./DataManager.cs/Методы/GetSimAccounts.md) | *Описание* |
 | [`GetAccount`](./DataManager.cs/Методы/GetAccount.md) | *Описание* |
 | [`GetAccounts`](./DataManager.cs/Методы/GetAccounts.md) | *Описание* |
-| [`GetAccounts`](./DataManager.cs/Методы/GetAccounts.md) | *Описание* |
 | [`GetUserPosition`](./DataManager.cs/Методы/GetUserPosition.md) | *Описание* |
-| [`IsTradeAllowed`](./DataManager.cs/Методы/IsTradeAllowed.md) | *Описание* |
 | [`IsTradeAllowed`](./DataManager.cs/Методы/IsTradeAllowed.md) | *Описание* |
 | [`IsClientConnected`](./DataManager.cs/Методы/IsClientConnected.md) | *Описание* |
 | [`ClientConnect`](./DataManager.cs/Методы/ClientConnect.md) | *Описание* |
@@ -46,7 +44,6 @@ public static class DataManager
 | [`SyncSlTp`](./DataManager.cs/Методы/SyncSlTp.md) | *Описание* |
 | [`LoadTrustAccounts`](./DataManager.cs/Методы/LoadTrustAccounts.md) | *Описание* |
 | [`SetTradeMode`](./DataManager.cs/Методы/SetTradeMode.md) | *Описание* |
-| [`FilterAccount`](./DataManager.cs/Методы/FilterAccount.md) | *Описание* |
 | [`FilterAccount`](./DataManager.cs/Методы/FilterAccount.md) | *Описание* |
 | [`AutoConnect`](./DataManager.cs/Методы/AutoConnect.md) | *Описание* |
 

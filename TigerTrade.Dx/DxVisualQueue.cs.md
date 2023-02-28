@@ -23,8 +23,6 @@ public sealed class DxVisualQueue
 | [`SetClip`](./DxVisualQueue.cs/Методы/SetClip.md) | *Описание* |
 | [`ResetClip`](./DxVisualQueue.cs/Методы/ResetClip.md) | *Описание* |
 | [`DrawLine`](./DxVisualQueue.cs/Методы/DrawLine.md) | *Описание* |
-| [`DrawLine`](./DxVisualQueue.cs/Методы/DrawLine.md) | *Описание* |
-| [`DrawLines`](./DxVisualQueue.cs/Методы/DrawLines.md) | *Описание* |
 | [`DrawLines`](./DxVisualQueue.cs/Методы/DrawLines.md) | *Описание* |
 | [`DrawSmoothLines`](./DxVisualQueue.cs/Методы/DrawSmoothLines.md) | *Описание* |
 | [`DrawRectangle`](./DxVisualQueue.cs/Методы/DrawRectangle.md) | *Описание* |

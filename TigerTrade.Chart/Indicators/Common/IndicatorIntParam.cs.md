@@ -19,7 +19,6 @@ public sealed class IndicatorIntParam : IndicatorParam<int>
 | Название | Описание |
 | --- | --- |
 | [`IndicatorIntParam`](./IndicatorIntParam.cs/Методы/IndicatorIntParam.md) | *Описание* |
-| [`IndicatorIntParam`](./IndicatorIntParam.cs/Методы/IndicatorIntParam.md) | *Описание* |
 | [`Set`](./IndicatorIntParam.cs/Методы/Set.md) | *Описание* |
 
 

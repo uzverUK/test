@@ -19,8 +19,6 @@ public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
 | Название | Описание |
 | --- | --- |
 | [`ChartSeries`](./ChartSeries.cs/Методы/ChartSeries.md) | *Описание* |
-| [`ChartSeries`](./ChartSeries.cs/Методы/ChartSeries.md) | *Описание* |
-| [`ChartSeries`](./ChartSeries.cs/Методы/ChartSeries.md) | *Описание* |
 | [`CopyTheme`](./ChartSeries.cs/Методы/CopyTheme.md) | *Описание* |
 | [`ToString`](./ChartSeries.cs/Методы/ToString.md) | *Описание* |
 | [`GetPropertyVisibility`](./ChartSeries.cs/Методы/GetPropertyVisibility.md) | *Описание* |

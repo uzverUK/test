@@ -19,7 +19,6 @@ public sealed class IndicatorDecimalParam : IndicatorParam<Decimal>
 | Название | Описание |
 | --- | --- |
 | [`IndicatorDecimalParam`](./IndicatorDecimalParam.cs/Методы/IndicatorDecimalParam.md) | *Описание* |
-| [`IndicatorDecimalParam`](./IndicatorDecimalParam.cs/Методы/IndicatorDecimalParam.md) | *Описание* |
 | [`Set`](./IndicatorDecimalParam.cs/Методы/Set.md) | *Описание* |
 
 

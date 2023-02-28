@@ -19,8 +19,6 @@ public sealed class ObjectLine : INotifyPropertyChanged
 | Название | Описание |
 | --- | --- |
 | [`ObjectLine`](./ObjectLine.cs/Методы/ObjectLine.md) | *Описание* |
-| [`ObjectLine`](./ObjectLine.cs/Методы/ObjectLine.md) | *Описание* |
-| [`ObjectLine`](./ObjectLine.cs/Методы/ObjectLine.md) | *Описание* |
 | [`ToString`](./ObjectLine.cs/Методы/ToString.md) | *Описание* |
 
 ## Свойства

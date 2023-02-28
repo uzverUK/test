@@ -19,7 +19,6 @@ public sealed class Order
 | Название | Описание |
 | --- | --- |
 | [`Order`](./Order.cs/Методы/Order.md) | *Описание* |
-| [`Order`](./Order.cs/Методы/Order.md) | *Описание* |
 
 ## Свойства
 | Название | Описание |

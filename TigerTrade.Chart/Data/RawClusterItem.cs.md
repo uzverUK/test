@@ -19,7 +19,6 @@ public sealed class RawClusterItem : IRawClusterItem
 | Название | Описание |
 | --- | --- |
 | [`RawClusterItem`](./RawClusterItem.cs/Методы/RawClusterItem.md) | *Описание* |
-| [`RawClusterItem`](./RawClusterItem.cs/Методы/RawClusterItem.md) | *Описание* |
 | [`Add`](./RawClusterItem.cs/Методы/Add.md) | *Описание* |
 
 ## Свойства

@@ -24,7 +24,6 @@ public static class TimeHelper
 | [`GetSessionOffset`](./TimeHelper.cs/Методы/GetSessionOffset.md) | *Описание* |
 | [`GetSessionOffsetTs`](./TimeHelper.cs/Методы/GetSessionOffsetTs.md) | *Описание* |
 | [`GetSessionDate`](./TimeHelper.cs/Методы/GetSessionDate.md) | *Описание* |
-| [`GetSessionDate`](./TimeHelper.cs/Методы/GetSessionDate.md) | *Описание* |
 | [`IsInvalidTime`](./TimeHelper.cs/Методы/IsInvalidTime.md) | *Описание* |
 | [`FormatTime`](./TimeHelper.cs/Методы/FormatTime.md) | *Описание* |
 | [`ConvertFromExchangeTimeToUtc`](./TimeHelper.cs/Методы/ConvertFromExchangeTimeToUtc.md) | *Описание* |
