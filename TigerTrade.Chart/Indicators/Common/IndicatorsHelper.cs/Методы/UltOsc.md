@@ -12,13 +12,13 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] UltOsc(int period1, int period2, int period3)
 ```
 
-<mark style="color:yellow;">**`period1`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`period1`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`period2`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`period2`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`period3`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`period3`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

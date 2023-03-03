@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Objects.Common
 public override bool Equals(object obj)
 ```
 
-<mark style="color:yellow;">**`obj`**</mark> <mark style="color:red;">`object`</mark>  
+<mark style="color:yellow;">`obj`</mark> <mark style="color:red;">*`object`*</mark>  
  *Описание*  
   
 

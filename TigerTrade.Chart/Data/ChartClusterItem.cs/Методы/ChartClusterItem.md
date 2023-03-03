@@ -14,10 +14,10 @@ public ChartClusterItem(IChartClusterItem item)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`price`**</mark> <mark style="color:red;">`Decimal`</mark>  
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`item`**</mark> <mark style="color:red;">`IChartClusterItem`</mark>  
+<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
  *Описание*  
   
 

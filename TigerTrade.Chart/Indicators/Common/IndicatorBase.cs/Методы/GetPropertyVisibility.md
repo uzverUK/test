@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Common
 public virtual bool GetPropertyVisibility(string propertyName)
 ```
 
-<mark style="color:yellow;">**`propertyName`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 

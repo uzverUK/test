@@ -13,7 +13,7 @@ public RawCluster(DateTime time)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`time`**</mark> <mark style="color:red;">`DateTime`</mark>  
+<mark style="color:yellow;">`time`</mark> <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
   
 

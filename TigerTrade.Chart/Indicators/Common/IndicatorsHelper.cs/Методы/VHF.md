@@ -13,7 +13,7 @@ public double[] VHF(int n)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`n`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

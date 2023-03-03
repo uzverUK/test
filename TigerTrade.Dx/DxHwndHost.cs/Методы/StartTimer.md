@@ -13,10 +13,10 @@ public void StartTimer(int interval)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`interval`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`DispatcherTimer`**</mark> <mark style="color:red;">`new`</mark>  
+<mark style="color:yellow;">`DispatcherTimer`</mark> <mark style="color:red;">*`new`*</mark>  
  *Описание*  
   
 

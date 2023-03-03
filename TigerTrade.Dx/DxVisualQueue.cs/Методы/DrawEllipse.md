@@ -12,13 +12,13 @@ namespace TigerTrade.Dx
 public void DrawEllipse(XPen pen, Point center, double radiusX, double radiusY)
 ```
 
-<mark style="color:yellow;">**`center`**</mark> <mark style="color:red;">`Point`</mark>  
+<mark style="color:yellow;">`center`</mark> <mark style="color:red;">*`Point`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`radiusX`**</mark> <mark style="color:red;">`double`</mark>  
+<mark style="color:yellow;">`radiusX`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`radiusY`**</mark> <mark style="color:red;">`double`</mark>  
+<mark style="color:yellow;">`radiusY`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
 

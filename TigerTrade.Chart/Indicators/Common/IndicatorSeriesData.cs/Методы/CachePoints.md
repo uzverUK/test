@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Common
 public void CachePoints(Point[] points, string pointsName)
 ```
 
-<mark style="color:yellow;">**`pointsName`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`pointsName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 

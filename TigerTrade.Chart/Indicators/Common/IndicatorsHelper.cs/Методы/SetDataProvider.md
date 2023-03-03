@@ -13,7 +13,7 @@ public void SetDataProvider(IChartDataProvider dp)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`dp`**</mark> <mark style="color:red;">`IChartDataProvider`</mark>  
+<mark style="color:yellow;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
  *Описание*  
   
 

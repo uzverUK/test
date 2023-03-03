@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] RSI(double[] d, int period)
 ```
 
-<mark style="color:yellow;">**`period`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

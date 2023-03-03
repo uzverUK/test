@@ -13,7 +13,7 @@ public static extern bool qYnjc2kmd1w(IntPtr _param0)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`_param0`**</mark> <mark style="color:red;">`IntPtr`</mark>  
+<mark style="color:yellow;">`_param0`</mark> <mark style="color:red;">*`IntPtr`*</mark>  
  *Описание*  
   
 

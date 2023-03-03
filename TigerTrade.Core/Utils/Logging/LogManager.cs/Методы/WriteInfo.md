@@ -12,7 +12,7 @@ namespace TigerTrade.Core.Utils.Logging
 public static void WriteInfo(string i)
 ```
 
-<mark style="color:yellow;">**`i`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 

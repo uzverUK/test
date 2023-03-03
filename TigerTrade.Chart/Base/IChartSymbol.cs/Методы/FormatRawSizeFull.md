@@ -13,7 +13,7 @@ string FormatRawSizeFull(long size)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`size`**</mark> <mark style="color:red;">`long`</mark>  
+<mark style="color:yellow;">`size`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
   
 

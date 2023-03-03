@@ -14,13 +14,13 @@ public static void WriteError(Exception e)
 public static void WriteError(string errorInfo, Exception e)
 ```
 
-<mark style="color:yellow;">**`e`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`e`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`e`**</mark> <mark style="color:red;">`Exception`</mark>  
+<mark style="color:yellow;">`e`</mark> <mark style="color:red;">*`Exception`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`errorInfo`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`errorInfo`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 

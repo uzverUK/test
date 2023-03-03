@@ -13,7 +13,7 @@ public static DateTime GetCityTime(string city)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`city`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`city`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 

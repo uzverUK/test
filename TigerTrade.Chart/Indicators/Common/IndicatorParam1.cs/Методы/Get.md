@@ -14,10 +14,10 @@ public T Get(string key)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`key`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`defaultValue`**</mark> <mark style="color:red;">`T`</mark>  
+<mark style="color:yellow;">`defaultValue`</mark> <mark style="color:red;">*`T`*</mark>  
  *Описание*  
   
 

@@ -12,10 +12,10 @@ namespace TigerTrade.Dx
 public void FillRoundedRectangle(XBrush brush, Rect rect, Point radius)
 ```
 
-<mark style="color:yellow;">**`brush`**</mark> <mark style="color:red;">`XBrush`</mark>  
+<mark style="color:yellow;">`brush`</mark> <mark style="color:red;">*`XBrush`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`rect`**</mark> <mark style="color:red;">`Rect`</mark>  
+<mark style="color:yellow;">`rect`</mark> <mark style="color:red;">*`Rect`*</mark>  
  *Описание*  
   
 

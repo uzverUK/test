@@ -14,10 +14,10 @@ public RawClusterItem(IRawClusterItem item)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`price`**</mark> <mark style="color:red;">`long`</mark>  
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`item`**</mark> <mark style="color:red;">`IRawClusterItem`</mark>  
+<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
  *Описание*  
   
 

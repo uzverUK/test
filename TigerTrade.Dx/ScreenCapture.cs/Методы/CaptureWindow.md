@@ -13,7 +13,7 @@ public static BitmapSource CaptureWindow(IntPtr handle)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`handle`**</mark> <mark style="color:red;">`IntPtr`</mark>  
+<mark style="color:yellow;">`handle`</mark> <mark style="color:red;">*`IntPtr`*</mark>  
  *Описание*  
   
 

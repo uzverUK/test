@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Objects.Common
 public virtual void ControlPointEditing(int index)
 ```
 
-<mark style="color:yellow;">**`index`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

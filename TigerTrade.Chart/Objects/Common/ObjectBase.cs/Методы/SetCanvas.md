@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Objects.Common
 public void SetCanvas(IChartCanvas canvas)
 ```
 
-<mark style="color:yellow;">**`canvas`**</mark> <mark style="color:red;">`IChartCanvas`</mark>  
+<mark style="color:yellow;">`canvas`</mark> <mark style="color:red;">*`IChartCanvas`*</mark>  
  *Описание*  
   
 

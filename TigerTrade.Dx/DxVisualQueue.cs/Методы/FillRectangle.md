@@ -12,7 +12,7 @@ namespace TigerTrade.Dx
 public void FillRectangle(XBrush brush, Rect rect)
 ```
 
-<mark style="color:yellow;">**`brush`**</mark> <mark style="color:red;">`XBrush`</mark>  
+<mark style="color:yellow;">`brush`</mark> <mark style="color:red;">*`XBrush`*</mark>  
  *Описание*  
   
 

@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] BWMFI(IndicatorBWMFIType volumeType = IndicatorBWMFIType.Ticks)
 ```
 
-<mark style="color:yellow;">**`volumeType`**</mark> <mark style="color:red;">`IndicatorBWMFIType`</mark>  
+<mark style="color:yellow;">`volumeType`</mark> <mark style="color:red;">*`IndicatorBWMFIType`*</mark>  
  *Описание*  
   
 

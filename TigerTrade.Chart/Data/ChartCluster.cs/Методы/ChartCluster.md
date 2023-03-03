@@ -13,10 +13,10 @@ public ChartCluster(DateTime time, Decimal step)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`time`**</mark> <mark style="color:red;">`DateTime`</mark>  
+<mark style="color:yellow;">`time`</mark> <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`step`**</mark> <mark style="color:red;">`Decimal`</mark>  
+<mark style="color:yellow;">`step`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
   
 

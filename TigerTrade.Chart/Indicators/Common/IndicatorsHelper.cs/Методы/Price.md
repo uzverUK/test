@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] Price(IndicatorPriceType priceField)
 ```
 
-<mark style="color:yellow;">**`priceField`**</mark> <mark style="color:red;">`IndicatorPriceType`</mark>  
+<mark style="color:yellow;">`priceField`</mark> <mark style="color:red;">*`IndicatorPriceType`*</mark>  
  *Описание*  
   
 

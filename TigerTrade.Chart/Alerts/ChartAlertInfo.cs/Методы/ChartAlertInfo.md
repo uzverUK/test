@@ -13,10 +13,10 @@ public ChartAlertInfo(ChartAlertSettings settings, string message)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`settings`**</mark> <mark style="color:red;">`ChartAlertSettings`</mark>  
+<mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`message`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 

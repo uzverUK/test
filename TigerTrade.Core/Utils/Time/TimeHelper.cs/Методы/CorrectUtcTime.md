@@ -12,7 +12,7 @@ namespace TigerTrade.Core.Utils.Time
 public static DateTime CorrectUtcTime(DateTime utcTime, string exchange)
 ```
 
-<mark style="color:yellow;">**`utcTime`**</mark> <mark style="color:red;">`DateTime`</mark>  
+<mark style="color:yellow;">`utcTime`</mark> <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
   
 

@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Common
 public virtual void Render(DxVisualQueue visual)
 ```
 
-<mark style="color:yellow;">**`visual`**</mark> <mark style="color:red;">`DxVisualQueue`</mark>  
+<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
   
 

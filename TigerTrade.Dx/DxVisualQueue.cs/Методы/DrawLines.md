@@ -14,10 +14,10 @@ public void DrawLines(XPen pen, Point[] points, int pointsLength)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`pen`**</mark> <mark style="color:red;">`XPen`</mark>  
+<mark style="color:yellow;">`pen`</mark> <mark style="color:red;">*`XPen`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`pointsLength`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`pointsLength`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

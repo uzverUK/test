@@ -13,13 +13,13 @@ public static FontFamily GetFont(string fontName)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`fontName`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`fontName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`FontFamily`**</mark> <mark style="color:red;">`new`</mark>  
+<mark style="color:yellow;">`FontFamily`</mark> <mark style="color:red;">*`new`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`Uri`**</mark> <mark style="color:red;">`new`</mark>  
+<mark style="color:yellow;">`Uri`</mark> <mark style="color:red;">*`new`*</mark>  
  *Описание*  
   
 

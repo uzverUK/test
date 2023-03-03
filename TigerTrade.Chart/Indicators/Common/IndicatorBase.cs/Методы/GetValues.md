@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Common
 public virtual List<IndicatorValueInfo> GetValues(int cursorPos)
 ```
 
-<mark style="color:yellow;">**`cursorPos`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`cursorPos`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

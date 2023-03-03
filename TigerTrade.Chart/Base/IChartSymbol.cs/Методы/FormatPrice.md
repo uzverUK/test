@@ -12,10 +12,10 @@ namespace TigerTrade.Chart.Base
 string FormatPrice(Decimal price, bool shortDecimals = false)
 ```
 
-<mark style="color:yellow;">**`price`**</mark> <mark style="color:red;">`Decimal`</mark>  
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`shortDecimals`**</mark> <mark style="color:red;">`bool`</mark>  
+<mark style="color:yellow;">`shortDecimals`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
   
 

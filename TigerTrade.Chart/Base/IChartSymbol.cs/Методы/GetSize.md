@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Base
 Decimal GetSize(long rawSize)
 ```
 
-<mark style="color:yellow;">**`rawSize`**</mark> <mark style="color:red;">`long`</mark>  
+<mark style="color:yellow;">`rawSize`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
   
 

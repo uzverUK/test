@@ -12,13 +12,13 @@ namespace TigerTrade.Dx
 public static extern IntPtr FewjcWVZLPm(IntPtr _param0, int _param1, int _param2)
 ```
 
-<mark style="color:yellow;">**`_param0`**</mark> <mark style="color:red;">`IntPtr`</mark>  
+<mark style="color:yellow;">`_param0`</mark> <mark style="color:red;">*`IntPtr`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`_param1`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`_param1`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`_param2`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`_param2`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

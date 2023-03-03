@@ -13,7 +13,7 @@ bool GetPropertyHasStandardValues(string propertyName)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`propertyName`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 

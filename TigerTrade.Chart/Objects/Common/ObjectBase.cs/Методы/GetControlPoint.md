@@ -12,10 +12,10 @@ namespace TigerTrade.Chart.Objects.Common
 public virtual int GetControlPoint(int x, int y)
 ```
 
-<mark style="color:yellow;">**`x`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`y`**</mark> <mark style="color:red;">`int`</mark>  
+<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

@@ -13,10 +13,10 @@ public virtual void SetSettingsParam(string name, object param)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`name`**</mark> <mark style="color:red;">`string`</mark>  
+<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">**`param`**</mark> <mark style="color:red;">`object`</mark>  
+<mark style="color:yellow;">`param`</mark> <mark style="color:red;">*`object`*</mark>  
  *Описание*  
   
 

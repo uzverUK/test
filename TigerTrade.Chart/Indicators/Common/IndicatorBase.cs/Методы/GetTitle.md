@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Common
 public virtual IndicatorTitleInfo GetTitle()
 ```
 
-<mark style="color:yellow;">**`IndicatorTitleInfo`**</mark> <mark style="color:red;">`new`</mark>  
+<mark style="color:yellow;">`IndicatorTitleInfo`</mark> <mark style="color:red;">*`new`*</mark>  
  *Описание*  
   
 

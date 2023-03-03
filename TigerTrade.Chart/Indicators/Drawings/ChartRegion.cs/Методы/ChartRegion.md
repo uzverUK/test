@@ -14,7 +14,7 @@ public ChartRegion(XColor color)
 ```
 
 ### Параметры  
-<mark style="color:yellow;">**`color`**</mark> <mark style="color:red;">`XColor`</mark>  
+<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
  *Описание*  
   
 

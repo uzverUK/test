@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Objects.Common
 public virtual void ApplyTheme(IChartTheme theme)
 ```
 
-<mark style="color:yellow;">**`theme`**</mark> <mark style="color:red;">`IChartTheme`</mark>  
+<mark style="color:yellow;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
  *Описание*  
   
 
