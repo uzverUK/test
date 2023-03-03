@@ -13,10 +13,10 @@ public void DrawObject(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`visual`**</mark> <mark style="color: rgb(255, 166, 87);">`DxVisualQueue`</mark>  
+<mark style="color:red;">**`visual`**</mark> <mark style="color:coral;">`DxVisualQueue`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`List`**</mark> <mark style="color: rgb(255, 166, 87);">`ref`</mark>  
+<mark style="color:red;">**`List`**</mark> <mark style="color:coral;">`ref`</mark>  
  *Описание*  
   
 

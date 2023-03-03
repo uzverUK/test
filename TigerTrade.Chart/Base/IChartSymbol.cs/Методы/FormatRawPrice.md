@@ -13,10 +13,10 @@ string FormatRawPrice(long price, bool shortDecimals = false)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`price`**</mark> <mark style="color: rgb(255, 166, 87);">`long`</mark>  
+<mark style="color:red;">**`price`**</mark> <mark style="color:coral;">`long`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`shortDecimals`**</mark> <mark style="color: rgb(255, 166, 87);">`bool`</mark>  
+<mark style="color:red;">**`shortDecimals`**</mark> <mark style="color:coral;">`bool`</mark>  
  *Описание*  
   
 

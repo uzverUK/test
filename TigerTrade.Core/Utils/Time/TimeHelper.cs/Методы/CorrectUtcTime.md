@@ -13,10 +13,10 @@ public static DateTime CorrectUtcTime(DateTime utcTime, string exchange)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`utcTime`**</mark> <mark style="color: rgb(255, 166, 87);">`DateTime`</mark>  
+<mark style="color:red;">**`utcTime`**</mark> <mark style="color:coral;">`DateTime`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`exchange`**</mark> <mark style="color: rgb(255, 166, 87);">`string`</mark>  
+<mark style="color:red;">**`exchange`**</mark> <mark style="color:coral;">`string`</mark>  
  *Описание*  
   
 

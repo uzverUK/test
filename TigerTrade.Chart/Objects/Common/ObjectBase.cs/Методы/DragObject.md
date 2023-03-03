@@ -13,10 +13,10 @@ public virtual void DragObject(double dx, double dy)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`dx`**</mark> <mark style="color: rgb(255, 166, 87);">`double`</mark>  
+<mark style="color:red;">**`dx`**</mark> <mark style="color:coral;">`double`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`dy`**</mark> <mark style="color: rgb(255, 166, 87);">`double`</mark>  
+<mark style="color:red;">**`dy`**</mark> <mark style="color:coral;">`double`</mark>  
  *Описание*  
   
 

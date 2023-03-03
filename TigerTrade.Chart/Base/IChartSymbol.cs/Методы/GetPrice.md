@@ -13,7 +13,7 @@ Decimal GetPrice(long rawPrice)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`rawPrice`**</mark> <mark style="color: rgb(255, 166, 87);">`long`</mark>  
+<mark style="color:red;">**`rawPrice`**</mark> <mark style="color:coral;">`long`</mark>  
  *Описание*  
   
 

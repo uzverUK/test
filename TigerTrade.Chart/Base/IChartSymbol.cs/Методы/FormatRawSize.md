@@ -14,13 +14,13 @@ string FormatRawSize(long size, int round = 2)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`size`**</mark> <mark style="color: rgb(255, 166, 87);">`long`</mark>  
+<mark style="color:red;">**`size`**</mark> <mark style="color:coral;">`long`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`round`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
+<mark style="color:red;">**`round`**</mark> <mark style="color:coral;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`minimize`**</mark> <mark style="color: rgb(255, 166, 87);">`bool`</mark>  
+<mark style="color:red;">**`minimize`**</mark> <mark style="color:coral;">`bool`</mark>  
  *Описание*  
   
 

@@ -13,7 +13,7 @@ public EnumDescriptionTypeConverter(Type type)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`type`**</mark> <mark style="color: rgb(255, 166, 87);">`Type`</mark>  
+<mark style="color:red;">**`type`**</mark> <mark style="color:coral;">`Type`</mark>  
  *Описание*  
   
 

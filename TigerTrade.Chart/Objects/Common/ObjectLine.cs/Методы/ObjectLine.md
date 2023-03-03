@@ -15,7 +15,7 @@ public ObjectLine()
 ```
 
 ### Параметры  
-<mark style="color:red;">**`line`**</mark> <mark style="color: rgb(255, 166, 87);">`ObjectLine`</mark>  
+<mark style="color:red;">**`line`**</mark> <mark style="color:coral;">`ObjectLine`</mark>  
  *Описание*  
   
 

@@ -13,10 +13,10 @@ string FormatPrice(Decimal price, bool shortDecimals = false)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`price`**</mark> <mark style="color: rgb(255, 166, 87);">`Decimal`</mark>  
+<mark style="color:red;">**`price`**</mark> <mark style="color:coral;">`Decimal`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`shortDecimals`**</mark> <mark style="color: rgb(255, 166, 87);">`bool`</mark>  
+<mark style="color:red;">**`shortDecimals`**</mark> <mark style="color:coral;">`bool`</mark>  
  *Описание*  
   
 

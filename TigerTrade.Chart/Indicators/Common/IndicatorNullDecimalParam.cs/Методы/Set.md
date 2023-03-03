@@ -13,13 +13,13 @@ public bool Set(string key, Decimal? value, Decimal minValue = -7922816251426433
 ```
 
 ### Параметры  
-<mark style="color:red;">**`key`**</mark> <mark style="color: rgb(255, 166, 87);">`string`</mark>  
+<mark style="color:red;">**`key`**</mark> <mark style="color:coral;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`minValue`**</mark> <mark style="color: rgb(255, 166, 87);">`Decimal`</mark>  
+<mark style="color:red;">**`minValue`**</mark> <mark style="color:coral;">`Decimal`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`maxValue`**</mark> <mark style="color: rgb(255, 166, 87);">`Decimal`</mark>  
+<mark style="color:red;">**`maxValue`**</mark> <mark style="color:coral;">`Decimal`</mark>  
  *Описание*  
   
 

@@ -13,7 +13,7 @@ public double[] BearsPower(int n)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`n`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
+<mark style="color:red;">**`n`**</mark> <mark style="color:coral;">`int`</mark>  
  *Описание*  
   
 

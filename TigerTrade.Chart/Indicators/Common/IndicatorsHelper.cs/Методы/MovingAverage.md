@@ -13,10 +13,10 @@ public double[] MovingAverage(IndicatorMaType maType, double[] d, int period)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`maType`**</mark> <mark style="color: rgb(255, 166, 87);">`IndicatorMaType`</mark>  
+<mark style="color:red;">**`maType`**</mark> <mark style="color:coral;">`IndicatorMaType`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`period`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
+<mark style="color:red;">**`period`**</mark> <mark style="color:coral;">`int`</mark>  
  *Описание*  
   
 

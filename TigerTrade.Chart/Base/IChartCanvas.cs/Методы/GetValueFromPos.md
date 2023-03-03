@@ -14,13 +14,13 @@ Point GetValueFromPos(double x, double y)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`x`**</mark> <mark style="color: rgb(255, 166, 87);">`double`</mark>  
+<mark style="color:red;">**`x`**</mark> <mark style="color:coral;">`double`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`y`**</mark> <mark style="color: rgb(255, 166, 87);">`double`</mark>  
+<mark style="color:red;">**`y`**</mark> <mark style="color:coral;">`double`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`snapToGrid`**</mark> <mark style="color: rgb(255, 166, 87);">`bool`</mark>  
+<mark style="color:red;">**`snapToGrid`**</mark> <mark style="color:coral;">`bool`</mark>  
  *Описание*  
   
 

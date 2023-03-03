@@ -14,7 +14,7 @@ public RawClusterItem(long price)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`item`**</mark> <mark style="color: rgb(255, 166, 87);">`IRawClusterItem`</mark>  
+<mark style="color:red;">**`item`**</mark> <mark style="color:coral;">`IRawClusterItem`</mark>  
  *Описание*  
   
 

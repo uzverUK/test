@@ -13,10 +13,10 @@ public double[] EFI(double[] d, IndicatorMaType type, int n)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`type`**</mark> <mark style="color: rgb(255, 166, 87);">`IndicatorMaType`</mark>  
+<mark style="color:red;">**`type`**</mark> <mark style="color:coral;">`IndicatorMaType`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`n`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
+<mark style="color:red;">**`n`**</mark> <mark style="color:coral;">`int`</mark>  
  *Описание*  
   
 

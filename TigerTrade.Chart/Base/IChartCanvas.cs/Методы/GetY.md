@@ -13,7 +13,7 @@ double GetY(double d)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`d`**</mark> <mark style="color: rgb(255, 166, 87);">`double`</mark>  
+<mark style="color:red;">**`d`**</mark> <mark style="color:coral;">`double`</mark>  
  *Описание*  
   
 

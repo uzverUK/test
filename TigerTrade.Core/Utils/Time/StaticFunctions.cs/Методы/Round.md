@@ -13,13 +13,13 @@ public static DateTime Round(this DateTime datetime, TimeSpan roundingInterval)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`DateTime`**</mark> <mark style="color: rgb(255, 166, 87);">`this`</mark>  
+<mark style="color:red;">**`DateTime`**</mark> <mark style="color:coral;">`this`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`roundingInterval`**</mark> <mark style="color: rgb(255, 166, 87);">`TimeSpan`</mark>  
+<mark style="color:red;">**`roundingInterval`**</mark> <mark style="color:coral;">`TimeSpan`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`DateTime`**</mark> <mark style="color: rgb(255, 166, 87);">`new`</mark>  
+<mark style="color:red;">**`DateTime`**</mark> <mark style="color:coral;">`new`</mark>  
  *Описание*  
   
 

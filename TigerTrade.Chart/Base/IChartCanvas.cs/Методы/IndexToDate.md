@@ -13,7 +13,7 @@ DateTime IndexToDate(int i)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`i`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
+<mark style="color:red;">**`i`**</mark> <mark style="color:coral;">`int`</mark>  
  *Описание*  
   
 

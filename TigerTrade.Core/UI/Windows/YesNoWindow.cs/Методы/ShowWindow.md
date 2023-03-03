@@ -13,13 +13,13 @@ public static bool ShowWindow(Window owner, string title, string message)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`owner`**</mark> <mark style="color: rgb(255, 166, 87);">`Window`</mark>  
+<mark style="color:red;">**`owner`**</mark> <mark style="color:coral;">`Window`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`title`**</mark> <mark style="color: rgb(255, 166, 87);">`string`</mark>  
+<mark style="color:red;">**`title`**</mark> <mark style="color:coral;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`message`**</mark> <mark style="color: rgb(255, 166, 87);">`string`</mark>  
+<mark style="color:red;">**`message`**</mark> <mark style="color:coral;">`string`</mark>  
  *Описание*  
   
 
