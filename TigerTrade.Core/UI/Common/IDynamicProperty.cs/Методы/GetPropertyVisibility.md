@@ -12,9 +12,9 @@ namespace TigerTrade.Core.UI.Common
 bool GetPropertyVisibility(string propertyName)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`propertyName`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

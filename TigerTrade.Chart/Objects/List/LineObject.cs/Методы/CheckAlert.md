@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.List
 public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> indicators)
 ```
 
-### Параметры
 
                     
                     

@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Data
 public void Update(Dictionary<Decimal, ChartClusterItem> items)
 ```
 
-### Параметры
 
                     
                     

@@ -13,18 +13,18 @@ public ObjectLabelInfo(double value, XColor color, double? position = null)
                     public ObjectLabelInfo(double value, double y1, double y2, XColor color)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`value`**</mark> <mark style="color:yellow;">`double`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`y1`**</mark> <mark style="color:yellow;">`double`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`y2`**</mark> <mark style="color:yellow;">`double`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`color`**</mark> <mark style="color:yellow;">`XColor`</mark>  
- Описание  
+ *Описание*  
   
 
                     

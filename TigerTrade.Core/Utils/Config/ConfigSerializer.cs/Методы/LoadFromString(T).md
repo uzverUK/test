@@ -15,7 +15,6 @@ public static T LoadFromString<T>(string data, DataContractResolver resolver = n
                     public static T LoadFromString<T>(byte[] data, IEnumerable<Type> knownTypes)
 ```
 
-### Параметры
 
                     
                     

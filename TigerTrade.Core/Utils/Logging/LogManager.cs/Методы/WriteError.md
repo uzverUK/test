@@ -14,12 +14,12 @@ public static void WriteError(string e)
                     public static void WriteError(string errorInfo, Exception e)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`errorInfo`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`e`**</mark> <mark style="color:yellow;">`Exception`</mark>  
- Описание  
+ *Описание*  
   
 
                     

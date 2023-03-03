@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Objects.List
 public void AddPoint(ObjectPoint op)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`op`**</mark> <mark style="color:yellow;">`ObjectPoint`</mark>  
- Описание  
+ *Описание*  
   
 
                     

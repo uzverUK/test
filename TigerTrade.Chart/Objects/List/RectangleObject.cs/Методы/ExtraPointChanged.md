@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Objects.List
 public override void ExtraPointChanged(int index, ObjectPoint op)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`index`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`op`**</mark> <mark style="color:yellow;">`ObjectPoint`</mark>  
- Описание  
+ *Описание*  
   
 
                     

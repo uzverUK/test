@@ -12,15 +12,15 @@ namespace TigerTrade.Core.Utils.Time
 public static DateTime Round(this DateTime datetime, TimeSpan roundingInterval)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`DateTime`**</mark> <mark style="color:yellow;">`this`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`roundingInterval`**</mark> <mark style="color:yellow;">`TimeSpan`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`DateTime`**</mark> <mark style="color:yellow;">`new`</mark>  
- Описание  
+ *Описание*  
   
 
                     

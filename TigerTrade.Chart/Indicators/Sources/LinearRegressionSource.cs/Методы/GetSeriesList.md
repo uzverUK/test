@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Sources
 public override IEnumerable<string> GetSeriesList()
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`List`**</mark> <mark style="color:yellow;">`new`</mark>  
- Описание  
+ *Описание*  
   
 
                     

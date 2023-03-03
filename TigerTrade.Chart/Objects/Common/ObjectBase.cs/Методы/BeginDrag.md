@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.Common
 public virtual void BeginDrag()
 ```
 
-### Параметры
 
                     
                     

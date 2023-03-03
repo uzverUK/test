@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Base
 double GetValue(double y)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`y`**</mark> <mark style="color:yellow;">`double`</mark>  
- Описание  
+ *Описание*  
   
 
                     

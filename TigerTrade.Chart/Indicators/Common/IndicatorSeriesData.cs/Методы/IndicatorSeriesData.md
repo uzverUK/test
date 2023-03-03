@@ -15,9 +15,9 @@ public IndicatorSeriesData(double[] data)
                     public IndicatorSeriesData(double[] data, ChartLine style)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`style`**</mark> <mark style="color:yellow;">`ChartLine`</mark>  
- Описание  
+ *Описание*  
   
 
                     

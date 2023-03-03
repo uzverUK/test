@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Data
 public void AddItem(IChartClusterItem item)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`item`**</mark> <mark style="color:yellow;">`IChartClusterItem`</mark>  
- Описание  
+ *Описание*  
   
 
                     

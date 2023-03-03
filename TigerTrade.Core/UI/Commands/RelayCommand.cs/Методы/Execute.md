@@ -12,9 +12,9 @@ namespace TigerTrade.Core.UI.Commands
 public void Execute(object parameter)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`parameter`**</mark> <mark style="color:yellow;">`object`</mark>  
- Описание  
+ *Описание*  
   
 
                     

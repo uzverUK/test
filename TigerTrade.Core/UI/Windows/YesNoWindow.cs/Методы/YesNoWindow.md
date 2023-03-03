@@ -12,7 +12,6 @@ namespace TigerTrade.Core.UI.Windows
 public YesNoWindow()
 ```
 
-### Параметры
 
                     
                     

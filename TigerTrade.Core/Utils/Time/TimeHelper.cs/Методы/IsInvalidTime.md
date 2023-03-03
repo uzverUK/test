@@ -12,12 +12,12 @@ namespace TigerTrade.Core.Utils.Time
 public static bool IsInvalidTime(DateTime dt, string exchange)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`dt`**</mark> <mark style="color:yellow;">`DateTime`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`exchange`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

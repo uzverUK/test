@@ -13,9 +13,9 @@ public IndicatorDoubleParam()
                     public IndicatorDoubleParam(double value)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`value`**</mark> <mark style="color:yellow;">`double`</mark>  
- Описание  
+ *Описание*  
   
 
                     

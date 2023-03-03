@@ -13,7 +13,6 @@ public IndicatorNullDoubleParam()
                     public IndicatorNullDoubleParam(double? value)
 ```
 
-### Параметры
 
                     
                     

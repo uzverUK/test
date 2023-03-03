@@ -12,15 +12,15 @@ namespace TigerTrade.Core.UI.Windows
 public static bool ShowWindow(Window owner, string title, string message)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`owner`**</mark> <mark style="color:yellow;">`Window`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`title`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`message`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Data
 public RawCluster(DateTime time)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`time`**</mark> <mark style="color:yellow;">`DateTime`</mark>  
- Описание  
+ *Описание*  
   
 
                     

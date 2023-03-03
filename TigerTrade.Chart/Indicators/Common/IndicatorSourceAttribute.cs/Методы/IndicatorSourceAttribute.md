@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Common
 public IndicatorSourceAttribute(string name)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`name`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

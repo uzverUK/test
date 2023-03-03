@@ -12,18 +12,18 @@ namespace TigerTrade.Chart.Indicators.Common
 public bool Set(string key, double value, double minValue = -1.7976931348623157E+308, double maxValue = 1.7976931348623157E+308)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`key`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`value`**</mark> <mark style="color:yellow;">`double`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`minValue`**</mark> <mark style="color:yellow;">`double`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`maxValue`**</mark> <mark style="color:yellow;">`double`</mark>  
- Описание  
+ *Описание*  
   
 
                     

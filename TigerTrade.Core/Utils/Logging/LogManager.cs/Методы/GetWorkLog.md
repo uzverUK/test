@@ -12,7 +12,6 @@ namespace TigerTrade.Core.Utils.Logging
 public static string GetWorkLog()
 ```
 
-### Параметры
 
                     
                     

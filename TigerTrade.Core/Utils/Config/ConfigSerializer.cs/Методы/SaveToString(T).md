@@ -13,9 +13,9 @@ public static string SaveToString<T>(T o, DataContractResolver resolver = null)
                     public static string SaveToString<T>(T o, IEnumerable<Type> knownTypes)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`o`**</mark> <mark style="color:yellow;">`T`</mark>  
- Описание  
+ *Описание*  
   
 
                     

@@ -12,15 +12,15 @@ namespace TigerTrade.Chart.Indicators.Common
 public void Fractal(int n, out double[] up, out double[] down)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`n`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
- Описание  
+ *Описание*  
   
 
                     

@@ -12,18 +12,18 @@ namespace TigerTrade.Chart.Indicators.Common
 public void Run(IChartDataProvider dp, string longKey, string shortKey, string revision)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`dp`**</mark> <mark style="color:yellow;">`IChartDataProvider`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`longKey`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`shortKey`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`revision`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

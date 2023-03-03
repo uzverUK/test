@@ -13,9 +13,9 @@ public RawClusterItem(long price)
                     public RawClusterItem(IRawClusterItem item)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`item`**</mark> <mark style="color:yellow;">`IRawClusterItem`</mark>  
- Описание  
+ *Описание*  
   
 
                     

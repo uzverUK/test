@@ -12,7 +12,6 @@ namespace TigerTrade.Core.UI.Windows.SelectFolder
 public void InitializeComponent()
 ```
 
-### Параметры
 
                     
                     

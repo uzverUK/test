@@ -13,12 +13,12 @@ public IndicatorValueInfo(string value, XBrush brush)
                     public IndicatorValueInfo(string value, XColor color)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`value`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`color`**</mark> <mark style="color:yellow;">`XColor`</mark>  
- Описание  
+ *Описание*  
   
 
                     

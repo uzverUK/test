@@ -12,15 +12,15 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] AC(IndicatorMaType type, int shortN, int longN)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`IndicatorMaType`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`shortN`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`longN`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

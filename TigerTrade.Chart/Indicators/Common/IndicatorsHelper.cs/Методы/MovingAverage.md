@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] MovingAverage(IndicatorMaType maType, double[] d, int period)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`maType`**</mark> <mark style="color:yellow;">`IndicatorMaType`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`period`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

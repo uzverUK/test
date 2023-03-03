@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Drawings
 public void CopyTheme(ChartRegion chartRegion)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`chartRegion`**</mark> <mark style="color:yellow;">`ChartRegion`</mark>  
- Описание  
+ *Описание*  
   
 
                     

@@ -13,7 +13,6 @@ long CorrectSizeFilter(double filter)
                     long? CorrectSizeFilter(double? filter)
 ```
 
-### Параметры
 
                     
                     

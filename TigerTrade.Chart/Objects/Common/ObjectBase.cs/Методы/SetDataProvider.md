@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Objects.Common
 public void SetDataProvider(IChartDataProvider dp)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`dp`**</mark> <mark style="color:yellow;">`IChartDataProvider`</mark>  
- Описание  
+ *Описание*  
   
 
                     

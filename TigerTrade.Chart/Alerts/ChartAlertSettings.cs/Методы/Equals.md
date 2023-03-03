@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Alerts
 public bool Equals(ChartAlertSettings other)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`other`**</mark> <mark style="color:yellow;">`ChartAlertSettings`</mark>  
- Описание  
+ *Описание*  
   
 
                     

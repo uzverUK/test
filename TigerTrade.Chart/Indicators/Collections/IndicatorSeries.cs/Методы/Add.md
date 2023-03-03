@@ -14,9 +14,9 @@ public void Add(IndicatorSeriesData series)
                     public void Add(params IndicatorSeriesData[] series)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`IndicatorSeriesData`**</mark> <mark style="color:yellow;">`params`</mark>  
- Описание  
+ *Описание*  
   
 
                     

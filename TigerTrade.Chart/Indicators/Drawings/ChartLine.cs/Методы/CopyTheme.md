@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Drawings
 public void CopyTheme(ChartLine chartLine)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`chartLine`**</mark> <mark style="color:yellow;">`ChartLine`</mark>  
- Описание  
+ *Описание*  
   
 
                     

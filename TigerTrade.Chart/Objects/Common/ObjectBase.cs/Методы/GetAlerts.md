@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.Common
 public List<ChartAlertInfo> GetAlerts()
 ```
 
-### Параметры
 
                     
                     

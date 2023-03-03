@@ -13,7 +13,6 @@ public IndicatorNullDecimalParam()
                     public IndicatorNullDecimalParam(Decimal? value)
 ```
 
-### Параметры
 
                     
                     

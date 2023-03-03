@@ -13,7 +13,6 @@ public IndicatorNullIntParam()
                     public IndicatorNullIntParam(int? value)
 ```
 
-### Параметры
 
                     
                     

@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Objects.List
 public override void DrawControlPoints(DxVisualQueue visual)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`visual`**</mark> <mark style="color:yellow;">`DxVisualQueue`</mark>  
- Описание  
+ *Описание*  
   
 
                     

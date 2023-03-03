@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Data
 public void AddTick(IRawTick tick, int scale)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`tick`**</mark> <mark style="color:yellow;">`IRawTick`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`scale`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

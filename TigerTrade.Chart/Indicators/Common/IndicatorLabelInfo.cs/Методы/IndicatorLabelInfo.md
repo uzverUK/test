@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Indicators.Common
 public IndicatorLabelInfo(double value, XColor color, double? position = null)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`value`**</mark> <mark style="color:yellow;">`double`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`color`**</mark> <mark style="color:yellow;">`XColor`</mark>  
- Описание  
+ *Описание*  
   
 
                     

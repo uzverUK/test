@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Common
 public virtual void GetLabels(ref List<IndicatorLabelInfo> labels)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`List`**</mark> <mark style="color:yellow;">`ref`</mark>  
- Описание  
+ *Описание*  
   
 
                     

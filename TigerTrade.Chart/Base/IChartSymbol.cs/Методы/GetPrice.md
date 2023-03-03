@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Base
 Decimal GetPrice(long rawPrice)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`rawPrice`**</mark> <mark style="color:yellow;">`long`</mark>  
- Описание  
+ *Описание*  
   
 
                     

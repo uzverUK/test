@@ -12,7 +12,6 @@ namespace TigerTrade.Core.Properties
 public Settings()
 ```
 
-### Параметры
 
                     
                     

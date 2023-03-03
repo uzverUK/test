@@ -12,7 +12,6 @@ namespace TigerTrade.Core.Utils.Logging
 public int MiKjDEE8ZWn()
 ```
 
-### Параметры
 
                     
                     

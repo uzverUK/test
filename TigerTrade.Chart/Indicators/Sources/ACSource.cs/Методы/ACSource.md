@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Indicators.Sources
 public ACSource()
 ```
 
-### Параметры
 
                     
                     

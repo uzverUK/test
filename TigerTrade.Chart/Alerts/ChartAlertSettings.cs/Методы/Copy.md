@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Alerts
 public void Copy(ChartAlertSettings alert, bool copyActive = false)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`alert`**</mark> <mark style="color:yellow;">`ChartAlertSettings`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`copyActive`**</mark> <mark style="color:yellow;">`bool`</mark>  
- Описание  
+ *Описание*  
   
 
                     

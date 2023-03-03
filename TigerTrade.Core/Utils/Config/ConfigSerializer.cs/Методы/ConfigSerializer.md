@@ -12,7 +12,6 @@ namespace TigerTrade.Core.Utils.Config
 public ConfigSerializer()
 ```
 
-### Параметры
 
                     
                     

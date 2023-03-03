@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Objects.Common
 public void SetCanvas(IChartCanvas canvas)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`canvas`**</mark> <mark style="color:yellow;">`IChartCanvas`</mark>  
- Описание  
+ *Описание*  
   
 
                     

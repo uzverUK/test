@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Base
 string FormatRawSizeFull(long size)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`size`**</mark> <mark style="color:yellow;">`long`</mark>  
- Описание  
+ *Описание*  
   
 
                     

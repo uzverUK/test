@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Objects.Common
 public void DrawObject(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`visual`**</mark> <mark style="color:yellow;">`DxVisualQueue`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`List`**</mark> <mark style="color:yellow;">`ref`</mark>  
- Описание  
+ *Описание*  
   
 
                     

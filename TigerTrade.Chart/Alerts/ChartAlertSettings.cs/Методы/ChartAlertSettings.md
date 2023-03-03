@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Alerts
 public ChartAlertSettings()
 ```
 
-### Параметры
 
                     
                     

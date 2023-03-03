@@ -13,7 +13,6 @@ public RelayCommand(Action<object> execute)
                     public RelayCommand(Action<object> execute, Predicate<object> canExecute)
 ```
 
-### Параметры
 
                     
                     

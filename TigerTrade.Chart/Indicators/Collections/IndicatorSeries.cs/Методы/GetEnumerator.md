@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Indicators.Collections
 public IEnumerator<IndicatorSeriesData> GetEnumerator()
 ```
 
-### Параметры
 
                     
                     

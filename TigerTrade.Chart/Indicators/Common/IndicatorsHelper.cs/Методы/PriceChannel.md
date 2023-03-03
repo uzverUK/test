@@ -12,18 +12,18 @@ namespace TigerTrade.Chart.Indicators.Common
 public void PriceChannel(int n, out double[] avg, out double[] upper, out double[] lower)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`n`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
- Описание  
+ *Описание*  
   
 
                     

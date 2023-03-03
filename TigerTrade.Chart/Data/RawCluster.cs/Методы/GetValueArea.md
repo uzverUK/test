@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Data
 public IRawClusterValueArea GetValueArea(int valueArea)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`valueArea`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

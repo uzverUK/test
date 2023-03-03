@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Objects.Common
 public virtual bool GetPropertyHasStandardValues(string propertyName)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`propertyName`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

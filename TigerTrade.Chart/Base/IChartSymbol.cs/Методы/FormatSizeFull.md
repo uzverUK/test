@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Base
 string FormatSizeFull(Decimal size)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`size`**</mark> <mark style="color:yellow;">`Decimal`</mark>  
- Описание  
+ *Описание*  
   
 
                     

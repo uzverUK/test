@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Alerts
 public ChartAlertInfo(ChartAlertSettings settings, string message)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`settings`**</mark> <mark style="color:yellow;">`ChartAlertSettings`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`message`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

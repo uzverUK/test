@@ -12,9 +12,9 @@ namespace TigerTrade.Core.UI
 public static void WindowCorrect(Window window)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`window`**</mark> <mark style="color:yellow;">`Window`</mark>  
- Описание  
+ *Описание*  
   
 
                     

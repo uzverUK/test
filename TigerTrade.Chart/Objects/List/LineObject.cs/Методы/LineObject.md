@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.List
 public LineObject()
 ```
 
-### Параметры
 
                     
                     

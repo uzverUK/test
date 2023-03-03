@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.List
 public x9Yyrp3RfkGdCbNTXU4b()
 ```
 
-### Параметры
 
                     
                     

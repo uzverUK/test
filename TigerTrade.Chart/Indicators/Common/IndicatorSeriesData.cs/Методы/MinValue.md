@@ -13,12 +13,12 @@ public double MinValue()
                     public double MinValue(int start, int count)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`start`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`count`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

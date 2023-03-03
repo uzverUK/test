@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Base
 double GetX(int i)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`i`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

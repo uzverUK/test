@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Base
 double GetXScreen(double x)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`x`**</mark> <mark style="color:yellow;">`double`</mark>  
- Описание  
+ *Описание*  
   
 
                     

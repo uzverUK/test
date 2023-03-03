@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] LinReg(double[] d, int period)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`period`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

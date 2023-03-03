@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Objects.Abstract
 public override void ApplyTheme(IChartTheme theme)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`theme`**</mark> <mark style="color:yellow;">`IChartTheme`</mark>  
- Описание  
+ *Описание*  
   
 
                     

@@ -12,9 +12,9 @@ namespace TigerTrade.Core.Utils.Logging
 public BJ8cOSjDTKSexX17nQEk(string _param1)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`_param1`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

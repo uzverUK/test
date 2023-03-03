@@ -12,9 +12,9 @@ namespace TigerTrade.Core.Utils.Time
 public static DateTime GetCityTime(string city)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`city`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

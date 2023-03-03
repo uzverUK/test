@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Objects.Common
 public virtual int GetExtraPoint(int x, int y)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`x`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`y`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

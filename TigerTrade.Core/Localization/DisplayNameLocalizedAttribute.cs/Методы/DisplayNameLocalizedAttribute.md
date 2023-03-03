@@ -12,12 +12,12 @@ namespace TigerTrade.Core.Localization
 public DisplayNameLocalizedAttribute(Type resourceManagerProvider, string resourceKey)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`resourceManagerProvider`**</mark> <mark style="color:yellow;">`Type`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`resourceKey`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

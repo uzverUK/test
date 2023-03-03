@@ -12,12 +12,12 @@ namespace TigerTrade.Core.Utils.Config
 public static T LoadFromFile<T>(string fileName, DataContractResolver resolver = null)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`fileName`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`resolver`**</mark> <mark style="color:yellow;">`DataContractResolver`</mark>  
- Описание  
+ *Описание*  
   
 
                     

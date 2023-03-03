@@ -12,9 +12,9 @@ namespace TigerTrade.Core.UI.Converters
 public EnumDescriptionTypeConverter(Type type)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`Type`</mark>  
- Описание  
+ *Описание*  
   
 
                     

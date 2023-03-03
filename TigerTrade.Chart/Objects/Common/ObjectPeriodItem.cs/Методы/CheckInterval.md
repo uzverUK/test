@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Objects.Common
 public bool CheckInterval(int interval)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`interval`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

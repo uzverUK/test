@@ -12,9 +12,9 @@ namespace TigerTrade.Core.Utils.Logging
 public void R6bjDetmRXl(int _param1)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`_param1`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Objects.List
 public string PrettyFormatTimeSpan(TimeSpan span)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`span`**</mark> <mark style="color:yellow;">`TimeSpan`</mark>  
- Описание  
+ *Описание*  
   
 
                     

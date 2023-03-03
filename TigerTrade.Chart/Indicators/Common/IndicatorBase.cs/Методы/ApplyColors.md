@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Common
 public virtual void ApplyColors(IChartTheme palette)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`palette`**</mark> <mark style="color:yellow;">`IChartTheme`</mark>  
- Описание  
+ *Описание*  
   
 
                     

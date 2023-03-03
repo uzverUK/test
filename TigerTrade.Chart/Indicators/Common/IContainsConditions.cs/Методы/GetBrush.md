@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Indicators.Common
 XBrush GetBrush(int index, bool isUp)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`index`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`isUp`**</mark> <mark style="color:yellow;">`bool`</mark>  
- Описание  
+ *Описание*  
   
 
                     

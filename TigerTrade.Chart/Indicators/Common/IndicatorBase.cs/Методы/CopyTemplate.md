@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Indicators.Common
 public virtual void CopyTemplate(IndicatorBase indicator, bool style)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`indicator`**</mark> <mark style="color:yellow;">`IndicatorBase`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`style`**</mark> <mark style="color:yellow;">`bool`</mark>  
- Описание  
+ *Описание*  
   
 
                     

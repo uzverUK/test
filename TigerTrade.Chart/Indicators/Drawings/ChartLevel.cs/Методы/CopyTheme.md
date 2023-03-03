@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Drawings
 public void CopyTheme(ChartLevel chartLevel)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`chartLevel`**</mark> <mark style="color:yellow;">`ChartLevel`</mark>  
- Описание  
+ *Описание*  
   
 
                     

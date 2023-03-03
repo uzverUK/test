@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Sources
 public override double[] GetSeries(IndicatorsHelper helper)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`helper`**</mark> <mark style="color:yellow;">`IndicatorsHelper`</mark>  
- Описание  
+ *Описание*  
   
 
                     

@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Indicators.Drawings
 public ChartLine()
 ```
 
-### Параметры
 
                     
                     

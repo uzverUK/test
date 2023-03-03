@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Common
 public abstract void CopySettings(IndicatorSourceBase source)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`source`**</mark> <mark style="color:yellow;">`IndicatorSourceBase`</mark>  
- Описание  
+ *Описание*  
   
 
                     

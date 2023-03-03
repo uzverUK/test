@@ -12,12 +12,12 @@ namespace TigerTrade.Core.UI.Converters
 public static object GetValue(Type type, string description)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`Type`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`description`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

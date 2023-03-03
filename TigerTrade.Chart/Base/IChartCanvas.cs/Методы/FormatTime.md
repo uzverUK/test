@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Base
 string FormatTime(DateTime dt, string format)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`dt`**</mark> <mark style="color:yellow;">`DateTime`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`format`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

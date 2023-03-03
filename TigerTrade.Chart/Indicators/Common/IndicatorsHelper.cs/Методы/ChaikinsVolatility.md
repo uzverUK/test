@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] ChaikinsVolatility(IndicatorMaType type, int n)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`IndicatorMaType`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`n`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

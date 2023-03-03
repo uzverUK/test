@@ -12,15 +12,15 @@ namespace TigerTrade.Chart.Indicators.Common
 XBrush GetSelection(int index, long price, int type)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`index`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`price`**</mark> <mark style="color:yellow;">`long`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     

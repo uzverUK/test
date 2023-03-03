@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Data
 IChartClusterItem GetItem(Decimal price)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`price`**</mark> <mark style="color:yellow;">`Decimal`</mark>  
- Описание  
+ *Описание*  
   
 
                     

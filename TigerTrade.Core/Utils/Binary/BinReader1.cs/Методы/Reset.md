@@ -12,7 +12,6 @@ namespace TigerTrade.Core.Utils.Binary
 public virtual void Reset()
 ```
 
-### Параметры
 
                     
                     

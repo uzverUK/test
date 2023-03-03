@@ -12,7 +12,6 @@ namespace TigerTrade.Core.Utils.Logging
 public DateTime VNKjDc6qvia()
 ```
 
-### Параметры
 
                     
                     

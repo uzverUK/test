@@ -12,12 +12,12 @@ namespace TigerTrade.Chart.Data
 public ChartCluster(DateTime time, Decimal step)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`time`**</mark> <mark style="color:yellow;">`DateTime`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`step`**</mark> <mark style="color:yellow;">`Decimal`</mark>  
- Описание  
+ *Описание*  
   
 
                     

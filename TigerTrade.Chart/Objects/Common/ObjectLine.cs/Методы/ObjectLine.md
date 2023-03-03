@@ -14,9 +14,9 @@ public ObjectLine()
                     public ObjectLine(ObjectLine line)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`line`**</mark> <mark style="color:yellow;">`ObjectLine`</mark>  
- Описание  
+ *Описание*  
   
 
                     

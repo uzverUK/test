@@ -12,12 +12,12 @@ namespace TigerTrade.Core.Utils.Logging
 public yHPwACjDsbb5k519doWX(int _param1, string _param2)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`_param1`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`_param2`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 
                     

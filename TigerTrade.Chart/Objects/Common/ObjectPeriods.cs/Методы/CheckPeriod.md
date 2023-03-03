@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Objects.Common
 public bool CheckPeriod(IChartPeriod dc)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`dc`**</mark> <mark style="color:yellow;">`IChartPeriod`</mark>  
- Описание  
+ *Описание*  
   
 
                     

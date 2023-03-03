@@ -12,15 +12,15 @@ namespace TigerTrade.Core.Utils.Config
 public static void SaveToFile<T>(T o, string fileName, DataContractResolver resolver = null)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`o`**</mark> <mark style="color:yellow;">`T`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`fileName`**</mark> <mark style="color:yellow;">`string`</mark>  
- Описание  
+ *Описание*  
   
 <mark style="color:red;">**`resolver`**</mark> <mark style="color:yellow;">`DataContractResolver`</mark>  
- Описание  
+ *Описание*  
   
 
                     

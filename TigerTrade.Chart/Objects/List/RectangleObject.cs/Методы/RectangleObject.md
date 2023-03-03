@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.List
 public RectangleObject()
 ```
 
-### Параметры
 
                     
                     

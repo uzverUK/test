@@ -12,9 +12,9 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] ShiftData(double[] data, int shift)
 ```
 
-### Параметры
+### Параметры  
 <mark style="color:red;">**`shift`**</mark> <mark style="color:yellow;">`int`</mark>  
- Описание  
+ *Описание*  
   
 
                     
