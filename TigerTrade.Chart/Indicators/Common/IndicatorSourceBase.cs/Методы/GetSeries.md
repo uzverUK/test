@@ -13,7 +13,7 @@ public abstract double[] GetSeries(IndicatorsHelper helper)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`helper`**</mark> <mark style="color:yellow;">`IndicatorsHelper`</mark>  
+<mark style="color:yellow;">**`helper`**</mark> <mark style="color:red;">`IndicatorsHelper`</mark>  
  *Описание*  
   
 

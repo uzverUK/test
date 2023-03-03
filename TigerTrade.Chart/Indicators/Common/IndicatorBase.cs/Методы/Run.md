@@ -13,16 +13,16 @@ public void Run(IChartDataProvider dp, string longKey, string shortKey, string r
 ```
 
 ### Параметры  
-<mark style="color:red;">**`dp`**</mark> <mark style="color:yellow;">`IChartDataProvider`</mark>  
+<mark style="color:yellow;">**`dp`**</mark> <mark style="color:red;">`IChartDataProvider`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`longKey`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`longKey`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`shortKey`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`shortKey`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`revision`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`revision`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
 

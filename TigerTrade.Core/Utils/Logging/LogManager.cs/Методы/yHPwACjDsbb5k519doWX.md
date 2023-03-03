@@ -13,10 +13,10 @@ public yHPwACjDsbb5k519doWX(int _param1, string _param2)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`_param1`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`_param1`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`_param2`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`_param2`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
 

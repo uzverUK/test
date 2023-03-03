@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Data
 public IRawClusterItem GetItem(long price)
 ```
 
-<mark style="color:red;">**`price`**</mark> <mark style="color:yellow;">`long`</mark>  
+<mark style="color:yellow;">**`price`**</mark> <mark style="color:red;">`long`</mark>  
  *Описание*  
   
 

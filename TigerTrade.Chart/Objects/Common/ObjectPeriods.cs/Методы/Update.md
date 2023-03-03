@@ -12,19 +12,19 @@ namespace TigerTrade.Chart.Objects.Common
 public void Update(string type, bool isChecked, bool checkRange, int min, int max)
 ```
 
-<mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`type`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`isChecked`**</mark> <mark style="color:yellow;">`bool`</mark>  
+<mark style="color:yellow;">**`isChecked`**</mark> <mark style="color:red;">`bool`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`checkRange`**</mark> <mark style="color:yellow;">`bool`</mark>  
+<mark style="color:yellow;">**`checkRange`**</mark> <mark style="color:red;">`bool`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`min`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`min`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`max`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`max`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
 

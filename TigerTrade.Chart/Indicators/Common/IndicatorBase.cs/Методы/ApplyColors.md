@@ -13,7 +13,7 @@ public virtual void ApplyColors(IChartTheme palette)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`palette`**</mark> <mark style="color:yellow;">`IChartTheme`</mark>  
+<mark style="color:yellow;">**`palette`**</mark> <mark style="color:red;">`IChartTheme`</mark>  
  *Описание*  
   
 

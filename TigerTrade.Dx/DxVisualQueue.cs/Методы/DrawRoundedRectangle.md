@@ -12,10 +12,10 @@ namespace TigerTrade.Dx
 public void DrawRoundedRectangle(XPen pen, Rect rect, Point radius)
 ```
 
-<mark style="color:red;">**`pen`**</mark> <mark style="color:yellow;">`XPen`</mark>  
+<mark style="color:yellow;">**`pen`**</mark> <mark style="color:red;">`XPen`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`radius`**</mark> <mark style="color:yellow;">`Point`</mark>  
+<mark style="color:yellow;">**`radius`**</mark> <mark style="color:red;">`Point`</mark>  
  *Описание*  
   
 

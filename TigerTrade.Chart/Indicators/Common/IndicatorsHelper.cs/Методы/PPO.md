@@ -12,10 +12,10 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] PPO(IndicatorMaType maType, double[] d, int shortPeriod, int longPeriod)
 ```
 
-<mark style="color:red;">**`shortPeriod`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`shortPeriod`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`longPeriod`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`longPeriod`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
 

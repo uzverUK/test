@@ -12,7 +12,7 @@ namespace TigerTrade.Core.Utils.Time
 public static double GetSessionOffset(string exchange)
 ```
 
-<mark style="color:red;">**`exchange`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`exchange`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
 

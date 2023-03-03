@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] CO(IndicatorMaType maType, int shortPeriod, int longPeriod)
 ```
 
-<mark style="color:red;">**`maType`**</mark> <mark style="color:yellow;">`IndicatorMaType`</mark>  
+<mark style="color:yellow;">**`maType`**</mark> <mark style="color:red;">`IndicatorMaType`</mark>  
  *Описание*  
   
 

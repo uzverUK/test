@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Sources
 public override string ToString()
 ```
 
-<mark style="color:red;">**`string`**</mark> <mark style="color:yellow;">`new`</mark>  
+<mark style="color:yellow;">**`string`**</mark> <mark style="color:red;">`new`</mark>  
  *Описание*  
   
 

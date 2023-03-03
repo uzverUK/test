@@ -12,19 +12,19 @@ namespace TigerTrade.Dx
 public void DrawArc(XPen pen, Point p1, Point p2, double radius, double angle)
 ```
 
-<mark style="color:red;">**`pen`**</mark> <mark style="color:yellow;">`XPen`</mark>  
+<mark style="color:yellow;">**`pen`**</mark> <mark style="color:red;">`XPen`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`p1`**</mark> <mark style="color:yellow;">`Point`</mark>  
+<mark style="color:yellow;">**`p1`**</mark> <mark style="color:red;">`Point`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`p2`**</mark> <mark style="color:yellow;">`Point`</mark>  
+<mark style="color:yellow;">**`p2`**</mark> <mark style="color:red;">`Point`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`radius`**</mark> <mark style="color:yellow;">`double`</mark>  
+<mark style="color:yellow;">**`radius`**</mark> <mark style="color:red;">`double`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`angle`**</mark> <mark style="color:yellow;">`double`</mark>  
+<mark style="color:yellow;">**`angle`**</mark> <mark style="color:red;">`double`</mark>  
  *Описание*  
   
 

@@ -16,16 +16,16 @@ public IndicatorSeriesData(double[] data, ChartLine style)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`style`**</mark> <mark style="color:yellow;">`ChartSeries`</mark>  
+<mark style="color:yellow;">**`style`**</mark> <mark style="color:red;">`ChartSeries`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`name`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`name`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`style`**</mark> <mark style="color:yellow;">`ChartRegion`</mark>  
+<mark style="color:yellow;">**`style`**</mark> <mark style="color:red;">`ChartRegion`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`style`**</mark> <mark style="color:yellow;">`ChartLine`</mark>  
+<mark style="color:yellow;">**`style`**</mark> <mark style="color:red;">`ChartLine`</mark>  
  *Описание*  
   
 

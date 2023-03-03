@@ -12,10 +12,10 @@ namespace TigerTrade.Chart.Objects.List
 public override int GetControlPoint(int x, int y)
 ```
 
-<mark style="color:red;">**`x`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`x`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`y`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`y`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
 

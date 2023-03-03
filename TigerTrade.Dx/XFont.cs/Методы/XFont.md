@@ -16,13 +16,13 @@ public XFont(string fontName, double size, bool bold)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`bold`**</mark> <mark style="color:yellow;">`bool`</mark>  
+<mark style="color:yellow;">**`bold`**</mark> <mark style="color:red;">`bool`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`fontName`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`fontName`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`size`**</mark> <mark style="color:yellow;">`double`</mark>  
+<mark style="color:yellow;">**`size`**</mark> <mark style="color:red;">`double`</mark>  
  *Описание*  
   
 

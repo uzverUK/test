@@ -12,7 +12,7 @@ namespace TigerTrade.Dx
 public void Clear(XColor color)
 ```
 
-<mark style="color:red;">**`color`**</mark> <mark style="color:yellow;">`XColor`</mark>  
+<mark style="color:yellow;">**`color`**</mark> <mark style="color:red;">`XColor`</mark>  
  *Описание*  
   
 

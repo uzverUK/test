@@ -13,7 +13,7 @@ public static extern IntPtr ReQjc4BwG6e(IntPtr _param0)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`_param0`**</mark> <mark style="color:yellow;">`IntPtr`</mark>  
+<mark style="color:yellow;">**`_param0`**</mark> <mark style="color:red;">`IntPtr`</mark>  
  *Описание*  
   
 

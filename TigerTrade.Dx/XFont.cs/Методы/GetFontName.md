@@ -12,7 +12,7 @@ namespace TigerTrade.Dx
 public static string GetFontName(FontFamily fontFamily)
 ```
 
-<mark style="color:red;">**`fontFamily`**</mark> <mark style="color:yellow;">`FontFamily`</mark>  
+<mark style="color:yellow;">**`fontFamily`**</mark> <mark style="color:red;">`FontFamily`</mark>  
  *Описание*  
   
 

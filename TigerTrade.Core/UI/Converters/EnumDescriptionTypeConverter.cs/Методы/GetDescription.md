@@ -12,7 +12,7 @@ namespace TigerTrade.Core.UI.Converters
 public static string GetDescription(Type type, string fieldName)
 ```
 
-<mark style="color:red;">**`fieldName`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`fieldName`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
 

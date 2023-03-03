@@ -12,7 +12,7 @@ namespace TigerTrade.Dx
 public void DrawPolygon(XPen pen, Point[] points)
 ```
 
-<mark style="color:red;">**`pen`**</mark> <mark style="color:yellow;">`XPen`</mark>  
+<mark style="color:yellow;">**`pen`**</mark> <mark style="color:red;">`XPen`</mark>  
  *Описание*  
   
 

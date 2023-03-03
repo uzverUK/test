@@ -12,10 +12,10 @@ namespace TigerTrade.Chart.Objects.Abstract
 public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```
 
-<mark style="color:red;">**`objectBase`**</mark> <mark style="color:yellow;">`ObjectBase`</mark>  
+<mark style="color:yellow;">**`objectBase`**</mark> <mark style="color:red;">`ObjectBase`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`style`**</mark> <mark style="color:yellow;">`bool`</mark>  
+<mark style="color:yellow;">**`style`**</mark> <mark style="color:red;">`bool`</mark>  
  *Описание*  
   
 

@@ -13,7 +13,7 @@ public double[] CCI(int period)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`period`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`period`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
 

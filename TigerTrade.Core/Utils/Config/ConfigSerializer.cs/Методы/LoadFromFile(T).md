@@ -13,10 +13,10 @@ public static T LoadFromFile<T>(string fileName, DataContractResolver resolver =
 ```
 
 ### Параметры  
-<mark style="color:red;">**`fileName`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`fileName`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`resolver`**</mark> <mark style="color:yellow;">`DataContractResolver`</mark>  
+<mark style="color:yellow;">**`resolver`**</mark> <mark style="color:red;">`DataContractResolver`</mark>  
  *Описание*  
   
 

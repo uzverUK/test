@@ -13,10 +13,10 @@ public CategoryLocalizedAttribute(Type resourceManagerProvider, string resourceK
 ```
 
 ### Параметры  
-<mark style="color:red;">**`resourceManagerProvider`**</mark> <mark style="color:yellow;">`Type`</mark>  
+<mark style="color:yellow;">**`resourceManagerProvider`**</mark> <mark style="color:red;">`Type`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`resourceKey`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`resourceKey`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
 

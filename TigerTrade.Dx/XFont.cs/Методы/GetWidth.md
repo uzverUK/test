@@ -13,7 +13,7 @@ public double GetWidth(string text)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`text`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`text`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
 

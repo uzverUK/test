@@ -15,10 +15,10 @@ public static T LoadFromString<T>(byte[] data, DataContractResolver resolver = n
 public static T LoadFromString<T>(byte[] data, IEnumerable<Type> knownTypes)
 ```
 
-<mark style="color:red;">**`data`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`data`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`resolver`**</mark> <mark style="color:yellow;">`DataContractResolver`</mark>  
+<mark style="color:yellow;">**`resolver`**</mark> <mark style="color:red;">`DataContractResolver`</mark>  
  *Описание*  
   
 

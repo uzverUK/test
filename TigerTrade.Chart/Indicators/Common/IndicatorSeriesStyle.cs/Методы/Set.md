@@ -15,16 +15,16 @@ public void Set(ChartLine line)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`series`**</mark> <mark style="color:yellow;">`ChartSeries`</mark>  
+<mark style="color:yellow;">**`series`**</mark> <mark style="color:red;">`ChartSeries`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`name`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`name`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`region`**</mark> <mark style="color:yellow;">`ChartRegion`</mark>  
+<mark style="color:yellow;">**`region`**</mark> <mark style="color:red;">`ChartRegion`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`line`**</mark> <mark style="color:yellow;">`ChartLine`</mark>  
+<mark style="color:yellow;">**`line`**</mark> <mark style="color:red;">`ChartLine`</mark>  
  *Описание*  
   
 

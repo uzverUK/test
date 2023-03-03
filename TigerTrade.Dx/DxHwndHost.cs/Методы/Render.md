@@ -12,10 +12,10 @@ namespace TigerTrade.Dx
 public void Render(DxVisualQueue queue1, DxVisualQueue queue2)
 ```
 
-<mark style="color:red;">**`queue1`**</mark> <mark style="color:yellow;">`DxVisualQueue`</mark>  
+<mark style="color:yellow;">**`queue1`**</mark> <mark style="color:red;">`DxVisualQueue`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`queue2`**</mark> <mark style="color:yellow;">`DxVisualQueue`</mark>  
+<mark style="color:yellow;">**`queue2`**</mark> <mark style="color:red;">`DxVisualQueue`</mark>  
  *Описание*  
   
 

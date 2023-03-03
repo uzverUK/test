@@ -13,7 +13,7 @@ public DxVisualQueue(Rect rect)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`rect`**</mark> <mark style="color:yellow;">`Rect`</mark>  
+<mark style="color:yellow;">**`rect`**</mark> <mark style="color:red;">`Rect`</mark>  
  *Описание*  
   
 

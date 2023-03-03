@@ -12,7 +12,7 @@ namespace TigerTrade.Dx
 public void DrawRectangles(XPen pen, Rect[] rects)
 ```
 
-<mark style="color:red;">**`pen`**</mark> <mark style="color:yellow;">`XPen`</mark>  
+<mark style="color:yellow;">**`pen`**</mark> <mark style="color:red;">`XPen`</mark>  
  *Описание*  
   
 

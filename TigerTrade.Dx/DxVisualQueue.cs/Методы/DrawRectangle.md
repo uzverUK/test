@@ -13,10 +13,10 @@ public void DrawRectangle(XPen pen, Rect rect)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`pen`**</mark> <mark style="color:yellow;">`XPen`</mark>  
+<mark style="color:yellow;">**`pen`**</mark> <mark style="color:red;">`XPen`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`rect`**</mark> <mark style="color:yellow;">`Rect`</mark>  
+<mark style="color:yellow;">**`rect`**</mark> <mark style="color:red;">`Rect`</mark>  
  *Описание*  
   
 

@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Indicators.Sources
 public double[] SearchPattern(IndicatorsHelper helper, CandlePatternSourcePatternType type)
 ```
 
-<mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`CandlePatternSourcePatternType`</mark>  
+<mark style="color:yellow;">**`type`**</mark> <mark style="color:red;">`CandlePatternSourcePatternType`</mark>  
  *Описание*  
   
 

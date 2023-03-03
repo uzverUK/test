@@ -13,10 +13,10 @@ public static string SaveToString<T>(T o, DataContractResolver resolver = null)
 public static string SaveToString<T>(T o, IEnumerable<Type> knownTypes)
 ```
 
-<mark style="color:red;">**`resolver`**</mark> <mark style="color:yellow;">`DataContractResolver`</mark>  
+<mark style="color:yellow;">**`resolver`**</mark> <mark style="color:red;">`DataContractResolver`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`o`**</mark> <mark style="color:yellow;">`T`</mark>  
+<mark style="color:yellow;">**`o`**</mark> <mark style="color:red;">`T`</mark>  
  *Описание*  
   
 

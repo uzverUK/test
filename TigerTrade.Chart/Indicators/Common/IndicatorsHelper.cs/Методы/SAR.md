@@ -12,10 +12,10 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] SAR(double step, double maxp)
 ```
 
-<mark style="color:red;">**`step`**</mark> <mark style="color:yellow;">`double`</mark>  
+<mark style="color:yellow;">**`step`**</mark> <mark style="color:red;">`double`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`maxp`**</mark> <mark style="color:yellow;">`double`</mark>  
+<mark style="color:yellow;">**`maxp`**</mark> <mark style="color:red;">`double`</mark>  
  *Описание*  
   
 

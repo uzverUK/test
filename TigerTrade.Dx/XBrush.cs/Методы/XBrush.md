@@ -14,10 +14,10 @@ public XBrush(XColor color, int alpha)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`color`**</mark> <mark style="color:yellow;">`XColor`</mark>  
+<mark style="color:yellow;">**`color`**</mark> <mark style="color:red;">`XColor`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`alpha`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`alpha`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
 

@@ -12,7 +12,7 @@ namespace TigerTrade.Chart.Base
 string FormatValue(double d)
 ```
 
-<mark style="color:red;">**`d`**</mark> <mark style="color:yellow;">`double`</mark>  
+<mark style="color:yellow;">**`d`**</mark> <mark style="color:red;">`double`</mark>  
  *Описание*  
   
 

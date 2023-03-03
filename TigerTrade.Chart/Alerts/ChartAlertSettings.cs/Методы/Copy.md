@@ -13,10 +13,10 @@ public void Copy(ChartAlertSettings alert, bool copyActive = false)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`alert`**</mark> <mark style="color:yellow;">`ChartAlertSettings`</mark>  
+<mark style="color:yellow;">**`alert`**</mark> <mark style="color:red;">`ChartAlertSettings`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`copyActive`**</mark> <mark style="color:yellow;">`bool`</mark>  
+<mark style="color:yellow;">**`copyActive`**</mark> <mark style="color:red;">`bool`</mark>  
  *Описание*  
   
 

@@ -13,7 +13,7 @@ long CorrectSizeFilter(double filter)
 long? CorrectSizeFilter(double? filter)
 ```
 
-<mark style="color:red;">**`filter`**</mark> <mark style="color:yellow;">`double`</mark>  
+<mark style="color:yellow;">**`filter`**</mark> <mark style="color:red;">`double`</mark>  
  *Описание*  
   
 

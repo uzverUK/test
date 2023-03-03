@@ -12,7 +12,7 @@ namespace TigerTrade.Dx
 public void InvalidateVisual(bool full = false)
 ```
 
-<mark style="color:red;">**`full`**</mark> <mark style="color:yellow;">`bool`</mark>  
+<mark style="color:yellow;">**`full`**</mark> <mark style="color:red;">`bool`</mark>  
  *Описание*  
   
 

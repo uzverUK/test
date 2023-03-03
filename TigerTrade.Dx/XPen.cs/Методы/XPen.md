@@ -14,13 +14,13 @@ public XPen(XBrush brush, int width, XDashStyle style)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`brush`**</mark> <mark style="color:yellow;">`XBrush`</mark>  
+<mark style="color:yellow;">**`brush`**</mark> <mark style="color:red;">`XBrush`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`width`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`width`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`style`**</mark> <mark style="color:yellow;">`XDashStyle`</mark>  
+<mark style="color:yellow;">**`style`**</mark> <mark style="color:red;">`XDashStyle`</mark>  
  *Описание*  
   
 

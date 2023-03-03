@@ -12,13 +12,13 @@ namespace TigerTrade.Chart.Indicators.Common
 public bool Set(string key, Decimal value, Decimal minValue = -79228162514264337593543950335M, Decimal maxValue = 79228162514264337593543950335M)
 ```
 
-<mark style="color:red;">**`key`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:yellow;">**`key`**</mark> <mark style="color:red;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`minValue`**</mark> <mark style="color:yellow;">`Decimal`</mark>  
+<mark style="color:yellow;">**`minValue`**</mark> <mark style="color:red;">`Decimal`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`maxValue`**</mark> <mark style="color:yellow;">`Decimal`</mark>  
+<mark style="color:yellow;">**`maxValue`**</mark> <mark style="color:red;">`Decimal`</mark>  
  *Описание*  
   
 

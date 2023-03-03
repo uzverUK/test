@@ -12,13 +12,13 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] AO(IndicatorMaType type, int shortN, int longN)
 ```
 
-<mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`IndicatorMaType`</mark>  
+<mark style="color:yellow;">**`type`**</mark> <mark style="color:red;">`IndicatorMaType`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`shortN`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`shortN`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`longN`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`longN`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
 

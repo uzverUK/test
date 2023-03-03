@@ -13,7 +13,7 @@ public bool CanExecute(object parameter)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`parameter`**</mark> <mark style="color:yellow;">`object`</mark>  
+<mark style="color:yellow;">**`parameter`**</mark> <mark style="color:red;">`object`</mark>  
  *Описание*  
   
 

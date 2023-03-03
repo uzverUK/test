@@ -13,7 +13,7 @@ double GetX(int i)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`i`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`i`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
 

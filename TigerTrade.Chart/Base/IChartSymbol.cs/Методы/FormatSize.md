@@ -13,13 +13,13 @@ string FormatSize(Decimal size, int round = 2)
 string FormatSize(Decimal size, int round, bool minimize)
 ```
 
-<mark style="color:red;">**`size`**</mark> <mark style="color:yellow;">`Decimal`</mark>  
+<mark style="color:yellow;">**`size`**</mark> <mark style="color:red;">`Decimal`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`round`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:yellow;">**`round`**</mark> <mark style="color:red;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`minimize`**</mark> <mark style="color:yellow;">`bool`</mark>  
+<mark style="color:yellow;">**`minimize`**</mark> <mark style="color:red;">`bool`</mark>  
  *Описание*  
   
 

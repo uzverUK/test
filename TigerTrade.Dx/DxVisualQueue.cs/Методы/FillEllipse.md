@@ -12,7 +12,7 @@ namespace TigerTrade.Dx
 public void FillEllipse(XBrush brush, Point center, double radiusX, double radiusY)
 ```
 
-<mark style="color:red;">**`brush`**</mark> <mark style="color:yellow;">`XBrush`</mark>  
+<mark style="color:yellow;">**`brush`**</mark> <mark style="color:red;">`XBrush`</mark>  
  *Описание*  
   
 
