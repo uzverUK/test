@@ -11,3 +11,20 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public bool Set(string key, int value, int minValue = -2147483648, int maxValue = 2147483647)
 ```
+
+### Параметры
+**`key`** `string`  
+ Описание  
+  
+**`value`** `int`  
+ Описание  
+  
+**`minValue`** `int`  
+ Описание  
+  
+**`maxValue`** `int`  
+ Описание  
+  
+
+                    
+                    

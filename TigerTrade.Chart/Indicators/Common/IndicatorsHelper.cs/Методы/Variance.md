@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] Variance(double[] d, int period, double dev)
 ```
+
+### Параметры
+**`period`** `int`  
+ Описание  
+  
+**`dev`** `double`  
+ Описание  
+  
+
+                    
+                    

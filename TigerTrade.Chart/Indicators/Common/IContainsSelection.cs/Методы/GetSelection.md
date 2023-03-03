@@ -11,3 +11,17 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 XBrush GetSelection(int index, long price, int type)
 ```
+
+### Параметры
+**`index`** `int`  
+ Описание  
+  
+**`price`** `long`  
+ Описание  
+  
+**`type`** `int`  
+ Описание  
+  
+
+                    
+                    

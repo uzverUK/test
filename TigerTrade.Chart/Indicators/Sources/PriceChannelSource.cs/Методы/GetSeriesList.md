@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Sources
 ```csharp
 public override IEnumerable<string> GetSeriesList()
 ```
+
+### Параметры
+**`List`** `new`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Data
 ```csharp
 public ChartCluster(DateTime time, Decimal step)
 ```
+
+### Параметры
+**`time`** `DateTime`  
+ Описание  
+  
+**`step`** `Decimal`  
+ Описание  
+  
+
+                    
+                    

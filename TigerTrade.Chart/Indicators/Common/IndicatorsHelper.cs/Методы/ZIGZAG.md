@@ -11,3 +11,20 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] ZIGZAG(int depth, int deviation, int backstep, bool reg = true)
 ```
+
+### Параметры
+**`depth`** `int`  
+ Описание  
+  
+**`deviation`** `int`  
+ Описание  
+  
+**`backstep`** `int`  
+ Описание  
+  
+**`reg`** `bool`  
+ Описание  
+  
+
+                    
+                    

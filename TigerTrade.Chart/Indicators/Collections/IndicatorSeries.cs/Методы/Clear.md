@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Indicators.Collections
 ```csharp
 public void Clear()
 ```
+
+### Параметры
+
+                    
+                    

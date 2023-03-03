@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Base
 ```csharp
 Decimal GetPrice(long rawPrice)
 ```
+
+### Параметры
+**`rawPrice`** `long`  
+ Описание  
+  
+
+                    
+                    

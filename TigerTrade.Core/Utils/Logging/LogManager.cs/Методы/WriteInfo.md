@@ -11,3 +11,11 @@ namespace TigerTrade.Core.Utils.Logging
 ```csharp
 public static void WriteInfo(string i)
 ```
+
+### Параметры
+**`i`** `string`  
+ Описание  
+  
+
+                    
+                    

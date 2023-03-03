@@ -10,5 +10,10 @@ namespace TigerTrade.Chart.Indicators.Common
 ### Синтаксис
 ```csharp
 public IndicatorNullDecimalParam()
-public IndicatorNullDecimalParam(Decimal? value)
+                    public IndicatorNullDecimalParam(Decimal? value)
 ```
+
+### Параметры
+
+                    
+                    

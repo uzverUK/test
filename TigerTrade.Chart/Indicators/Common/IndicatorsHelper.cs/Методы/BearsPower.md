@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] BearsPower(int n)
 ```
+
+### Параметры
+**`n`** `int`  
+ Описание  
+  
+
+                    
+                    

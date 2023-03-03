@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Drawings
 ```csharp
 public bool GetPropertyHasStandardValues(string propertyName)
 ```
+
+### Параметры
+**`propertyName`** `string`  
+ Описание  
+  
+
+                    
+                    

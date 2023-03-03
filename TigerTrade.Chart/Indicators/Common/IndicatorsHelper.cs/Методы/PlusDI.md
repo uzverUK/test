@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] PlusDI(int period)
 ```
+
+### Параметры
+**`period`** `int`  
+ Описание  
+  
+
+                    
+                    

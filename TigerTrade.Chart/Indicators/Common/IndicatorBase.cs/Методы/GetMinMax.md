@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public virtual bool GetMinMax(out double min, out double max)
 ```
+
+### Параметры
+**`double`** `out`  
+ Описание  
+  
+**`double`** `out`  
+ Описание  
+  
+
+                    
+                    

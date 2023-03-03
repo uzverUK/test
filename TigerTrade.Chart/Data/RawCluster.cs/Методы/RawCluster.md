@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Data
 ```csharp
 public RawCluster(DateTime time)
 ```
+
+### Параметры
+**`time`** `DateTime`  
+ Описание  
+  
+
+                    
+                    

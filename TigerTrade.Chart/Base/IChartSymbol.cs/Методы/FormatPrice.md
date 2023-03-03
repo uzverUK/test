@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Base
 ```csharp
 string FormatPrice(Decimal price, bool shortDecimals = false)
 ```
+
+### Параметры
+**`price`** `Decimal`  
+ Описание  
+  
+**`shortDecimals`** `bool`  
+ Описание  
+  
+
+                    
+                    

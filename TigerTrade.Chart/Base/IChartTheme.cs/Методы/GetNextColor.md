@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Base
 ```csharp
 XColor GetNextColor()
 ```
+
+### Параметры
+
+                    
+                    

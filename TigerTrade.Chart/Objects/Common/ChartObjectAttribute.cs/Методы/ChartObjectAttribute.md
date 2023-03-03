@@ -11,3 +11,17 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public ChartObjectAttribute(string id, string name, int points)
 ```
+
+### Параметры
+**`id`** `string`  
+ Описание  
+  
+**`name`** `string`  
+ Описание  
+  
+**`points`** `int`  
+ Описание  
+  
+
+                    
+                    

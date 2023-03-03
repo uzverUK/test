@@ -11,3 +11,8 @@ namespace TigerTrade.Core.Utils.Config
 ```csharp
 public ConfigSerializer()
 ```
+
+### Параметры
+
+                    
+                    

@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Data
 ```csharp
 IRawCluster GetRawCluster(int i)
 ```
+
+### Параметры
+**`i`** `int`  
+ Описание  
+  
+
+                    
+                    

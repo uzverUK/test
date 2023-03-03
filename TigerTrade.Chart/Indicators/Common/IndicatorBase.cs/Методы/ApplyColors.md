@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public virtual void ApplyColors(IChartTheme palette)
 ```
+
+### Параметры
+**`palette`** `IChartTheme`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public IndicatorSourceBase CloneSource()
 ```
+
+### Параметры
+
+                    
+                    

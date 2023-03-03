@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public virtual void DrawControlPoints(DxVisualQueue visual)
 ```
+
+### Параметры
+**`visual`** `DxVisualQueue`  
+ Описание  
+  
+
+                    
+                    

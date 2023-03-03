@@ -10,5 +10,10 @@ namespace TigerTrade.Chart.Indicators.Common
 ### Синтаксис
 ```csharp
 public IndicatorNullIntParam()
-public IndicatorNullIntParam(int? value)
+                    public IndicatorNullIntParam(int? value)
 ```
+
+### Параметры
+
+                    
+                    

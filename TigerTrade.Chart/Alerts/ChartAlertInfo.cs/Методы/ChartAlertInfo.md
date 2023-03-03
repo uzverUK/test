@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Alerts
 ```csharp
 public ChartAlertInfo(ChartAlertSettings settings, string message)
 ```
+
+### Параметры
+**`settings`** `ChartAlertSettings`  
+ Описание  
+  
+**`message`** `string`  
+ Описание  
+  
+
+                    
+                    

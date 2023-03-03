@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Alerts
 ```csharp
 public bool Equals(ChartAlertSettings other)
 ```
+
+### Параметры
+**`other`** `ChartAlertSettings`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Sources
 ```csharp
 public override string ToString()
 ```
+
+### Параметры
+**`object`** `new`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] Price(IndicatorPriceType priceField)
 ```
+
+### Параметры
+**`priceField`** `IndicatorPriceType`  
+ Описание  
+  
+
+                    
+                    

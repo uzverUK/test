@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public IndicatorLabelInfo(double value, XColor color, double? position = null)
 ```
+
+### Параметры
+**`value`** `double`  
+ Описание  
+  
+**`color`** `XColor`  
+ Описание  
+  
+
+                    
+                    

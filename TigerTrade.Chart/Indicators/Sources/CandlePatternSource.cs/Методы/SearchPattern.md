@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Sources
 ```csharp
 public double[] SearchPattern(IndicatorsHelper helper, CandlePatternSourcePatternType type)
 ```
+
+### Параметры
+**`helper`** `IndicatorsHelper`  
+ Описание  
+  
+**`type`** `CandlePatternSourcePatternType`  
+ Описание  
+  
+
+                    
+                    

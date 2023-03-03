@@ -11,3 +11,8 @@ namespace TigerTrade.Core.Utils.Binary
 ```csharp
 public bool Read()
 ```
+
+### Параметры
+
+                    
+                    

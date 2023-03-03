@@ -11,3 +11,14 @@ namespace TigerTrade.Core.Utils.Config
 ```csharp
 public static T LoadFromFile<T>(string fileName, DataContractResolver resolver = null)
 ```
+
+### Параметры
+**`fileName`** `string`  
+ Описание  
+  
+**`resolver`** `DataContractResolver`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Abstract
 ```csharp
 public override void ApplyTheme(IChartTheme theme)
 ```
+
+### Параметры
+**`theme`** `IChartTheme`  
+ Описание  
+  
+
+                    
+                    

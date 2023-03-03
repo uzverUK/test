@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public virtual IndicatorTitleInfo GetTitle()
 ```
+
+### Параметры
+**`IndicatorTitleInfo`** `new`  
+ Описание  
+  
+
+                    
+                    

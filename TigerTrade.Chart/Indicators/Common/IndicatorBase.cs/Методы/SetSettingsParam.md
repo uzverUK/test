@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public virtual void SetSettingsParam(string name, object param)
 ```
+
+### Параметры
+**`name`** `string`  
+ Описание  
+  
+**`param`** `object`  
+ Описание  
+  
+
+                    
+                    

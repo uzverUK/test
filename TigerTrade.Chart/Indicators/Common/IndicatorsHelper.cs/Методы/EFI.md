@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] EFI(double[] d, IndicatorMaType type, int n)
 ```
+
+### Параметры
+**`type`** `IndicatorMaType`  
+ Описание  
+  
+**`n`** `int`  
+ Описание  
+  
+
+                    
+                    

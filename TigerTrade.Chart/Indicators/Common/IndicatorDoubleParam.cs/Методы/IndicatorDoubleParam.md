@@ -10,5 +10,13 @@ namespace TigerTrade.Chart.Indicators.Common
 ### Синтаксис
 ```csharp
 public IndicatorDoubleParam()
-public IndicatorDoubleParam(double value)
+                    public IndicatorDoubleParam(double value)
 ```
+
+### Параметры
+**`value`** `double`  
+ Описание  
+  
+
+                    
+                    

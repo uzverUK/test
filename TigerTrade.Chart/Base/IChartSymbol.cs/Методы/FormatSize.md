@@ -10,5 +10,19 @@ namespace TigerTrade.Chart.Base
 ### Синтаксис
 ```csharp
 string FormatSize(Decimal size, int round = 2)
-string FormatSize(Decimal size, int round, bool minimize)
+                    string FormatSize(Decimal size, int round, bool minimize)
 ```
+
+### Параметры
+**`size`** `Decimal`  
+ Описание  
+  
+**`round`** `int`  
+ Описание  
+  
+**`minimize`** `bool`  
+ Описание  
+  
+
+                    
+                    

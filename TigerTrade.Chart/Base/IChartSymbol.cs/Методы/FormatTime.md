@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Base
 ```csharp
 string FormatTime(DateTime dt, string format)
 ```
+
+### Параметры
+**`dt`** `DateTime`  
+ Описание  
+  
+**`format`** `string`  
+ Описание  
+  
+
+                    
+                    

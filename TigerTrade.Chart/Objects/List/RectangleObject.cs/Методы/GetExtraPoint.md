@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Objects.List
 ```csharp
 public override int GetExtraPoint(int x, int y)
 ```
+
+### Параметры
+**`x`** `int`  
+ Описание  
+  
+**`y`** `int`  
+ Описание  
+  
+
+                    
+                    

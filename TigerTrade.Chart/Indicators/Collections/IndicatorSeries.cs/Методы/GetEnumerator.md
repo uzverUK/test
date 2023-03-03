@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Indicators.Collections
 ```csharp
 public IEnumerator<IndicatorSeriesData> GetEnumerator()
 ```
+
+### Параметры
+
+                    
+                    

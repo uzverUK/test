@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Data
 ```csharp
 IChartClusterItem GetItem(Decimal price)
 ```
+
+### Параметры
+**`price`** `Decimal`  
+ Описание  
+  
+
+                    
+                    

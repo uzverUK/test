@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public void SetDataProvider(IChartDataProvider dp)
 ```
+
+### Параметры
+**`dp`** `IChartDataProvider`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,14 @@ namespace TigerTrade.Core.Utils.Time
 ```csharp
 public static bool IsInvalidTime(DateTime dt, string exchange)
 ```
+
+### Параметры
+**`dt`** `DateTime`  
+ Описание  
+  
+**`exchange`** `string`  
+ Описание  
+  
+
+                    
+                    

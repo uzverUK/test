@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Drawings
 ```csharp
 public void CopyTheme(ChartLine chartLine)
 ```
+
+### Параметры
+**`chartLine`** `ChartLine`  
+ Описание  
+  
+
+                    
+                    

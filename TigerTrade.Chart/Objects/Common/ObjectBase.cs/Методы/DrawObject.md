@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public void DrawObject(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
+
+### Параметры
+**`visual`** `DxVisualQueue`  
+ Описание  
+  
+**`List`** `ref`  
+ Описание  
+  
+
+                    
+                    

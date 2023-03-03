@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.List
 ```csharp
 public void AddPoint(ObjectPoint op)
 ```
+
+### Параметры
+**`op`** `ObjectPoint`  
+ Описание  
+  
+
+                    
+                    

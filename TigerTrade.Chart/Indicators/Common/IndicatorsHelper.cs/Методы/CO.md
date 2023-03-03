@@ -11,3 +11,17 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] CO(IndicatorMaType maType, int shortPeriod, int longPeriod)
 ```
+
+### Параметры
+**`maType`** `IndicatorMaType`  
+ Описание  
+  
+**`shortPeriod`** `int`  
+ Описание  
+  
+**`longPeriod`** `int`  
+ Описание  
+  
+
+                    
+                    

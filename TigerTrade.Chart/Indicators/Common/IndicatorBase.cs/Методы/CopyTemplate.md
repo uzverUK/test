@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public virtual void CopyTemplate(IndicatorBase indicator, bool style)
 ```
+
+### Параметры
+**`indicator`** `IndicatorBase`  
+ Описание  
+  
+**`style`** `bool`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public virtual void GetLabels(ref List<IndicatorLabelInfo> labels)
 ```
+
+### Параметры
+**`List`** `ref`  
+ Описание  
+  
+
+                    
+                    

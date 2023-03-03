@@ -11,3 +11,8 @@ namespace TigerTrade.Core.UI.Windows
 ```csharp
 public MessageWindow()
 ```
+
+### Параметры
+
+                    
+                    

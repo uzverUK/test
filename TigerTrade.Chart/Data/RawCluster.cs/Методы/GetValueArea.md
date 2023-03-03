@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Data
 ```csharp
 public IRawClusterValueArea GetValueArea(int valueArea)
 ```
+
+### Параметры
+**`valueArea`** `int`  
+ Описание  
+  
+
+                    
+                    

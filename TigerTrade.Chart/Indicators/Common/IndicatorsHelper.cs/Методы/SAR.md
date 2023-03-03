@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] SAR(double step, double maxp)
 ```
+
+### Параметры
+**`step`** `double`  
+ Описание  
+  
+**`maxp`** `double`  
+ Описание  
+  
+
+                    
+                    

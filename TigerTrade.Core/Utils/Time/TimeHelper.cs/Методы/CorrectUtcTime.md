@@ -11,3 +11,14 @@ namespace TigerTrade.Core.Utils.Time
 ```csharp
 public static DateTime CorrectUtcTime(DateTime utcTime, string exchange)
 ```
+
+### Параметры
+**`utcTime`** `DateTime`  
+ Описание  
+  
+**`exchange`** `string`  
+ Описание  
+  
+
+                    
+                    

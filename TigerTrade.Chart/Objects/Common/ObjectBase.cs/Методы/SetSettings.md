@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public void SetSettings(IChartSettings settings)
 ```
+
+### Параметры
+**`settings`** `IChartSettings`  
+ Описание  
+  
+
+                    
+                    

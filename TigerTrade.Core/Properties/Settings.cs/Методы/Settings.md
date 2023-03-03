@@ -11,3 +11,8 @@ namespace TigerTrade.Core.Properties
 ```csharp
 public Settings()
 ```
+
+### Параметры
+
+                    
+                    

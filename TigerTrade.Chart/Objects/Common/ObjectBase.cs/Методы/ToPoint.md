@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public Point ToPoint(ObjectPoint op)
 ```
+
+### Параметры
+**`op`** `ObjectPoint`  
+ Описание  
+  
+
+                    
+                    

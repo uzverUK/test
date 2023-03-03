@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public bool CheckPeriod(IChartPeriod dc)
 ```
+
+### Параметры
+**`dc`** `IChartPeriod`  
+ Описание  
+  
+
+                    
+                    

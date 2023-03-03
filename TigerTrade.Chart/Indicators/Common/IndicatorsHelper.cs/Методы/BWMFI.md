@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] BWMFI(IndicatorBWMFIType volumeType = IndicatorBWMFIType.Ticks)
 ```
+
+### Параметры
+**`volumeType`** `IndicatorBWMFIType`  
+ Описание  
+  
+
+                    
+                    

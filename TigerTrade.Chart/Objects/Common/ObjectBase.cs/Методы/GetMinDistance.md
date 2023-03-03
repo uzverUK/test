@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public int GetMinDistance(int x, int y)
 ```
+
+### Параметры
+**`x`** `int`  
+ Описание  
+  
+**`y`** `int`  
+ Описание  
+  
+
+                    
+                    

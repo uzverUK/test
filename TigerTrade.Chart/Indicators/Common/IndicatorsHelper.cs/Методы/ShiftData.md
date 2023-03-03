@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] ShiftData(double[] data, int shift)
 ```
+
+### Параметры
+**`shift`** `int`  
+ Описание  
+  
+
+                    
+                    

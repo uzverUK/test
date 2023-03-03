@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public IndicatorSourceAttribute(string name)
 ```
+
+### Параметры
+**`name`** `string`  
+ Описание  
+  
+
+                    
+                    

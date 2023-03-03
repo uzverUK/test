@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public virtual void Render(DxVisualQueue visual)
 ```
+
+### Параметры
+**`visual`** `DxVisualQueue`  
+ Описание  
+  
+
+                    
+                    

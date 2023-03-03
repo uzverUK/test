@@ -11,3 +11,11 @@ namespace TigerTrade.Core.UI.Common
 ```csharp
 bool GetPropertyVisibility(string propertyName)
 ```
+
+### Параметры
+**`propertyName`** `string`  
+ Описание  
+  
+
+                    
+                    

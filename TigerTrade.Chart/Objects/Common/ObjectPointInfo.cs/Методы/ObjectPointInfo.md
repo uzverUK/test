@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public ObjectPointInfo(ObjectPoint[] points, int index)
 ```
+
+### Параметры
+**`index`** `int`  
+ Описание  
+  
+
+                    
+                    

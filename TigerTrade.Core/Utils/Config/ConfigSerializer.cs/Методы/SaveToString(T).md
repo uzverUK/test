@@ -10,5 +10,13 @@ namespace TigerTrade.Core.Utils.Config
 ### Синтаксис
 ```csharp
 public static string SaveToString<T>(T o, DataContractResolver resolver = null)
-public static string SaveToString<T>(T o, IEnumerable<Type> knownTypes)
+                    public static string SaveToString<T>(T o, IEnumerable<Type> knownTypes)
 ```
+
+### Параметры
+**`o`** `T`  
+ Описание  
+  
+
+                    
+                    

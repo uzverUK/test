@@ -10,5 +10,13 @@ namespace TigerTrade.Chart.Indicators.Common
 ### Синтаксис
 ```csharp
 public T Get(string key, T defaultValue)
-public T Get(string key)
+                    public T Get(string key)
 ```
+
+### Параметры
+**`key`** `string`  
+ Описание  
+  
+
+                    
+                    

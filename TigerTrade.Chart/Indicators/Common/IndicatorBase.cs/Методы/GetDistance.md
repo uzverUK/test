@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public virtual double GetDistance(double x, double y)
 ```
+
+### Параметры
+**`x`** `double`  
+ Описание  
+  
+**`y`** `double`  
+ Описание  
+  
+
+                    
+                    

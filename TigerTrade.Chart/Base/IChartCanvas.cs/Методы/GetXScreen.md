@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Base
 ```csharp
 double GetXScreen(double x)
 ```
+
+### Параметры
+**`x`** `double`  
+ Описание  
+  
+
+                    
+                    

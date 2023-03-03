@@ -11,3 +11,11 @@ namespace TigerTrade.Core.Utils.Logging
 ```csharp
 public BJ8cOSjDTKSexX17nQEk(string _param1)
 ```
+
+### Параметры
+**`_param1`** `string`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,11 @@ namespace TigerTrade.Core.UI
 ```csharp
 public static void WindowCorrect(Window window)
 ```
+
+### Параметры
+**`window`** `Window`  
+ Описание  
+  
+
+                    
+                    

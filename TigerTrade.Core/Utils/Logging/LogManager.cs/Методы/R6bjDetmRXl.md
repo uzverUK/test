@@ -11,3 +11,11 @@ namespace TigerTrade.Core.Utils.Logging
 ```csharp
 public void R6bjDetmRXl(int _param1)
 ```
+
+### Параметры
+**`_param1`** `int`  
+ Описание  
+  
+
+                    
+                    

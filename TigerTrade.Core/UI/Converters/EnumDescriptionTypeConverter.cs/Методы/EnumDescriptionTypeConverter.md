@@ -11,3 +11,11 @@ namespace TigerTrade.Core.UI.Converters
 ```csharp
 public EnumDescriptionTypeConverter(Type type)
 ```
+
+### Параметры
+**`type`** `Type`  
+ Описание  
+  
+
+                    
+                    

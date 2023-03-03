@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Sources
 ```csharp
 public override void CopySettings(IndicatorSourceBase source)
 ```
+
+### Параметры
+**`source`** `IndicatorSourceBase`  
+ Описание  
+  
+
+                    
+                    

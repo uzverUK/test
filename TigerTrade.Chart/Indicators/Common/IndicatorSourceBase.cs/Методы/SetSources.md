@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public static void SetSources(List<Type> sources)
 ```
+
+### Параметры
+
+                    
+                    

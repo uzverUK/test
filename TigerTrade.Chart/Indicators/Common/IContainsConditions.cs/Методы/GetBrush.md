@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 XBrush GetBrush(int index, bool isUp)
 ```
+
+### Параметры
+**`index`** `int`  
+ Описание  
+  
+**`isUp`** `bool`  
+ Описание  
+  
+
+                    
+                    

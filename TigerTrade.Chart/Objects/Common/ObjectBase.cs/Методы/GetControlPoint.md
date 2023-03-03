@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public virtual int GetControlPoint(int x, int y)
 ```
+
+### Параметры
+**`x`** `int`  
+ Описание  
+  
+**`y`** `int`  
+ Описание  
+  
+
+                    
+                    

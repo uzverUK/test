@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Alerts
 ```csharp
 public void Copy(ChartAlertSettings alert, bool copyActive = false)
 ```
+
+### Параметры
+**`alert`** `ChartAlertSettings`  
+ Описание  
+  
+**`copyActive`** `bool`  
+ Описание  
+  
+
+                    
+                    

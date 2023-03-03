@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] SMMA(double[] d, int period)
 ```
+
+### Параметры
+**`period`** `int`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,17 @@ namespace TigerTrade.Core.Utils.Logging
 ```csharp
 public static void Init(string path, string appName, string appVersion)
 ```
+
+### Параметры
+**`path`** `string`  
+ Описание  
+  
+**`appName`** `string`  
+ Описание  
+  
+**`appVersion`** `string`  
+ Описание  
+  
+
+                    
+                    

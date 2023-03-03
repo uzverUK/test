@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Drawings
 ```csharp
 public void CopyTheme(ChartLevel chartLevel)
 ```
+
+### Параметры
+**`chartLevel`** `ChartLevel`  
+ Описание  
+  
+
+                    
+                    

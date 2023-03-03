@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public void CachePoints(Point[] points, string pointsName)
 ```
+
+### Параметры
+**`pointsName`** `string`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Indicators.Collections
 ```csharp
 public IndicatorSeries()
 ```
+
+### Параметры
+
+                    
+                    

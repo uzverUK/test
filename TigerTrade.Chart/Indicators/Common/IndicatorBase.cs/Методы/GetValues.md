@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public virtual List<IndicatorValueInfo> GetValues(int cursorPos)
 ```
+
+### Параметры
+**`cursorPos`** `int`  
+ Описание  
+  
+
+                    
+                    

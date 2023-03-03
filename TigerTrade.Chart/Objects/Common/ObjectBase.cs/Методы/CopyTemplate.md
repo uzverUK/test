@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public virtual void CopyTemplate(ObjectBase objectBase, bool style)
 ```
+
+### Параметры
+**`objectBase`** `ObjectBase`  
+ Описание  
+  
+**`style`** `bool`  
+ Описание  
+  
+
+                    
+                    

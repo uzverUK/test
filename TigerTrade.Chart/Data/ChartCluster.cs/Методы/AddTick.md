@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Data
 ```csharp
 public void AddTick(IChartTick tick)
 ```
+
+### Параметры
+**`tick`** `IChartTick`  
+ Описание  
+  
+
+                    
+                    

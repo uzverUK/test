@@ -11,3 +11,17 @@ namespace TigerTrade.Core.Utils.Time
 ```csharp
 public static DateTime Round(this DateTime datetime, TimeSpan roundingInterval)
 ```
+
+### Параметры
+**`DateTime`** `this`  
+ Описание  
+  
+**`roundingInterval`** `TimeSpan`  
+ Описание  
+  
+**`DateTime`** `new`  
+ Описание  
+  
+
+                    
+                    

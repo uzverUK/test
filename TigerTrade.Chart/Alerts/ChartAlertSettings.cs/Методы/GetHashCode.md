@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Alerts
 ```csharp
 public override int GetHashCode()
 ```
+
+### Параметры
+
+                    
+                    

@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Data
 ```csharp
 public void AddCluster(IRawCluster cluster)
 ```
+
+### Параметры
+**`cluster`** `IRawCluster`  
+ Описание  
+  
+
+                    
+                    

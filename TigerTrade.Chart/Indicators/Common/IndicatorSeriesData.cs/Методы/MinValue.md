@@ -10,5 +10,16 @@ namespace TigerTrade.Chart.Indicators.Common
 ### Синтаксис
 ```csharp
 public double MinValue()
-public double MinValue(int start, int count)
+                    public double MinValue(int start, int count)
 ```
+
+### Параметры
+**`start`** `int`  
+ Описание  
+  
+**`count`** `int`  
+ Описание  
+  
+
+                    
+                    

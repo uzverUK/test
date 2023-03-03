@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public virtual void ControlPointEditing(int index)
 ```
+
+### Параметры
+**`index`** `int`  
+ Описание  
+  
+
+                    
+                    

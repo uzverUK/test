@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public virtual void ExtraPointChanged(int index, ObjectPoint op)
 ```
+
+### Параметры
+**`index`** `int`  
+ Описание  
+  
+**`op`** `ObjectPoint`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,8 @@ namespace TigerTrade.Core.UI.Windows.SelectFolder
 ```csharp
 public SelectFolderWindow()
 ```
+
+### Параметры
+
+                    
+                    

@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public virtual bool CheckNeedRedraw()
 ```
+
+### Параметры
+
+                    
+                    

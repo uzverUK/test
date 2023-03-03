@@ -11,3 +11,14 @@ namespace TigerTrade.Core.Localization
 ```csharp
 public CategoryLocalizedAttribute(Type resourceManagerProvider, string resourceKey)
 ```
+
+### Параметры
+**`resourceManagerProvider`** `Type`  
+ Описание  
+  
+**`resourceKey`** `string`  
+ Описание  
+  
+
+                    
+                    

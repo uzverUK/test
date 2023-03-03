@@ -10,5 +10,16 @@ namespace TigerTrade.Core.Utils.Time
 ### Синтаксис
 ```csharp
 public static DateTime GetSessionDate(string exchange)
-public static DateTime GetSessionDate(DateTime dt, string exchange)
+                    public static DateTime GetSessionDate(DateTime dt, string exchange)
 ```
+
+### Параметры
+**`dt`** `DateTime`  
+ Описание  
+  
+**`exchange`** `string`  
+ Описание  
+  
+
+                    
+                    

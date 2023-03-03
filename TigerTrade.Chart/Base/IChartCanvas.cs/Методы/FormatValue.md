@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Base
 ```csharp
 string FormatValue(double d)
 ```
+
+### Параметры
+**`d`** `double`  
+ Описание  
+  
+
+                    
+                    

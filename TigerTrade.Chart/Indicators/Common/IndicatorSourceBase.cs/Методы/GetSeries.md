@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public abstract double[] GetSeries(IndicatorsHelper helper)
 ```
+
+### Параметры
+**`helper`** `IndicatorsHelper`  
+ Описание  
+  
+
+                    
+                    

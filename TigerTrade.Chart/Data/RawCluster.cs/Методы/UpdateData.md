@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Data
 ```csharp
 public void UpdateData()
 ```
+
+### Параметры
+
+                    
+                    

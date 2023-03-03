@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Data
 ```csharp
 IChartCluster GetCluster(int i)
 ```
+
+### Параметры
+**`i`** `int`  
+ Описание  
+  
+
+                    
+                    

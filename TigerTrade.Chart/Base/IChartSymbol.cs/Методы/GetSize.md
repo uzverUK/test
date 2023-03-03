@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Base
 ```csharp
 Decimal GetSize(long rawSize)
 ```
+
+### Параметры
+**`rawSize`** `long`  
+ Описание  
+  
+
+                    
+                    

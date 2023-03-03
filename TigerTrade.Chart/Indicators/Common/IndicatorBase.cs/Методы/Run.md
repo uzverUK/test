@@ -11,3 +11,20 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public void Run(IChartDataProvider dp, string longKey, string shortKey, string revision)
 ```
+
+### Параметры
+**`dp`** `IChartDataProvider`  
+ Описание  
+  
+**`longKey`** `string`  
+ Описание  
+  
+**`shortKey`** `string`  
+ Описание  
+  
+**`revision`** `string`  
+ Описание  
+  
+
+                    
+                    

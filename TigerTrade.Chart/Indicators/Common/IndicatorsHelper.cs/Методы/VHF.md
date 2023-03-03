@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] VHF(int n)
 ```
+
+### Параметры
+**`n`** `int`  
+ Описание  
+  
+
+                    
+                    

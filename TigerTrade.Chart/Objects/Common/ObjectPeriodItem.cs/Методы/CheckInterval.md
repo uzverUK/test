@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public bool CheckInterval(int interval)
 ```
+
+### Параметры
+**`interval`** `int`  
+ Описание  
+  
+
+                    
+                    

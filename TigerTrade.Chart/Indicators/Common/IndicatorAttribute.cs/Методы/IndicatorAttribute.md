@@ -11,3 +11,17 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public IndicatorAttribute(string id, string name, bool overlay)
 ```
+
+### Параметры
+**`id`** `string`  
+ Описание  
+  
+**`name`** `string`  
+ Описание  
+  
+**`overlay`** `bool`  
+ Описание  
+  
+
+                    
+                    

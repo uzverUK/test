@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Base
 ```csharp
 string FormatSizeFull(Decimal size)
 ```
+
+### Параметры
+**`size`** `Decimal`  
+ Описание  
+  
+
+                    
+                    

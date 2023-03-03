@@ -11,3 +11,17 @@ namespace TigerTrade.Core.Utils.Config
 ```csharp
 public static void SaveToFile<T>(T o, string fileName, DataContractResolver resolver = null)
 ```
+
+### Параметры
+**`o`** `T`  
+ Описание  
+  
+**`fileName`** `string`  
+ Описание  
+  
+**`resolver`** `DataContractResolver`  
+ Описание  
+  
+
+                    
+                    

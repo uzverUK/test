@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public void SetCanvas(IChartCanvas canvas)
 ```
+
+### Параметры
+**`canvas`** `IChartCanvas`  
+ Описание  
+  
+
+                    
+                    

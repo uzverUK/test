@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Data
 ```csharp
 public void AddCluster(IChartCluster cluster)
 ```
+
+### Параметры
+**`cluster`** `IChartCluster`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,17 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public void Fractal(int n, out double[] up, out double[] down)
 ```
+
+### Параметры
+**`n`** `int`  
+ Описание  
+  
+**`double`** `out`  
+ Описание  
+  
+**`double`** `out`  
+ Описание  
+  
+
+                    
+                    

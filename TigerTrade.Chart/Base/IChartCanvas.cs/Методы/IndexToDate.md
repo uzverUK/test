@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Base
 ```csharp
 DateTime IndexToDate(int i)
 ```
+
+### Параметры
+**`i`** `int`  
+ Описание  
+  
+
+                    
+                    

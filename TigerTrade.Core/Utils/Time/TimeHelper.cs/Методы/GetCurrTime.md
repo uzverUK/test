@@ -11,3 +11,11 @@ namespace TigerTrade.Core.Utils.Time
 ```csharp
 public static DateTime GetCurrTime(string exchange)
 ```
+
+### Параметры
+**`exchange`** `string`  
+ Описание  
+  
+
+                    
+                    

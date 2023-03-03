@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Indicators.Sources
 ```csharp
 public OBVSource()
 ```
+
+### Параметры
+
+                    
+                    

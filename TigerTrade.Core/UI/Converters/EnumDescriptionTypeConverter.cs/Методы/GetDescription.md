@@ -11,3 +11,14 @@ namespace TigerTrade.Core.UI.Converters
 ```csharp
 public static string GetDescription(Type type, string fieldName)
 ```
+
+### Параметры
+**`type`** `Type`  
+ Описание  
+  
+**`fieldName`** `string`  
+ Описание  
+  
+
+                    
+                    

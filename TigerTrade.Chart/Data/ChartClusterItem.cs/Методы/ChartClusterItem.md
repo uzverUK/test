@@ -10,5 +10,13 @@ namespace TigerTrade.Chart.Data
 ### Синтаксис
 ```csharp
 public ChartClusterItem(Decimal price)
-public ChartClusterItem(IChartClusterItem item)
+                    public ChartClusterItem(IChartClusterItem item)
 ```
+
+### Параметры
+**`item`** `IChartClusterItem`  
+ Описание  
+  
+
+                    
+                    

@@ -11,3 +11,11 @@ namespace TigerTrade.Core.Utils.Time
 ```csharp
 public static DateTime GetCityTime(string city)
 ```
+
+### Параметры
+**`city`** `string`  
+ Описание  
+  
+
+                    
+                    

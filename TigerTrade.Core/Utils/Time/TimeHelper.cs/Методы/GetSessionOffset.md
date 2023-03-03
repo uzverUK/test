@@ -11,3 +11,11 @@ namespace TigerTrade.Core.Utils.Time
 ```csharp
 public static double GetSessionOffset(string exchange)
 ```
+
+### Параметры
+**`exchange`** `string`  
+ Описание  
+  
+
+                    
+                    

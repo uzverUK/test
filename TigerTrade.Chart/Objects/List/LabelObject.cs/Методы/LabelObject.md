@@ -11,3 +11,8 @@ namespace TigerTrade.Chart.Objects.List
 ```csharp
 public LabelObject()
 ```
+
+### Параметры
+
+                    
+                    

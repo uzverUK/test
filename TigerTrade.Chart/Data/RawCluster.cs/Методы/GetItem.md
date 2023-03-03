@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Data
 ```csharp
 public IRawClusterItem GetItem(long price)
 ```
+
+### Параметры
+**`price`** `long`  
+ Описание  
+  
+
+                    
+                    

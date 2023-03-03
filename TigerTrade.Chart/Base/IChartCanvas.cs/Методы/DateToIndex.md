@@ -10,5 +10,16 @@ namespace TigerTrade.Chart.Base
 ### Синтаксис
 ```csharp
 int DateToIndex(DateTime dt, int dir)
-int DateToIndex(double dt, int dir)
+                    int DateToIndex(double dt, int dir)
 ```
+
+### Параметры
+**`dt`** `double`  
+ Описание  
+  
+**`dir`** `int`  
+ Описание  
+  
+
+                    
+                    

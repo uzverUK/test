@@ -11,3 +11,11 @@ namespace TigerTrade.Core.UI.Commands
 ```csharp
 public bool CanExecute(object parameter)
 ```
+
+### Параметры
+**`parameter`** `object`  
+ Описание  
+  
+
+                    
+                    

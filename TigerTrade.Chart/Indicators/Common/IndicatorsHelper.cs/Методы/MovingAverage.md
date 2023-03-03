@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public double[] MovingAverage(IndicatorMaType maType, double[] d, int period)
 ```
+
+### Параметры
+**`maType`** `IndicatorMaType`  
+ Описание  
+  
+**`period`** `int`  
+ Описание  
+  
+
+                    
+                    

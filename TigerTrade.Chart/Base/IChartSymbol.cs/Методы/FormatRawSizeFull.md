@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Base
 ```csharp
 string FormatRawSizeFull(long size)
 ```
+
+### Параметры
+**`size`** `long`  
+ Описание  
+  
+
+                    
+                    

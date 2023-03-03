@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.List
 ```csharp
 public string PrettyFormatTimeSpan(TimeSpan span)
 ```
+
+### Параметры
+**`span`** `TimeSpan`  
+ Описание  
+  
+
+                    
+                    

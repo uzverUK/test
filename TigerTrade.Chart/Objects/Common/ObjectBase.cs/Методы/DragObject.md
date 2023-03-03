@@ -11,3 +11,14 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public virtual void DragObject(double dx, double dy)
 ```
+
+### Параметры
+**`dx`** `double`  
+ Описание  
+  
+**`dy`** `double`  
+ Описание  
+  
+
+                    
+                    

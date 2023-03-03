@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Base
 ```csharp
 double GetValue(double y)
 ```
+
+### Параметры
+**`y`** `double`  
+ Описание  
+  
+
+                    
+                    

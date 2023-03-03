@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Base
 ```csharp
 int GetIndex(int i)
 ```
+
+### Параметры
+**`i`** `int`  
+ Описание  
+  
+
+                    
+                    

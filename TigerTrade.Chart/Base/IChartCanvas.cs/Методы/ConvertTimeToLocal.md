@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Base
 ```csharp
 DateTime ConvertTimeToLocal(DateTime dt)
 ```
+
+### Параметры
+**`dt`** `DateTime`  
+ Описание  
+  
+
+                    
+                    

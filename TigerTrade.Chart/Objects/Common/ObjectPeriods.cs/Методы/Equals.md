@@ -11,3 +11,11 @@ namespace TigerTrade.Chart.Objects.Common
 ```csharp
 public override bool Equals(object obj)
 ```
+
+### Параметры
+**`obj`** `object`  
+ Описание  
+  
+
+                    
+                    

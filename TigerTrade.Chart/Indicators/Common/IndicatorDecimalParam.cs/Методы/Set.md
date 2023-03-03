@@ -11,3 +11,20 @@ namespace TigerTrade.Chart.Indicators.Common
 ```csharp
 public bool Set(string key, Decimal value, Decimal minValue = -79228162514264337593543950335M, Decimal maxValue = 79228162514264337593543950335M)
 ```
+
+### Параметры
+**`key`** `string`  
+ Описание  
+  
+**`value`** `Decimal`  
+ Описание  
+  
+**`minValue`** `Decimal`  
+ Описание  
+  
+**`maxValue`** `Decimal`  
+ Описание  
+  
+
+                    
+                    
