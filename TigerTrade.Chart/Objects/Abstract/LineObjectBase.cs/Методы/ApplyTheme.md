@@ -13,7 +13,7 @@ public override void ApplyTheme(IChartTheme theme)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`theme`**</mark> <mark style="color:coral;">`IChartTheme`</mark>  
+<mark style="color:red;">**`theme`**</mark> <mark style="color:orange;">`IChartTheme`</mark>  
  *Описание*  
   
 

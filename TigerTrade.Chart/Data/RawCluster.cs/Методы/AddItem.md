@@ -13,7 +13,7 @@ public void AddItem(IRawClusterItem item)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`item`**</mark> <mark style="color:coral;">`IRawClusterItem`</mark>  
+<mark style="color:red;">**`item`**</mark> <mark style="color:orange;">`IRawClusterItem`</mark>  
  *Описание*  
   
 

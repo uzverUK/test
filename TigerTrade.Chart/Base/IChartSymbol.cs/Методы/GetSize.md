@@ -13,7 +13,7 @@ Decimal GetSize(long rawSize)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`rawSize`**</mark> <mark style="color:coral;">`long`</mark>  
+<mark style="color:red;">**`rawSize`**</mark> <mark style="color:orange;">`long`</mark>  
  *Описание*  
   
 

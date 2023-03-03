@@ -14,13 +14,13 @@ string FormatTrades(long trades)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`trades`**</mark> <mark style="color:coral;">`long`</mark>  
+<mark style="color:red;">**`trades`**</mark> <mark style="color:orange;">`long`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`round`**</mark> <mark style="color:coral;">`int`</mark>  
+<mark style="color:red;">**`round`**</mark> <mark style="color:orange;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`minimize`**</mark> <mark style="color:coral;">`bool`</mark>  
+<mark style="color:red;">**`minimize`**</mark> <mark style="color:orange;">`bool`</mark>  
  *Описание*  
   
 

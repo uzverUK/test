@@ -13,7 +13,7 @@ public void CopyTheme(ChartLine chartLine)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`chartLine`**</mark> <mark style="color:coral;">`ChartLine`</mark>  
+<mark style="color:red;">**`chartLine`**</mark> <mark style="color:orange;">`ChartLine`</mark>  
  *Описание*  
   
 

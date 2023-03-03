@@ -13,13 +13,13 @@ XBrush GetSelection(int index, long price, int type)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`index`**</mark> <mark style="color:coral;">`int`</mark>  
+<mark style="color:red;">**`index`**</mark> <mark style="color:orange;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`price`**</mark> <mark style="color:coral;">`long`</mark>  
+<mark style="color:red;">**`price`**</mark> <mark style="color:orange;">`long`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`type`**</mark> <mark style="color:coral;">`int`</mark>  
+<mark style="color:red;">**`type`**</mark> <mark style="color:orange;">`int`</mark>  
  *Описание*  
   
 

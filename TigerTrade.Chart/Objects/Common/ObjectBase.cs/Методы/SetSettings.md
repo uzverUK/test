@@ -13,7 +13,7 @@ public void SetSettings(IChartSettings settings)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`settings`**</mark> <mark style="color:coral;">`IChartSettings`</mark>  
+<mark style="color:red;">**`settings`**</mark> <mark style="color:orange;">`IChartSettings`</mark>  
  *Описание*  
   
 

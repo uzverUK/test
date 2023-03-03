@@ -14,7 +14,7 @@ public T Get(string key, T defaultValue)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`key`**</mark> <mark style="color:coral;">`string`</mark>  
+<mark style="color:red;">**`key`**</mark> <mark style="color:orange;">`string`</mark>  
  *Описание*  
   
 

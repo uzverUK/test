@@ -13,10 +13,10 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`objectBase`**</mark> <mark style="color:coral;">`ObjectBase`</mark>  
+<mark style="color:red;">**`objectBase`**</mark> <mark style="color:orange;">`ObjectBase`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`style`**</mark> <mark style="color:coral;">`bool`</mark>  
+<mark style="color:red;">**`style`**</mark> <mark style="color:orange;">`bool`</mark>  
  *Описание*  
   
 

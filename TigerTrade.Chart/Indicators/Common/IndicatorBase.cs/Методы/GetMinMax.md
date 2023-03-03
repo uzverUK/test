@@ -13,10 +13,10 @@ public virtual bool GetMinMax(out double min, out double max)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`double`**</mark> <mark style="color:coral;">`out`</mark>  
+<mark style="color:red;">**`double`**</mark> <mark style="color:orange;">`out`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`double`**</mark> <mark style="color:coral;">`out`</mark>  
+<mark style="color:red;">**`double`**</mark> <mark style="color:orange;">`out`</mark>  
  *Описание*  
   
 

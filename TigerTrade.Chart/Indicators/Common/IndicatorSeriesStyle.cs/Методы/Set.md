@@ -15,7 +15,7 @@ public void Set(ChartSeries series, string name = "")
 ```
 
 ### Параметры  
-<mark style="color:red;">**`line`**</mark> <mark style="color:coral;">`ChartLine`</mark>  
+<mark style="color:red;">**`line`**</mark> <mark style="color:orange;">`ChartLine`</mark>  
  *Описание*  
   
 

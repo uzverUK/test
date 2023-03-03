@@ -14,10 +14,10 @@ int DateToIndex(DateTime dt, int dir)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`dt`**</mark> <mark style="color:coral;">`double`</mark>  
+<mark style="color:red;">**`dt`**</mark> <mark style="color:orange;">`double`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`dir`**</mark> <mark style="color:coral;">`int`</mark>  
+<mark style="color:red;">**`dir`**</mark> <mark style="color:orange;">`int`</mark>  
  *Описание*  
   
 

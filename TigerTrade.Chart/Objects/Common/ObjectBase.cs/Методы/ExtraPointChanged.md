@@ -13,10 +13,10 @@ public virtual void ExtraPointChanged(int index, ObjectPoint op)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`index`**</mark> <mark style="color:coral;">`int`</mark>  
+<mark style="color:red;">**`index`**</mark> <mark style="color:orange;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`op`**</mark> <mark style="color:coral;">`ObjectPoint`</mark>  
+<mark style="color:red;">**`op`**</mark> <mark style="color:orange;">`ObjectPoint`</mark>  
  *Описание*  
   
 

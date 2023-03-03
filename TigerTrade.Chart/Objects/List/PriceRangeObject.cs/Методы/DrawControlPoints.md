@@ -13,7 +13,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`visual`**</mark> <mark style="color:coral;">`DxVisualQueue`</mark>  
+<mark style="color:red;">**`visual`**</mark> <mark style="color:orange;">`DxVisualQueue`</mark>  
  *Описание*  
   
 

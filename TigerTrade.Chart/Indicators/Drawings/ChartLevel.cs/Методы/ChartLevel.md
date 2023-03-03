@@ -14,10 +14,10 @@ public ChartLevel()
 ```
 
 ### Параметры  
-<mark style="color:red;">**`level`**</mark> <mark style="color:coral;">`Decimal`</mark>  
+<mark style="color:red;">**`level`**</mark> <mark style="color:orange;">`Decimal`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`color`**</mark> <mark style="color:coral;">`XColor`</mark>  
+<mark style="color:red;">**`color`**</mark> <mark style="color:orange;">`XColor`</mark>  
  *Описание*  
   
 

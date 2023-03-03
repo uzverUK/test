@@ -13,7 +13,7 @@ public double[] Price(IndicatorPriceType priceField)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`priceField`**</mark> <mark style="color:coral;">`IndicatorPriceType`</mark>  
+<mark style="color:red;">**`priceField`**</mark> <mark style="color:orange;">`IndicatorPriceType`</mark>  
  *Описание*  
   
 

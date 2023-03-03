@@ -13,13 +13,13 @@ public static void SaveToFile<T>(T o, string fileName, DataContractResolver reso
 ```
 
 ### Параметры  
-<mark style="color:red;">**`o`**</mark> <mark style="color:coral;">`T`</mark>  
+<mark style="color:red;">**`o`**</mark> <mark style="color:orange;">`T`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`fileName`**</mark> <mark style="color:coral;">`string`</mark>  
+<mark style="color:red;">**`fileName`**</mark> <mark style="color:orange;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`resolver`**</mark> <mark style="color:coral;">`DataContractResolver`</mark>  
+<mark style="color:red;">**`resolver`**</mark> <mark style="color:orange;">`DataContractResolver`</mark>  
  *Описание*  
   
 

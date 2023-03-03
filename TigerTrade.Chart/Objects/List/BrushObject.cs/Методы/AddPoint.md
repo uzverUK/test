@@ -13,7 +13,7 @@ public void AddPoint(ObjectPoint op)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`op`**</mark> <mark style="color:coral;">`ObjectPoint`</mark>  
+<mark style="color:red;">**`op`**</mark> <mark style="color:orange;">`ObjectPoint`</mark>  
  *Описание*  
   
 

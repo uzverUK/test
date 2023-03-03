@@ -13,7 +13,7 @@ public static void WriteInfo(string i)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`i`**</mark> <mark style="color:coral;">`string`</mark>  
+<mark style="color:red;">**`i`**</mark> <mark style="color:orange;">`string`</mark>  
  *Описание*  
   
 

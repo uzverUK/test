@@ -13,7 +13,7 @@ public virtual List<IndicatorValueInfo> GetValues(int cursorPos)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`cursorPos`**</mark> <mark style="color:coral;">`int`</mark>  
+<mark style="color:red;">**`cursorPos`**</mark> <mark style="color:orange;">`int`</mark>  
  *Описание*  
   
 

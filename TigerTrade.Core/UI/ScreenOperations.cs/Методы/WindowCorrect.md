@@ -13,7 +13,7 @@ public static void WindowCorrect(Window window)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`window`**</mark> <mark style="color:coral;">`Window`</mark>  
+<mark style="color:red;">**`window`**</mark> <mark style="color:orange;">`Window`</mark>  
  *Описание*  
   
 

@@ -13,7 +13,7 @@ public override IEnumerable<string> GetSeriesList()
 ```
 
 ### Параметры  
-<mark style="color:red;">**`List`**</mark> <mark style="color:coral;">`new`</mark>  
+<mark style="color:red;">**`List`**</mark> <mark style="color:orange;">`new`</mark>  
  *Описание*  
   
 

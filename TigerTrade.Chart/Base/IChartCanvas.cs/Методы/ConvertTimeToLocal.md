@@ -13,7 +13,7 @@ DateTime ConvertTimeToLocal(DateTime dt)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`dt`**</mark> <mark style="color:coral;">`DateTime`</mark>  
+<mark style="color:red;">**`dt`**</mark> <mark style="color:orange;">`DateTime`</mark>  
  *Описание*  
   
 

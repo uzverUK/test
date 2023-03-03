@@ -14,7 +14,7 @@ public ChartClusterItem(Decimal price)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`item`**</mark> <mark style="color:coral;">`IChartClusterItem`</mark>  
+<mark style="color:red;">**`item`**</mark> <mark style="color:orange;">`IChartClusterItem`</mark>  
  *Описание*  
   
 

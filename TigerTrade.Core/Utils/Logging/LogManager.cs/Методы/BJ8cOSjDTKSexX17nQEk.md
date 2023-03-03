@@ -13,7 +13,7 @@ public BJ8cOSjDTKSexX17nQEk(string _param1)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`_param1`**</mark> <mark style="color:coral;">`string`</mark>  
+<mark style="color:red;">**`_param1`**</mark> <mark style="color:orange;">`string`</mark>  
  *Описание*  
   
 

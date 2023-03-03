@@ -14,10 +14,10 @@ public double MaxValue()
 ```
 
 ### Параметры  
-<mark style="color:red;">**`start`**</mark> <mark style="color:coral;">`int`</mark>  
+<mark style="color:red;">**`start`**</mark> <mark style="color:orange;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`count`**</mark> <mark style="color:coral;">`int`</mark>  
+<mark style="color:red;">**`count`**</mark> <mark style="color:orange;">`int`</mark>  
  *Описание*  
   
 

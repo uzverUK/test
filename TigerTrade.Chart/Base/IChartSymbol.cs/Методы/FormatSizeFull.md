@@ -13,7 +13,7 @@ string FormatSizeFull(Decimal size)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`size`**</mark> <mark style="color:coral;">`Decimal`</mark>  
+<mark style="color:red;">**`size`**</mark> <mark style="color:orange;">`Decimal`</mark>  
  *Описание*  
   
 

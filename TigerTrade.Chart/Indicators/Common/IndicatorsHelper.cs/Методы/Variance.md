@@ -13,10 +13,10 @@ public double[] Variance(double[] d, int period, double dev)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`period`**</mark> <mark style="color:coral;">`int`</mark>  
+<mark style="color:red;">**`period`**</mark> <mark style="color:orange;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`dev`**</mark> <mark style="color:coral;">`double`</mark>  
+<mark style="color:red;">**`dev`**</mark> <mark style="color:orange;">`double`</mark>  
  *Описание*  
   
 

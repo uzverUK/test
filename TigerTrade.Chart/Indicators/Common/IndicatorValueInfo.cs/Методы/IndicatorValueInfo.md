@@ -14,10 +14,10 @@ public IndicatorValueInfo(string value, XBrush brush)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`value`**</mark> <mark style="color:coral;">`string`</mark>  
+<mark style="color:red;">**`value`**</mark> <mark style="color:orange;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`color`**</mark> <mark style="color:coral;">`XColor`</mark>  
+<mark style="color:red;">**`color`**</mark> <mark style="color:orange;">`XColor`</mark>  
  *Описание*  
   
 

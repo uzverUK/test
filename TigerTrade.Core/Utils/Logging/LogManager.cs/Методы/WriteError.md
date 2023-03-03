@@ -15,10 +15,10 @@ public static void WriteError(string e)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`errorInfo`**</mark> <mark style="color:coral;">`string`</mark>  
+<mark style="color:red;">**`errorInfo`**</mark> <mark style="color:orange;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`e`**</mark> <mark style="color:coral;">`Exception`</mark>  
+<mark style="color:red;">**`e`**</mark> <mark style="color:orange;">`Exception`</mark>  
  *Описание*  
   
 

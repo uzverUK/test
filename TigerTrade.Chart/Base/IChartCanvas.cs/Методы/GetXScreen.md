@@ -13,7 +13,7 @@ double GetXScreen(double x)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`x`**</mark> <mark style="color:coral;">`double`</mark>  
+<mark style="color:red;">**`x`**</mark> <mark style="color:orange;">`double`</mark>  
  *Описание*  
   
 

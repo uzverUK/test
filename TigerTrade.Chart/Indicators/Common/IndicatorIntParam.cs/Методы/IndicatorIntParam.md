@@ -14,7 +14,7 @@ public IndicatorIntParam()
 ```
 
 ### Параметры  
-<mark style="color:red;">**`value`**</mark> <mark style="color:coral;">`int`</mark>  
+<mark style="color:red;">**`value`**</mark> <mark style="color:orange;">`int`</mark>  
  *Описание*  
   
 
