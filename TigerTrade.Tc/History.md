@@ -1,18 +1,18 @@
 
 # History
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Tc.History
 ```
 > Описание
 
 
-## Интерфейсы
+### Интерфейсы
 | Название | Описание |
 | --- | --- |
 | [`IDataReader1`](./History/IDataReader1.cs.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`BarsRequest`](./History/BarsRequest.cs.md) | *Описание* |

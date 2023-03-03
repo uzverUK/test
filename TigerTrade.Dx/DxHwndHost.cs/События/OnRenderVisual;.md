@@ -1,7 +1,7 @@
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public event Action<bool> OnRenderVisual;
 ```

@@ -1,6 +1,6 @@
 
 # public sealed class RSISource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class RSISource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`RSISource`](./RSISource.cs/Методы/RSISource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class RSISource : IndicatorSourceBase
 | [`CopySettings`](./RSISource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./RSISource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./RSISource.cs/Свойства/Period.md) | *Описание* |

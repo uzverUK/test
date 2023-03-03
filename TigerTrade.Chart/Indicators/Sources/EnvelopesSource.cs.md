@@ -1,6 +1,6 @@
 
 # public sealed class EnvelopesSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class EnvelopesSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`EnvelopesSource`](./EnvelopesSource.cs/Методы/EnvelopesSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class EnvelopesSource : IndicatorSourceBase
 | [`CopySettings`](./EnvelopesSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./EnvelopesSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./EnvelopesSource.cs/Свойства/Period.md) | *Описание* |

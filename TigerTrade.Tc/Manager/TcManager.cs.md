@@ -1,6 +1,6 @@
 
 # public static class TcManager
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Manager
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Manager
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static class TcManager
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Load`](./TcManager.cs/Методы/Load.md) | *Описание* |
@@ -32,7 +32,7 @@ public static class TcManager
 | [`SetViewOptionsSymbols`](./TcManager.cs/Методы/SetViewOptionsSymbols.md) | *Описание* |
 | [`GetMarketDataConnections`](./TcManager.cs/Методы/GetMarketDataConnections.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`CommonDataPath;`](./TcManager.cs/Свойства/CommonDataPath;.md) | *Описание* |

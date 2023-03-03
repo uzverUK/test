@@ -1,6 +1,6 @@
 
 # public class Resources
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Properties
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Core.Properties
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public class Resources
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ResourceManager`](./Resources.cs/Свойства/ResourceManager.md) | *Описание* |

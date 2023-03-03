@@ -1,6 +1,6 @@
 
 # IndicatorBase.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IndicatorBase
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public bool? ShowIndicatorParam { get; set; }
 ```

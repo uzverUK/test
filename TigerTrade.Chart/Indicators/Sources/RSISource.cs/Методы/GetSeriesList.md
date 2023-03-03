@@ -1,6 +1,6 @@
 
 # RSISource.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources  
     class RSISource
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public override IEnumerable<string> GetSeriesList()
 ```

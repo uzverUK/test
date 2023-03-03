@@ -1,6 +1,6 @@
 
 # RectangleObject.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List  
     class RectangleObject
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public override void ExtraPointChanged(int index, ObjectPoint op)
 ```

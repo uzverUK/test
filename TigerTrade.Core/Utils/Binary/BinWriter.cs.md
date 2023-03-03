@@ -1,6 +1,6 @@
 
 # public abstract class BinWriter
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Binary
 ```
@@ -9,7 +9,7 @@ namespace TigerTrade.Core.Utils.Binary
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public abstract class BinWriter
 ```

@@ -1,6 +1,6 @@
 
 # IRawMarketDepth.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IRawMarketDepth
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 long MaxSize { get; }
 ```

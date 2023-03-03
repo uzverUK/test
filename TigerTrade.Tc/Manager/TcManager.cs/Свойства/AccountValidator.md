@@ -1,6 +1,6 @@
 
 # TcManager.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Manager  
     class TcManager
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Manager
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static zYmFZWVu32MJxRml897u AccountValidator { get; private set; }
 ```

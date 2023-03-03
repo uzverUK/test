@@ -1,6 +1,6 @@
 
 # public interface IRawMarketDepth
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IRawMarketDepth
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`MaxAskPrice`](./IRawMarketDepth.cs/Свойства/MaxAskPrice.md) | *Описание* |

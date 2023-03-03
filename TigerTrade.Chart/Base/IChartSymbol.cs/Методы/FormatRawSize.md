@@ -1,6 +1,6 @@
 
 # IChartSymbol.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base  
     class IChartSymbol
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 string FormatRawSize(long size, int round = 2)
 string FormatRawSize(long size, int round, bool minimize)

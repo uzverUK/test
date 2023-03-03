@@ -1,13 +1,13 @@
 
 # TigerTrade.Tc
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Tc
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Collections`](./TigerTrade.Tc/Collections.md) | *Описание* |
@@ -18,7 +18,7 @@ namespace TigerTrade.Tc
 | [`History`](./TigerTrade.Tc/History.md) | *Описание* |
 | [`Manager`](./TigerTrade.Tc/Manager.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`ConnectionInfo`](./TigerTrade.Tc/ConnectionInfo.cs.md) | *Описание* |

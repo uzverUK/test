@@ -1,6 +1,6 @@
 
 # public sealed class RawClusterItem : IRawClusterItem
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class RawClusterItem : IRawClusterItem
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`RawClusterItem`](./RawClusterItem.cs/Методы/RawClusterItem.md) | *Описание* |
 | [`Add`](./RawClusterItem.cs/Методы/Add.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Price`](./RawClusterItem.cs/Свойства/Price.md) | *Описание* |

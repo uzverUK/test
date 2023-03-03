@@ -1,6 +1,6 @@
 
 # IChartDeal.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IChartDeal
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 bool IsBuy { get; }
 ```

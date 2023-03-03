@@ -1,6 +1,6 @@
 
 # ObjectLabelInfo.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common  
     class ObjectLabelInfo
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public ObjectLabelInfo(double value, XColor color, double? position = null)
 public ObjectLabelInfo(double value, double y1, double y2, XColor color)

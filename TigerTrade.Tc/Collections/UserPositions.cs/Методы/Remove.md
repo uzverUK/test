@@ -1,6 +1,6 @@
 
 # UserPositions.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections  
     class UserPositions
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void Remove(UserPosition position)
 ```

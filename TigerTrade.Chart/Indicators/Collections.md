@@ -1,13 +1,13 @@
 
 # Collections
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Indicators.Collections
 ```
 > Описание
 
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`IndicatorSeries`](./Collections/IndicatorSeries.cs.md) | *Описание* |

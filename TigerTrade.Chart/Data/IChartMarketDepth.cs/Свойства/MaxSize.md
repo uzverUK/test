@@ -1,6 +1,6 @@
 
 # IChartMarketDepth.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IChartMarketDepth
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 Decimal MaxSize { get; }
 ```

@@ -1,6 +1,6 @@
 
 # public sealed class DxVisualQueue
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class DxVisualQueue
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`DxVisualQueue`](./DxVisualQueue.cs/Методы/DxVisualQueue.md) | *Описание* |
@@ -38,7 +38,7 @@ public sealed class DxVisualQueue
 | [`DrawEllipse`](./DxVisualQueue.cs/Методы/DrawEllipse.md) | *Описание* |
 | [`FillEllipse`](./DxVisualQueue.cs/Методы/FillEllipse.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Empty`](./DxVisualQueue.cs/Свойства/Empty.md) | *Описание* |

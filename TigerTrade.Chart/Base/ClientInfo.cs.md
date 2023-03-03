@@ -1,6 +1,6 @@
 
 # public static class ClientInfo
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static class ClientInfo
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`LicenseID`](./ClientInfo.cs/Свойства/LicenseID.md) | *Описание* |

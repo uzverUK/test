@@ -1,6 +1,6 @@
 
 # internal class ConnectionIndicators : UserControl, IComponentConnector
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Config.UI
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Tc.Config.UI
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 internal class ConnectionIndicators : UserControl, IComponentConnector
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ConnectionIndicators`](./ConnectionIndicators.cs/Методы/ConnectionIndicators.md) | *Описание* |
 | [`roXwis3djh0(ogXycEOqcMglr0u6UVcN)`](./ConnectionIndicators.cs/Методы/roXwis3djh0(ogXycEOqcMglr0u6UVcN).md) | *Описание* |
 | [`InitializeComponent`](./ConnectionIndicators.cs/Методы/InitializeComponent.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`DependencyProperty`](./ConnectionIndicators.cs/Свойства/DependencyProperty.md) | *Описание* |
@@ -32,7 +32,7 @@ internal class ConnectionIndicators : UserControl, IComponentConnector
 | [`IndicatorClickedCommand`](./ConnectionIndicators.cs/Свойства/IndicatorClickedCommand.md) | *Описание* |
 | [`Indicators`](./ConnectionIndicators.cs/Свойства/Indicators.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`IndicatorChanged;`](./ConnectionIndicators.cs/События/IndicatorChanged;.md) | *Описание* |

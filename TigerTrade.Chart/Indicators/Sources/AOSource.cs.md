@@ -1,6 +1,6 @@
 
 # public sealed class AOSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class AOSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`AOSource`](./AOSource.cs/Методы/AOSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class AOSource : IndicatorSourceBase
 | [`CopySettings`](./AOSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./AOSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ShortPeriod`](./AOSource.cs/Свойства/ShortPeriod.md) | *Описание* |

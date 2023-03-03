@@ -1,6 +1,6 @@
 
 # public class RectangleObject : PolygonObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public class RectangleObject : PolygonObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`DrawControlPoints`](./RectangleObject.cs/Методы/DrawControlPoints.md) | *Описание* |
@@ -25,7 +25,7 @@ public class RectangleObject : PolygonObjectBase
 | [`RectangleObject`](./RectangleObject.cs/Методы/RectangleObject.md) | *Описание* |
 | [`x9Yyrp3RfkGdCbNTXU4b`](./RectangleObject.cs/Методы/x9Yyrp3RfkGdCbNTXU4b.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./RectangleObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

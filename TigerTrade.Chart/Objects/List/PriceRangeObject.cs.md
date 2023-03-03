@@ -1,6 +1,6 @@
 
 # public sealed class PriceRangeObject : PolygonObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class PriceRangeObject : PolygonObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`PriceRangeObject`](./PriceRangeObject.cs/Методы/PriceRangeObject.md) | *Описание* |
@@ -25,7 +25,7 @@ public sealed class PriceRangeObject : PolygonObjectBase
 | [`CheckAlert`](./PriceRangeObject.cs/Методы/CheckAlert.md) | *Описание* |
 | [`CQTqeP3bJqxWKjH4hGUt`](./PriceRangeObject.cs/Методы/CQTqeP3bJqxWKjH4hGUt.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./PriceRangeObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

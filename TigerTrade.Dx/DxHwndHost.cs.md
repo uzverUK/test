@@ -1,6 +1,6 @@
 
 # public sealed class DxHwndHost : DxHwndHostBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class DxHwndHost : DxHwndHostBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`DxHwndHost`](./DxHwndHost.cs/Методы/DxHwndHost.md) | *Описание* |
@@ -24,14 +24,14 @@ public sealed class DxHwndHost : DxHwndHostBase
 | [`InvalidateVisual`](./DxHwndHost.cs/Методы/InvalidateVisual.md) | *Описание* |
 | [`InvalidateSecondVisual`](./DxHwndHost.cs/Методы/InvalidateSecondVisual.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`WaitRedraw`](./DxHwndHost.cs/Свойства/WaitRedraw.md) | *Описание* |
 | [`ClientRect`](./DxHwndHost.cs/Свойства/ClientRect.md) | *Описание* |
 | [`IsDisposed`](./DxHwndHost.cs/Свойства/IsDisposed.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`OnTimerTick`](./DxHwndHost.cs/События/OnTimerTick.md) | *Описание* |

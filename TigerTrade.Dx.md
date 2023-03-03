@@ -1,20 +1,20 @@
 
 # TigerTrade.Dx
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Dx
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Enums`](./TigerTrade.Dx/Enums.md) | *Описание* |
 | [`Fonts`](./TigerTrade.Dx/Fonts.md) | *Описание* |
 | [`Properties`](./TigerTrade.Dx/Properties.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`DxHwndHost`](./TigerTrade.Dx/DxHwndHost.cs.md) | *Описание* |

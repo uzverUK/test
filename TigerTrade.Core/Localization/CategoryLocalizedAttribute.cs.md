@@ -1,6 +1,6 @@
 
 # public sealed class CategoryLocalizedAttribute : CategoryAttribute
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Localization
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Core.Localization
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class CategoryLocalizedAttribute : CategoryAttribute
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`CategoryLocalizedAttribute`](./CategoryLocalizedAttribute.cs/Методы/CategoryLocalizedAttribute.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public class ChartObjectAttribute : Attribute
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Objects.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public class ChartObjectAttribute : Attribute
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ChartObjectAttribute`](./ChartObjectAttribute.cs/Методы/ChartObjectAttribute.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ID`](./ChartObjectAttribute.cs/Свойства/ID.md) | *Описание* |

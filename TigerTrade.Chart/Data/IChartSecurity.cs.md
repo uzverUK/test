@@ -1,6 +1,6 @@
 
 # public interface IChartSecurity
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartSecurity
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`BidPrice`](./IChartSecurity.cs/Свойства/BidPrice.md) | *Описание* |

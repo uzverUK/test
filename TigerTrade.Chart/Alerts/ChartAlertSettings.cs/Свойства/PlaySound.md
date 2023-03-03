@@ -1,6 +1,6 @@
 
 # ChartAlertSettings.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Alerts  
     class ChartAlertSettings
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Alerts
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public bool PlaySound{ get; set; }
 ```

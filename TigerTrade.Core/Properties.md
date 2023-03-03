@@ -1,13 +1,13 @@
 
 # Properties
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Core.Properties
 ```
 > Описание
 
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`Resources`](./Properties/Resources.cs.md) | *Описание* |

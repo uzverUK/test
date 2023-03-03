@@ -1,6 +1,6 @@
 
 # public sealed class HistoryPlayerStats
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Connectors.Simulator.Player
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.Connectors.Simulator.Player
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class HistoryPlayerStats
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`HistoryPlayerStats`](./HistoryPlayerStats.cs/Методы/HistoryPlayerStats.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`SymbolID`](./HistoryPlayerStats.cs/Свойства/SymbolID.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public sealed class ObjectPeriodItem
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Chart.Objects.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ObjectPeriodItem
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`CheckInterval`](./ObjectPeriodItem.cs/Методы/CheckInterval.md) | *Описание* |
 | [`Equals`](./ObjectPeriodItem.cs/Методы/Equals.md) | *Описание* |
 | [`ObjectPeriodItem`](./ObjectPeriodItem.cs/Методы/ObjectPeriodItem.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Min`](./ObjectPeriodItem.cs/Свойства/Min.md) | *Описание* |

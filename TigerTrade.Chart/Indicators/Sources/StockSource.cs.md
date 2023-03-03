@@ -1,6 +1,6 @@
 
 # public sealed class StockSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class StockSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`StockSource`](./StockSource.cs/Методы/StockSource.md) | *Описание* |

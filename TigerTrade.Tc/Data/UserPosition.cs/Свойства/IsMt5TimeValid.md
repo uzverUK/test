@@ -1,6 +1,6 @@
 
 # UserPosition.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data  
     class UserPosition
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public bool IsMt5TimeValid { get; set; }
 ```

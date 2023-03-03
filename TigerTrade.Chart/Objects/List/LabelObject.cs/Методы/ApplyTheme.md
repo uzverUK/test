@@ -1,6 +1,6 @@
 
 # LabelObject.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List  
     class LabelObject
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public override void ApplyTheme(IChartTheme theme)
 ```

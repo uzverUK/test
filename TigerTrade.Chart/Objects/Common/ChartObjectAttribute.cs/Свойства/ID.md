@@ -1,6 +1,6 @@
 
 # ChartObjectAttribute.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common  
     class ChartObjectAttribute
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public string ID { get; }
 ```

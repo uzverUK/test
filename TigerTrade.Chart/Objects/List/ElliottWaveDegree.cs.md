@@ -1,6 +1,6 @@
 
 # ElliottWaveDegree.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum ElliottWaveDegree
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` GrandSupercycle` | *Описание* |

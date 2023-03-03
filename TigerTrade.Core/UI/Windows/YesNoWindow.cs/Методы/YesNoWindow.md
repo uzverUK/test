@@ -1,6 +1,6 @@
 
 # YesNoWindow.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Windows  
     class YesNoWindow
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.UI.Windows
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public YesNoWindow()
 ```

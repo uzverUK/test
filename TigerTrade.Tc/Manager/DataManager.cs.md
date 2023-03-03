@@ -1,6 +1,6 @@
 
 # public static class DataManager
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Manager
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Manager
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static class DataManager
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ProcessMarketData`](./DataManager.cs/Методы/ProcessMarketData.md) | *Описание* |
@@ -47,13 +47,13 @@ public static class DataManager
 | [`FilterAccount`](./DataManager.cs/Методы/FilterAccount.md) | *Описание* |
 | [`AutoConnect`](./DataManager.cs/Методы/AutoConnect.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Simulator`](./DataManager.cs/Свойства/Simulator.md) | *Описание* |
 | [`Player`](./DataManager.cs/Свойства/Player.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`OnError;`](./DataManager.cs/События/OnError;.md) | *Описание* |

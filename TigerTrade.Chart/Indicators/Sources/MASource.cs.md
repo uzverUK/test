@@ -1,6 +1,6 @@
 
 # public sealed class MASource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class MASource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`MASource`](./MASource.cs/Методы/MASource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class MASource : IndicatorSourceBase
 | [`CopySettings`](./MASource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./MASource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./MASource.cs/Свойства/Period.md) | *Описание* |

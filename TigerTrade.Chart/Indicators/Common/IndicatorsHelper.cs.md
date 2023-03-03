@@ -1,6 +1,6 @@
 
 # public sealed class IndicatorsHelper
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class IndicatorsHelper
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`SetDataProvider`](./IndicatorsHelper.cs/Методы/SetDataProvider.md) | *Описание* |
@@ -67,7 +67,7 @@ public sealed class IndicatorsHelper
 | [`ZIGZAG`](./IndicatorsHelper.cs/Методы/ZIGZAG.md) | *Описание* |
 | [`IndicatorsHelper`](./IndicatorsHelper.cs/Методы/IndicatorsHelper.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`DataProvider`](./IndicatorsHelper.cs/Свойства/DataProvider.md) | *Описание* |

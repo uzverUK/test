@@ -1,13 +1,13 @@
 
 # Enums
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Indicators.Drawings.Enums
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`ChartSeriesColorSplit`](./Enums/ChartSeriesColorSplit.cs.md) | *Описание* |

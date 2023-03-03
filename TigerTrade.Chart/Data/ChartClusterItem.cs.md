@@ -1,6 +1,6 @@
 
 # public sealed class ChartClusterItem : IChartClusterItem
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ChartClusterItem : IChartClusterItem
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ChartClusterItem`](./ChartClusterItem.cs/Методы/ChartClusterItem.md) | *Описание* |
 | [`Add`](./ChartClusterItem.cs/Методы/Add.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Price`](./ChartClusterItem.cs/Свойства/Price.md) | *Описание* |

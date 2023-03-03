@@ -1,6 +1,6 @@
 
 # public sealed class TriangleObject : PolygonObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class TriangleObject : PolygonObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`TriangleObject`](./TriangleObject.cs/Методы/TriangleObject.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./TriangleObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

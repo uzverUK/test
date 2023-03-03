@@ -1,6 +1,6 @@
 
 # public sealed class WilliamsRSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class WilliamsRSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`WilliamsRSource`](./WilliamsRSource.cs/Методы/WilliamsRSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class WilliamsRSource : IndicatorSourceBase
 | [`CopySettings`](./WilliamsRSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./WilliamsRSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./WilliamsRSource.cs/Свойства/Period.md) | *Описание* |

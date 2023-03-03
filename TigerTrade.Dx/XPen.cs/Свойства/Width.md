@@ -1,6 +1,6 @@
 
 # XPen.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx  
     class XPen
@@ -8,7 +8,7 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public int Width { get; }
 ```

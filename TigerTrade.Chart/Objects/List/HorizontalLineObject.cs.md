@@ -1,6 +1,6 @@
 
 # public class HorizontalLineObject : LineObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public class HorizontalLineObject : LineObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`HorizontalLineObject`](./HorizontalLineObject.cs/Методы/HorizontalLineObject.md) | *Описание* |
@@ -23,7 +23,7 @@ public class HorizontalLineObject : LineObjectBase
 | [`CopyTemplate`](./HorizontalLineObject.cs/Методы/CopyTemplate.md) | *Описание* |
 | [`CheckAlert`](./HorizontalLineObject.cs/Методы/CheckAlert.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./HorizontalLineObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

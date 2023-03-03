@@ -1,6 +1,6 @@
 
 # IndicatorSourceAttribute.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IndicatorSourceAttribute
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public Type Type { get; set; }
 ```

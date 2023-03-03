@@ -1,6 +1,6 @@
 
 # public sealed class ChartRegion : INotifyPropertyChanged
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Drawings
 ```
@@ -9,26 +9,26 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ChartRegion : INotifyPropertyChanged
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ChartRegion`](./ChartRegion.cs/Методы/ChartRegion.md) | *Описание* |
 | [`CopyTheme`](./ChartRegion.cs/Методы/CopyTheme.md) | *Описание* |
 | [`ToString`](./ChartRegion.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Visible`](./ChartRegion.cs/Свойства/Visible.md) | *Описание* |
 | [`Color`](./ChartRegion.cs/Свойства/Color.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ChartRegion.cs/События/PropertyChanged.md) | *Описание* |

@@ -1,13 +1,13 @@
 
 # List
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Objects.List
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`ElliottWaveDegree`](./List/ElliottWaveDegree.cs.md) | *Описание* |
@@ -15,7 +15,7 @@ namespace TigerTrade.Chart.Objects.List
 | [`VolumeProfileMaximumType`](./List/VolumeProfileMaximumType.cs.md) | *Описание* |
 | [`VolumeProfileType`](./List/VolumeProfileType.cs.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`ArrowObject`](./List/ArrowObject.cs.md) | *Описание* |

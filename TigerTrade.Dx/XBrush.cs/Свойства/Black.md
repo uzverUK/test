@@ -1,6 +1,6 @@
 
 # XBrush.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx  
     class XBrush
@@ -8,7 +8,7 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static XBrush Black { get; }
 ```

@@ -1,6 +1,6 @@
 
 # ScreenCapture.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx  
     class ScreenCapture
@@ -8,7 +8,7 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static extern IntPtr FewjcWVZLPm(IntPtr _param0, int _param1, int _param2)
 ```

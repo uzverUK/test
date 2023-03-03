@@ -1,6 +1,6 @@
 
 # SelectFolderWindow.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Windows.SelectFolder  
     class SelectFolderWindow
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.UI.Windows.SelectFolder
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public string SelectedFolder { get; set; }
 ```

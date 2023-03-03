@@ -1,6 +1,6 @@
 
 # IDynamicProperty.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Common  
     class IDynamicProperty
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.UI.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 bool GetPropertyReadOnly(string propertyName)
 ```

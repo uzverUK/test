@@ -1,6 +1,6 @@
 
 # HistoryPlayerState.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Connectors.Simulator.Player
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Connectors.Simulator.Player
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum HistoryPlayerState
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | `None` | *Описание* |

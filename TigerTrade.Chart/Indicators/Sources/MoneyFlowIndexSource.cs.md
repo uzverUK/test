@@ -1,6 +1,6 @@
 
 # public sealed class MoneyFlowIndexSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class MoneyFlowIndexSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`MoneyFlowIndexSource`](./MoneyFlowIndexSource.cs/Методы/MoneyFlowIndexSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class MoneyFlowIndexSource : IndicatorSourceBase
 | [`CopySettings`](./MoneyFlowIndexSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./MoneyFlowIndexSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./MoneyFlowIndexSource.cs/Свойства/Period.md) | *Описание* |

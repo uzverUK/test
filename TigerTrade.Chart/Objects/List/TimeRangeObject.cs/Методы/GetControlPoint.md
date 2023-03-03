@@ -1,6 +1,6 @@
 
 # TimeRangeObject.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List  
     class TimeRangeObject
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public override int GetControlPoint(int x, int y)
 ```

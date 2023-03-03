@@ -1,6 +1,6 @@
 
 # public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumerable
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Collections
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumerable
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Add`](./IndicatorSeries.cs/Методы/Add.md) | *Описание* |
@@ -23,7 +23,7 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 | [`GetEnumerator`](./IndicatorSeries.cs/Методы/GetEnumerator.md) | *Описание* |
 | [`IndicatorSeries`](./IndicatorSeries.cs/Методы/IndicatorSeries.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Count`](./IndicatorSeries.cs/Свойства/Count.md) | *Описание* |

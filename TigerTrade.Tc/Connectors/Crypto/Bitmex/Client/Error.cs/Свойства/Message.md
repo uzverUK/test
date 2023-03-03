@@ -1,6 +1,6 @@
 
 # Error.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Connectors.Crypto.Bitmex.Client  
     class Error
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Connectors.Crypto.Bitmex.Client
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public string Message { get; set; }
 ```

@@ -1,6 +1,6 @@
 
 # public interface IContainsConditions
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IContainsConditions
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetBrush`](./IContainsConditions.cs/Методы/GetBrush.md) | *Описание* |

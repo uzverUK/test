@@ -1,6 +1,6 @@
 
 # ChartPeriodType.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base.Enums
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Base.Enums
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum ChartPeriodType
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | `Second` | *Описание* |

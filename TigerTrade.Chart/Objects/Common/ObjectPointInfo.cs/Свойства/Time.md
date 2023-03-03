@@ -1,6 +1,6 @@
 
 # ObjectPointInfo.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common  
     class ObjectPointInfo
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public DateTime Time{ get; set; }
 ```

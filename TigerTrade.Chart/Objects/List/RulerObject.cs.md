@@ -1,6 +1,6 @@
 
 # public sealed class RulerObject : LineObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class RulerObject : LineObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`RulerObject`](./RulerObject.cs/Методы/RulerObject.md) | *Описание* |
@@ -23,7 +23,7 @@ public sealed class RulerObject : LineObjectBase
 | [`ApplyTheme`](./RulerObject.cs/Методы/ApplyTheme.md) | *Описание* |
 | [`CopyTemplate`](./RulerObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./RulerObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

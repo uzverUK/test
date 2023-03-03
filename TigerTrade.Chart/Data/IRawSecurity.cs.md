@@ -1,6 +1,6 @@
 
 # public interface IRawSecurity
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IRawSecurity
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`BidPrice`](./IRawSecurity.cs/Свойства/BidPrice.md) | *Описание* |

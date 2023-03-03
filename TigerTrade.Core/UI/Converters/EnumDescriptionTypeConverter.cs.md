@@ -1,6 +1,6 @@
 
 # public sealed class EnumDescriptionTypeConverter : EnumConverter
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Converters
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Core.UI.Converters
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class EnumDescriptionTypeConverter : EnumConverter
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`EnumDescriptionTypeConverter`](./EnumDescriptionTypeConverter.cs/Методы/EnumDescriptionTypeConverter.md) | *Описание* |

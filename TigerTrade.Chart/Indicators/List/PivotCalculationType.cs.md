@@ -1,6 +1,6 @@
 
 # PivotCalculationType.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum PivotCalculationType
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` Classic` | *Описание* |

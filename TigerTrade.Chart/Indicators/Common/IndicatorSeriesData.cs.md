@@ -1,6 +1,6 @@
 
 # public sealed class IndicatorSeriesData
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class IndicatorSeriesData
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`IndicatorSeriesData`](./IndicatorSeriesData.cs/Методы/IndicatorSeriesData.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class IndicatorSeriesData
 | [`CachePoints`](./IndicatorSeriesData.cs/Методы/CachePoints.md) | *Описание* |
 | [`GetDistance`](./IndicatorSeriesData.cs/Методы/GetDistance.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Data`](./IndicatorSeriesData.cs/Свойства/Data.md) | *Описание* |

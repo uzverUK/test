@@ -1,6 +1,6 @@
 
 # IndicatorSeriesStyle.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IndicatorSeriesStyle
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public double LowPercent;{}
 ```

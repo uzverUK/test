@@ -1,6 +1,6 @@
 
 # ChartAlertInfo.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Alerts  
     class ChartAlertInfo
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Alerts
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public bool ShowPopup { get; }
 ```

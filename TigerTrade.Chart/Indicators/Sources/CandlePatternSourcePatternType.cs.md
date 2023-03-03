@@ -1,6 +1,6 @@
 
 # CandlePatternSourcePatternType.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum CandlePatternSourcePatternType
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` TwoCrows` | *Описание* |

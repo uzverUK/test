@@ -1,6 +1,6 @@
 
 # FibonacciRetracementObject.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List  
     class FibonacciRetracementObject
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public ObjectTextAlignment TextAlignment{ get; set; }
 ```

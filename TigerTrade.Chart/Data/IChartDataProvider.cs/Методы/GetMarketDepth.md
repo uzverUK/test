@@ -1,6 +1,6 @@
 
 # IChartDataProvider.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IChartDataProvider
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 IChartMarketDepth GetMarketDepth()
 ```

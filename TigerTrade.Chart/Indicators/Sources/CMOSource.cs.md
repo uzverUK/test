@@ -1,6 +1,6 @@
 
 # public sealed class CMOSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class CMOSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`CMOSource`](./CMOSource.cs/Методы/CMOSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class CMOSource : IndicatorSourceBase
 | [`CopySettings`](./CMOSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./CMOSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./CMOSource.cs/Свойства/Period.md) | *Описание* |

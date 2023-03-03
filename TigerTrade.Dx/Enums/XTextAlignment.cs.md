@@ -1,6 +1,6 @@
 
 # XTextAlignment.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx.Enums
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Dx.Enums
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum XTextAlignment
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | `Left` | *Описание* |

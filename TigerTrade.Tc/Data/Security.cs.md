@@ -1,6 +1,6 @@
 
 # public sealed class Security
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class Security
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Security`](./Security.cs/Методы/Security.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`SecurityID`](./Security.cs/Свойства/SecurityID.md) | *Описание* |

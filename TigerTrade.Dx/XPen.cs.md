@@ -1,6 +1,6 @@
 
 # public sealed class XPen
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class XPen
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`XPen`](./XPen.cs/Методы/XPen.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Brush`](./XPen.cs/Свойства/Brush.md) | *Описание* |

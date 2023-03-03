@@ -1,6 +1,6 @@
 
 # IndicatorPeriodType.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Enums
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Enums
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum IndicatorPeriodType
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` Day` | *Описание* |

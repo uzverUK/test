@@ -1,6 +1,6 @@
 
 # public sealed class LabelObject : PolygonObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class LabelObject : PolygonObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`LabelObject`](./LabelObject.cs/Методы/LabelObject.md) | *Описание* |
 | [`ApplyTheme`](./LabelObject.cs/Методы/ApplyTheme.md) | *Описание* |
 | [`CopyTemplate`](./LabelObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./LabelObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

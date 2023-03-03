@@ -1,6 +1,6 @@
 
 # public sealed class BearsPowerSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class BearsPowerSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`BearsPowerSource`](./BearsPowerSource.cs/Методы/BearsPowerSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class BearsPowerSource : IndicatorSourceBase
 | [`CopySettings`](./BearsPowerSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./BearsPowerSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./BearsPowerSource.cs/Свойства/Period.md) | *Описание* |

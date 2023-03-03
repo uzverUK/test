@@ -1,6 +1,6 @@
 
 # ConnectionInfo.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc  
     class ConnectionInfo
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public bool Simulator { get; }
 ```

@@ -1,6 +1,6 @@
 
 # ExitStrategyTarget.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data  
     class ExitStrategyTarget
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public string TpOrderID { get; set; }
 ```

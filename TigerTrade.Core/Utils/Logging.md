@@ -1,13 +1,13 @@
 
 # Logging
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Core.Utils.Logging
 ```
 > Описание
 
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`LogManager`](./Logging/LogManager.cs.md) | *Описание* |

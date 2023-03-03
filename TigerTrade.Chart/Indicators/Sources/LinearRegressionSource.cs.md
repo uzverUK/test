@@ -1,6 +1,6 @@
 
 # public sealed class LinearRegressionSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class LinearRegressionSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`LinearRegressionSource`](./LinearRegressionSource.cs/Методы/LinearRegressionSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class LinearRegressionSource : IndicatorSourceBase
 | [`CopySettings`](./LinearRegressionSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./LinearRegressionSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./LinearRegressionSource.cs/Свойства/Period.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # UltimateOscillatorSource.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources  
     class UltimateOscillatorSource
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public int Period1{ get; set; }
 ```

@@ -1,6 +1,6 @@
 
 # IndicatorLabelInfo.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IndicatorLabelInfo
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public IndicatorLabelInfo(double value, XColor color, double? position = null)
 ```

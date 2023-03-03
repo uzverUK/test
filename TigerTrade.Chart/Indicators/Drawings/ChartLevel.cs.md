@@ -1,6 +1,6 @@
 
 # public sealed class ChartLevel : INotifyPropertyChanged
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Drawings
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ChartLevel : INotifyPropertyChanged
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ChartLevel`](./ChartLevel.cs/Методы/ChartLevel.md) | *Описание* |
 | [`CopyTheme`](./ChartLevel.cs/Методы/CopyTheme.md) | *Описание* |
 | [`ToString`](./ChartLevel.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Visible`](./ChartLevel.cs/Свойства/Visible.md) | *Описание* |
@@ -33,7 +33,7 @@ public sealed class ChartLevel : INotifyPropertyChanged
 | [`Width`](./ChartLevel.cs/Свойства/Width.md) | *Описание* |
 | [`Style`](./ChartLevel.cs/Свойства/Style.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ChartLevel.cs/События/PropertyChanged.md) | *Описание* |

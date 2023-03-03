@@ -1,6 +1,6 @@
 
 # IChartCluster.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IChartCluster
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 Decimal Ask { get; }
 ```

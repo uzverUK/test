@@ -1,6 +1,6 @@
 
 # ChartStockType.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base.Enums
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Base.Enums
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum ChartStockType
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | `Candles` | *Описание* |

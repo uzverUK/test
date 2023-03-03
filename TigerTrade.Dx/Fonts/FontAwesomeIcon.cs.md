@@ -1,6 +1,6 @@
 
 # FontAwesomeIcon.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx.Fonts
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Dx.Fonts
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum FontAwesomeIcon
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | `0` | *Описание* |

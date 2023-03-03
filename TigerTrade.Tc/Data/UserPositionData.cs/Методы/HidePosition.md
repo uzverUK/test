@@ -1,6 +1,6 @@
 
 # UserPositionData.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data  
     class UserPositionData
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static UserPositionData HidePosition(string connectionID, string positionID)
 ```

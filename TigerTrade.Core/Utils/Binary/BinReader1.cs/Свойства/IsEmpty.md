@@ -1,6 +1,6 @@
 
 # BinReader1.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Binary  
     class BinReader1
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.Utils.Binary
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public bool IsEmpty { get; }
 ```

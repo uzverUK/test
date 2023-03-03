@@ -1,6 +1,6 @@
 
 # public sealed class ChartClusterMaxValues : IChartClusterMaxValues
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ChartClusterMaxValues : IChartClusterMaxValues
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ChartClusterMaxValues`](./ChartClusterMaxValues.cs/Методы/ChartClusterMaxValues.md) | *Описание* |
 | [`Update`](./ChartClusterMaxValues.cs/Методы/Update.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`MaxBid`](./ChartClusterMaxValues.cs/Свойства/MaxBid.md) | *Описание* |

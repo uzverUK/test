@@ -1,13 +1,13 @@
 
 # Data
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Tc.Data
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`OrderGroup`](./Data/OrderGroup.cs.md) | *Описание* |
@@ -20,7 +20,7 @@ namespace TigerTrade.Tc.Data
 | [`SymbolOptType`](./Data/SymbolOptType.cs.md) | *Описание* |
 | [`SymbolType`](./Data/SymbolType.cs.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`Account`](./Data/Account.cs.md) | *Описание* |

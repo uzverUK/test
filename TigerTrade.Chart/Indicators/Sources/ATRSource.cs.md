@@ -1,6 +1,6 @@
 
 # public sealed class ATRSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ATRSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ATRSource`](./ATRSource.cs/Методы/ATRSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class ATRSource : IndicatorSourceBase
 | [`CopySettings`](./ATRSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./ATRSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./ATRSource.cs/Свойства/Period.md) | *Описание* |

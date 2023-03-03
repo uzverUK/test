@@ -1,6 +1,6 @@
 
 # TicksReader.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.History  
     class TicksReader
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.History
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public override void Reset()
 ```

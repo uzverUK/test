@@ -1,6 +1,6 @@
 
 # UserDeal.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data  
     class UserDeal
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public string AccountName { get; set; }
 ```

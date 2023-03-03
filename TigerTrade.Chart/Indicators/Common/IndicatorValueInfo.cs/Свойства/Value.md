@@ -1,6 +1,6 @@
 
 # IndicatorValueInfo.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IndicatorValueInfo
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public string Value { get; }
 ```

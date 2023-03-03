@@ -1,6 +1,6 @@
 
 # Securities.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections  
     class Securities
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public Securities()
 ```

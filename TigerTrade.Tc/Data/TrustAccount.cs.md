@@ -1,6 +1,6 @@
 
 # public sealed class TrustAccount
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class TrustAccount
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`TrustAccount`](./TrustAccount.cs/Методы/TrustAccount.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ID`](./TrustAccount.cs/Свойства/ID.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public interface IChartSettings
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartSettings
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`TransformHorLines`](./IChartSettings.cs/Свойства/TransformHorLines.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public interface IChartClusterItem
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartClusterItem
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Price`](./IChartClusterItem.cs/Свойства/Price.md) | *Описание* |

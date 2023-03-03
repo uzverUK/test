@@ -1,6 +1,6 @@
 
 # public static class LogManager
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Logging
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Core.Utils.Logging
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static class LogManager
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Init`](./LogManager.cs/Методы/Init.md) | *Описание* |
@@ -32,7 +32,7 @@ public static class LogManager
 | [`R6bjDetmRXl`](./LogManager.cs/Методы/R6bjDetmRXl.md) | *Описание* |
 | [`BJ8cOSjDTKSexX17nQEk`](./LogManager.cs/Методы/BJ8cOSjDTKSexX17nQEk.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Type`](./LogManager.cs/Свойства/Type.md) | *Описание* |

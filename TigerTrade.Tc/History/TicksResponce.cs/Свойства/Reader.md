@@ -1,6 +1,6 @@
 
 # TicksResponce.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.History  
     class TicksResponce
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.History
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public IDataReader<Tick> Reader { get; }
 ```

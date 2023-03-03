@@ -1,6 +1,6 @@
 
 # public static class TimeHelper
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Time
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Core.Utils.Time
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static class TimeHelper
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetCurrTime`](./TimeHelper.cs/Методы/GetCurrTime.md) | *Описание* |
@@ -30,7 +30,7 @@ public static class TimeHelper
 | [`CorrectLocalTime`](./TimeHelper.cs/Методы/CorrectLocalTime.md) | *Описание* |
 | [`CorrectUtcTime`](./TimeHelper.cs/Методы/CorrectUtcTime.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`PlayerTimeProvider`](./TimeHelper.cs/Свойства/PlayerTimeProvider.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public sealed class KeltnerChannelSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class KeltnerChannelSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`KeltnerChannelSource`](./KeltnerChannelSource.cs/Методы/KeltnerChannelSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class KeltnerChannelSource : IndicatorSourceBase
 | [`CopySettings`](./KeltnerChannelSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./KeltnerChannelSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./KeltnerChannelSource.cs/Свойства/Period.md) | *Описание* |

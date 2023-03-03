@@ -1,13 +1,13 @@
 
 # Enums
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Base.Enums
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`ChartPeriodType`](./Enums/ChartPeriodType.cs.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ChaikinsVolatilitySource`](./ChaikinsVolatilitySource.cs/Методы/ChaikinsVolatilitySource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 | [`CopySettings`](./ChaikinsVolatilitySource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./ChaikinsVolatilitySource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./ChaikinsVolatilitySource.cs/Свойства/Period.md) | *Описание* |

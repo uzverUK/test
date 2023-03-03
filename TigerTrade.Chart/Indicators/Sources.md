@@ -1,18 +1,18 @@
 
 # Sources
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Indicators.Sources
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`CandlePatternSourcePatternType`](./Sources/CandlePatternSourcePatternType.cs.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`ACSource`](./Sources/ACSource.cs.md) | *Описание* |

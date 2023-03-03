@@ -1,6 +1,6 @@
 
 # public sealed class VHFSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class VHFSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`VHFSource`](./VHFSource.cs/Методы/VHFSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class VHFSource : IndicatorSourceBase
 | [`CopySettings`](./VHFSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./VHFSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./VHFSource.cs/Свойства/Period.md) | *Описание* |

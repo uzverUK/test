@@ -1,6 +1,6 @@
 
 # public sealed class BrushObject : LineObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class BrushObject : LineObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`AddPoint`](./BrushObject.cs/Методы/AddPoint.md) | *Описание* |
@@ -23,7 +23,7 @@ public sealed class BrushObject : LineObjectBase
 | [`CopyTemplate`](./BrushObject.cs/Методы/CopyTemplate.md) | *Описание* |
 | [`BrushObject`](./BrushObject.cs/Методы/BrushObject.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./BrushObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

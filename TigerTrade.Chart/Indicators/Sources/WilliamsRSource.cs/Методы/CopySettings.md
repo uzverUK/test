@@ -1,6 +1,6 @@
 
 # WilliamsRSource.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources  
     class WilliamsRSource
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public override void CopySettings(IndicatorSourceBase source)
 ```

@@ -1,6 +1,6 @@
 
 # public interface IRawClusterValueArea
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IRawClusterValueArea
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Vah`](./IRawClusterValueArea.cs/Свойства/Vah.md) | *Описание* |

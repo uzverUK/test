@@ -1,6 +1,6 @@
 
 # IchimokuSource.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources  
     class IchimokuSource
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public IchimokuSource()
 ```

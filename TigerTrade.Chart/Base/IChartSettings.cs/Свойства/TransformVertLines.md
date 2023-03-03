@@ -1,6 +1,6 @@
 
 # IChartSettings.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base  
     class IChartSettings
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 bool TransformVertLines { get; }
 ```

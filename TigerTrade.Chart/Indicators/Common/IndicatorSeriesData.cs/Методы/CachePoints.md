@@ -1,6 +1,6 @@
 
 # IndicatorSeriesData.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IndicatorSeriesData
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void CachePoints(Point[] points, string pointsName)
 ```

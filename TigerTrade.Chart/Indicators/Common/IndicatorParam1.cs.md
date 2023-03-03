@@ -1,6 +1,6 @@
 
 # public abstract class IndicatorParam<T>
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public abstract class IndicatorParam<T>
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Get`](./IndicatorParam1.cs/Методы/Get.md) | *Описание* |
 | [`Copy`](./IndicatorParam1.cs/Методы/Copy.md) | *Описание* |
 | [`Clear`](./IndicatorParam1.cs/Методы/Clear.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Value`](./IndicatorParam1.cs/Свойства/Value.md) | *Описание* |

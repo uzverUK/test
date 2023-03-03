@@ -1,6 +1,6 @@
 
 # SymbolManager.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Manager  
     class SymbolManager
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Manager
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static Symbol FindSwitchPair(Symbol symbol, Func<Symbol, bool> isExcludeSymbol)
 ```

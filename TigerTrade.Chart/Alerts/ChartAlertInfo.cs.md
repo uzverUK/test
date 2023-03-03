@@ -1,6 +1,6 @@
 
 # public sealed class ChartAlertInfo
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Alerts
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Alerts
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ChartAlertInfo
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ChartAlertInfo`](./ChartAlertInfo.cs/Методы/ChartAlertInfo.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Signal`](./ChartAlertInfo.cs/Свойства/Signal.md) | *Описание* |

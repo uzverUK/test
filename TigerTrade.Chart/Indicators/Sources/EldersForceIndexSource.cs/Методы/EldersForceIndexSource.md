@@ -1,6 +1,6 @@
 
 # EldersForceIndexSource.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources  
     class EldersForceIndexSource
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public EldersForceIndexSource()
 ```

@@ -1,6 +1,6 @@
 
 # public sealed class IndicatorSettingsSlider : INotifyPropertyChanged
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class IndicatorSettingsSlider : INotifyPropertyChanged
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Value`](./IndicatorSettingsSlider.cs/Свойства/Value.md) | *Описание* |
@@ -25,7 +25,7 @@ public sealed class IndicatorSettingsSlider : INotifyPropertyChanged
 | [`SmallChange`](./IndicatorSettingsSlider.cs/Свойства/SmallChange.md) | *Описание* |
 | [`LargeChange`](./IndicatorSettingsSlider.cs/Свойства/LargeChange.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./IndicatorSettingsSlider.cs/События/PropertyChanged.md) | *Описание* |

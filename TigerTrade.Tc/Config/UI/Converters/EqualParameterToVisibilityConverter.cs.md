@@ -1,6 +1,6 @@
 
 # internal class EqualParameterToVisibilityConverter : IValueConverter
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Config.UI.Converters
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Tc.Config.UI.Converters
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 internal class EqualParameterToVisibilityConverter : IValueConverter
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Convert`](./EqualParameterToVisibilityConverter.cs/Методы/Convert.md) | *Описание* |
 | [`ConvertBack`](./EqualParameterToVisibilityConverter.cs/Методы/ConvertBack.md) | *Описание* |
 | [`EqualParameterToVisibilityConverter`](./EqualParameterToVisibilityConverter.cs/Методы/EqualParameterToVisibilityConverter.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`IsInverted`](./EqualParameterToVisibilityConverter.cs/Свойства/IsInverted.md) | *Описание* |

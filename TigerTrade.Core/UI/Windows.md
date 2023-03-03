@@ -1,18 +1,18 @@
 
 # Windows
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Core.UI.Windows
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`SelectFolder`](./Windows/SelectFolder.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`InputWindow`](./Windows/InputWindow.cs.md) | *Описание* |

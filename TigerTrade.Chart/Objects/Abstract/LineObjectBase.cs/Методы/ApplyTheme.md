@@ -1,6 +1,6 @@
 
 # LineObjectBase.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Abstract  
     class LineObjectBase
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.Abstract
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public override void ApplyTheme(IChartTheme theme)
 ```

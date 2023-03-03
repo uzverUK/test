@@ -1,6 +1,6 @@
 
 # public sealed class MomentumSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class MomentumSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`MomentumSource`](./MomentumSource.cs/Методы/MomentumSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class MomentumSource : IndicatorSourceBase
 | [`CopySettings`](./MomentumSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./MomentumSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./MomentumSource.cs/Свойства/Period.md) | *Описание* |

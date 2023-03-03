@@ -1,13 +1,13 @@
 
 # Enums
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Indicators.Enums
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`IndicatorBWMFIType`](./Enums/IndicatorBWMFIType.cs.md) | *Описание* |

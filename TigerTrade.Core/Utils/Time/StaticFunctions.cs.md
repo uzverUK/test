@@ -1,6 +1,6 @@
 
 # public static class StaticFunctions
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Time
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Core.Utils.Time
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static class StaticFunctions
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Round`](./StaticFunctions.cs/Методы/Round.md) | *Описание* |

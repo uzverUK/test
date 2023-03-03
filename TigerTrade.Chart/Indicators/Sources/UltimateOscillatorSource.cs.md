@@ -1,6 +1,6 @@
 
 # public sealed class UltimateOscillatorSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class UltimateOscillatorSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`UltimateOscillatorSource`](./UltimateOscillatorSource.cs/Методы/UltimateOscillatorSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class UltimateOscillatorSource : IndicatorSourceBase
 | [`CopySettings`](./UltimateOscillatorSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./UltimateOscillatorSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period1`](./UltimateOscillatorSource.cs/Свойства/Period1.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Objects.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`SetDataProvider`](./ObjectBase.cs/Методы/SetDataProvider.md) | *Описание* |
@@ -42,7 +42,7 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 | [`GetPropertyStandardValues`](./ObjectBase.cs/Методы/GetPropertyStandardValues.md) | *Описание* |
 | [`ToString`](./ObjectBase.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`InMove;`](./ObjectBase.cs/Свойства/InMove;.md) | *Описание* |
@@ -59,7 +59,7 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 | [`Lock`](./ObjectBase.cs/Свойства/Lock.md) | *Описание* |
 | [`SnapGrid`](./ObjectBase.cs/Свойства/SnapGrid.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ObjectBase.cs/События/PropertyChanged.md) | *Описание* |

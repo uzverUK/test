@@ -1,6 +1,6 @@
 
 # public sealed class InputWindow : Window, IComponentConnector
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Windows
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Core.UI.Windows
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class InputWindow : Window, IComponentConnector
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`InputWindow`](./InputWindow.cs/Методы/InputWindow.md) | *Описание* |
 | [`InitializeComponent`](./InputWindow.cs/Методы/InitializeComponent.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Message`](./InputWindow.cs/Свойства/Message.md) | *Описание* |

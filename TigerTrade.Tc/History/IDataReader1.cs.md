@@ -1,6 +1,6 @@
 
 # public interface IDataReader<out T>
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.History
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Tc.History
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IDataReader<out T>
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Read`](./IDataReader1.cs/Методы/Read.md) | *Описание* |
 | [`Reset`](./IDataReader1.cs/Методы/Reset.md) | *Описание* |
 | [`Dispose`](./IDataReader1.cs/Методы/Dispose.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`IsEmpty`](./IDataReader1.cs/Свойства/IsEmpty.md) | *Описание* |

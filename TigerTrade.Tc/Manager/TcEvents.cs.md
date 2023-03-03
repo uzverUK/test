@@ -1,6 +1,6 @@
 
 # public static class TcEvents
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Manager
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Manager
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static class TcEvents
 ```
 
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`TrackWindow;`](./TcEvents.cs/События/TrackWindow;.md) | *Описание* |

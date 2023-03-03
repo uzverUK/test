@@ -1,13 +1,13 @@
 
 # UI
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Core.UI
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Commands`](./UI/Commands.md) | *Описание* |
@@ -15,7 +15,7 @@ namespace TigerTrade.Core.UI
 | [`Converters`](./UI/Converters.md) | *Описание* |
 | [`Windows`](./UI/Windows.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`ScreenOperations`](./UI/ScreenOperations.cs.md) | *Описание* |

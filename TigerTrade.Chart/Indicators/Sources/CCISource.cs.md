@@ -1,6 +1,6 @@
 
 # public sealed class CCISource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class CCISource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`CCISource`](./CCISource.cs/Методы/CCISource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class CCISource : IndicatorSourceBase
 | [`CopySettings`](./CCISource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./CCISource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./CCISource.cs/Свойства/Period.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public sealed class CandlePatternSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class CandlePatternSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`CandlePatternSource`](./CandlePatternSource.cs/Методы/CandlePatternSource.md) | *Описание* |
@@ -25,7 +25,7 @@ public sealed class CandlePatternSource : IndicatorSourceBase
 | [`CopySettings`](./CandlePatternSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./CandlePatternSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`PatternType`](./CandlePatternSource.cs/Свойства/PatternType.md) | *Описание* |

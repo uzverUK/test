@@ -1,6 +1,6 @@
 
 # public sealed class Tick
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class Tick
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Tick`](./Tick.cs/Методы/Tick.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Symbol`](./Tick.cs/Свойства/Symbol.md) | *Описание* |

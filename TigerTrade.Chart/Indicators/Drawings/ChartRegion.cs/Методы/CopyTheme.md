@@ -1,6 +1,6 @@
 
 # ChartRegion.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Drawings  
     class ChartRegion
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void CopyTheme(ChartRegion chartRegion)
 ```

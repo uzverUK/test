@@ -1,6 +1,6 @@
 
 # public sealed class YesNoWindow : Window, IComponentConnector
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Windows
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Core.UI.Windows
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class YesNoWindow : Window, IComponentConnector
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`YesNoWindow`](./YesNoWindow.cs/Методы/YesNoWindow.md) | *Описание* |
 | [`ShowWindow`](./YesNoWindow.cs/Методы/ShowWindow.md) | *Описание* |
 | [`InitializeComponent`](./YesNoWindow.cs/Методы/InitializeComponent.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Message`](./YesNoWindow.cs/Свойства/Message.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # ChartClusterMaxValues.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class ChartClusterMaxValues
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public int MaxTrades { get; private set; }
 ```

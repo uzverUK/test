@@ -1,6 +1,6 @@
 
 # public sealed class DescriptionLocalizedAttribute : DescriptionAttribute
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Localization
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Core.Localization
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class DescriptionLocalizedAttribute : DescriptionAttribute
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`DescriptionLocalizedAttribute`](./DescriptionLocalizedAttribute.cs/Методы/DescriptionLocalizedAttribute.md) | *Описание* |

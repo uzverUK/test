@@ -1,13 +1,13 @@
 
 # Time
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Core.Utils.Time
 ```
 > Описание
 
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`StaticFunctions`](./Time/StaticFunctions.cs.md) | *Описание* |

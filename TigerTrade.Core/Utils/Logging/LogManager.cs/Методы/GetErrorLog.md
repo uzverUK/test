@@ -1,6 +1,6 @@
 
 # LogManager.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Logging  
     class LogManager
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.Utils.Logging
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static string GetErrorLog()
 ```

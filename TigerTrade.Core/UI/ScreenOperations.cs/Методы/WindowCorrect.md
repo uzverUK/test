@@ -1,6 +1,6 @@
 
 # ScreenOperations.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI  
     class ScreenOperations
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.UI
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static void WindowCorrect(Window window)
 ```

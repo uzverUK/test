@@ -1,6 +1,6 @@
 
 # public static class ScreenCapture
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static class ScreenCapture
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`CaptureWindow`](./ScreenCapture.cs/Методы/CaptureWindow.md) | *Описание* |
@@ -29,7 +29,7 @@ public static class ScreenCapture
 | [`rV4jcN5vdat`](./ScreenCapture.cs/Методы/rV4jcN5vdat.md) | *Описание* |
 | [`MI4B91jctfcyGZHN2j65`](./ScreenCapture.cs/Методы/MI4B91jctfcyGZHN2j65.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Lih7BdjIykOwQHbXkmse`](./ScreenCapture.cs/Свойства/Lih7BdjIykOwQHbXkmse.md) | *Описание* |

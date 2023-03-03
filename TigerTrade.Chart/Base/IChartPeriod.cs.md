@@ -1,6 +1,6 @@
 
 # public interface IChartPeriod
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartPeriod
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetSequence`](./IChartPeriod.cs/Методы/GetSequence.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Type`](./IChartPeriod.cs/Свойства/Type.md) | *Описание* |

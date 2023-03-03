@@ -1,6 +1,6 @@
 
 # public interface IChartMarketDepth
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartMarketDepth
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`MaxAskPrice`](./IChartMarketDepth.cs/Свойства/MaxAskPrice.md) | *Описание* |

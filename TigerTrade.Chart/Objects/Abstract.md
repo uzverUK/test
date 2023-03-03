@@ -1,13 +1,13 @@
 
 # Abstract
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Objects.Abstract
 ```
 > Описание
 
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`LineGroupObjectBase`](./Abstract/LineGroupObjectBase.cs.md) | *Описание* |

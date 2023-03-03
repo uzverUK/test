@@ -1,6 +1,6 @@
 
 # MarketDepth.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data  
     class MarketDepth
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public Dictionary<long, long> Bids { get; internal set; }
 ```

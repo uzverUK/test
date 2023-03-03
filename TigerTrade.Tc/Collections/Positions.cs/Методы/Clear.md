@@ -1,6 +1,6 @@
 
 # Positions.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections  
     class Positions
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void Clear()
 ```

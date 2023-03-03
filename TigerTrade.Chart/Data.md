@@ -1,13 +1,13 @@
 
 # Data
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Data
 ```
 > Описание
 
 
-## Интерфейсы
+### Интерфейсы
 | Название | Описание |
 | --- | --- |
 | [`IChartCluster`](./Data/IChartCluster.cs.md) | *Описание* |
@@ -27,7 +27,7 @@ namespace TigerTrade.Chart.Data
 | [`IRawSecurity`](./Data/IRawSecurity.cs.md) | *Описание* |
 | [`IRawTick`](./Data/IRawTick.cs.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`ChartCluster`](./Data/ChartCluster.cs.md) | *Описание* |

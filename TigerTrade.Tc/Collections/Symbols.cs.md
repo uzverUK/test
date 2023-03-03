@@ -1,6 +1,6 @@
 
 # internal sealed class Symbols
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 internal sealed class Symbols
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`NhtwtvK2C3l`](./Symbols.cs/Методы/NhtwtvK2C3l.md) | *Описание* |

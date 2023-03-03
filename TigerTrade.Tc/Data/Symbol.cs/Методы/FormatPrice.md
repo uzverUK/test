@@ -1,6 +1,6 @@
 
 # Symbol.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data  
     class Symbol
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public string FormatPrice(long price, bool f = false)
 public string FormatPrice(long price, IFormatProvider provider, bool f = false)

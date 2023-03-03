@@ -1,6 +1,6 @@
 
 # Executions.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections  
     class Executions
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public List<Execution> oQfwt5Huf1s(Symbol _param1, Account _param2)
 ```

@@ -1,6 +1,6 @@
 
 # internal sealed class Securities
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 internal sealed class Securities
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`xbEwt8V85aD`](./Securities.cs/Методы/xbEwt8V85aD.md) | *Описание* |

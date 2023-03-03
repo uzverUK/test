@@ -1,6 +1,6 @@
 
 # VolumeProfilesMaximumType.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum VolumeProfilesMaximumType
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` Volume` | *Описание* |

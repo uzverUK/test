@@ -1,6 +1,6 @@
 
 # public sealed class ParabolicSARSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ParabolicSARSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ParabolicSARSource`](./ParabolicSARSource.cs/Методы/ParabolicSARSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class ParabolicSARSource : IndicatorSourceBase
 | [`CopySettings`](./ParabolicSARSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./ParabolicSARSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Max`](./ParabolicSARSource.cs/Свойства/Max.md) | *Описание* |

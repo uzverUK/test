@@ -1,6 +1,6 @@
 
 # public sealed class FibonacciFanObject : LineObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class FibonacciFanObject : LineObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`FibonacciFanObject`](./FibonacciFanObject.cs/Методы/FibonacciFanObject.md) | *Описание* |
 | [`ApplyTheme`](./FibonacciFanObject.cs/Методы/ApplyTheme.md) | *Описание* |
 | [`CopyTemplate`](./FibonacciFanObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./FibonacciFanObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

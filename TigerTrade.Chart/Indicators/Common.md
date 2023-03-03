@@ -1,19 +1,19 @@
 
 # Common
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Indicators.Common
 ```
 > Описание
 
 
-## Интерфейсы
+### Интерфейсы
 | Название | Описание |
 | --- | --- |
 | [`IContainsConditions`](./Common/IContainsConditions.cs.md) | *Описание* |
 | [`IContainsSelection`](./Common/IContainsSelection.cs.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`IndicatorAttribute`](./Common/IndicatorAttribute.cs.md) | *Описание* |

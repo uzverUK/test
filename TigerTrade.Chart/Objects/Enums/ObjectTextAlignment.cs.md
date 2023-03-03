@@ -1,6 +1,6 @@
 
 # ObjectTextAlignment.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Enums
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Objects.Enums
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum ObjectTextAlignment
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` LeftTop` | *Описание* |

@@ -1,6 +1,6 @@
 
 # public sealed class IndicatorNullDoubleParam : IndicatorParam<double?>
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class IndicatorNullDoubleParam : IndicatorParam<double?>
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`IndicatorNullDoubleParam`](./IndicatorNullDoubleParam.cs/Методы/IndicatorNullDoubleParam.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public class DxHwndHostBase : HwndHost
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public class DxHwndHostBase : HwndHost
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`DxHwndHostBase`](./DxHwndHostBase.cs/Методы/DxHwndHostBase.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`JhZjcrtFS5G;`](./DxHwndHostBase.cs/Свойства/JhZjcrtFS5G;.md) | *Описание* |

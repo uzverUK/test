@@ -1,6 +1,6 @@
 
 # public sealed class FibonacciRetracementObject : LineObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class FibonacciRetracementObject : LineObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`FibonacciRetracementObject`](./FibonacciRetracementObject.cs/Методы/FibonacciRetracementObject.md) | *Описание* |
 | [`ApplyTheme`](./FibonacciRetracementObject.cs/Методы/ApplyTheme.md) | *Описание* |
 | [`CopyTemplate`](./FibonacciRetracementObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./FibonacciRetracementObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

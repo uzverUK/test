@@ -1,6 +1,6 @@
 
 # public sealed class DisplayNameLocalizedAttribute : DisplayNameAttribute
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Localization
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Core.Localization
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class DisplayNameLocalizedAttribute : DisplayNameAttribute
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`DisplayNameLocalizedAttribute`](./DisplayNameLocalizedAttribute.cs/Методы/DisplayNameLocalizedAttribute.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public sealed class RoundTrip
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class RoundTrip
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Start`](./RoundTrip.cs/Методы/Start.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public sealed class IndicatorTitleInfo
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class IndicatorTitleInfo
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`IndicatorTitleInfo`](./IndicatorTitleInfo.cs/Методы/IndicatorTitleInfo.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Title`](./IndicatorTitleInfo.cs/Свойства/Title.md) | *Описание* |

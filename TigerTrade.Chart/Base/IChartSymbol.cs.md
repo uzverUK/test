@@ -1,6 +1,6 @@
 
 # public interface IChartSymbol
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartSymbol
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetPrice`](./IChartSymbol.cs/Методы/GetPrice.md) | *Описание* |
@@ -34,7 +34,7 @@ public interface IChartSymbol
 | [`ConvertTimeToLocal`](./IChartSymbol.cs/Методы/ConvertTimeToLocal.md) | *Описание* |
 | [`ConvertTimeFromLocal`](./IChartSymbol.cs/Методы/ConvertTimeFromLocal.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Code`](./IChartSymbol.cs/Свойства/Code.md) | *Описание* |

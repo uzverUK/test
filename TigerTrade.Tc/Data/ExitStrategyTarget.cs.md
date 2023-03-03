@@ -1,6 +1,6 @@
 
 # public sealed class ExitStrategyTarget
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ExitStrategyTarget
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ExitStrategyTarget`](./ExitStrategyTarget.cs/Методы/ExitStrategyTarget.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class ExitStrategyTarget
 | [`ClearTp`](./ExitStrategyTarget.cs/Методы/ClearTp.md) | *Описание* |
 | [`RemoveTpTrailing`](./ExitStrategyTarget.cs/Методы/RemoveTpTrailing.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`UpdateTime`](./ExitStrategyTarget.cs/Свойства/UpdateTime.md) | *Описание* |

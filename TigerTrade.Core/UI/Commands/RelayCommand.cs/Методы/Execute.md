@@ -1,6 +1,6 @@
 
 # RelayCommand.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Commands  
     class RelayCommand
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.UI.Commands
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void Execute(object parameter)
 ```

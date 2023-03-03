@@ -1,6 +1,6 @@
 
 # public sealed class EldersForceIndexSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class EldersForceIndexSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`EldersForceIndexSource`](./EldersForceIndexSource.cs/Методы/EldersForceIndexSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class EldersForceIndexSource : IndicatorSourceBase
 | [`CopySettings`](./EldersForceIndexSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./EldersForceIndexSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./EldersForceIndexSource.cs/Свойства/Period.md) | *Описание* |

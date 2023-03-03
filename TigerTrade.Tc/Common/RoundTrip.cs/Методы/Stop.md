@@ -1,6 +1,6 @@
 
 # RoundTrip.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Common  
     class RoundTrip
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void Stop()
 ```

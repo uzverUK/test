@@ -1,6 +1,6 @@
 
 # IDataReader1.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.History  
     class IDataReader1
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.History
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 void Reset()
 ```

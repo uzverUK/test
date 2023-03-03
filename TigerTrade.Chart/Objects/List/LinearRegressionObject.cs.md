@@ -1,6 +1,6 @@
 
 # public sealed class LinearRegressionObject : LineGroupObjectBaseEx
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`LinearRegressionObject`](./LinearRegressionObject.cs/Методы/LinearRegressionObject.md) | *Описание* |
 | [`CopyTemplate`](./LinearRegressionObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./LinearRegressionObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

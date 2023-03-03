@@ -1,6 +1,6 @@
 
 # public interface IChartDataProvider
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartDataProvider
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetCluster`](./IChartDataProvider.cs/Методы/GetCluster.md) | *Описание* |
@@ -25,7 +25,7 @@ public interface IChartDataProvider
 | [`GetMarketDepth`](./IChartDataProvider.cs/Методы/GetMarketDepth.md) | *Описание* |
 | [`GetRawMarketDepth`](./IChartDataProvider.cs/Методы/GetRawMarketDepth.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./IChartDataProvider.cs/Свойства/Period.md) | *Описание* |

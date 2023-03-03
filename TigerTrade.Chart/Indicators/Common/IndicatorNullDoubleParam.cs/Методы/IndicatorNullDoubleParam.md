@@ -1,6 +1,6 @@
 
 # IndicatorNullDoubleParam.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IndicatorNullDoubleParam
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public IndicatorNullDoubleParam()
 public IndicatorNullDoubleParam(double? value)

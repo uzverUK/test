@@ -1,6 +1,6 @@
 
 # IRawClusterItem.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IRawClusterItem
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 long OpenPos { get; }
 ```

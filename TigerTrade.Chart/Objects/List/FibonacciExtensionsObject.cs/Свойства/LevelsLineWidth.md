@@ -1,6 +1,6 @@
 
 # FibonacciExtensionsObject.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List  
     class FibonacciExtensionsObject
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public int LevelsLineWidth{ get; set; }
 ```

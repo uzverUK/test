@@ -1,6 +1,6 @@
 
 # public sealed class BullsPowerSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class BullsPowerSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`BullsPowerSource`](./BullsPowerSource.cs/Методы/BullsPowerSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class BullsPowerSource : IndicatorSourceBase
 | [`CopySettings`](./BullsPowerSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./BullsPowerSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./BullsPowerSource.cs/Свойства/Period.md) | *Описание* |

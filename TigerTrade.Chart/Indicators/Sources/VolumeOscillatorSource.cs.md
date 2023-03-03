@@ -1,6 +1,6 @@
 
 # public sealed class VolumeOscillatorSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class VolumeOscillatorSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`VolumeOscillatorSource`](./VolumeOscillatorSource.cs/Методы/VolumeOscillatorSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class VolumeOscillatorSource : IndicatorSourceBase
 | [`CopySettings`](./VolumeOscillatorSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./VolumeOscillatorSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ShortPeriod`](./VolumeOscillatorSource.cs/Свойства/ShortPeriod.md) | *Описание* |

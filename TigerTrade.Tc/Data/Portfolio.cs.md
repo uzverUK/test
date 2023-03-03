@@ -1,6 +1,6 @@
 
 # public sealed class Portfolio
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class Portfolio
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Portfolio`](./Portfolio.cs/Методы/Portfolio.md) | *Описание* |
 | [`ToString`](./Portfolio.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Connection`](./Portfolio.cs/Свойства/Connection.md) | *Описание* |

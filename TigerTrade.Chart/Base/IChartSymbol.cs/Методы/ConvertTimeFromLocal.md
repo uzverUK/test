@@ -1,6 +1,6 @@
 
 # IChartSymbol.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base  
     class IChartSymbol
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 DateTime ConvertTimeFromLocal(DateTime dt)
 ```

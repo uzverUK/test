@@ -1,6 +1,6 @@
 
 # public sealed class Symbol
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class Symbol
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetSymbol`](./Symbol.cs/Методы/GetSymbol.md) | *Описание* |
@@ -39,7 +39,7 @@ public sealed class Symbol
 | [`ToString`](./Symbol.cs/Методы/ToString.md) | *Описание* |
 | [`GetBaseCurrency`](./Symbol.cs/Методы/GetBaseCurrency.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ID`](./Symbol.cs/Свойства/ID.md) | *Описание* |

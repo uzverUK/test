@@ -1,6 +1,6 @@
 
 # public interface IChartDeal
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartDeal
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`OpenTime`](./IChartDeal.cs/Свойства/OpenTime.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # DxHwndHost.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx  
     class DxHwndHost
@@ -8,7 +8,7 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public Rect ClientRect { get; private set; }
 ```

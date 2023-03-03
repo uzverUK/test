@@ -1,13 +1,13 @@
 
 # Enums
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Objects.Enums
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`ObjectPosition`](./Enums/ObjectPosition.cs.md) | *Описание* |

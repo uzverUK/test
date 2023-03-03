@@ -1,6 +1,6 @@
 
 # IContainsConditions.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IContainsConditions
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 XBrush GetBrush(int index, bool isUp)
 ```

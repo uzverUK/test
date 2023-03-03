@@ -1,6 +1,6 @@
 
 # TicksRequest.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.History  
     class TicksRequest
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.History
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public string RequestID { get; set; }
 ```

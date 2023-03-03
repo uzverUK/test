@@ -1,6 +1,6 @@
 
 # XFont.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx  
     class XFont
@@ -8,7 +8,7 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public XFont()
 public XFont(bool bold)

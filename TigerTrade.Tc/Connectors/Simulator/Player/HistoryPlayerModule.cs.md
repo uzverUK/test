@@ -1,6 +1,6 @@
 
 # public static class HistoryPlayerModule
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Connectors.Simulator.Player
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Connectors.Simulator.Player
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static class HistoryPlayerModule
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Init`](./HistoryPlayerModule.cs/Методы/Init.md) | *Описание* |
@@ -29,12 +29,12 @@ public static class HistoryPlayerModule
 | [`GetState`](./HistoryPlayerModule.cs/Методы/GetState.md) | *Описание* |
 | [`GetStats`](./HistoryPlayerModule.cs/Методы/GetStats.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`RecordDate`](./HistoryPlayerModule.cs/Свойства/RecordDate.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`StatsChanged;`](./HistoryPlayerModule.cs/События/StatsChanged;.md) | *Описание* |

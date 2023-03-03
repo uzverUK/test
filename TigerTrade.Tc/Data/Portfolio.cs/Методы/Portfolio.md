@@ -1,6 +1,6 @@
 
 # Portfolio.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data  
     class Portfolio
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public Portfolio(ConnectionInfo connection, string uniqueID)
 ```

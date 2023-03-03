@@ -1,6 +1,6 @@
 
 # BarsRequest.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.History  
     class BarsRequest
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.History
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public string TargetID { get; }
 ```

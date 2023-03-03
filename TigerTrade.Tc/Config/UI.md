@@ -1,18 +1,18 @@
 
 # UI
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Tc.Config.UI
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Converters`](./UI/Converters.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`ConnectionIndicators`](./UI/ConnectionIndicators.cs.md) | *Описание* |

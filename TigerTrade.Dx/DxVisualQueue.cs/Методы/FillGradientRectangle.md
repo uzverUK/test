@@ -1,6 +1,6 @@
 
 # DxVisualQueue.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx  
     class DxVisualQueue
@@ -8,7 +8,7 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void FillGradientRectangle(XBrush brush, XBrush brush2, int dir, Rect rect)
 ```

@@ -1,6 +1,6 @@
 
 # Orders.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections  
     class Orders
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public Order drqwAC3LEfb(Symbol _param1, long _param2)
 ```

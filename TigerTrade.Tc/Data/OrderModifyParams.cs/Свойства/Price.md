@@ -1,6 +1,6 @@
 
 # OrderModifyParams.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data  
     class OrderModifyParams
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public long Price { get; set; }
 ```

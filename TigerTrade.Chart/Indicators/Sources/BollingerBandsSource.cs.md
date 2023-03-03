@@ -1,6 +1,6 @@
 
 # public sealed class BollingerBandsSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class BollingerBandsSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`BollingerBandsSource`](./BollingerBandsSource.cs/Методы/BollingerBandsSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class BollingerBandsSource : IndicatorSourceBase
 | [`CopySettings`](./BollingerBandsSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./BollingerBandsSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./BollingerBandsSource.cs/Свойства/Period.md) | *Описание* |

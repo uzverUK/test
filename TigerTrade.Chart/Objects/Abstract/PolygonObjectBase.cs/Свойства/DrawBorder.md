@@ -1,6 +1,6 @@
 
 # PolygonObjectBase.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Abstract  
     class PolygonObjectBase
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.Abstract
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public bool DrawBorder{ get; set; }
 ```

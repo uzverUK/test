@@ -1,6 +1,6 @@
 
 # Connections.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections  
     class Connections
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public IList<U81cMgjWlqphcZEdk6RV> GetAll()
 public IList<U81cMgjWlqphcZEdk6RV> GetAll(bool isConnected)

@@ -1,6 +1,6 @@
 
 # public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`FibonacciTimeZonesObject`](./FibonacciTimeZonesObject.cs/Методы/FibonacciTimeZonesObject.md) | *Описание* |
 | [`CopyTemplate`](./FibonacciTimeZonesObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./FibonacciTimeZonesObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

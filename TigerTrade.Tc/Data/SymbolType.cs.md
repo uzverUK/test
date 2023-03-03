@@ -1,6 +1,6 @@
 
 # SymbolType.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum SymbolType
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | `Unknown` | *Описание* |

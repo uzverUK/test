@@ -1,6 +1,6 @@
 
 # public sealed class XFont
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class XFont
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`XFont`](./XFont.cs/Методы/XFont.md) | *Описание* |
@@ -25,7 +25,7 @@ public sealed class XFont
 | [`GetFont`](./XFont.cs/Методы/GetFont.md) | *Описание* |
 | [`GetFontName`](./XFont.cs/Методы/GetFontName.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Fonts;`](./XFont.cs/Свойства/Fonts;.md) | *Описание* |

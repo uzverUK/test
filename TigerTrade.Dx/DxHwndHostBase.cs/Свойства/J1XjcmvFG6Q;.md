@@ -1,6 +1,6 @@
 
 # DxHwndHostBase.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx  
     class DxHwndHostBase
@@ -8,7 +8,7 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public DxHwndHostBase.l0tLU6jc5AhEMbMG90CU J1XjcmvFG6Q;{}
 ```

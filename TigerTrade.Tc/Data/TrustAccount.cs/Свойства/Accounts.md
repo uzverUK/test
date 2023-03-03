@@ -1,6 +1,6 @@
 
 # TrustAccount.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data  
     class TrustAccount
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public Dictionary<string, Decimal> Accounts { get; set; }
 ```

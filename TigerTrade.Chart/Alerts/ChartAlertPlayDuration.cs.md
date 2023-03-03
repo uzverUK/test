@@ -1,6 +1,6 @@
 
 # ChartAlertPlayDuration.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Alerts
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Alerts
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum ChartAlertPlayDuration
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` Once` | *Описание* |

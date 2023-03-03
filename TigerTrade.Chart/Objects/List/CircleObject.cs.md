@@ -1,6 +1,6 @@
 
 # public sealed class CircleObject : PolygonObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class CircleObject : PolygonObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`CircleObject`](./CircleObject.cs/Методы/CircleObject.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./CircleObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

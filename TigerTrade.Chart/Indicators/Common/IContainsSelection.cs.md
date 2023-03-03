@@ -1,6 +1,6 @@
 
 # public interface IContainsSelection
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IContainsSelection
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetSelection`](./IContainsSelection.cs/Методы/GetSelection.md) | *Описание* |

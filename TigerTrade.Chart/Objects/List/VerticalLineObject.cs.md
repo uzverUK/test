@@ -1,6 +1,6 @@
 
 # public sealed class VerticalLineObject : LineObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class VerticalLineObject : LineObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`DrawControlPoints`](./VerticalLineObject.cs/Методы/DrawControlPoints.md) | *Описание* |
@@ -23,7 +23,7 @@ public sealed class VerticalLineObject : LineObjectBase
 | [`CheckAlert`](./VerticalLineObject.cs/Методы/CheckAlert.md) | *Описание* |
 | [`VerticalLineObject`](./VerticalLineObject.cs/Методы/VerticalLineObject.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./VerticalLineObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

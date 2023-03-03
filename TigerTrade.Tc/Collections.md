@@ -1,13 +1,13 @@
 
 # Collections
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Tc.Collections
 ```
 > Описание
 
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`Accounts`](./Collections/Accounts.cs.md) | *Описание* |

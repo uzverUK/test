@@ -1,6 +1,6 @@
 
 # public sealed class XBrush
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class XBrush
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`XBrush`](./XBrush.cs/Методы/XBrush.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`White`](./XBrush.cs/Свойства/White.md) | *Описание* |

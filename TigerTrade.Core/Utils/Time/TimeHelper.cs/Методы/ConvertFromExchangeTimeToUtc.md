@@ -1,6 +1,6 @@
 
 # TimeHelper.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Time  
     class TimeHelper
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.Utils.Time
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static DateTime ConvertFromExchangeTimeToUtc(DateTime dt, string exchange)
 ```

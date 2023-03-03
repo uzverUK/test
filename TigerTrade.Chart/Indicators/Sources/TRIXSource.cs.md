@@ -1,6 +1,6 @@
 
 # public sealed class TRIXSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class TRIXSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`TRIXSource`](./TRIXSource.cs/Методы/TRIXSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class TRIXSource : IndicatorSourceBase
 | [`CopySettings`](./TRIXSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./TRIXSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./TRIXSource.cs/Свойства/Period.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public interface IChartCanvas
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartCanvas
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetX`](./IChartCanvas.cs/Методы/GetX.md) | *Описание* |
@@ -32,7 +32,7 @@ public interface IChartCanvas
 | [`FormatValue`](./IChartCanvas.cs/Методы/FormatValue.md) | *Описание* |
 | [`FormatTime`](./IChartCanvas.cs/Методы/FormatTime.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Theme`](./IChartCanvas.cs/Свойства/Theme.md) | *Описание* |

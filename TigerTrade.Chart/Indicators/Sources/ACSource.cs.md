@@ -1,6 +1,6 @@
 
 # public sealed class ACSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ACSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ACSource`](./ACSource.cs/Методы/ACSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class ACSource : IndicatorSourceBase
 | [`CopySettings`](./ACSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./ACSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ShortPeriod`](./ACSource.cs/Свойства/ShortPeriod.md) | *Описание* |

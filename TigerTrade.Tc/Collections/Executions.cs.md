@@ -1,6 +1,6 @@
 
 # internal sealed class Executions
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 internal sealed class Executions
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`dUlwtptFJQi`](./Executions.cs/Методы/dUlwtptFJQi.md) | *Описание* |

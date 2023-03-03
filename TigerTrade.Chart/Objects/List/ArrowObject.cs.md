@@ -1,6 +1,6 @@
 
 # public sealed class ArrowObject : LineObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ArrowObject : LineObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ArrowObject`](./ArrowObject.cs/Методы/ArrowObject.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./ArrowObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

@@ -1,13 +1,13 @@
 
 # Objects
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Objects
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Abstract`](./Objects/Abstract.md) | *Описание* |

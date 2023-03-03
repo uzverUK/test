@@ -1,6 +1,6 @@
 
 # StaticFunctions.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Time  
     class StaticFunctions
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.Utils.Time
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static DateTime Round(this DateTime datetime, TimeSpan roundingInterval)
 ```

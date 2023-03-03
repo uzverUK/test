@@ -1,6 +1,6 @@
 
 # public sealed class EllipseObject : PolygonObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class EllipseObject : PolygonObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`EllipseObject`](./EllipseObject.cs/Методы/EllipseObject.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./EllipseObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

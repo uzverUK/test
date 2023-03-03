@@ -1,6 +1,6 @@
 
 # CategoryLocalizedAttribute.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Localization  
     class CategoryLocalizedAttribute
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.Localization
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public CategoryLocalizedAttribute(Type resourceManagerProvider, string resourceKey)
 ```

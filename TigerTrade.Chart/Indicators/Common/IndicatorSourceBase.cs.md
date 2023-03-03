@@ -1,6 +1,6 @@
 
 # public abstract class IndicatorSourceBase : INotifyPropertyChanged
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public abstract class IndicatorSourceBase : INotifyPropertyChanged
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetSeriesList`](./IndicatorSourceBase.cs/Методы/GetSeriesList.md) | *Описание* |
@@ -25,13 +25,13 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 | [`CloneSource`](./IndicatorSourceBase.cs/Методы/CloneSource.md) | *Описание* |
 | [`SetSources`](./IndicatorSourceBase.cs/Методы/SetSources.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Name`](./IndicatorSourceBase.cs/Свойства/Name.md) | *Описание* |
 | [`SelectedSeries`](./IndicatorSourceBase.cs/Свойства/SelectedSeries.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./IndicatorSourceBase.cs/События/PropertyChanged.md) | *Описание* |

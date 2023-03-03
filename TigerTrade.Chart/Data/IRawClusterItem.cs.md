@@ -1,6 +1,6 @@
 
 # public interface IRawClusterItem
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IRawClusterItem
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Price`](./IRawClusterItem.cs/Свойства/Price.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public abstract class PolygonObjectBase : ObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Abstract
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Chart.Objects.Abstract
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public abstract class PolygonObjectBase : ObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ApplyTheme`](./PolygonObjectBase.cs/Методы/ApplyTheme.md) | *Описание* |
 | [`CopyTemplate`](./PolygonObjectBase.cs/Методы/CopyTemplate.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`DrawBorder`](./PolygonObjectBase.cs/Свойства/DrawBorder.md) | *Описание* |

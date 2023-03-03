@@ -1,6 +1,6 @@
 
 # ObjectBase.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common  
     class ObjectBase
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public virtual void ControlPointsChanged()
 ```

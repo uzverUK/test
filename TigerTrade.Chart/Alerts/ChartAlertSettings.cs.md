@@ -1,6 +1,6 @@
 
 # public sealed class ChartAlertSettings : INotifyPropertyChanged
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Alerts
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Alerts
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ChartAlertSettings : INotifyPropertyChanged
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Copy`](./ChartAlertSettings.cs/Методы/Copy.md) | *Описание* |
@@ -23,7 +23,7 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 | [`GetHashCode`](./ChartAlertSettings.cs/Методы/GetHashCode.md) | *Описание* |
 | [`ChartAlertSettings`](./ChartAlertSettings.cs/Методы/ChartAlertSettings.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Active`](./ChartAlertSettings.cs/Свойства/Active.md) | *Описание* |
@@ -39,7 +39,7 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 | [`Log`](./ChartAlertSettings.cs/Свойства/Log.md) | *Описание* |
 | [`IsActive`](./ChartAlertSettings.cs/Свойства/IsActive.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ChartAlertSettings.cs/События/PropertyChanged.md) | *Описание* |

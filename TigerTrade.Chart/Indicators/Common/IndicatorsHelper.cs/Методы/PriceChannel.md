@@ -1,6 +1,6 @@
 
 # IndicatorsHelper.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IndicatorsHelper
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void PriceChannel(int n, out double[] avg, out double[] upper, out double[] lower)
 ```

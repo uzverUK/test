@@ -1,6 +1,6 @@
 
 # ChartSeriesDotStyle.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Drawings.Enums
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Drawings.Enums
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum ChartSeriesDotStyle
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` Point` | *Описание* |

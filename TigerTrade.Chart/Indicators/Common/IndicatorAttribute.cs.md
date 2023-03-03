@@ -1,6 +1,6 @@
 
 # public class IndicatorAttribute : Attribute
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public class IndicatorAttribute : Attribute
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`IndicatorAttribute`](./IndicatorAttribute.cs/Методы/IndicatorAttribute.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ID`](./IndicatorAttribute.cs/Свойства/ID.md) | *Описание* |

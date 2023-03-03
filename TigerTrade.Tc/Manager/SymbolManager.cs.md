@@ -1,6 +1,6 @@
 
 # public static class SymbolManager
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Manager
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Manager
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static class SymbolManager
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`LoadOrUpdate`](./SymbolManager.cs/Методы/LoadOrUpdate.md) | *Описание* |
@@ -28,12 +28,12 @@ public static class SymbolManager
 | [`RiseFavoritesReady`](./SymbolManager.cs/Методы/RiseFavoritesReady.md) | *Описание* |
 | [`FindSwitchPair`](./SymbolManager.cs/Методы/FindSwitchPair.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ClientSpecLastUpdate`](./SymbolManager.cs/Свойства/ClientSpecLastUpdate.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`Action`](./SymbolManager.cs/События/Action.md) | *Описание* |

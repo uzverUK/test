@@ -1,6 +1,6 @@
 
 # IRawClusterMaxValues.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IRawClusterMaxValues
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 long MaxBid { get; }
 ```

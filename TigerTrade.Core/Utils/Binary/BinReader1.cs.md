@@ -1,6 +1,6 @@
 
 # public abstract class BinReader<T> : IDisposable
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Binary
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Core.Utils.Binary
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public abstract class BinReader<T> : IDisposable
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Read`](./BinReader1.cs/Методы/Read.md) | *Описание* |
 | [`Reset`](./BinReader1.cs/Методы/Reset.md) | *Описание* |
 | [`Dispose`](./BinReader1.cs/Методы/Dispose.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`IsEmpty`](./BinReader1.cs/Свойства/IsEmpty.md) | *Описание* |

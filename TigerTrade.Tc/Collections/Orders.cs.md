@@ -1,6 +1,6 @@
 
 # internal sealed class Orders
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 internal sealed class Orders
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`JJ1wAJvhyTr`](./Orders.cs/Методы/JJ1wAJvhyTr.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public interface IChartTheme
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartTheme
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetNextColor`](./IChartTheme.cs/Методы/GetNextColor.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ChartBackColor`](./IChartTheme.cs/Свойства/ChartBackColor.md) | *Описание* |

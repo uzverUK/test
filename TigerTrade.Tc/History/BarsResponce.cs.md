@@ -1,6 +1,6 @@
 
 # public sealed class BarsResponce
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.History
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.History
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class BarsResponce
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`BarsResponce`](./BarsResponce.cs/Методы/BarsResponce.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Request`](./BarsResponce.cs/Свойства/Request.md) | *Описание* |

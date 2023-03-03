@@ -1,6 +1,6 @@
 
 # DeltaViewType.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum DeltaViewType
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` Columns` | *Описание* |

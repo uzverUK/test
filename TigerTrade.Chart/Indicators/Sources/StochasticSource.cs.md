@@ -1,6 +1,6 @@
 
 # public sealed class StochasticSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class StochasticSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`StochasticSource`](./StochasticSource.cs/Методы/StochasticSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class StochasticSource : IndicatorSourceBase
 | [`CopySettings`](./StochasticSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./StochasticSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`FastK`](./StochasticSource.cs/Свойства/FastK.md) | *Описание* |

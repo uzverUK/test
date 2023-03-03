@@ -1,6 +1,6 @@
 
 # internal sealed class Positions
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 internal sealed class Positions
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`pnYwtI4miN9`](./Positions.cs/Методы/pnYwtI4miN9.md) | *Описание* |

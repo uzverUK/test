@@ -1,6 +1,6 @@
 
 # EnumDescriptionTypeConverter.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Converters  
     class EnumDescriptionTypeConverter
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.UI.Converters
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public EnumDescriptionTypeConverter(Type type)
 ```

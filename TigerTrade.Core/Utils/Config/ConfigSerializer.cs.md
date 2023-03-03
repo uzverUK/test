@@ -1,6 +1,6 @@
 
 # public sealed class ConfigSerializer
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Config
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Core.Utils.Config
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ConfigSerializer
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`LoadFromFile(T)`](./ConfigSerializer.cs/Методы/LoadFromFile(T).md) | *Описание* |

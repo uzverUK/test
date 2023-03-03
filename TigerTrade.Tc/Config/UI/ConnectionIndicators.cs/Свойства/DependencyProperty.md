@@ -1,6 +1,6 @@
 
 # ConnectionIndicators.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Config.UI  
     class ConnectionIndicators
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Config.UI
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static readonly DependencyProperty BoCwiesxd77;{}
 ```

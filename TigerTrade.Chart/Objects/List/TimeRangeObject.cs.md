@@ -1,6 +1,6 @@
 
 # public sealed class TimeRangeObject : PolygonObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class TimeRangeObject : PolygonObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`DrawControlPoints`](./TimeRangeObject.cs/Методы/DrawControlPoints.md) | *Описание* |
@@ -23,7 +23,7 @@ public sealed class TimeRangeObject : PolygonObjectBase
 | [`TimeRangeObject`](./TimeRangeObject.cs/Методы/TimeRangeObject.md) | *Описание* |
 | [`ey9wOk3RwAcjmml8vF1J`](./TimeRangeObject.cs/Методы/ey9wOk3RwAcjmml8vF1J.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./TimeRangeObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

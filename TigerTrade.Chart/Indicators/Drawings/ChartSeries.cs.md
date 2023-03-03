@@ -1,6 +1,6 @@
 
 # public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Drawings
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ChartSeries`](./ChartSeries.cs/Методы/ChartSeries.md) | *Описание* |
@@ -26,7 +26,7 @@ public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
 | [`GetPropertyReadOnly`](./ChartSeries.cs/Методы/GetPropertyReadOnly.md) | *Описание* |
 | [`GetPropertyStandardValues`](./ChartSeries.cs/Методы/GetPropertyStandardValues.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Visible`](./ChartSeries.cs/Свойства/Visible.md) | *Описание* |
@@ -40,7 +40,7 @@ public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
 | [`Style`](./ChartSeries.cs/Свойства/Style.md) | *Описание* |
 | [`DotStyle`](./ChartSeries.cs/Свойства/DotStyle.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ChartSeries.cs/События/PropertyChanged.md) | *Описание* |

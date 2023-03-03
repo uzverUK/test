@@ -1,6 +1,6 @@
 
 # public sealed class TicksReader : BinReader<Tick>, IDataReader<Tick>
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.History
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.History
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class TicksReader : BinReader<Tick>, IDataReader<Tick>
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Reset`](./TicksReader.cs/Методы/Reset.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Version`](./TicksReader.cs/Свойства/Version.md) | *Описание* |

@@ -1,18 +1,18 @@
 
 # Player
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Tc.Connectors.Simulator.Player
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`HistoryPlayerState`](./Player/HistoryPlayerState.cs.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`HistoryPlayerModule`](./Player/HistoryPlayerModule.cs.md) | *Описание* |

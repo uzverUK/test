@@ -1,13 +1,13 @@
 
 # Manager
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Tc.Manager
 ```
 > Описание
 
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`DataManager`](./Manager/DataManager.cs.md) | *Описание* |

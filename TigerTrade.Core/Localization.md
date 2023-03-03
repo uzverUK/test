@@ -1,13 +1,13 @@
 
 # Localization
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Core.Localization
 ```
 > Описание
 
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`CategoryLocalizedAttribute`](./Localization/CategoryLocalizedAttribute.cs.md) | *Описание* |

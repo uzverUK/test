@@ -1,6 +1,6 @@
 
 # SubscriptionFlags.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum SubscriptionFlags
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | `0` | *Описание* |

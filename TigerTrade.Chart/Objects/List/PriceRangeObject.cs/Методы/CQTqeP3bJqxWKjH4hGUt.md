@@ -1,6 +1,6 @@
 
 # PriceRangeObject.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List  
     class PriceRangeObject
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public CQTqeP3bJqxWKjH4hGUt()
 ```

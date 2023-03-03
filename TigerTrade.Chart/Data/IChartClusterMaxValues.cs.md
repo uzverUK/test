@@ -1,6 +1,6 @@
 
 # public interface IChartClusterMaxValues
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IChartClusterMaxValues
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`MaxBid`](./IChartClusterMaxValues.cs/Свойства/MaxBid.md) | *Описание* |

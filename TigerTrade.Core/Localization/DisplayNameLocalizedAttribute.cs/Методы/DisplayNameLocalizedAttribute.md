@@ -1,6 +1,6 @@
 
 # DisplayNameLocalizedAttribute.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Localization  
     class DisplayNameLocalizedAttribute
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.Localization
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public DisplayNameLocalizedAttribute(Type resourceManagerProvider, string resourceKey)
 ```

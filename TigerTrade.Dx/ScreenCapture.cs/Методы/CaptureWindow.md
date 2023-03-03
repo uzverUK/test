@@ -1,6 +1,6 @@
 
 # ScreenCapture.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx  
     class ScreenCapture
@@ -8,7 +8,7 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static BitmapSource CaptureWindow(IntPtr handle)
 ```

@@ -1,6 +1,6 @@
 
 # ConfigSerializer.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Config  
     class ConfigSerializer
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.Utils.Config
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static T LoadFromString<T>(string data, DataContractResolver resolver = null)
 public static T LoadFromString<T>(string data, IEnumerable<Type> knownTypes)

@@ -1,6 +1,6 @@
 
 # TcManager.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Manager  
     class TcManager
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Manager
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static tlSh00wib4PcbfluEhqD SortSettings{ get; set; }
 ```

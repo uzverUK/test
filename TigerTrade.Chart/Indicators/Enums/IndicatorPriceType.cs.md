@@ -1,6 +1,6 @@
 
 # IndicatorPriceType.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Enums
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Enums
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum IndicatorPriceType
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` Open` | *Описание* |

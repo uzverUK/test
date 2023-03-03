@@ -1,6 +1,6 @@
 
 # public interface IRawCluster
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IRawCluster
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`GetItem`](./IRawCluster.cs/Методы/GetItem.md) | *Описание* |
 | [`GetValueArea`](./IRawCluster.cs/Методы/GetValueArea.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Time`](./IRawCluster.cs/Свойства/Time.md) | *Описание* |

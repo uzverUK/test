@@ -1,6 +1,6 @@
 
 # public sealed class IndicatorDecimalParam : IndicatorParam<Decimal>
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class IndicatorDecimalParam : IndicatorParam<Decimal>
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`IndicatorDecimalParam`](./IndicatorDecimalParam.cs/Методы/IndicatorDecimalParam.md) | *Описание* |

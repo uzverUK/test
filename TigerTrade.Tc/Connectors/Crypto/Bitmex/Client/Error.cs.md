@@ -1,6 +1,6 @@
 
 # internal sealed class Error
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Connectors.Crypto.Bitmex.Client
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.Connectors.Crypto.Bitmex.Client
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 internal sealed class Error
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Error`](./Error.cs/Методы/Error.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Message`](./Error.cs/Свойства/Message.md) | *Описание* |

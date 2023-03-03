@@ -1,6 +1,6 @@
 
 # IndicatorSourceBase.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IndicatorSourceBase
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public abstract double[] GetSeries(IndicatorsHelper helper)
 ```

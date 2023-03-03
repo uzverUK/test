@@ -1,6 +1,6 @@
 
 # HorizontalLineObject.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List  
     class HorizontalLineObject
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> indicators)
 ```

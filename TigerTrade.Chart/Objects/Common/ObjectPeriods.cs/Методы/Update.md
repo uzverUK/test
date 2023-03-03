@@ -1,6 +1,6 @@
 
 # ObjectPeriods.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common  
     class ObjectPeriods
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Objects.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void Update(string type, bool isChecked, bool checkRange, int min, int max)
 ```

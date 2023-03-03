@@ -1,6 +1,6 @@
 
 # public sealed class IndicatorSeriesStyle
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class IndicatorSeriesStyle
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`IndicatorSeriesStyle`](./IndicatorSeriesStyle.cs/Методы/IndicatorSeriesStyle.md) | *Описание* |
 | [`Set`](./IndicatorSeriesStyle.cs/Методы/Set.md) | *Описание* |
 | [`DisableAll`](./IndicatorSeriesStyle.cs/Методы/DisableAll.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Visible;`](./IndicatorSeriesStyle.cs/Свойства/Visible;.md) | *Описание* |

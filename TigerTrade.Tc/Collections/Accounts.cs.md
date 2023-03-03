@@ -1,6 +1,6 @@
 
 # internal sealed class Accounts
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 internal sealed class Accounts
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`L5YwAeGr3rl`](./Accounts.cs/Методы/L5YwAeGr3rl.md) | *Описание* |

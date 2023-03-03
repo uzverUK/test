@@ -1,6 +1,6 @@
 
 # IChartTheme.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base  
     class IChartTheme
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 XColor HistogramVolumeColor { get; }
 ```

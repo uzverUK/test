@@ -1,6 +1,6 @@
 
 # HistoryPlayerModule.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Connectors.Simulator.Player  
     class HistoryPlayerModule
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Connectors.Simulator.Player
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static void Skip(int seconds)
 ```

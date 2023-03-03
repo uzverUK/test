@@ -1,19 +1,19 @@
 
 # Alerts
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Alerts
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`ChartAlertExecution`](./Alerts/ChartAlertExecution.cs.md) | *Описание* |
 | [`ChartAlertPlayDuration`](./Alerts/ChartAlertPlayDuration.cs.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`ChartAlertInfo`](./Alerts/ChartAlertInfo.cs.md) | *Описание* |

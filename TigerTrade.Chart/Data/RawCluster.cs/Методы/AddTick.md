@@ -1,6 +1,6 @@
 
 # RawCluster.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class RawCluster
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void AddTick(IRawTick tick, int scale)
 ```

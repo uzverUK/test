@@ -1,6 +1,6 @@
 
 # public sealed class UserPosition
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class UserPosition
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`UserPosition`](./UserPosition.cs/Методы/UserPosition.md) | *Описание* |
@@ -27,7 +27,7 @@ public sealed class UserPosition
 | [`GetPercentPnl`](./UserPosition.cs/Методы/GetPercentPnl.md) | *Описание* |
 | [`InitStrategy`](./UserPosition.cs/Методы/InitStrategy.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Symbol`](./UserPosition.cs/Свойства/Symbol.md) | *Описание* |

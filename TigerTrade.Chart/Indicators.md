@@ -1,13 +1,13 @@
 
 # Indicators
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Indicators
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Collections`](./Indicators/Collections.md) | *Описание* |

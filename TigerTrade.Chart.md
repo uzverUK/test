@@ -1,13 +1,13 @@
 
 # TigerTrade.Chart
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Alerts`](./TigerTrade.Chart/Alerts.md) | *Описание* |

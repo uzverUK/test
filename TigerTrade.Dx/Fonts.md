@@ -1,13 +1,13 @@
 
 # Fonts
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Dx.Fonts
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`FontAwesomeIcon`](./Fonts/FontAwesomeIcon.cs.md) | *Описание* |

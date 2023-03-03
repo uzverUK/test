@@ -1,6 +1,6 @@
 
 # IndicatorSeries.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Collections  
     class IndicatorSeries
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public IndicatorSeries()
 ```

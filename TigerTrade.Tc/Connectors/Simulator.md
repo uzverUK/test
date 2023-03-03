@@ -1,13 +1,13 @@
 
 # Simulator
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Tc.Connectors.Simulator
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Player`](./Simulator/Player.md) | *Описание* |

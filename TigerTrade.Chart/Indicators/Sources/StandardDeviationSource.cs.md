@@ -1,6 +1,6 @@
 
 # public sealed class StandardDeviationSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class StandardDeviationSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`StandardDeviationSource`](./StandardDeviationSource.cs/Методы/StandardDeviationSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class StandardDeviationSource : IndicatorSourceBase
 | [`CopySettings`](./StandardDeviationSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./StandardDeviationSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./StandardDeviationSource.cs/Свойства/Period.md) | *Описание* |

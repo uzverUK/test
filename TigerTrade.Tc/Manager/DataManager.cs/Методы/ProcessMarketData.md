@@ -1,6 +1,6 @@
 
 # DataManager.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Manager  
     class DataManager
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Manager
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static void ProcessMarketData()
 ```

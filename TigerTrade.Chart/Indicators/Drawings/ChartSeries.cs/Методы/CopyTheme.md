@@ -1,6 +1,6 @@
 
 # ChartSeries.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Drawings  
     class ChartSeries
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void CopyTheme(ChartSeries chartSeries)
 ```

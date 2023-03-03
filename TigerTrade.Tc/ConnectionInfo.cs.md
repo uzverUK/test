@@ -1,6 +1,6 @@
 
 # public sealed class ConnectionInfo : INotifyPropertyChanged
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Tc
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ConnectionInfo : INotifyPropertyChanged
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`SetLogsPath`](./ConnectionInfo.cs/Методы/SetLogsPath.md) | *Описание* |
 | [`ToString`](./ConnectionInfo.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`TradeClientID`](./ConnectionInfo.cs/Свойства/TradeClientID.md) | *Описание* |
@@ -43,7 +43,7 @@ public sealed class ConnectionInfo : INotifyPropertyChanged
 | [`Proxy`](./ConnectionInfo.cs/Свойства/Proxy.md) | *Описание* |
 | [`HasProxy`](./ConnectionInfo.cs/Свойства/HasProxy.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ConnectionInfo.cs/События/PropertyChanged.md) | *Описание* |

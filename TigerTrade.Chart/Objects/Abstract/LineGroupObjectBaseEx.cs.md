@@ -1,6 +1,6 @@
 
 # public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Abstract
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Objects.Abstract
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`CopyTemplate`](./LineGroupObjectBaseEx.cs/Методы/CopyTemplate.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`OpenStart`](./LineGroupObjectBaseEx.cs/Свойства/OpenStart.md) | *Описание* |

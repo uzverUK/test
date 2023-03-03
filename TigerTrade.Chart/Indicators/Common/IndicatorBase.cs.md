@@ -1,6 +1,6 @@
 
 # public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Run`](./IndicatorBase.cs/Методы/Run.md) | *Описание* |
@@ -37,7 +37,7 @@ public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 | [`GetPropertyStandardValues`](./IndicatorBase.cs/Методы/GetPropertyStandardValues.md) | *Описание* |
 | [`PropChanged`](./IndicatorBase.cs/Методы/PropChanged.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Levels`](./IndicatorBase.cs/Свойства/Levels.md) | *Описание* |
@@ -60,7 +60,7 @@ public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 | [`Calculation`](./IndicatorBase.cs/Свойства/Calculation.md) | *Описание* |
 | [`Panel`](./IndicatorBase.cs/Свойства/Panel.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./IndicatorBase.cs/События/PropertyChanged.md) | *Описание* |

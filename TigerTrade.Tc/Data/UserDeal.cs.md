@@ -1,6 +1,6 @@
 
 # public sealed class UserDeal
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class UserDeal
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`UserDeal`](./UserDeal.cs/Методы/UserDeal.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`DealID`](./UserDeal.cs/Свойства/DealID.md) | *Описание* |

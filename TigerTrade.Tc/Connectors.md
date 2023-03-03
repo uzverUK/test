@@ -1,13 +1,13 @@
 
 # Connectors
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Tc.Connectors
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Crypto`](./Connectors/Crypto.md) | *Описание* |

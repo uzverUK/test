@@ -1,6 +1,6 @@
 
 # IChartCanvas.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base  
     class IChartCanvas
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Base
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 Point GetValueFromPos(double x, double y)
 Point GetValueFromPos(double x, double y, bool snapToGrid)

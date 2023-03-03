@@ -1,6 +1,6 @@
 
 # RawClusterItem.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class RawClusterItem
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public long Delta => this.Ask - this.Bid;{}
 ```

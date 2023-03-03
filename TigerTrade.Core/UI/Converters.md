@@ -1,13 +1,13 @@
 
 # Converters
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Core.UI.Converters
 ```
 > Описание
 
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`EnumDescriptionTypeConverter`](./Converters/EnumDescriptionTypeConverter.cs.md) | *Описание* |

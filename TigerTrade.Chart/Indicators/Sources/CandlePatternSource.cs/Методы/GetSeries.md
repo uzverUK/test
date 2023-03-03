@@ -1,6 +1,6 @@
 
 # CandlePatternSource.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources  
     class CandlePatternSource
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public override double[] GetSeries(IndicatorsHelper helper)
 ```

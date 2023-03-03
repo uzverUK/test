@@ -1,6 +1,6 @@
 
 # Settings.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Properties  
     class Settings
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.Properties
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public static Settings Default => Settings.defaultInstance;{}
 ```

@@ -1,6 +1,6 @@
 
 # public sealed class HorizontalRayObject : HorizontalLineObject
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class HorizontalRayObject : HorizontalLineObject
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`HorizontalRayObject`](./HorizontalRayObject.cs/Методы/HorizontalRayObject.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./HorizontalRayObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

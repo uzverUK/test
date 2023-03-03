@@ -1,6 +1,6 @@
 
 # public sealed class OrderInfo
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class OrderInfo
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`OrderInfo`](./OrderInfo.cs/Методы/OrderInfo.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Order`](./OrderInfo.cs/Свойства/Order.md) | *Описание* |

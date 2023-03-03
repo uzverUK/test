@@ -1,13 +1,13 @@
 
 # List
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Indicators.List
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`BarSearchConditions`](./List/BarSearchConditions.cs.md) | *Описание* |

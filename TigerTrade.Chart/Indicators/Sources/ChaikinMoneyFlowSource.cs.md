@@ -1,6 +1,6 @@
 
 # public sealed class ChaikinMoneyFlowSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ChaikinMoneyFlowSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ChaikinMoneyFlowSource`](./ChaikinMoneyFlowSource.cs/Методы/ChaikinMoneyFlowSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class ChaikinMoneyFlowSource : IndicatorSourceBase
 | [`CopySettings`](./ChaikinMoneyFlowSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./ChaikinMoneyFlowSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./ChaikinMoneyFlowSource.cs/Свойства/Period.md) | *Описание* |

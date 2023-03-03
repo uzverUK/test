@@ -1,6 +1,6 @@
 
 # public sealed class RelayCommand : ICommand
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Commands
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Core.UI.Commands
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class RelayCommand : ICommand
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`RelayCommand`](./RelayCommand.cs/Методы/RelayCommand.md) | *Описание* |
 | [`CanExecute`](./RelayCommand.cs/Методы/CanExecute.md) | *Описание* |
 | [`Execute`](./RelayCommand.cs/Методы/Execute.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`CanExecuteChanged`](./RelayCommand.cs/События/CanExecuteChanged.md) | *Описание* |

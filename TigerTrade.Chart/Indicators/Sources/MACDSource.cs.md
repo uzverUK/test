@@ -1,6 +1,6 @@
 
 # public sealed class MACDSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class MACDSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`MACDSource`](./MACDSource.cs/Методы/MACDSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class MACDSource : IndicatorSourceBase
 | [`CopySettings`](./MACDSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./MACDSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Slow`](./MACDSource.cs/Свойства/Slow.md) | *Описание* |

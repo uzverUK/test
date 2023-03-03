@@ -1,6 +1,6 @@
 
 # public sealed class ObjectLabelInfo
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Chart.Objects.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ObjectLabelInfo
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ObjectLabelInfo`](./ObjectLabelInfo.cs/Методы/ObjectLabelInfo.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Value`](./ObjectLabelInfo.cs/Свойства/Value.md) | *Описание* |

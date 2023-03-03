@@ -1,6 +1,6 @@
 
 # public sealed class UserPositions
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class UserPositions
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Add`](./UserPositions.cs/Методы/Add.md) | *Описание* |

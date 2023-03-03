@@ -1,6 +1,6 @@
 
 # XDashStyle.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx.Enums
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Dx.Enums
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum XDashStyle
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` Solid` | *Описание* |

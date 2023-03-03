@@ -1,6 +1,6 @@
 
 # public sealed class MarketDepth
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class MarketDepth
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`MarketDepth`](./MarketDepth.cs/Методы/MarketDepth.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Symbol`](./MarketDepth.cs/Свойства/Symbol.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public sealed class ObjectLine : INotifyPropertyChanged
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common
 ```
@@ -9,19 +9,19 @@ namespace TigerTrade.Chart.Objects.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ObjectLine : INotifyPropertyChanged
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ObjectLine`](./ObjectLine.cs/Методы/ObjectLine.md) | *Описание* |
 | [`ToString`](./ObjectLine.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ShowLine`](./ObjectLine.cs/Свойства/ShowLine.md) | *Описание* |
@@ -32,7 +32,7 @@ public sealed class ObjectLine : INotifyPropertyChanged
 | [`LineWidth`](./ObjectLine.cs/Свойства/LineWidth.md) | *Описание* |
 | [`LineStyle`](./ObjectLine.cs/Свойства/LineStyle.md) | *Описание* |
 
-## События
+### События
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ObjectLine.cs/События/PropertyChanged.md) | *Описание* |

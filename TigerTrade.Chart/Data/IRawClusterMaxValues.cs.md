@@ -1,6 +1,6 @@
 
 # public interface IRawClusterMaxValues
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public interface IRawClusterMaxValues
 ```
 
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`MaxBid`](./IRawClusterMaxValues.cs/Свойства/MaxBid.md) | *Описание* |

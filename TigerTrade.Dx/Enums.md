@@ -1,13 +1,13 @@
 
 # Enums
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Dx.Enums
 ```
 > Описание
 
 
-## Перечисления
+### Перечисления
 | Название | Описание |
 | --- | --- |
 | [`XDashStyle`](./Enums/XDashStyle.cs.md) | *Описание* |

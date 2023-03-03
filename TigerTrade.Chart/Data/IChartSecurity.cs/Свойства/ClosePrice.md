@@ -1,6 +1,6 @@
 
 # IChartSecurity.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IChartSecurity
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 Decimal ClosePrice { get; }
 ```

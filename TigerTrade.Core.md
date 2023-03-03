@@ -1,13 +1,13 @@
 
 # TigerTrade.Core
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Core
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Localization`](./TigerTrade.Core/Localization.md) | *Описание* |

@@ -1,6 +1,6 @@
 
 # public sealed class PriceChannelSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class PriceChannelSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`PriceChannelSource`](./PriceChannelSource.cs/Методы/PriceChannelSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class PriceChannelSource : IndicatorSourceBase
 | [`CopySettings`](./PriceChannelSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./PriceChannelSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./PriceChannelSource.cs/Свойства/Period.md) | *Описание* |

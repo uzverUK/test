@@ -1,6 +1,6 @@
 
 # DxVisualQueue.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Dx  
     class DxVisualQueue
@@ -8,7 +8,7 @@ namespace TigerTrade.Dx
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public void DrawEllipse(XPen pen, Point center, double radiusX, double radiusY)
 ```

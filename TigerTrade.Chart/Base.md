@@ -1,18 +1,18 @@
 
 # Base
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Base
 ```
 > Описание
 
 
-## Пространства имён
+### Пространства имён
 | Название | Описание |
 | --- | --- |
 | [`Enums`](./Base/Enums.md) | *Описание* |
 
-## Интерфейсы
+### Интерфейсы
 | Название | Описание |
 | --- | --- |
 | [`IChartCanvas`](./Base/IChartCanvas.cs.md) | *Описание* |
@@ -21,7 +21,7 @@ namespace TigerTrade.Chart.Base
 | [`IChartSymbol`](./Base/IChartSymbol.cs.md) | *Описание* |
 | [`IChartTheme`](./Base/IChartTheme.cs.md) | *Описание* |
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`ClientInfo`](./Base/ClientInfo.cs.md) | *Описание* |

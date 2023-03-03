@@ -1,6 +1,6 @@
 
 # IndicatorIntParam.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IndicatorIntParam
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public IndicatorIntParam()
 public IndicatorIntParam(int value)

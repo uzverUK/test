@@ -1,6 +1,6 @@
 
 # Accounts.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Collections  
     class Accounts
@@ -8,7 +8,7 @@ namespace TigerTrade.Tc.Collections
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public List<Account> xY2wAurG7xy(string _param1)
 ```

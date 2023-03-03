@@ -1,6 +1,6 @@
 
 # internal sealed class Settings : ApplicationSettingsBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.Properties
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Core.Properties
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 internal sealed class Settings : ApplicationSettingsBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Settings`](./Settings.cs/Методы/Settings.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Default`](./Settings.cs/Свойства/Default.md) | *Описание* |

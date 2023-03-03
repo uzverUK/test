@@ -1,6 +1,6 @@
 
 # public sealed class OrderModifyParams
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class OrderModifyParams
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`OrderModifyParams`](./OrderModifyParams.cs/Методы/OrderModifyParams.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Price`](./OrderModifyParams.cs/Свойства/Price.md) | *Описание* |

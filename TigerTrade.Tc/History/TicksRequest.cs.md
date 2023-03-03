@@ -1,6 +1,6 @@
 
 # public sealed class TicksRequest
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.History
 ```
@@ -9,18 +9,18 @@ namespace TigerTrade.Tc.History
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class TicksRequest
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`TicksRequest`](./TicksRequest.cs/Методы/TicksRequest.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Symbol`](./TicksRequest.cs/Свойства/Symbol.md) | *Описание* |

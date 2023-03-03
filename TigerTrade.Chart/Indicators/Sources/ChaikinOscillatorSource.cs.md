@@ -1,6 +1,6 @@
 
 # public sealed class ChaikinOscillatorSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ChaikinOscillatorSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ChaikinOscillatorSource`](./ChaikinOscillatorSource.cs/Методы/ChaikinOscillatorSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class ChaikinOscillatorSource : IndicatorSourceBase
 | [`CopySettings`](./ChaikinOscillatorSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./ChaikinOscillatorSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`ShortPeriod`](./ChaikinOscillatorSource.cs/Свойства/ShortPeriod.md) | *Описание* |

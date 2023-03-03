@@ -1,6 +1,6 @@
 
 # public sealed class Account
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Tc.Data
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Tc.Data
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class Account
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`Account`](./Account.cs/Методы/Account.md) | *Описание* |
@@ -23,7 +23,7 @@ public sealed class Account
 | [`GetConnectionID`](./Account.cs/Методы/GetConnectionID.md) | *Описание* |
 | [`ToString`](./Account.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Connection`](./Account.cs/Свойства/Connection.md) | *Описание* |

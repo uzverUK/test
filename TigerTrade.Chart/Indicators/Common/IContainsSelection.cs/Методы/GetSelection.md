@@ -1,6 +1,6 @@
 
 # IContainsSelection.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common  
     class IContainsSelection
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Common
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 XBrush GetSelection(int index, long price, int type)
 ```

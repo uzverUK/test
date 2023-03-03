@@ -1,6 +1,6 @@
 
 # VolumeOscillatorSource.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources  
     class VolumeOscillatorSource
@@ -8,7 +8,7 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public int LongPeriod{ get; set; }
 ```

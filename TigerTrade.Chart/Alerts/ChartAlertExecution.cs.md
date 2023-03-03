@@ -1,6 +1,6 @@
 
 # ChartAlertExecution.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Alerts
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Alerts
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public enum ChartAlertExecution
 ```
 
 
-## Значения
+### Значения
 | Название | Описание |
 | --- | --- |
 | ` EveryTime` | *Описание* |

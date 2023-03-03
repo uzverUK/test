@@ -1,13 +1,13 @@
 
 # SelectFolder
-## Расположение
+### Расположение
 ```csharp    
 namespace TigerTrade.Core.UI.Windows.SelectFolder
 ```
 > Описание
 
 
-## Классы
+### Классы
 | Название | Описание |
 | --- | --- |
 | [`SelectFolderWindow`](./SelectFolder/SelectFolderWindow.cs.md) | *Описание* |

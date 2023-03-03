@@ -1,6 +1,6 @@
 
 # public sealed class ADXSource : IndicatorSourceBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```
@@ -9,13 +9,13 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public sealed class ADXSource : IndicatorSourceBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`ADXSource`](./ADXSource.cs/Методы/ADXSource.md) | *Описание* |
@@ -24,7 +24,7 @@ public sealed class ADXSource : IndicatorSourceBase
 | [`CopySettings`](./ADXSource.cs/Методы/CopySettings.md) | *Описание* |
 | [`ToString`](./ADXSource.cs/Методы/ToString.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`Period`](./ADXSource.cs/Свойства/Period.md) | *Описание* |

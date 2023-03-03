@@ -1,6 +1,6 @@
 
 # InputWindow.cs
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Windows  
     class InputWindow
@@ -8,7 +8,7 @@ namespace TigerTrade.Core.UI.Windows
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public string Message { get; set; }
 ```

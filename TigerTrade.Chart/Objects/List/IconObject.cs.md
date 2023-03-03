@@ -1,6 +1,6 @@
 
 # public class IconObject : ObjectBase
-## Расположение
+### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```
@@ -9,20 +9,20 @@ namespace TigerTrade.Chart.Objects.List
 
 > Описание
 
-## Синтаксис
+### Синтаксис
 ```csharp
 public class IconObject : ObjectBase
 ```
 
 
-## Методы
+### Методы
 | Название | Описание |
 | --- | --- |
 | [`IconObject`](./IconObject.cs/Методы/IconObject.md) | *Описание* |
 | [`ApplyTheme`](./IconObject.cs/Методы/ApplyTheme.md) | *Описание* |
 | [`CopyTemplate`](./IconObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
-## Свойства
+### Свойства
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./IconObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
