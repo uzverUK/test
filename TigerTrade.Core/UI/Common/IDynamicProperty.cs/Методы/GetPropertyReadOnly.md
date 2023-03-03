@@ -12,10 +12,6 @@ namespace TigerTrade.Core.UI.Common
 bool GetPropertyReadOnly(string propertyName)
 ```
 
-### Параметры  
-<mark style="color:red;">**`propertyName`**</mark> <mark style="color:yellow;">`string`</mark>  
- *Описание*  
-  
 
                     
                     

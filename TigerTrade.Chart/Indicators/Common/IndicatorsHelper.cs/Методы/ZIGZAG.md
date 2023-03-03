@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] ZIGZAG(int depth, int deviation, int backstep, bool reg = true)
 ```
 
-### Параметры  
 <mark style="color:red;">**`depth`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   

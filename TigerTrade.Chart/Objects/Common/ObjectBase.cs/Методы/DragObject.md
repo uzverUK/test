@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.Common
 public virtual void DragObject(double dx, double dy)
 ```
 
-### Параметры  
 <mark style="color:red;">**`dx`**</mark> <mark style="color:yellow;">`double`</mark>  
  *Описание*  
   

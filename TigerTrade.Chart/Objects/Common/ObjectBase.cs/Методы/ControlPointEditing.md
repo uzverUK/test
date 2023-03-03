@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.Common
 public virtual void ControlPointEditing(int index)
 ```
 
-### Параметры  
 <mark style="color:red;">**`index`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   

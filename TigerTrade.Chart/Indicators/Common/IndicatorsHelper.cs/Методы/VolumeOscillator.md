@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] VolumeOscillator(IndicatorMaType type, int shortN, int longN)
 ```
 
-### Параметры  
 <mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`IndicatorMaType`</mark>  
  *Описание*  
   

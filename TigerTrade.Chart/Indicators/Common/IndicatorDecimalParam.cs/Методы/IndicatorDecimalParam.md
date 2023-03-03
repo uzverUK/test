@@ -10,7 +10,7 @@ namespace TigerTrade.Chart.Indicators.Common
 ### Синтаксис
 ```csharp
 public IndicatorDecimalParam()
-                    public IndicatorDecimalParam(Decimal value)
+public IndicatorDecimalParam(Decimal value)
 ```
 
 ### Параметры  

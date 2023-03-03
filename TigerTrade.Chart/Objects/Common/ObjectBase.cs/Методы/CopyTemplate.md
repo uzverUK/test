@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.Common
 public virtual void CopyTemplate(ObjectBase objectBase, bool style)
 ```
 
-### Параметры  
 <mark style="color:red;">**`objectBase`**</mark> <mark style="color:yellow;">`ObjectBase`</mark>  
  *Описание*  
   

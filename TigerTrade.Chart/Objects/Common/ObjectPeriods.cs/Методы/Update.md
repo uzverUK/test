@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.Common
 public void Update(string type, bool isChecked, bool checkRange, int min, int max)
 ```
 
-### Параметры  
 <mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`string`</mark>  
  *Описание*  
   

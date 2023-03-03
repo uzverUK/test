@@ -10,7 +10,7 @@ namespace TigerTrade.Chart.Indicators.Common
 ### Синтаксис
 ```csharp
 public IndicatorNullDoubleParam()
-                    public IndicatorNullDoubleParam(double? value)
+public IndicatorNullDoubleParam(double? value)
 ```
 
 

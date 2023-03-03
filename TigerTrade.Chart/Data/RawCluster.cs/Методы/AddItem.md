@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Data
 public void AddItem(IRawClusterItem item)
 ```
 
-### Параметры  
 <mark style="color:red;">**`item`**</mark> <mark style="color:yellow;">`IRawClusterItem`</mark>  
  *Описание*  
   

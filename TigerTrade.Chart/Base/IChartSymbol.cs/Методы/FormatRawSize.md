@@ -10,10 +10,9 @@ namespace TigerTrade.Chart.Base
 ### Синтаксис
 ```csharp
 string FormatRawSize(long size, int round = 2)
-                    string FormatRawSize(long size, int round, bool minimize)
+string FormatRawSize(long size, int round, bool minimize)
 ```
 
-### Параметры  
 <mark style="color:red;">**`size`**</mark> <mark style="color:yellow;">`long`</mark>  
  *Описание*  
   

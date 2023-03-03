@@ -12,10 +12,6 @@ namespace TigerTrade.Chart.Objects.Common
 public virtual void DrawControlPoints(DxVisualQueue visual)
 ```
 
-### Параметры  
-<mark style="color:red;">**`visual`**</mark> <mark style="color:yellow;">`DxVisualQueue`</mark>  
- *Описание*  
-  
 
                     
                     

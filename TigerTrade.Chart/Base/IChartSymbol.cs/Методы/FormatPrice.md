@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Base
 string FormatPrice(Decimal price, bool shortDecimals = false)
 ```
 
-### Параметры  
 <mark style="color:red;">**`price`**</mark> <mark style="color:yellow;">`Decimal`</mark>  
  *Описание*  
   

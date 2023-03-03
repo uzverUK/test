@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.Common
 public Point ToPoint(ObjectPoint op)
 ```
 
-### Параметры  
 <mark style="color:red;">**`op`**</mark> <mark style="color:yellow;">`ObjectPoint`</mark>  
  *Описание*  
   

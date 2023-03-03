@@ -12,10 +12,6 @@ namespace TigerTrade.Chart.Base
 DateTime ConvertTimeFromLocal(DateTime dt)
 ```
 
-### Параметры  
-<mark style="color:red;">**`dt`**</mark> <mark style="color:yellow;">`DateTime`</mark>  
- *Описание*  
-  
 
                     
                     

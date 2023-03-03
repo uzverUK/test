@@ -10,9 +10,12 @@ namespace TigerTrade.Chart.Base
 ### Синтаксис
 ```csharp
 long CorrectSizeFilter(double filter)
-                    long? CorrectSizeFilter(double? filter)
+long? CorrectSizeFilter(double? filter)
 ```
 
+<mark style="color:red;">**`filter`**</mark> <mark style="color:yellow;">`double`</mark>  
+ *Описание*  
+  
 
                     
                     

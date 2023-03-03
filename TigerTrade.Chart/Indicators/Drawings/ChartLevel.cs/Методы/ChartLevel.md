@@ -10,7 +10,7 @@ namespace TigerTrade.Chart.Indicators.Drawings
 ### Синтаксис
 ```csharp
 public ChartLevel()
-                    public ChartLevel(Decimal level, XColor color)
+public ChartLevel(Decimal level, XColor color)
 ```
 
 ### Параметры  

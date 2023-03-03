@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Indicators.Common
 public double GetDistance(double x, double y)
 ```
 
-### Параметры  
 <mark style="color:red;">**`x`**</mark> <mark style="color:yellow;">`double`</mark>  
  *Описание*  
   

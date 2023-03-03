@@ -10,7 +10,7 @@ namespace TigerTrade.Chart.Base
 ### Синтаксис
 ```csharp
 int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double timeOffset)
-                    int GetSequence(ChartPeriodType type, int interval, double dateTime, double timeOffset)
+int GetSequence(ChartPeriodType type, int interval, double dateTime, double timeOffset)
 ```
 
 ### Параметры  
@@ -20,10 +20,13 @@ int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double ti
 <mark style="color:red;">**`interval`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`dateTime`**</mark> <mark style="color:yellow;">`double`</mark>  
+<mark style="color:red;">**`dateTime`**</mark> <mark style="color:yellow;">`DateTime`</mark>  
  *Описание*  
   
 <mark style="color:red;">**`timeOffset`**</mark> <mark style="color:yellow;">`double`</mark>  
+ *Описание*  
+  
+<mark style="color:red;">**`dateTime`**</mark> <mark style="color:yellow;">`double`</mark>  
  *Описание*  
   
 

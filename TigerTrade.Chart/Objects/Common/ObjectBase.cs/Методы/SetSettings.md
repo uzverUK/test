@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.Common
 public void SetSettings(IChartSettings settings)
 ```
 
-### Параметры  
 <mark style="color:red;">**`settings`**</mark> <mark style="color:yellow;">`IChartSettings`</mark>  
  *Описание*  
   

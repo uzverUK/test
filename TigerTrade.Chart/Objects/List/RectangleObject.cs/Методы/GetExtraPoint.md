@@ -12,13 +12,6 @@ namespace TigerTrade.Chart.Objects.List
 public override int GetExtraPoint(int x, int y)
 ```
 
-### Параметры  
-<mark style="color:red;">**`x`**</mark> <mark style="color:yellow;">`int`</mark>  
- *Описание*  
-  
-<mark style="color:red;">**`y`**</mark> <mark style="color:yellow;">`int`</mark>  
- *Описание*  
-  
 
                     
                     

@@ -12,10 +12,6 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] BullsPower(int n)
 ```
 
-### Параметры  
-<mark style="color:red;">**`n`**</mark> <mark style="color:yellow;">`int`</mark>  
- *Описание*  
-  
 
                     
                     

@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Indicators.Common
 public virtual bool GetMinMax(out double min, out double max)
 ```
 
-### Параметры  
 <mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
  *Описание*  
   

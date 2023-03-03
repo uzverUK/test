@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Indicators.Common
 public double[] UltOsc(int period1, int period2, int period3)
 ```
 
-### Параметры  
 <mark style="color:red;">**`period1`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   

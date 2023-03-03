@@ -12,10 +12,6 @@ namespace TigerTrade.Chart.Indicators.Common
 public virtual IEnumerable<object> GetPropertyStandardValues(string propertyName)
 ```
 
-### Параметры  
-<mark style="color:red;">**`propertyName`**</mark> <mark style="color:yellow;">`string`</mark>  
- *Описание*  
-  
 
                     
                     

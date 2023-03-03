@@ -10,10 +10,9 @@ namespace TigerTrade.Chart.Base
 ### Синтаксис
 ```csharp
 Point GetValueFromPos(double x, double y)
-                    Point GetValueFromPos(double x, double y, bool snapToGrid)
+Point GetValueFromPos(double x, double y, bool snapToGrid)
 ```
 
-### Параметры  
 <mark style="color:red;">**`x`**</mark> <mark style="color:yellow;">`double`</mark>  
  *Описание*  
   

@@ -12,7 +12,6 @@ namespace TigerTrade.Chart.Objects.List
 public override int GetControlPoint(int x, int y)
 ```
 
-### Параметры  
 <mark style="color:red;">**`x`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   
