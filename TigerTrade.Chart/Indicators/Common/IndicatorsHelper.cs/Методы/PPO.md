@@ -13,13 +13,13 @@ public double[] PPO(IndicatorMaType maType, double[] d, int shortPeriod, int lon
 ```
 
 ### Параметры  
-<mark style="color:red;">**`maType`**</mark> <mark style="color:yellow;">`IndicatorMaType`</mark>  
+<mark style="color:red;">**`maType`**</mark> <mark style="color: rgb(255, 166, 87);">`IndicatorMaType`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`shortPeriod`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:red;">**`shortPeriod`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`longPeriod`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:red;">**`longPeriod`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
  *Описание*  
   
 

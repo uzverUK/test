@@ -13,7 +13,7 @@ public string PrettyFormatTimeSpan(TimeSpan span)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`span`**</mark> <mark style="color:yellow;">`TimeSpan`</mark>  
+<mark style="color:red;">**`span`**</mark> <mark style="color: rgb(255, 166, 87);">`TimeSpan`</mark>  
  *Описание*  
   
 

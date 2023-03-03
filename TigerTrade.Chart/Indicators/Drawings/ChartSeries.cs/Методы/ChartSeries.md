@@ -15,13 +15,13 @@ public ChartSeries()
 ```
 
 ### Параметры  
-<mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`ChartSeriesType`</mark>  
+<mark style="color:red;">**`type`**</mark> <mark style="color: rgb(255, 166, 87);">`ChartSeriesType`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`color`**</mark> <mark style="color:yellow;">`XColor`</mark>  
+<mark style="color:red;">**`color`**</mark> <mark style="color: rgb(255, 166, 87);">`XColor`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`style`**</mark> <mark style="color:yellow;">`XDashStyle`</mark>  
+<mark style="color:red;">**`style`**</mark> <mark style="color: rgb(255, 166, 87);">`XDashStyle`</mark>  
  *Описание*  
   
 

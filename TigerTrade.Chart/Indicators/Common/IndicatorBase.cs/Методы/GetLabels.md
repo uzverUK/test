@@ -13,7 +13,7 @@ public virtual void GetLabels(ref List<IndicatorLabelInfo> labels)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`List`**</mark> <mark style="color:yellow;">`ref`</mark>  
+<mark style="color:red;">**`List`**</mark> <mark style="color: rgb(255, 166, 87);">`ref`</mark>  
  *Описание*  
   
 

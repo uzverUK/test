@@ -13,7 +13,7 @@ public double[] ShiftData(double[] data, int shift)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`shift`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:red;">**`shift`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
  *Описание*  
   
 

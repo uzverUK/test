@@ -13,7 +13,7 @@ public double[] BWMFI(IndicatorBWMFIType volumeType = IndicatorBWMFIType.Ticks)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`volumeType`**</mark> <mark style="color:yellow;">`IndicatorBWMFIType`</mark>  
+<mark style="color:red;">**`volumeType`**</mark> <mark style="color: rgb(255, 166, 87);">`IndicatorBWMFIType`</mark>  
  *Описание*  
   
 

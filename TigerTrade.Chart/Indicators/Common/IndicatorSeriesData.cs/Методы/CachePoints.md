@@ -13,7 +13,7 @@ public void CachePoints(Point[] points, string pointsName)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`pointsName`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:red;">**`pointsName`**</mark> <mark style="color: rgb(255, 166, 87);">`string`</mark>  
  *Описание*  
   
 

@@ -13,10 +13,10 @@ public static string GetDescription(Type type, string fieldName)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`Type`</mark>  
+<mark style="color:red;">**`type`**</mark> <mark style="color: rgb(255, 166, 87);">`Type`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`fieldName`**</mark> <mark style="color:yellow;">`string`</mark>  
+<mark style="color:red;">**`fieldName`**</mark> <mark style="color: rgb(255, 166, 87);">`string`</mark>  
  *Описание*  
   
 

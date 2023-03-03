@@ -13,7 +13,7 @@ public double[] Max(double[] d, int period)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`period`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:red;">**`period`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
  *Описание*  
   
 

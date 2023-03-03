@@ -13,7 +13,7 @@ public IRawClusterValueArea GetValueArea(int valueArea)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`valueArea`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:red;">**`valueArea`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
  *Описание*  
   
 

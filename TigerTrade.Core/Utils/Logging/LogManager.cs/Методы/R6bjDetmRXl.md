@@ -13,7 +13,7 @@ public void R6bjDetmRXl(int _param1)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`_param1`**</mark> <mark style="color:yellow;">`int`</mark>  
+<mark style="color:red;">**`_param1`**</mark> <mark style="color: rgb(255, 166, 87);">`int`</mark>  
  *Описание*  
   
 
