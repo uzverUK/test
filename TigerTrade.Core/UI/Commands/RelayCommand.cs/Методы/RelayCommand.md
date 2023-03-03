@@ -5,7 +5,7 @@ namespace TigerTrade.Core.UI.Commands
     class RelayCommand
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

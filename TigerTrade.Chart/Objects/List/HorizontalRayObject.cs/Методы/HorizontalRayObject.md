@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class HorizontalRayObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class IchimokuSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class StochasticSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

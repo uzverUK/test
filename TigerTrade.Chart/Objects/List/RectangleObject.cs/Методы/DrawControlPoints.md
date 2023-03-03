@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class RectangleObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

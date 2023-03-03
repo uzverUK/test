@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.Common
     class ChartObjectAttribute
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

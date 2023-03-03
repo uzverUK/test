@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.Abstract
     class LineObjectBase
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

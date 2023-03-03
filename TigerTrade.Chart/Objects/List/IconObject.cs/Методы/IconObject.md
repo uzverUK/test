@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class IconObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

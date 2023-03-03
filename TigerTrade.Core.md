@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Core
 ```
-> Описание
+Описание
 
 
 ### Пространства имён

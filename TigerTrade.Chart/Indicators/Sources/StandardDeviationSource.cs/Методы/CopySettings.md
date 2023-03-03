@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class StandardDeviationSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

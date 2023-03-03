@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class LinearRegressionSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -5,7 +5,7 @@ namespace TigerTrade.Core.UI.Windows.SelectFolder
     class SelectFolderWindow
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Core.Utils.Time
 ```
-> Описание
+Описание
 
 
 ### Классы

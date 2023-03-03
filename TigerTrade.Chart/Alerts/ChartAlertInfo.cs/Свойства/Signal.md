@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Alerts
     class ChartAlertInfo
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -6,7 +6,7 @@ namespace TigerTrade.Core.UI.Converters
 
 
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

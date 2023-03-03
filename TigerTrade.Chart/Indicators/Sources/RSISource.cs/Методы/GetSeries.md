@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class RSISource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

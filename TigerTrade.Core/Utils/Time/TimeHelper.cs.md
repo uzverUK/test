@@ -6,7 +6,7 @@ namespace TigerTrade.Core.Utils.Time
 
 
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

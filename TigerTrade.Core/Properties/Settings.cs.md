@@ -6,7 +6,7 @@ namespace TigerTrade.Core.Properties
 
 
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Data
     class IRawClusterValueArea
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

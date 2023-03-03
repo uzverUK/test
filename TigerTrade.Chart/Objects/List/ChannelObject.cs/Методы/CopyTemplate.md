@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class ChannelObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

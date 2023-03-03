@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.Common
     class ObjectLine
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

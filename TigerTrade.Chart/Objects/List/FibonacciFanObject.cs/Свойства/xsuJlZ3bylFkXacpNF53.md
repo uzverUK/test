@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class FibonacciFanObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

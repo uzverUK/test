@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Common
     class IContainsSelection
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

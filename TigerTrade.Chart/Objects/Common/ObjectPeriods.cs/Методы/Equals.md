@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.Common
     class ObjectPeriods
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

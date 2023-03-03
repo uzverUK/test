@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class KeltnerChannelSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

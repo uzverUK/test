@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class BWMFISource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

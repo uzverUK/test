@@ -5,7 +5,7 @@ namespace TigerTrade.Core.UI
     class ScreenOperations
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

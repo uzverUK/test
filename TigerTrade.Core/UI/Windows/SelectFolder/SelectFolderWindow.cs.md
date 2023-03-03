@@ -6,7 +6,7 @@ namespace TigerTrade.Core.UI.Windows.SelectFolder
 
 
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

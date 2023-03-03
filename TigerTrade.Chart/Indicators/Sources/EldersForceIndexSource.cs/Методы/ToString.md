@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class EldersForceIndexSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

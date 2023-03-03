@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Data
     class IRawClusterMaxValues
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

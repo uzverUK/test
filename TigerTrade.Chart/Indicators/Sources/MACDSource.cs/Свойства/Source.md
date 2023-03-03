@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class MACDSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

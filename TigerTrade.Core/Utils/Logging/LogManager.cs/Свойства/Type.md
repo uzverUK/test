@@ -5,7 +5,7 @@ namespace TigerTrade.Core.Utils.Logging
     class LogManager
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

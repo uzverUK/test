@@ -5,7 +5,7 @@ namespace TigerTrade.Core.Utils.Time
     class TimeHelper
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

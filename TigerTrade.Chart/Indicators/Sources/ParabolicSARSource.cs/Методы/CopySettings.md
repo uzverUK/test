@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class ParabolicSARSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

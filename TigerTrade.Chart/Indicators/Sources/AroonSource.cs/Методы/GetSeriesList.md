@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class AroonSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Data
     class IChartClusterItem
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Core.UI.Commands
 ```
-> Описание
+Описание
 
 
 ### Классы

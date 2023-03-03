@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class WilliamsRSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

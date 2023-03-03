@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class TimeRangeObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

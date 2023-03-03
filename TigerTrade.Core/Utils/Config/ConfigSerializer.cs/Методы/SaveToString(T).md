@@ -5,7 +5,7 @@ namespace TigerTrade.Core.Utils.Config
     class ConfigSerializer
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

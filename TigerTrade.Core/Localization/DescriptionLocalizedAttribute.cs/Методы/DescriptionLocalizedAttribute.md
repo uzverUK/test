@@ -5,7 +5,7 @@ namespace TigerTrade.Core.Localization
     class DescriptionLocalizedAttribute
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

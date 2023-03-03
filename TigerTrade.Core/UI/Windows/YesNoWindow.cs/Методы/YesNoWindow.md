@@ -5,7 +5,7 @@ namespace TigerTrade.Core.UI.Windows
     class YesNoWindow
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

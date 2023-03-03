@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class UltimateOscillatorSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

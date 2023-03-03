@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class AOSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

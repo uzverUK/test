@@ -6,7 +6,7 @@ namespace TigerTrade.Chart.Base.Enums
 
 
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

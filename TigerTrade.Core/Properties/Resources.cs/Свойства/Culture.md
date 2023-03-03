@@ -5,7 +5,7 @@ namespace TigerTrade.Core.Properties
     class Resources
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

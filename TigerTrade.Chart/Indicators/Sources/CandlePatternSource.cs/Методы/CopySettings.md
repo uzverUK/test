@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class CandlePatternSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

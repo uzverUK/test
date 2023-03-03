@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Data
     class RawClusterItem
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -5,7 +5,7 @@ namespace TigerTrade.Core.Properties
     class Settings
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

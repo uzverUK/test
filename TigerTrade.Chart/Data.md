@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Chart.Data
 ```
-> Описание
+Описание
 
 
 ### Интерфейсы

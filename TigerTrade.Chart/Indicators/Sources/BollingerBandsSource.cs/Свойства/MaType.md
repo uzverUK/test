@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class BollingerBandsSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Data
     class IRawTick
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

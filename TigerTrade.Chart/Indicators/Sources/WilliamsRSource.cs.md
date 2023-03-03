@@ -6,7 +6,7 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Chart
 ```
-> Описание
+Описание
 
 
 ### Пространства имён

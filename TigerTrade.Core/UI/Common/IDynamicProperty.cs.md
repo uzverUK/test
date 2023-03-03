@@ -6,7 +6,7 @@ namespace TigerTrade.Core.UI.Common
 
 
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

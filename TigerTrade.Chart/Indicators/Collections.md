@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Chart.Indicators.Collections
 ```
-> Описание
+Описание
 
 
 ### Классы

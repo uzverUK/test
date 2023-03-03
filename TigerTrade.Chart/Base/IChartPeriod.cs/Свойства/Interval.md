@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Base
     class IChartPeriod
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

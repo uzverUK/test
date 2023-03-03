@@ -5,7 +5,7 @@ namespace TigerTrade.Core.Utils.Time
     class StaticFunctions
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

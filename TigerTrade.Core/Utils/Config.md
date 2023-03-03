@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Core.Utils.Config
 ```
-> Описание
+Описание
 
 
 ### Классы

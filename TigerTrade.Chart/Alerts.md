@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Chart.Alerts
 ```
-> Описание
+Описание
 
 
 ### Перечисления

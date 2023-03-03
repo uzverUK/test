@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class MoneyFlowIndexSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

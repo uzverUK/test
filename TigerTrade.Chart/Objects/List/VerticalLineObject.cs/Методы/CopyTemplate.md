@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class VerticalLineObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class CumulativeDeltaSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

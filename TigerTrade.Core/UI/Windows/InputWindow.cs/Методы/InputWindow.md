@@ -5,7 +5,7 @@ namespace TigerTrade.Core.UI.Windows
     class InputWindow
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

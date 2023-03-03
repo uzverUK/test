@@ -6,7 +6,7 @@ namespace TigerTrade.Chart.Objects.Abstract
 
 
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

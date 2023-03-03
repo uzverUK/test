@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Chart.Base.Enums
 ```
-> Описание
+Описание
 
 
 ### Перечисления

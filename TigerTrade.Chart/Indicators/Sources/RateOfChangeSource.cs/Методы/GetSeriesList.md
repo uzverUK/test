@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class RateOfChangeSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

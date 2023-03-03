@@ -5,7 +5,7 @@ namespace TigerTrade.Core.UI.Converters
     class EnumDescriptionTypeConverter
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

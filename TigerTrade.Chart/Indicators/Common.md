@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Chart.Indicators.Common
 ```
-> Описание
+Описание
 
 
 ### Интерфейсы

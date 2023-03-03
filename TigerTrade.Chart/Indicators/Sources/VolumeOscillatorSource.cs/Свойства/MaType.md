@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class VolumeOscillatorSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

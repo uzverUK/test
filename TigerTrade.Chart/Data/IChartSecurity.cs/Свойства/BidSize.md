@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Data
     class IChartSecurity
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

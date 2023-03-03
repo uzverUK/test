@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class PriceRangeObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

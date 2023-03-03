@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.Common
     class ObjectPointInfo
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

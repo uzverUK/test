@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class BrushObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

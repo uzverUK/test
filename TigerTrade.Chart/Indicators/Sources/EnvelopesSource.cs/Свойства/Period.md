@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class EnvelopesSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

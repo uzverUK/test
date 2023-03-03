@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Base
     class IChartSettings
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

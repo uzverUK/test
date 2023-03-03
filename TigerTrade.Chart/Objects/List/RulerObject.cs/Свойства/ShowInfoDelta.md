@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class RulerObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

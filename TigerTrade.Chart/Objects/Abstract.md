@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Chart.Objects.Abstract
 ```
-> Описание
+Описание
 
 
 ### Классы

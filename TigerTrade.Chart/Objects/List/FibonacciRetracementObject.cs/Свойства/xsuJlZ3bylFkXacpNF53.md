@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class FibonacciRetracementObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

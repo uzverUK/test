@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Drawings
     class ChartLine
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

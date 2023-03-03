@@ -6,7 +6,7 @@ namespace TigerTrade.Core.Localization
 
 
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

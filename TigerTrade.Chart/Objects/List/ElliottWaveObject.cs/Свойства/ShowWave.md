@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class ElliottWaveObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Common
     class IndicatorNullDoubleParam
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

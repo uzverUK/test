@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Chart.Objects.List
 ```
-> Описание
+Описание
 
 
 ### Перечисления

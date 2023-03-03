@@ -3,7 +3,7 @@
 ```csharp    
 namespace TigerTrade.Core.Localization
 ```
-> Описание
+Описание
 
 
 ### Классы

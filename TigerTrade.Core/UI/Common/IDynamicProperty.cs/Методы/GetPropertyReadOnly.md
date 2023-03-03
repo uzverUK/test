@@ -5,7 +5,7 @@ namespace TigerTrade.Core.UI.Common
     class IDynamicProperty
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

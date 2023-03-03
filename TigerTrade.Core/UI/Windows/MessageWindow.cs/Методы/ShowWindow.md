@@ -5,7 +5,7 @@ namespace TigerTrade.Core.UI.Windows
     class MessageWindow
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

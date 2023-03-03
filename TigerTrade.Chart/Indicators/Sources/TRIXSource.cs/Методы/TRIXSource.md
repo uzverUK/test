@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class TRIXSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

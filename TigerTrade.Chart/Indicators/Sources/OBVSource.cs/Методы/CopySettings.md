@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class OBVSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

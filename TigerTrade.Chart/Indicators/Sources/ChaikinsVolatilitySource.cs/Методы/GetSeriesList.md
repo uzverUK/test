@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class ChaikinsVolatilitySource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

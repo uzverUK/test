@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class MomentumSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -6,7 +6,7 @@ namespace TigerTrade.Core.Utils.Binary
 
 
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

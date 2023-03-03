@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class EllipseObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

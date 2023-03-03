@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Drawings
     class ChartRegion
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

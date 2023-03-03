@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Sources
     class ChaikinOscillatorSource
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Objects.List
     class LinearRegressionObject
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

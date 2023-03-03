@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Base
     class ClientInfo
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp

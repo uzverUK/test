@@ -5,7 +5,7 @@ namespace TigerTrade.Chart.Indicators.Common
     class IndicatorSeriesStyle
 ```
 
-> Описание
+Описание
 
 ### Синтаксис
 ```csharp
