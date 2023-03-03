@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ## Синтаксис
 ```csharp
-public XColor LevelsLineColor
+public XColor LevelsLineColor{ get; set; }
 ```

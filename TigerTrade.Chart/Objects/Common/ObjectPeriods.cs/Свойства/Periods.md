@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ## Синтаксис
 ```csharp
-public Dictionary<string, ObjectPeriodItem> Periods
+public Dictionary<string, ObjectPeriodItem> Periods{ get; set; }
 ```

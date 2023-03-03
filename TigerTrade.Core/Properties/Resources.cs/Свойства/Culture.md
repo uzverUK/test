@@ -10,5 +10,5 @@ namespace TigerTrade.Core.Properties
 
 ## Синтаксис
 ```csharp
-public static CultureInfo Culture
+public static CultureInfo Culture{ get; set; }
 ```

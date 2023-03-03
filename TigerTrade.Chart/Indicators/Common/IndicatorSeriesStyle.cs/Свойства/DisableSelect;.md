@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ## Синтаксис
 ```csharp
-public bool DisableSelect;
+public bool DisableSelect;{}
 ```

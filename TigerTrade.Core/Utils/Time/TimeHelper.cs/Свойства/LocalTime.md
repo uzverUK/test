@@ -10,5 +10,5 @@ namespace TigerTrade.Core.Utils.Time
 
 ## Синтаксис
 ```csharp
-public static DateTime LocalTime => DateTime.Now;
+public static DateTime LocalTime => DateTime.Now;{}
 ```

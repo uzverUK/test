@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 ## Синтаксис
 ```csharp
-public Decimal Max
+public Decimal Max{ get; set; }
 ```

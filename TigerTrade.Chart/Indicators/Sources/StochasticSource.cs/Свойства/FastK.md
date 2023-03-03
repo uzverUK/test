@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 ## Синтаксис
 ```csharp
-public int FastK
+public int FastK{ get; set; }
 ```

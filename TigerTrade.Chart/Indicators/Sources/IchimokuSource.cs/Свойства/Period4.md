@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 ## Синтаксис
 ```csharp
-public int Period4
+public int Period4{ get; set; }
 ```

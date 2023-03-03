@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ## Синтаксис
 ```csharp
-public double Value
+public double Value{ get; set; }
 ```

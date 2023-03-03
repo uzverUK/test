@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 ## Синтаксис
 ```csharp
-public int Width
+public int Width{ get; set; }
 ```

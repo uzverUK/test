@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 ## Синтаксис
 ```csharp
-public XColor Color2
+public XColor Color2{ get; set; }
 ```

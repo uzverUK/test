@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ## Синтаксис
 ```csharp
-public int Length => this.Data.Length;
+public int Length => this.Data.Length;{}
 ```

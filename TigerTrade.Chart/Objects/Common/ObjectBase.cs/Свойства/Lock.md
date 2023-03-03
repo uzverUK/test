@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ## Синтаксис
 ```csharp
-public bool Lock
+public bool Lock{ get; set; }
 ```

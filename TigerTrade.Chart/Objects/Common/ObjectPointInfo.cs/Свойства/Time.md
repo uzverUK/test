@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ## Синтаксис
 ```csharp
-public DateTime Time
+public DateTime Time{ get; set; }
 ```

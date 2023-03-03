@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Data
 
 ## Синтаксис
 ```csharp
-public IChartClusterMaxValues MaxValues
+public IChartClusterMaxValues MaxValues{ get; }
 ```

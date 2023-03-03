@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Data
 
 ## Синтаксис
 ```csharp
-public long OpenPosChg => this.OpenPosBidChg + this.OpenPosAskChg;
+public long OpenPosChg => this.OpenPosBidChg + this.OpenPosAskChg;{}
 ```

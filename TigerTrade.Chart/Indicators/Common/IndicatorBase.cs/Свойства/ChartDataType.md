@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ## Синтаксис
 ```csharp
-public virtual xsuJlZ3bylFkXacpNF53 ChartDataType => xsuJlZ3bylFkXacpNF53.wTd3bMgFtmf;
+public virtual xsuJlZ3bylFkXacpNF53 ChartDataType => xsuJlZ3bylFkXacpNF53.wTd3bMgFtmf;{}
 ```

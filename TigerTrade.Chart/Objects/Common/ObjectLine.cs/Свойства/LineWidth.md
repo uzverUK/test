@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ## Синтаксис
 ```csharp
-public int LineWidth
+public int LineWidth{ get; set; }
 ```

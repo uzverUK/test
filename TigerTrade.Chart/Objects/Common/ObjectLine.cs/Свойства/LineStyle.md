@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ## Синтаксис
 ```csharp
-public XDashStyle LineStyle
+public XDashStyle LineStyle{ get; set; }
 ```

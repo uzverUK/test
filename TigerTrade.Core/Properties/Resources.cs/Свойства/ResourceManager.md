@@ -10,5 +10,5 @@ namespace TigerTrade.Core.Properties
 
 ## Синтаксис
 ```csharp
-public static ResourceManager ResourceManager
+public static ResourceManager ResourceManager{ get; }
 ```

@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 ## Синтаксис
 ```csharp
-public IndicatorMaType SlowDMaType
+public IndicatorMaType SlowDMaType{ get; set; }
 ```

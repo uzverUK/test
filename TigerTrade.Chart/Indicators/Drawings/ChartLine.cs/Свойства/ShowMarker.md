@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 ## Синтаксис
 ```csharp
-public bool ShowMarker
+public bool ShowMarker{ get; set; }
 ```

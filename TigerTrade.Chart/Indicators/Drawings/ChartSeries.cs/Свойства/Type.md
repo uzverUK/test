@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 ## Синтаксис
 ```csharp
-public ChartSeriesType Type
+public ChartSeriesType Type{ get; set; }
 ```

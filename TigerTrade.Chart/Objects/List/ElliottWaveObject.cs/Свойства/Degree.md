@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ## Синтаксис
 ```csharp
-public ElliottWaveDegree Degree
+public ElliottWaveDegree Degree{ get; set; }
 ```

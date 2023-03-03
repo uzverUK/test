@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ## Синтаксис
 ```csharp
-public bool OpenEnd
+public bool OpenEnd{ get; set; }
 ```

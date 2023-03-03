@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Data
 
 ## Синтаксис
 ```csharp
-public Decimal Delta => this.Ask - this.Bid;
+public Decimal Delta => this.Ask - this.Bid;{}
 ```

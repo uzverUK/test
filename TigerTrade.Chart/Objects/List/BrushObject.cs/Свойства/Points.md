@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ## Синтаксис
 ```csharp
-public System.Collections.Generic.List<ObjectPoint> Points
+public System.Collections.Generic.List<ObjectPoint> Points{ get; set; }
 ```

@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ## Синтаксис
 ```csharp
-public ChartSeriesDotStyle DotType;
+public ChartSeriesDotStyle DotType;{}
 ```

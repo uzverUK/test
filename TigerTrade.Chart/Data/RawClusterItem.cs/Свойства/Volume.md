@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Data
 
 ## Синтаксис
 ```csharp
-public long Volume => this.Ask + this.Bid;
+public long Volume => this.Ask + this.Bid;{}
 ```

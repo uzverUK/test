@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ## Синтаксис
 ```csharp
-public bool ShowInfoDelta
+public bool ShowInfoDelta{ get; set; }
 ```

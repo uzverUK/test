@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ## Синтаксис
 ```csharp
-public Point mrI3RMYxIFC;
+public Point mrI3RMYxIFC;{}
 ```

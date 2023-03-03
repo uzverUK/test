@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Data
 
 ## Синтаксис
 ```csharp
-public List<IChartClusterItem> Items
+public List<IChartClusterItem> Items{ get; }
 ```

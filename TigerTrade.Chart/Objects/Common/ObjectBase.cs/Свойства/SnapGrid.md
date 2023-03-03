@@ -10,5 +10,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ## Синтаксис
 ```csharp
-public virtual bool SnapGrid => true;
+public virtual bool SnapGrid => true;{}
 ```
