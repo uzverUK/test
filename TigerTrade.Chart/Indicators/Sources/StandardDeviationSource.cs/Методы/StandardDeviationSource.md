@@ -1,0 +1,18 @@
+
+# StandardDeviationSource.cs
+```csharp
+namespace TigerTrade.Chart.Indicators.Sources  
+    class StandardDeviationSource
+```
+
+Описание
+
+### Синтаксис
+```csharp
+public StandardDeviationSource()
+```
+
+### Параметры
+
+                    
+                    
