@@ -13,13 +13,13 @@ public double[] VolumeOscillator(IndicatorMaType type, int shortN, int longN)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`type`**</mark> <mark style="color:orange;">`IndicatorMaType`</mark>  
+<mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`IndicatorMaType`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`shortN`**</mark> <mark style="color:orange;">`int`</mark>  
+<mark style="color:red;">**`shortN`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`longN`**</mark> <mark style="color:orange;">`int`</mark>  
+<mark style="color:red;">**`longN`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   
 

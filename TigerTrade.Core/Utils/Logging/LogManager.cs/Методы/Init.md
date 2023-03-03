@@ -13,13 +13,13 @@ public static void Init(string path, string appName, string appVersion)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`path`**</mark> <mark style="color:orange;">`string`</mark>  
+<mark style="color:red;">**`path`**</mark> <mark style="color:yellow;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`appName`**</mark> <mark style="color:orange;">`string`</mark>  
+<mark style="color:red;">**`appName`**</mark> <mark style="color:yellow;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`appVersion`**</mark> <mark style="color:orange;">`string`</mark>  
+<mark style="color:red;">**`appVersion`**</mark> <mark style="color:yellow;">`string`</mark>  
  *Описание*  
   
 

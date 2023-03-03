@@ -13,7 +13,7 @@ public void AddTick(IChartTick tick)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`tick`**</mark> <mark style="color:orange;">`IChartTick`</mark>  
+<mark style="color:red;">**`tick`**</mark> <mark style="color:yellow;">`IChartTick`</mark>  
  *Описание*  
   
 

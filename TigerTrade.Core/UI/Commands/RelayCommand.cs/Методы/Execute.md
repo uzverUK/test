@@ -13,7 +13,7 @@ public void Execute(object parameter)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`parameter`**</mark> <mark style="color:orange;">`object`</mark>  
+<mark style="color:red;">**`parameter`**</mark> <mark style="color:yellow;">`object`</mark>  
  *Описание*  
   
 

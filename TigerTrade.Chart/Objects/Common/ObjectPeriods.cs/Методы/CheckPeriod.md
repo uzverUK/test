@@ -13,7 +13,7 @@ public bool CheckPeriod(IChartPeriod dc)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`dc`**</mark> <mark style="color:orange;">`IChartPeriod`</mark>  
+<mark style="color:red;">**`dc`**</mark> <mark style="color:yellow;">`IChartPeriod`</mark>  
  *Описание*  
   
 

@@ -13,10 +13,10 @@ public void AddTick(IRawTick tick, int scale)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`tick`**</mark> <mark style="color:orange;">`IRawTick`</mark>  
+<mark style="color:red;">**`tick`**</mark> <mark style="color:yellow;">`IRawTick`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`scale`**</mark> <mark style="color:orange;">`int`</mark>  
+<mark style="color:red;">**`scale`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   
 

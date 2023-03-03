@@ -13,7 +13,7 @@ public Point ToPoint(ObjectPoint op)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`op`**</mark> <mark style="color:orange;">`ObjectPoint`</mark>  
+<mark style="color:red;">**`op`**</mark> <mark style="color:yellow;">`ObjectPoint`</mark>  
  *Описание*  
   
 

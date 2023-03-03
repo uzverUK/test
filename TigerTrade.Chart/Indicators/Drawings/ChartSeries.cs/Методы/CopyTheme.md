@@ -13,7 +13,7 @@ public void CopyTheme(ChartSeries chartSeries)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`chartSeries`**</mark> <mark style="color:orange;">`ChartSeries`</mark>  
+<mark style="color:red;">**`chartSeries`**</mark> <mark style="color:yellow;">`ChartSeries`</mark>  
  *Описание*  
   
 

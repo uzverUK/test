@@ -13,7 +13,7 @@ public double[] CMF(int n)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`n`**</mark> <mark style="color:orange;">`int`</mark>  
+<mark style="color:red;">**`n`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   
 

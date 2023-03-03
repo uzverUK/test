@@ -13,7 +13,7 @@ public override string ToString()
 ```
 
 ### Параметры  
-<mark style="color:red;">**`object`**</mark> <mark style="color:orange;">`new`</mark>  
+<mark style="color:red;">**`object`**</mark> <mark style="color:yellow;">`new`</mark>  
  *Описание*  
   
 

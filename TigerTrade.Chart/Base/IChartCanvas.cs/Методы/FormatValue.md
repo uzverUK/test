@@ -13,7 +13,7 @@ string FormatValue(double d)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`d`**</mark> <mark style="color:orange;">`double`</mark>  
+<mark style="color:red;">**`d`**</mark> <mark style="color:yellow;">`double`</mark>  
  *Описание*  
   
 

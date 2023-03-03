@@ -13,7 +13,7 @@ public void CopyTheme(ChartRegion chartRegion)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`chartRegion`**</mark> <mark style="color:orange;">`ChartRegion`</mark>  
+<mark style="color:red;">**`chartRegion`**</mark> <mark style="color:yellow;">`ChartRegion`</mark>  
  *Описание*  
   
 

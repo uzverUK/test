@@ -13,7 +13,7 @@ public bool Equals(ChartAlertSettings other)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`other`**</mark> <mark style="color:orange;">`ChartAlertSettings`</mark>  
+<mark style="color:red;">**`other`**</mark> <mark style="color:yellow;">`ChartAlertSettings`</mark>  
  *Описание*  
   
 

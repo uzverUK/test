@@ -13,10 +13,10 @@ public double[] SearchPattern(IndicatorsHelper helper, CandlePatternSourcePatter
 ```
 
 ### Параметры  
-<mark style="color:red;">**`helper`**</mark> <mark style="color:orange;">`IndicatorsHelper`</mark>  
+<mark style="color:red;">**`helper`**</mark> <mark style="color:yellow;">`IndicatorsHelper`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`type`**</mark> <mark style="color:orange;">`CandlePatternSourcePatternType`</mark>  
+<mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`CandlePatternSourcePatternType`</mark>  
  *Описание*  
   
 

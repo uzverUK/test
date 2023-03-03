@@ -14,10 +14,10 @@ public IndicatorTitleInfo(string title, XBrush brush)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`title`**</mark> <mark style="color:orange;">`string`</mark>  
+<mark style="color:red;">**`title`**</mark> <mark style="color:yellow;">`string`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`color`**</mark> <mark style="color:orange;">`XColor`</mark>  
+<mark style="color:red;">**`color`**</mark> <mark style="color:yellow;">`XColor`</mark>  
  *Описание*  
   
 

@@ -13,10 +13,10 @@ public static object GetValue(Type type, string description)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`type`**</mark> <mark style="color:orange;">`Type`</mark>  
+<mark style="color:red;">**`type`**</mark> <mark style="color:yellow;">`Type`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`description`**</mark> <mark style="color:orange;">`string`</mark>  
+<mark style="color:red;">**`description`**</mark> <mark style="color:yellow;">`string`</mark>  
  *Описание*  
   
 

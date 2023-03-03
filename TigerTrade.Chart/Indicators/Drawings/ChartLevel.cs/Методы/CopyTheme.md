@@ -13,7 +13,7 @@ public void CopyTheme(ChartLevel chartLevel)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`chartLevel`**</mark> <mark style="color:orange;">`ChartLevel`</mark>  
+<mark style="color:red;">**`chartLevel`**</mark> <mark style="color:yellow;">`ChartLevel`</mark>  
  *Описание*  
   
 

@@ -13,16 +13,16 @@ public void PriceChannel(int n, out double[] avg, out double[] upper, out double
 ```
 
 ### Параметры  
-<mark style="color:red;">**`n`**</mark> <mark style="color:orange;">`int`</mark>  
+<mark style="color:red;">**`n`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`double`**</mark> <mark style="color:orange;">`out`</mark>  
+<mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`double`**</mark> <mark style="color:orange;">`out`</mark>  
+<mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`double`**</mark> <mark style="color:orange;">`out`</mark>  
+<mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
  *Описание*  
   
 

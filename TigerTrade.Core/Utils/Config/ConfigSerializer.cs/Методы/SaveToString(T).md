@@ -14,7 +14,7 @@ public static string SaveToString<T>(T o, DataContractResolver resolver = null)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`o`**</mark> <mark style="color:orange;">`T`</mark>  
+<mark style="color:red;">**`o`**</mark> <mark style="color:yellow;">`T`</mark>  
  *Описание*  
   
 

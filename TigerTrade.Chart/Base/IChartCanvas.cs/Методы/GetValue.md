@@ -13,7 +13,7 @@ double GetValue(double y)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`y`**</mark> <mark style="color:orange;">`double`</mark>  
+<mark style="color:red;">**`y`**</mark> <mark style="color:yellow;">`double`</mark>  
  *Описание*  
   
 

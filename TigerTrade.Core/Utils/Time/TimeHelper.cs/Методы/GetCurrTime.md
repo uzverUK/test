@@ -13,7 +13,7 @@ public static DateTime GetCurrTime(string exchange)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`exchange`**</mark> <mark style="color:orange;">`string`</mark>  
+<mark style="color:red;">**`exchange`**</mark> <mark style="color:yellow;">`string`</mark>  
  *Описание*  
   
 

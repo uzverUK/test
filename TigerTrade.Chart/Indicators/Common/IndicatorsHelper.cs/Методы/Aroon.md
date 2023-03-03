@@ -13,13 +13,13 @@ public void Aroon(int period, out double[] aroonUp, out double[] aroonDown)
 ```
 
 ### Параметры  
-<mark style="color:red;">**`period`**</mark> <mark style="color:orange;">`int`</mark>  
+<mark style="color:red;">**`period`**</mark> <mark style="color:yellow;">`int`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`double`**</mark> <mark style="color:orange;">`out`</mark>  
+<mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`double`**</mark> <mark style="color:orange;">`out`</mark>  
+<mark style="color:red;">**`double`**</mark> <mark style="color:yellow;">`out`</mark>  
  *Описание*  
   
 

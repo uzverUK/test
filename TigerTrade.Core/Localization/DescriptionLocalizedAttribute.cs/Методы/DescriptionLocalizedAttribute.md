@@ -13,10 +13,10 @@ public DescriptionLocalizedAttribute(Type resourceManagerProvider, string resour
 ```
 
 ### Параметры  
-<mark style="color:red;">**`resourceManagerProvider`**</mark> <mark style="color:orange;">`Type`</mark>  
+<mark style="color:red;">**`resourceManagerProvider`**</mark> <mark style="color:yellow;">`Type`</mark>  
  *Описание*  
   
-<mark style="color:red;">**`resourceKey`**</mark> <mark style="color:orange;">`string`</mark>  
+<mark style="color:red;">**`resourceKey`**</mark> <mark style="color:yellow;">`string`</mark>  
  *Описание*  
   
 
