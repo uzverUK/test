@@ -1,6 +1,5 @@
 
 # public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Drawings
 ```

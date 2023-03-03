@@ -1,6 +1,5 @@
 
 # List
-### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Objects.List
 ```

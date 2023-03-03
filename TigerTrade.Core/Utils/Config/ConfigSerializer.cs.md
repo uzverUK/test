@@ -1,6 +1,5 @@
 
 # public sealed class ConfigSerializer
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Config
 ```

@@ -1,6 +1,5 @@
 
 # public static class StaticFunctions
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Time
 ```

@@ -1,6 +1,5 @@
 
 # ObjectLine.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common  
     class ObjectLine

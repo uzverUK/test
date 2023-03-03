@@ -1,6 +1,5 @@
 
 # public sealed class ObjectPointInfo : INotifyPropertyChanged
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common
 ```

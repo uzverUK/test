@@ -1,6 +1,5 @@
 
 # ScreenOperations.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Core.UI  
     class ScreenOperations

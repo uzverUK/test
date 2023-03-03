@@ -1,6 +1,5 @@
 
 # Alerts
-### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Alerts
 ```

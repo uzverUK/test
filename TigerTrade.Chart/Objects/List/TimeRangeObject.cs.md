@@ -1,6 +1,5 @@
 
 # public sealed class TimeRangeObject : PolygonObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

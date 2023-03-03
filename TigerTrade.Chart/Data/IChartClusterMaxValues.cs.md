@@ -1,6 +1,5 @@
 
 # public interface IChartClusterMaxValues
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

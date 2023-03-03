@@ -1,6 +1,5 @@
 
 # public sealed class FibonacciExtensionsObject : LineObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

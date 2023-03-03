@@ -1,6 +1,5 @@
 
 # RawClusterItem.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class RawClusterItem

@@ -1,6 +1,5 @@
 
 # ChartStockType.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base.Enums
 ```

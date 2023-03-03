@@ -1,6 +1,5 @@
 
 # public interface IChartCanvas
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base
 ```

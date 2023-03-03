@@ -1,6 +1,5 @@
 
 # LogManager.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Logging  
     class LogManager

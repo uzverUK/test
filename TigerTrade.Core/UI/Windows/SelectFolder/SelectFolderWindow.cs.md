@@ -1,6 +1,5 @@
 
 # public sealed class SelectFolderWindow : Window, IComponentConnector
-### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Windows.SelectFolder
 ```

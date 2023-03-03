@@ -1,6 +1,5 @@
 
 # TigerTrade.Core
-### Расположение
 ```csharp    
 namespace TigerTrade.Core
 ```

@@ -1,6 +1,5 @@
 
 # internal sealed class Settings : ApplicationSettingsBase
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Properties
 ```

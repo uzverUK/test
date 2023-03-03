@@ -1,6 +1,5 @@
 
 # ChartObjectAttribute.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common  
     class ChartObjectAttribute

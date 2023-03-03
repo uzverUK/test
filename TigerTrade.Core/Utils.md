@@ -1,6 +1,5 @@
 
 # Utils
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.Utils
 ```

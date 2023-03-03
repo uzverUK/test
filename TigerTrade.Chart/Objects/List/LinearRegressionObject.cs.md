@@ -1,6 +1,5 @@
 
 # public sealed class LinearRegressionObject : LineGroupObjectBaseEx
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

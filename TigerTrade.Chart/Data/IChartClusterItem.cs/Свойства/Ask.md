@@ -1,6 +1,5 @@
 
 # IChartClusterItem.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IChartClusterItem

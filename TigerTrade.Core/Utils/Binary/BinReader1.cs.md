@@ -1,6 +1,5 @@
 
 # public abstract class BinReader<T> : IDisposable
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Binary
 ```

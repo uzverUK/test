@@ -1,6 +1,5 @@
 
 # public sealed class ChartAlertInfo
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Alerts
 ```

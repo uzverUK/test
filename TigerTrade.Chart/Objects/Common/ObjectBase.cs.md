@@ -1,6 +1,5 @@
 
 # public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common
 ```

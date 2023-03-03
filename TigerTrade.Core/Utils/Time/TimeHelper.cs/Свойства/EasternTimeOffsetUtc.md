@@ -1,6 +1,5 @@
 
 # TimeHelper.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Time  
     class TimeHelper

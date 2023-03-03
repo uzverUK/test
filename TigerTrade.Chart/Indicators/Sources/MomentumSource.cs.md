@@ -1,6 +1,5 @@
 
 # public sealed class MomentumSource : IndicatorSourceBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```

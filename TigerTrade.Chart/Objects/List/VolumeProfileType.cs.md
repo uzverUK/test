@@ -1,6 +1,5 @@
 
 # VolumeProfileType.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

@@ -1,6 +1,5 @@
 
 # Binary
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.Utils.Binary
 ```

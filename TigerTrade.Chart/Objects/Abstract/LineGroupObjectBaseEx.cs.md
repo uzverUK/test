@@ -1,6 +1,5 @@
 
 # public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Abstract
 ```

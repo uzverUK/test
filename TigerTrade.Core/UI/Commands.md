@@ -1,6 +1,5 @@
 
 # Commands
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.UI.Commands
 ```

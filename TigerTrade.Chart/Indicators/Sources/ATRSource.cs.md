@@ -1,6 +1,5 @@
 
 # public sealed class ATRSource : IndicatorSourceBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```

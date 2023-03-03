@@ -1,6 +1,5 @@
 
 # public sealed class ObjectLine : INotifyPropertyChanged
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common
 ```

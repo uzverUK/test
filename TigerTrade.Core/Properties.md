@@ -1,6 +1,5 @@
 
 # Properties
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.Properties
 ```

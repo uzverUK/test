@@ -1,6 +1,5 @@
 
 # public interface IRawTick
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

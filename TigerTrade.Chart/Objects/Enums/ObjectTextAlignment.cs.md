@@ -1,6 +1,5 @@
 
 # ObjectTextAlignment.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Enums
 ```

@@ -1,6 +1,5 @@
 
 # Resources.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Properties  
     class Resources

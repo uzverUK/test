@@ -1,6 +1,5 @@
 
 # public sealed class ChannelObject : LineGroupObjectBaseEx
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

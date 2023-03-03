@@ -1,6 +1,5 @@
 
 # SelectFolder
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.UI.Windows.SelectFolder
 ```

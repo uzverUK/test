@@ -1,6 +1,5 @@
 
 # public sealed class ObjectPeriodItem
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common
 ```

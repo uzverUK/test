@@ -1,6 +1,5 @@
 
 # HorizontalLineObject.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List  
     class HorizontalLineObject

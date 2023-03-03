@@ -1,6 +1,5 @@
 
 # public interface IRawSecurity
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

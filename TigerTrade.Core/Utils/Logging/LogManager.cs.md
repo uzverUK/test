@@ -1,6 +1,5 @@
 
 # public static class LogManager
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Logging
 ```

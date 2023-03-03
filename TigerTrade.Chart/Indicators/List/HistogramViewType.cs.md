@@ -1,6 +1,5 @@
 
 # HistogramViewType.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.List
 ```

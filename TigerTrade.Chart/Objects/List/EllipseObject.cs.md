@@ -1,6 +1,5 @@
 
 # public sealed class EllipseObject : PolygonObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

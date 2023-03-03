@@ -1,6 +1,5 @@
 
 # public sealed class IndicatorNullDoubleParam : IndicatorParam<double?>
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```

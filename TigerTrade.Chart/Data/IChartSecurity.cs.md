@@ -1,6 +1,5 @@
 
 # public interface IChartSecurity
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

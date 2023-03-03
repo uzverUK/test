@@ -1,6 +1,5 @@
 
 # ClientInfo.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base  
     class ClientInfo

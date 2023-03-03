@@ -1,6 +1,5 @@
 
 # public sealed class MessageWindow : Window, IComponentConnector
-### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Windows
 ```

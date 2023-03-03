@@ -1,6 +1,5 @@
 
 # public interface IContainsConditions
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```

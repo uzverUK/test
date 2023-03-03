@@ -1,6 +1,5 @@
 
 # ChartAlertExecution.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Alerts
 ```

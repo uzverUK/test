@@ -1,6 +1,5 @@
 
 # public sealed class DisplayNameLocalizedAttribute : DisplayNameAttribute
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Localization
 ```

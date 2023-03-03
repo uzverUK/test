@@ -1,6 +1,5 @@
 
 # public interface IChartPeriod
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base
 ```

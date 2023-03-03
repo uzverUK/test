@@ -1,6 +1,5 @@
 
 # public sealed class IndicatorSeriesStyle
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```

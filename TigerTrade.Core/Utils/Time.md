@@ -1,6 +1,5 @@
 
 # Time
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.Utils.Time
 ```

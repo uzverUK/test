@@ -1,6 +1,5 @@
 
 # public class IndicatorSourceAttribute : Attribute
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```

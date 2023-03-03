@@ -1,6 +1,5 @@
 
 # IChartExecution.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IChartExecution

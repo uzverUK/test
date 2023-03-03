@@ -1,6 +1,5 @@
 
 # public sealed class VHFSource : IndicatorSourceBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```

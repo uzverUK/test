@@ -1,6 +1,5 @@
 
 # public abstract class IndicatorParam<T>
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```

@@ -1,6 +1,5 @@
 
 # Enums
-### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Objects.Enums
 ```

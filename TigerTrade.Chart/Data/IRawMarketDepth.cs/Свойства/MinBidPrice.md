@@ -1,6 +1,5 @@
 
 # IRawMarketDepth.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IRawMarketDepth

@@ -1,6 +1,5 @@
 
 # public sealed class CategoryLocalizedAttribute : CategoryAttribute
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Localization
 ```

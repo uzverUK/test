@@ -1,6 +1,5 @@
 
 # Common
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.UI.Common
 ```

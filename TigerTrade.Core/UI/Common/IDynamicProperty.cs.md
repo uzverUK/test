@@ -1,6 +1,5 @@
 
 # public interface IDynamicProperty
-### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Common
 ```

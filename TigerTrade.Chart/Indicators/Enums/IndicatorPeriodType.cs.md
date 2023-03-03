@@ -1,6 +1,5 @@
 
 # IndicatorPeriodType.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Enums
 ```

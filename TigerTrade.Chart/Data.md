@@ -1,6 +1,5 @@
 
 # Data
-### Расположение
 ```csharp    
 namespace TigerTrade.Chart.Data
 ```

@@ -1,6 +1,5 @@
 
 # public class IconObject : ObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

@@ -1,6 +1,5 @@
 
 # public sealed class RelayCommand : ICommand
-### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Commands
 ```

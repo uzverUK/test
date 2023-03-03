@@ -1,6 +1,5 @@
 
 # IChartTick.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IChartTick

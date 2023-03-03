@@ -1,6 +1,5 @@
 
 # public sealed class StochasticSource : IndicatorSourceBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```

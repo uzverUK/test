@@ -1,6 +1,5 @@
 
 # public interface IRawClusterValueArea
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

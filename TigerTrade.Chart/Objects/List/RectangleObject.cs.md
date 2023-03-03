@@ -1,6 +1,5 @@
 
 # public class RectangleObject : PolygonObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

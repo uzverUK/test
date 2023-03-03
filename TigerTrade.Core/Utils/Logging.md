@@ -1,6 +1,5 @@
 
 # Logging
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.Utils.Logging
 ```

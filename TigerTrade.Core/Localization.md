@@ -1,6 +1,5 @@
 
 # Localization
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.Localization
 ```

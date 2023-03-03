@@ -1,6 +1,5 @@
 
 # public sealed class CircleObject : PolygonObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

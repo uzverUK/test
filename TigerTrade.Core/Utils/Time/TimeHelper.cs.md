@@ -1,6 +1,5 @@
 
 # public static class TimeHelper
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Time
 ```

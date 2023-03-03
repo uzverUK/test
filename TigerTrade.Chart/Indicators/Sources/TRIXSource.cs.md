@@ -1,6 +1,5 @@
 
 # public sealed class TRIXSource : IndicatorSourceBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```

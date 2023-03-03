@@ -1,6 +1,5 @@
 
 # ClusterStatisticPeriodType.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.List
 ```

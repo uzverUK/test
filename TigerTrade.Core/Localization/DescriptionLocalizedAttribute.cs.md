@@ -1,6 +1,5 @@
 
 # public sealed class DescriptionLocalizedAttribute : DescriptionAttribute
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Localization
 ```

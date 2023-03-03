@@ -1,6 +1,5 @@
 
 # public sealed class EnumDescriptionTypeConverter : EnumConverter
-### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Converters
 ```

@@ -1,6 +1,5 @@
 
 # public abstract class PolygonObjectBase : ObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Abstract
 ```

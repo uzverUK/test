@@ -1,6 +1,5 @@
 
 # public interface IRawClusterMaxValues
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

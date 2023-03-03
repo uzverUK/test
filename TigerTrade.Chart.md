@@ -1,6 +1,5 @@
 
 # TigerTrade.Chart
-### Расположение
 ```csharp    
 namespace TigerTrade.Chart
 ```

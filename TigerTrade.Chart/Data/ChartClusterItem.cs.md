@@ -1,6 +1,5 @@
 
 # public sealed class ChartClusterItem : IChartClusterItem
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

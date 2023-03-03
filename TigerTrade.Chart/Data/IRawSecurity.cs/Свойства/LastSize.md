@@ -1,6 +1,5 @@
 
 # IRawSecurity.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IRawSecurity

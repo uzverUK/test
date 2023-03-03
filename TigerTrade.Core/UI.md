@@ -1,6 +1,5 @@
 
 # UI
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.UI
 ```

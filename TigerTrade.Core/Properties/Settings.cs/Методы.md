@@ -1,6 +1,5 @@
 
 # Settings.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Properties  
     class Settings

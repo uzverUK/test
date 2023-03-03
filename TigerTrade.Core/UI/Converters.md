@@ -1,6 +1,5 @@
 
 # Converters
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.UI.Converters
 ```

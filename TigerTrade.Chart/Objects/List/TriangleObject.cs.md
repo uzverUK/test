@@ -1,6 +1,5 @@
 
 # public sealed class TriangleObject : PolygonObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

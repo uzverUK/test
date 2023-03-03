@@ -1,6 +1,5 @@
 
 # public sealed class ChartAlertSettings : INotifyPropertyChanged
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Alerts
 ```

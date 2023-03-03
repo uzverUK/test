@@ -1,6 +1,5 @@
 
 # PolygonObjectBase.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Abstract  
     class PolygonObjectBase

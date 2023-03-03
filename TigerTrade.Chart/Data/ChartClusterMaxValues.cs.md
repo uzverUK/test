@@ -1,6 +1,5 @@
 
 # public sealed class ChartClusterMaxValues : IChartClusterMaxValues
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

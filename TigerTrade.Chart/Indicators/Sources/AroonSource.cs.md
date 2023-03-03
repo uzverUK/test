@@ -1,6 +1,5 @@
 
 # public sealed class AroonSource : IndicatorSourceBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```

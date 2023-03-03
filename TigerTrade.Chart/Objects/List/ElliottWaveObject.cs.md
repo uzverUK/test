@@ -1,6 +1,5 @@
 
 # public abstract class ElliottWaveObject : LineObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

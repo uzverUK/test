@@ -1,6 +1,5 @@
 
 # public sealed class YesNoWindow : Window, IComponentConnector
-### Расположение
 ```csharp
 namespace TigerTrade.Core.UI.Windows
 ```

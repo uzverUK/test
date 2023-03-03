@@ -1,6 +1,5 @@
 
 # public interface IChartMarketDepth
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

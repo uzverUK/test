@@ -1,6 +1,5 @@
 
 # public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```

@@ -1,6 +1,5 @@
 
 # BinReader1.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Core.Utils.Binary  
     class BinReader1

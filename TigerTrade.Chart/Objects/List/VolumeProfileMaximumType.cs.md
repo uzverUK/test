@@ -1,6 +1,5 @@
 
 # VolumeProfileMaximumType.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

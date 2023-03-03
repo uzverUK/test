@@ -1,6 +1,5 @@
 
 # ChartAlertSettings.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Alerts  
     class ChartAlertSettings

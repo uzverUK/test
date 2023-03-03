@@ -1,6 +1,5 @@
 
 # LineObjectBase.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Abstract  
     class LineObjectBase

@@ -1,6 +1,5 @@
 
 # public sealed class ObjectLabelInfo
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.Common
 ```

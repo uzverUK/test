@@ -1,6 +1,5 @@
 
 # public sealed class IndicatorDecimalParam : IndicatorParam<Decimal>
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Common
 ```

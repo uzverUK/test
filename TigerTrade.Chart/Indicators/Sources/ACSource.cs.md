@@ -1,6 +1,5 @@
 
 # public sealed class ACSource : IndicatorSourceBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```

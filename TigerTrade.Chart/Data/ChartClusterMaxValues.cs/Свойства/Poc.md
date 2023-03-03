@@ -1,6 +1,5 @@
 
 # ChartClusterMaxValues.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class ChartClusterMaxValues

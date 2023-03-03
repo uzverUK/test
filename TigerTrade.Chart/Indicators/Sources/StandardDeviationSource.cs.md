@@ -1,6 +1,5 @@
 
 # public sealed class StandardDeviationSource : IndicatorSourceBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Indicators.Sources
 ```

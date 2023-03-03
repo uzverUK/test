@@ -1,6 +1,5 @@
 
 # IRawClusterValueArea.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data  
     class IRawClusterValueArea

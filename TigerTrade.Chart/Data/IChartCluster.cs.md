@@ -1,6 +1,5 @@
 
 # public interface IChartCluster
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

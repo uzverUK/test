@@ -1,6 +1,5 @@
 
 # public interface IChartSettings
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base
 ```

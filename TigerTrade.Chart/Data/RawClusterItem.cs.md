@@ -1,6 +1,5 @@
 
 # public sealed class RawClusterItem : IRawClusterItem
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Data
 ```

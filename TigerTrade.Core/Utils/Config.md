@@ -1,6 +1,5 @@
 
 # Config
-### Расположение
 ```csharp    
 namespace TigerTrade.Core.Utils.Config
 ```

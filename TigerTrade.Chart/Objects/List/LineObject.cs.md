@@ -1,6 +1,5 @@
 
 # public sealed class LineObject : LineObjectBase
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

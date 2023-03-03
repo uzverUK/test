@@ -1,6 +1,5 @@
 
 # public sealed class HorizontalRayObject : HorizontalLineObject
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Objects.List
 ```

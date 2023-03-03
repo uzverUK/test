@@ -1,6 +1,5 @@
 
 # IChartSettings.cs
-### Расположение
 ```csharp
 namespace TigerTrade.Chart.Base  
     class IChartSettings
