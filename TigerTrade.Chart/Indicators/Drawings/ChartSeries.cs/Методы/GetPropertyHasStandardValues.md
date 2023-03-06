@@ -1,0 +1,20 @@
+
+# ChartSeries.cs
+```csharp
+namespace TigerTrade.Chart.Indicators.Drawings  
+    class ChartSeries
+```
+
+Описание
+
+### Синтаксис
+```csharp
+public bool GetPropertyHasStandardValues(string propertyName)
+```
+
+<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+  
+
+                    
+                    

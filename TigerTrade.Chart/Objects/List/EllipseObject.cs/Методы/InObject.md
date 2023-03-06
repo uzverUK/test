@@ -1,0 +1,17 @@
+
+# EllipseObject.cs
+```csharp
+namespace TigerTrade.Chart.Objects.List  
+    class EllipseObject
+```
+
+Описание
+
+### Синтаксис
+```csharp
+protected override bool InObject(int x, int y)
+```
+
+
+                    
+                    
