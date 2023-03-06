@@ -28,8 +28,8 @@ namespace TigerTrade.Chart.Indicators.Common
 | [`IndicatorSeriesData`](./Common/IndicatorSeriesData.cs.md) | *Описание* |
 | [`IndicatorSeriesStyle`](./Common/IndicatorSeriesStyle.cs.md) | *Описание* |
 | [`IndicatorSettingsSlider`](./Common/IndicatorSettingsSlider.cs.md) | *Описание* |
-| [`IndicatorsHelper`](./Common/IndicatorsHelper.cs.md) | *Описание* |
 | [`IndicatorSourceAttribute`](./Common/IndicatorSourceAttribute.cs.md) | *Описание* |
 | [`IndicatorSourceBase`](./Common/IndicatorSourceBase.cs.md) | *Описание* |
 | [`IndicatorTitleInfo`](./Common/IndicatorTitleInfo.cs.md) | *Описание* |
 | [`IndicatorValueInfo`](./Common/IndicatorValueInfo.cs.md) | *Описание* |
+| [`IndicatorsHelper`](./Common/IndicatorsHelper.cs.md) | *Описание* |

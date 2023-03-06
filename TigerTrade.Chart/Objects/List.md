@@ -31,8 +31,8 @@ namespace TigerTrade.Chart.Objects.List
 | [`HorizontalRayObject`](./List/HorizontalRayObject.cs.md) | *Описание* |
 | [`IconObject`](./List/IconObject.cs.md) | *Описание* |
 | [`LabelObject`](./List/LabelObject.cs.md) | *Описание* |
-| [`LinearRegressionObject`](./List/LinearRegressionObject.cs.md) | *Описание* |
 | [`LineObject`](./List/LineObject.cs.md) | *Описание* |
+| [`LinearRegressionObject`](./List/LinearRegressionObject.cs.md) | *Описание* |
 | [`PriceRangeObject`](./List/PriceRangeObject.cs.md) | *Описание* |
 | [`RectangleObject`](./List/RectangleObject.cs.md) | *Описание* |
 | [`RulerObject`](./List/RulerObject.cs.md) | *Описание* |
