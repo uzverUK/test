@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public double Open;{}
+public double Open; {}
 ```

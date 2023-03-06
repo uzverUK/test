@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public ConnectionInfo Connection => (ConnectionInfo) Position.fBRXUBOb551IjHyD8pEr((object) this.Account);{ get; }
+public ConnectionInfo Connection { get; }
 ```

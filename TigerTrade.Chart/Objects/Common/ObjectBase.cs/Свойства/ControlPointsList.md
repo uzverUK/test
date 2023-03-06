@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ### Синтаксис
 ```csharp
-public ObjectPointInfo[] ControlPointsList => ((IEnumerable<ObjectPoint>) this.ControlPoints).Select<ObjectPoint, ObjectPointInfo>((Func<ObjectPoint, int, ObjectPointInfo>) ((t, i) => new ObjectPointInfo(this.ControlPoints, i))).ToArray<ObjectPointInfo>();{ get; }
+public ObjectPointInfo[] ControlPointsList { get; }
 ```

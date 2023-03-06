@@ -9,5 +9,5 @@ namespace TigerTrade.Dx
 
 ### Синтаксис
 ```csharp
-public static List<string> Fonts;{}
+public static List<string> Fonts; {}
 ```

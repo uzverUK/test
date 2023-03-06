@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ### Синтаксис
 ```csharp
-public double[] Low => this.GetDataFromProvider(fgskUrgoW6Eeu54VtK7I.N1OgSwT16Kl(1234812358 ^ 1234814158));{ get; }
+public double[] Low { get; }
 ```

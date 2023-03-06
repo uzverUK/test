@@ -9,5 +9,5 @@ namespace TigerTrade.Core.Utils.Time
 
 ### Синтаксис
 ```csharp
-public static DateTime LocalTime => DateTime.Now;{ get; }
+public static DateTime LocalTime { get; }
 ```

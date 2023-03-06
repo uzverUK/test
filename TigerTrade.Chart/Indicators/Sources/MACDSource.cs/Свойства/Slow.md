@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 ### Синтаксис
 ```csharp
-public int Slow{ get; set; }
+public int Slow { get; set; }
 ```

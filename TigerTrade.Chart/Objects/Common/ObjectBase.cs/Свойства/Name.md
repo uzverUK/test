@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ### Синтаксис
 ```csharp
-public string Name{ get; }
+public string Name { get; }
 ```

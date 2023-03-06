@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public bool IsHitBTC => this.Exchange == LBAjv6OMMdBPv3T3jwAE.i3cOMa0wC0I(-1896328512 ^ -1896292388);{ get; }
+public bool IsHitBTC { get; }
 ```

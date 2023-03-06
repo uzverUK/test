@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public bool IsLive => !this.IsPlayer && !this.IsSimulator;{ get; }
+public bool IsLive { get; }
 ```

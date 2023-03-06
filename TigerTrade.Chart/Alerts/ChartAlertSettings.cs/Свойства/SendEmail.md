@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Alerts
 
 ### Синтаксис
 ```csharp
-public bool SendEmail{ get; set; }
+public bool SendEmail { get; set; }
 ```

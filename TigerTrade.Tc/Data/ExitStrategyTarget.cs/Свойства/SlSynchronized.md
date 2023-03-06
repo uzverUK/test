@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public bool SlSynchronized{ get; set; }
+public bool SlSynchronized { get; set; }
 ```

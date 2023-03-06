@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ### Синтаксис
 ```csharp
-public virtual bool ShowIndicatorTitle{ get; set; }
+public virtual bool ShowIndicatorTitle { get; set; }
 ```

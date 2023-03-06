@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 ### Синтаксис
 ```csharp
-public CandlePatternSourcePatternType PatternType{ get; set; }
+public CandlePatternSourcePatternType PatternType { get; set; }
 ```

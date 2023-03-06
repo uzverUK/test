@@ -9,5 +9,5 @@ namespace TigerTrade.Dx
 
 ### Синтаксис
 ```csharp
-public byte[] i5NjclyGDO6;{}
+public byte[] i5NjclyGDO6; {}
 ```

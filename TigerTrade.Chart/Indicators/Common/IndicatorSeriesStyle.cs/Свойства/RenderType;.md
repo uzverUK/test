@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ### Синтаксис
 ```csharp
-public ChartSeriesType RenderType;{}
+public ChartSeriesType RenderType; {}
 ```

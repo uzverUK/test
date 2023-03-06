@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Manager
 
 ### Синтаксис
 ```csharp
-public static tlSh00wib4PcbfluEhqD SortSettings{ get; set; }
+public static tlSh00wib4PcbfluEhqD SortSettings { get; set; }
 ```

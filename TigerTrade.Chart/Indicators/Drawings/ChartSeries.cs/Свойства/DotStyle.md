@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 ### Синтаксис
 ```csharp
-public ChartSeriesDotStyle DotStyle{ get; set; }
+public ChartSeriesDotStyle DotStyle { get; set; }
 ```

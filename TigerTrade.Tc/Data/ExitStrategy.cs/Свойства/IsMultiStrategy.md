@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public bool IsMultiStrategy => this.Targets.Count > 1;{ get; }
+public bool IsMultiStrategy { get; }
 ```

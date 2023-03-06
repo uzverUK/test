@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ### Синтаксис
 ```csharp
-public List<ChartLevel> Levels{ get; set; }
+public List<ChartLevel> Levels { get; set; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public ExitStrategy Strategy{ get; set; }
+public ExitStrategy Strategy { get; set; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ### Синтаксис
 ```csharp
-public ObjectPoint[] ControlPoints{ get; set; }
+public ObjectPoint[] ControlPoints { get; set; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Dx
 
 ### Синтаксис
 ```csharp
-public struct Lih7BdjIykOwQHbXkmse{}
+public struct Lih7BdjIykOwQHbXkmse {}
 ```

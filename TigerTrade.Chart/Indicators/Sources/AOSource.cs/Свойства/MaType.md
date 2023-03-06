@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 ### Синтаксис
 ```csharp
-public IndicatorMaType MaType{ get; set; }
+public IndicatorMaType MaType { get; set; }
 ```

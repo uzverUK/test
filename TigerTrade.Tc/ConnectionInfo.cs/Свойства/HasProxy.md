@@ -9,5 +9,5 @@ namespace TigerTrade.Tc
 
 ### Синтаксис
 ```csharp
-public bool HasProxy => this.Proxy != null;{ get; }
+public bool HasProxy { get; }
 ```

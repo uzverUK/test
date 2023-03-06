@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ### Синтаксис
 ```csharp
-protected virtual int PenWidth => 0;{ get; }
+protected virtual int PenWidth { get; }
 ```

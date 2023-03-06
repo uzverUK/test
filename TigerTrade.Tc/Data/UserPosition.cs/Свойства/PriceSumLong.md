@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public long PriceSumLong{ get; set; }
+public long PriceSumLong { get; set; }
 ```

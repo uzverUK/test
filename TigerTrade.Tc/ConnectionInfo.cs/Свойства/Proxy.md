@@ -9,5 +9,5 @@ namespace TigerTrade.Tc
 
 ### Синтаксис
 ```csharp
-public IfcHC6wbAs8uUIsvBmdJ Proxy{ get; set; }
+public IfcHC6wbAs8uUIsvBmdJ Proxy { get; set; }
 ```

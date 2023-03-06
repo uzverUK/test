@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Collections
 
 ### Синтаксис
 ```csharp
-public int Count => this._series.Count;{ get; }
+public int Count { get; }
 ```

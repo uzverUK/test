@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 ### Синтаксис
 ```csharp
-public bool Visible{ get; set; }
+public bool Visible { get; set; }
 ```

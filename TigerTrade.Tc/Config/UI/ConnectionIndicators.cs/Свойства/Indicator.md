@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Config.UI
 
 ### Синтаксис
 ```csharp
-public int Indicator{ get; set; }
+public int Indicator { get; set; }
 ```

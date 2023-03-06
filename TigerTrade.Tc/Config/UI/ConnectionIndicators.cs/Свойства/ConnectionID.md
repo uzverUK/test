@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Config.UI
 
 ### Синтаксис
 ```csharp
-public string ConnectionID{ get; set; }
+public string ConnectionID { get; set; }
 ```

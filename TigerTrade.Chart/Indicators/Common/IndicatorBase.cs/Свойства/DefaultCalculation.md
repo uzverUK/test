@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ### Синтаксис
 ```csharp
-public virtual IndicatorCalculation DefaultCalculation => IndicatorCalculation.OnBarClose;{ get; }
+public virtual IndicatorCalculation DefaultCalculation { get; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ### Синтаксис
 ```csharp
-public bool DisableLabel;{}
+public bool DisableLabel; {}
 ```

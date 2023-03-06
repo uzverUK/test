@@ -9,5 +9,5 @@ namespace TigerTrade.Dx
 
 ### Синтаксис
 ```csharp
-public DxHwndHostBase.l0tLU6jc5AhEMbMG90CU J1XjcmvFG6Q;{}
+public DxHwndHostBase.l0tLU6jc5AhEMbMG90CU J1XjcmvFG6Q; {}
 ```

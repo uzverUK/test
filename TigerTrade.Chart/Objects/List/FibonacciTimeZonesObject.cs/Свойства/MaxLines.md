@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ### Синтаксис
 ```csharp
-public int MaxLines{ get; set; }
+public int MaxLines { get; set; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ### Синтаксис
 ```csharp
-public RegressionType RegressionType{ get; set; }
+public RegressionType RegressionType { get; set; }
 ```

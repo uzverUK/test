@@ -9,5 +9,5 @@ namespace TigerTrade.Tc
 
 ### Синтаксис
 ```csharp
-public Brush LedBrush => f34oyAwR2ceLjQJShexa.X0twRXWrFHW(this.Indicator);{ get; }
+public Brush LedBrush { get; }
 ```

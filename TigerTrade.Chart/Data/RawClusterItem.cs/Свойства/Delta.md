@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Data
 
 ### Синтаксис
 ```csharp
-public long Delta => this.Ask - this.Bid;{ get; }
+public long Delta { get; }
 ```

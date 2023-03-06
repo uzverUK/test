@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ### Синтаксис
 ```csharp
-protected Rect LineRect;{}
+protected Rect LineRect; {}
 ```

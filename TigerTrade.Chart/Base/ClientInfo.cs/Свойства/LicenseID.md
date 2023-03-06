@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Base
 
 ### Синтаксис
 ```csharp
-public static string LicenseID{ get; set; }
+public static string LicenseID { get; set; }
 ```

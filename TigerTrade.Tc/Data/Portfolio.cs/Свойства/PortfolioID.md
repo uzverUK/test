@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public string PortfolioID{ get; set; }
+public string PortfolioID { get; set; }
 ```

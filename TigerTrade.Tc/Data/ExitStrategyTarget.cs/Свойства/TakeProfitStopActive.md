@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public bool TakeProfitStopActive{ get; set; }
+public bool TakeProfitStopActive { get; set; }
 ```

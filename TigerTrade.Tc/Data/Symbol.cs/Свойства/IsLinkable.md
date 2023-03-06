@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public bool IsLinkable{ get; }
+public bool IsLinkable { get; }
 ```

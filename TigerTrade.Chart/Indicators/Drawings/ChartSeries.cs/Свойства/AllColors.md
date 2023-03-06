@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 ### Синтаксис
 ```csharp
-public XColor AllColors{set; }
+public XColor AllColors {set; }
 ```

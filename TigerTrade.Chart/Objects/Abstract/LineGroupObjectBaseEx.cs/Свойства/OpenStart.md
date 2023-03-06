@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.Abstract
 
 ### Синтаксис
 ```csharp
-public bool OpenStart{ get; set; }
+public bool OpenStart { get; set; }
 ```

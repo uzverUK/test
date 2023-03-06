@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public bool IsActive => this.State == OrderState.Wait || this.State == OrderState.Active;{ get; }
+public bool IsActive { get; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public DateTime Time;{}
+public DateTime Time; {}
 ```

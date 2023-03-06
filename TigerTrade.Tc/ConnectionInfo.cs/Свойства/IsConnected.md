@@ -9,5 +9,5 @@ namespace TigerTrade.Tc
 
 ### Синтаксис
 ```csharp
-public bool IsConnected{ get; set; }
+public bool IsConnected { get; set; }
 ```

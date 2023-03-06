@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ### Синтаксис
 ```csharp
-public ChartSeriesColorSplit ColorSplit;{}
+public ChartSeriesColorSplit ColorSplit; {}
 ```

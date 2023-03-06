@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ### Синтаксис
 ```csharp
-public System.Collections.Generic.List<ObjectPoint> Points{ get; set; }
+public System.Collections.Generic.List<ObjectPoint> Points { get; set; }
 ```

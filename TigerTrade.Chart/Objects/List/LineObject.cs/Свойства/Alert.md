@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ### Синтаксис
 ```csharp
-public ChartAlertSettings Alert{ get; set; }
+public ChartAlertSettings Alert { get; set; }
 ```

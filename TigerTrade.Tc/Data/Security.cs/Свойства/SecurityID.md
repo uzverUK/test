@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public string SecurityID => this.Symbol.ID;{ get; }
+public string SecurityID { get; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.Abstract
 
 ### Синтаксис
 ```csharp
-protected Point[] EndPoints;{}
+protected Point[] EndPoints; {}
 ```

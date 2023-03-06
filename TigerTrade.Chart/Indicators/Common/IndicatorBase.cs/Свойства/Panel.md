@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ### Синтаксис
 ```csharp
-public string Panel{ get; set; }
+public string Panel { get; set; }
 ```

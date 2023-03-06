@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ### Синтаксис
 ```csharp
-public Rect VML3bztEtWe;{}
+public Rect VML3bztEtWe; {}
 ```

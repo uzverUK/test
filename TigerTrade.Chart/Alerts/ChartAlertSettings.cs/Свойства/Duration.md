@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Alerts
 
 ### Синтаксис
 ```csharp
-public ChartAlertPlayDuration Duration{ get; set; }
+public ChartAlertPlayDuration Duration { get; set; }
 ```

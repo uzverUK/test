@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ### Синтаксис
 ```csharp
-public int AlertMinDistance{ get; set; }
+public int AlertMinDistance { get; set; }
 ```

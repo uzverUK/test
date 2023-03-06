@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ### Синтаксис
 ```csharp
-public ObjectPosition Position{ get; set; }
+public ObjectPosition Position { get; set; }
 ```

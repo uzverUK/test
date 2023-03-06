@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Alerts
 
 ### Синтаксис
 ```csharp
-public DateTime? Expiration{ get; set; }
+public DateTime? Expiration { get; set; }
 ```

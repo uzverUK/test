@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public string PositionID => this.SymbolID + LBAjv6OMMdBPv3T3jwAE.i3cOMa0wC0I(-1896328512 ^ -1896292480) + this.AccountID;{ get; }
+public string PositionID { get; }
 ```

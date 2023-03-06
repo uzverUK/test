@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ### Синтаксис
 ```csharp
-public List<string> Panels => this._panels ?? (this._panels = new List<string>());{ get; }
+public List<string> Panels { get; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public double? NetChange{ get; set; }
+public double? NetChange { get; set; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Manager
 
 ### Синтаксис
 ```csharp
-public static string CommonDataPath;{}
+public static string CommonDataPath; {}
 ```

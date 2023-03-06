@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Config.UI
 
 ### Синтаксис
 ```csharp
-public static readonly DependencyProperty BoCwiesxd77;{}
+public static readonly DependencyProperty BoCwiesxd77; {}
 ```

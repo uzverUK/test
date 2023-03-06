@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.List
 
 ### Синтаксис
 ```csharp
-public XColor TextColor{ get; set; }
+public XColor TextColor { get; set; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 ### Синтаксис
 ```csharp
-public double Penetration{ get; set; }
+public double Penetration { get; set; }
 ```

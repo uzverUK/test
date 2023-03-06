@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Common
 
 ### Синтаксис
 ```csharp
-public double HighPercent;{}
+public double HighPercent; {}
 ```

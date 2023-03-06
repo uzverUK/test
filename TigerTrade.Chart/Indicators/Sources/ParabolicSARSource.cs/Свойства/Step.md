@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Sources
 
 ### Синтаксис
 ```csharp
-public Decimal Step{ get; set; }
+public Decimal Step { get; set; }
 ```

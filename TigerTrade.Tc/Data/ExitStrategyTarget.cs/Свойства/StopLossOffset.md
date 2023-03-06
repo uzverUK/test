@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public int? StopLossOffset{ get; set; }
+public int? StopLossOffset { get; set; }
 ```

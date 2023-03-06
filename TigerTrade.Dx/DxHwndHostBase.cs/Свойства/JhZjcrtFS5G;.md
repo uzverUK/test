@@ -9,5 +9,5 @@ namespace TigerTrade.Dx
 
 ### Синтаксис
 ```csharp
-public IntPtr JhZjcrtFS5G;{}
+public IntPtr JhZjcrtFS5G; {}
 ```

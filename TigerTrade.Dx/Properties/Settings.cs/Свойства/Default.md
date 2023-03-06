@@ -9,5 +9,5 @@ namespace TigerTrade.Dx.Properties
 
 ### Синтаксис
 ```csharp
-public static Settings Default => Settings.defaultInstance;{ get; }
+public static Settings Default { get; }
 ```

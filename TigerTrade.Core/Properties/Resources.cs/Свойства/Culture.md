@@ -9,5 +9,5 @@ namespace TigerTrade.Core.Properties
 
 ### Синтаксис
 ```csharp
-public static CultureInfo Culture{ get; set; }
+public static CultureInfo Culture { get; set; }
 ```

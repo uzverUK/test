@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.Abstract
 
 ### Синтаксис
 ```csharp
-public bool DrawBorder{ get; set; }
+public bool DrawBorder { get; set; }
 ```

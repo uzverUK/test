@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public bool IsCrypto{ get; }
+public bool IsCrypto { get; }
 ```

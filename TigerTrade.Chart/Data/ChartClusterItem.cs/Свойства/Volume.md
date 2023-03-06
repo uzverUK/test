@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Data
 
 ### Синтаксис
 ```csharp
-public Decimal Volume => ChartClusterItem.hSEQWdTxSUTeKc544EUu(this.Ask, this.Bid);{ get; }
+public Decimal Volume { get; }
 ```

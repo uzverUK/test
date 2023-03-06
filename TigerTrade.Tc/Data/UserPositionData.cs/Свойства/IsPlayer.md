@@ -9,5 +9,5 @@ namespace TigerTrade.Tc.Data
 
 ### Синтаксис
 ```csharp
-public bool IsPlayer => this.PositionID.Contains(LBAjv6OMMdBPv3T3jwAE.i3cOMa0wC0I(1946559293 << 2 ^ -803679124));{ get; }
+public bool IsPlayer { get; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Indicators.Drawings
 
 ### Синтаксис
 ```csharp
-public XDashStyle Style{ get; set; }
+public XDashStyle Style { get; set; }
 ```

@@ -9,5 +9,5 @@ namespace TigerTrade.Tc
 
 ### Синтаксис
 ```csharp
-public bool ConnectState{ get; set; }
+public bool ConnectState { get; set; }
 ```

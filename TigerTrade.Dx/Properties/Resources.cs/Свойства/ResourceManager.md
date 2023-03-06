@@ -9,5 +9,5 @@ namespace TigerTrade.Dx.Properties
 
 ### Синтаксис
 ```csharp
-public static ResourceManager ResourceManager{ get; }
+public static ResourceManager ResourceManager { get; }
 ```

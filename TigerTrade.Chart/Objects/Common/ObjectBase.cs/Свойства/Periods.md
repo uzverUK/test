@@ -9,5 +9,5 @@ namespace TigerTrade.Chart.Objects.Common
 
 ### Синтаксис
 ```csharp
-public ObjectPeriods Periods{ get; set; }
+public ObjectPeriods Periods { get; set; }
 ```
