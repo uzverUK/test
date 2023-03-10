@@ -1,9 +1,7 @@
 
 # IChartClusterItem.cs
-```csharp
-namespace TigerTrade.Chart.Data  
-    class IChartClusterItem
-```
+`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)  
+    `class` [IChartClusterItem](../../IChartClusterItem.cs.md)
 
 Описание
 

@@ -1,9 +1,7 @@
 
 # IndicatorsHelper.cs
-```csharp
-namespace TigerTrade.Chart.Indicators.Common  
-    class IndicatorsHelper
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)  
+    `class` [IndicatorsHelper](../../IndicatorsHelper.cs.md)
 
 Описание
 

@@ -1,9 +1,7 @@
 
 # XPen.cs
-```csharp
-namespace TigerTrade.Dx  
-    class XPen
-```
+`namespace` [TigerTrade.Dx](../TigerTrade.Dx.md)  
+    `class` [XPen](../../XPen.cs.md)
 
 Описание
 

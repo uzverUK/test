@@ -1,9 +1,7 @@
 
 # InputWindow.cs
-```csharp
-namespace TigerTrade.Core.UI.Windows  
-    class InputWindow
-```
+`namespace` [TigerTrade.Core](../../../TigerTrade.Core.md).[UI](../../../TigerTrade.Core/UI.md).[Windows](../../../TigerTrade.Core/UI/Windows.md)  
+    `class` [InputWindow](../../InputWindow.cs.md)
 
 Описание
 

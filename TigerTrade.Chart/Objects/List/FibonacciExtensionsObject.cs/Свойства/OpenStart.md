@@ -1,9 +1,7 @@
 
 # FibonacciExtensionsObject.cs
-```csharp
-namespace TigerTrade.Chart.Objects.List  
-    class FibonacciExtensionsObject
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)  
+    `class` [FibonacciExtensionsObject](../../FibonacciExtensionsObject.cs.md)
 
 Описание
 

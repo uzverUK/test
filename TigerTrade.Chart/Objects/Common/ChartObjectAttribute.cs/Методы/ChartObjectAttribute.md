@@ -1,9 +1,7 @@
 
 # ChartObjectAttribute.cs
-```csharp
-namespace TigerTrade.Chart.Objects.Common  
-    class ChartObjectAttribute
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Common](../../../TigerTrade.Chart/Objects/Common.md)  
+    `class` [ChartObjectAttribute](../../ChartObjectAttribute.cs.md)
 
 Описание
 

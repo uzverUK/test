@@ -1,9 +1,7 @@
 
 # IndicatorNullDoubleParam.cs
-```csharp
-namespace TigerTrade.Chart.Indicators.Common  
-    class IndicatorNullDoubleParam
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)  
+    `class` [IndicatorNullDoubleParam](../../IndicatorNullDoubleParam.cs.md)
 
 Описание
 

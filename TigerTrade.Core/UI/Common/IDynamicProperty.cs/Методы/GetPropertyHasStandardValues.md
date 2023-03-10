@@ -1,9 +1,7 @@
 
 # IDynamicProperty.cs
-```csharp
-namespace TigerTrade.Core.UI.Common  
-    class IDynamicProperty
-```
+`namespace` [TigerTrade.Core](../../../TigerTrade.Core.md).[UI](../../../TigerTrade.Core/UI.md).[Common](../../../TigerTrade.Core/UI/Common.md)  
+    `class` [IDynamicProperty](../../IDynamicProperty.cs.md)
 
 Описание
 

@@ -1,9 +1,7 @@
 
 # EldersForceIndexSource.cs
-```csharp
-namespace TigerTrade.Chart.Indicators.Sources  
-    class EldersForceIndexSource
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)  
+    `class` [EldersForceIndexSource](../../EldersForceIndexSource.cs.md)
 
 Описание
 

@@ -1,9 +1,7 @@
 
 # TimeHelper.cs
-```csharp
-namespace TigerTrade.Core.Utils.Time  
-    class TimeHelper
-```
+`namespace` [TigerTrade.Core](../../../TigerTrade.Core.md).[Utils](../../../TigerTrade.Core/Utils.md).[Time](../../../TigerTrade.Core/Utils/Time.md)  
+    `class` [TimeHelper](../../TimeHelper.cs.md)
 
 Описание
 

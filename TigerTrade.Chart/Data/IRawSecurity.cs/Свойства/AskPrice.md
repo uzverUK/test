@@ -1,9 +1,7 @@
 
 # IRawSecurity.cs
-```csharp
-namespace TigerTrade.Chart.Data  
-    class IRawSecurity
-```
+`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)  
+    `class` [IRawSecurity](../../IRawSecurity.cs.md)
 
 Описание
 

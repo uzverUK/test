@@ -1,9 +1,7 @@
 
 # IChartExecution.cs
-```csharp
-namespace TigerTrade.Chart.Data  
-    class IChartExecution
-```
+`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)  
+    `class` [IChartExecution](../../IChartExecution.cs.md)
 
 Описание
 

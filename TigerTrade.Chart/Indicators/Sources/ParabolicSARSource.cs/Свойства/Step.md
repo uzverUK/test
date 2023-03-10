@@ -1,9 +1,7 @@
 
 # ParabolicSARSource.cs
-```csharp
-namespace TigerTrade.Chart.Indicators.Sources  
-    class ParabolicSARSource
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)  
+    `class` [ParabolicSARSource](../../ParabolicSARSource.cs.md)
 
 Описание
 

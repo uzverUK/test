@@ -1,9 +1,7 @@
 
 # EnumDescriptionTypeConverter.cs
-```csharp
-namespace TigerTrade.Core.UI.Converters  
-    class EnumDescriptionTypeConverter
-```
+`namespace` [TigerTrade.Core](../../../TigerTrade.Core.md).[UI](../../../TigerTrade.Core/UI.md).[Converters](../../../TigerTrade.Core/UI/Converters.md)  
+    `class` [EnumDescriptionTypeConverter](../../EnumDescriptionTypeConverter.cs.md)
 
 Описание
 

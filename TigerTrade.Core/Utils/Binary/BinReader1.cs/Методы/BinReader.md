@@ -1,9 +1,7 @@
 
 # BinReader1.cs
-```csharp
-namespace TigerTrade.Core.Utils.Binary  
-    class BinReader1
-```
+`namespace` [TigerTrade.Core](../../../TigerTrade.Core.md).[Utils](../../../TigerTrade.Core/Utils.md).[Binary](../../../TigerTrade.Core/Utils/Binary.md)  
+    `class` [BinReader1](../../BinReader1.cs.md)
 
 Описание
 

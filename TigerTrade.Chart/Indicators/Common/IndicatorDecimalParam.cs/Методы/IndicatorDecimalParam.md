@@ -1,9 +1,7 @@
 
 # IndicatorDecimalParam.cs
-```csharp
-namespace TigerTrade.Chart.Indicators.Common  
-    class IndicatorDecimalParam
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)  
+    `class` [IndicatorDecimalParam](../../IndicatorDecimalParam.cs.md)
 
 Описание
 

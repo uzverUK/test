@@ -1,9 +1,7 @@
 
 # Resources.cs
-```csharp
-namespace TigerTrade.Dx.Properties  
-    class Resources
-```
+`namespace` [TigerTrade.Dx](../../TigerTrade.Dx.md).[Properties](../../TigerTrade.Dx/Properties.md)  
+    `class` [Resources](../../Resources.cs.md)
 
 Описание
 

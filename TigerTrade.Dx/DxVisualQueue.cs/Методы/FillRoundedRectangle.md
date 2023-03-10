@@ -1,9 +1,7 @@
 
 # DxVisualQueue.cs
-```csharp
-namespace TigerTrade.Dx  
-    class DxVisualQueue
-```
+`namespace` [TigerTrade.Dx](../TigerTrade.Dx.md)  
+    `class` [DxVisualQueue](../../DxVisualQueue.cs.md)
 
 Описание
 

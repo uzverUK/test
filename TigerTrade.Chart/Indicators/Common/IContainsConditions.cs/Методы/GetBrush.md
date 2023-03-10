@@ -1,9 +1,7 @@
 
 # IContainsConditions.cs
-```csharp
-namespace TigerTrade.Chart.Indicators.Common  
-    class IContainsConditions
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)  
+    `class` [IContainsConditions](../../IContainsConditions.cs.md)
 
 Описание
 

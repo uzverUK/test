@@ -1,9 +1,7 @@
 
 # MessageWindow.cs
-```csharp
-namespace TigerTrade.Core.UI.Windows  
-    class MessageWindow
-```
+`namespace` [TigerTrade.Core](../../../TigerTrade.Core.md).[UI](../../../TigerTrade.Core/UI.md).[Windows](../../../TigerTrade.Core/UI/Windows.md)  
+    `class` [MessageWindow](../../MessageWindow.cs.md)
 
 Описание
 

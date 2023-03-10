@@ -1,9 +1,7 @@
 
 # ADSource.cs
-```csharp
-namespace TigerTrade.Chart.Indicators.Sources  
-    class ADSource
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)  
+    `class` [ADSource](../../ADSource.cs.md)
 
 Описание
 

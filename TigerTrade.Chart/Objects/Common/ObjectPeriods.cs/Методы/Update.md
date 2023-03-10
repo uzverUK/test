@@ -1,9 +1,7 @@
 
 # ObjectPeriods.cs
-```csharp
-namespace TigerTrade.Chart.Objects.Common  
-    class ObjectPeriods
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Common](../../../TigerTrade.Chart/Objects/Common.md)  
+    `class` [ObjectPeriods](../../ObjectPeriods.cs.md)
 
 Описание
 

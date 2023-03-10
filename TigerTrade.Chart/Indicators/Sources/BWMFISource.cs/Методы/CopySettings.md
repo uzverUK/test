@@ -1,9 +1,7 @@
 
 # BWMFISource.cs
-```csharp
-namespace TigerTrade.Chart.Indicators.Sources  
-    class BWMFISource
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)  
+    `class` [BWMFISource](../../BWMFISource.cs.md)
 
 Описание
 

@@ -1,9 +1,7 @@
 
 # XBrush.cs
-```csharp
-namespace TigerTrade.Dx  
-    class XBrush
-```
+`namespace` [TigerTrade.Dx](../TigerTrade.Dx.md)  
+    `class` [XBrush](../../XBrush.cs.md)
 
 Описание
 

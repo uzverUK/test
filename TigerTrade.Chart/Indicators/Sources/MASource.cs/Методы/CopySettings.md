@@ -1,9 +1,7 @@
 
 # MASource.cs
-```csharp
-namespace TigerTrade.Chart.Indicators.Sources  
-    class MASource
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)  
+    `class` [MASource](../../MASource.cs.md)
 
 Описание
 

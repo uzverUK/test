@@ -1,9 +1,7 @@
 
 # IconObject.cs
-```csharp
-namespace TigerTrade.Chart.Objects.List  
-    class IconObject
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)  
+    `class` [IconObject](../../IconObject.cs.md)
 
 Описание
 

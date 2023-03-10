@@ -1,9 +1,7 @@
 
 # EllipseObject.cs
-```csharp
-namespace TigerTrade.Chart.Objects.List  
-    class EllipseObject
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)  
+    `class` [EllipseObject](../../EllipseObject.cs.md)
 
 Описание
 

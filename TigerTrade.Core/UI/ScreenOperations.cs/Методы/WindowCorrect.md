@@ -1,9 +1,7 @@
 
 # ScreenOperations.cs
-```csharp
-namespace TigerTrade.Core.UI  
-    class ScreenOperations
-```
+`namespace` [TigerTrade.Core](../../TigerTrade.Core.md).[UI](../../TigerTrade.Core/UI.md)  
+    `class` [ScreenOperations](../../ScreenOperations.cs.md)
 
 Описание
 

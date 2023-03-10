@@ -1,9 +1,7 @@
 
 # DxHwndHostBase.cs
-```csharp
-namespace TigerTrade.Dx  
-    class DxHwndHostBase
-```
+`namespace` [TigerTrade.Dx](../TigerTrade.Dx.md)  
+    `class` [DxHwndHostBase](../../DxHwndHostBase.cs.md)
 
 Описание
 

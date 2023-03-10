@@ -1,9 +1,7 @@
 
 # CircleObject.cs
-```csharp
-namespace TigerTrade.Chart.Objects.List  
-    class CircleObject
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)  
+    `class` [CircleObject](../../CircleObject.cs.md)
 
 Описание
 

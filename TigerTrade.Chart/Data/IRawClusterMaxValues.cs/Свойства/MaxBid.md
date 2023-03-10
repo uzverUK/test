@@ -1,9 +1,7 @@
 
 # IRawClusterMaxValues.cs
-```csharp
-namespace TigerTrade.Chart.Data  
-    class IRawClusterMaxValues
-```
+`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)  
+    `class` [IRawClusterMaxValues](../../IRawClusterMaxValues.cs.md)
 
 Описание
 

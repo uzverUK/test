@@ -1,9 +1,7 @@
 
 # VerticalLineObject.cs
-```csharp
-namespace TigerTrade.Chart.Objects.List  
-    class VerticalLineObject
-```
+`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)  
+    `class` [VerticalLineObject](../../VerticalLineObject.cs.md)
 
 Описание
 

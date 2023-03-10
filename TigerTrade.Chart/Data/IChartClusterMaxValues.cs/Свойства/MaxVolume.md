@@ -1,9 +1,7 @@
 
 # IChartClusterMaxValues.cs
-```csharp
-namespace TigerTrade.Chart.Data  
-    class IChartClusterMaxValues
-```
+`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)  
+    `class` [IChartClusterMaxValues](../../IChartClusterMaxValues.cs.md)
 
 Описание
 
