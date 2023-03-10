@@ -1,7 +1,7 @@
 
 # Objects
 
-`namespace` [TigerTrade.Chart](../TigerTrade.Chart.md).Objects
+<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../TigerTrade.Chart.md).Objects
 
 Описание
 

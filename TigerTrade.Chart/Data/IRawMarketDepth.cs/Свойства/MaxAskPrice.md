@@ -1,7 +1,7 @@
 
 # IRawMarketDepth.cs
 `namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-    `class` [IRawMarketDepth](../../IRawMarketDepth.cs.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mark style="color:red;">`class`</mark> [IRawMarketDepth](../../IRawMarketDepth.cs.md)
 
 Описание
 

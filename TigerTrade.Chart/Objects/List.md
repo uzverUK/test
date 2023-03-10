@@ -1,7 +1,7 @@
 
 # List
 
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Objects](../../TigerTrade.Chart/Objects.md).List
+<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../TigerTrade.Chart.md).[Objects](../../TigerTrade.Chart/Objects.md).List
 
 Описание
 

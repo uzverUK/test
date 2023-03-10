@@ -1,8 +1,6 @@
 
 # public sealed class IndicatorValueInfo
-```csharp
-namespace TigerTrade.Chart.Indicators.Common
-```
+<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)
 
 
 

@@ -1,7 +1,7 @@
 
 # TigerTrade.Chart
 
-`namespace` TigerTrade.Chart
+<mark style="color:purple;">`namespace`</mark> TigerTrade.Chart
 
 Описание
 

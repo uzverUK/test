@@ -1,8 +1,6 @@
 
 # public interface IRawCluster
-```csharp
-namespace TigerTrade.Chart.Data
-```
+<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
 
 
 

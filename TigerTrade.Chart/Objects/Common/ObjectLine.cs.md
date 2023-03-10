@@ -1,8 +1,6 @@
 
 # public sealed class ObjectLine : INotifyPropertyChanged
-```csharp
-namespace TigerTrade.Chart.Objects.Common
-```
+<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Common](../../../TigerTrade.Chart/Objects/Common.md)
 
 
 

@@ -1,7 +1,7 @@
 
 # IndicatorDoubleParam.cs
 `namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-    `class` [IndicatorDoubleParam](../../IndicatorDoubleParam.cs.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mark style="color:red;">`class`</mark> [IndicatorDoubleParam](../../IndicatorDoubleParam.cs.md)
 
 Описание
 

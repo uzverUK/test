@@ -1,7 +1,7 @@
 
 # IRawSecurity.cs
 `namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-    `class` [IRawSecurity](../../IRawSecurity.cs.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mark style="color:red;">`class`</mark> [IRawSecurity](../../IRawSecurity.cs.md)
 
 Описание
 

@@ -1,7 +1,7 @@
 
 # IRawClusterItem.cs
 `namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-    `class` [IRawClusterItem](../../IRawClusterItem.cs.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mark style="color:red;">`class`</mark> [IRawClusterItem](../../IRawClusterItem.cs.md)
 
 Описание
 

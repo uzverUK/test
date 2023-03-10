@@ -1,8 +1,6 @@
 
 # ChartAlertPlayDuration.cs
-```csharp
-namespace TigerTrade.Chart.Alerts
-```
+<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Alerts](../../../../TigerTrade.Chart/Alerts.md)
 
 
 

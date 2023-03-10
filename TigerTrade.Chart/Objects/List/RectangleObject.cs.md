@@ -1,8 +1,6 @@
 
 # public class RectangleObject : PolygonObjectBase
-```csharp
-namespace TigerTrade.Chart.Objects.List
-```
+<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)
 
 
 

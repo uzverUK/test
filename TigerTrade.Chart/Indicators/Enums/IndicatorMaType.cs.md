@@ -1,8 +1,6 @@
 
 # IndicatorMaType.cs
-```csharp
-namespace TigerTrade.Chart.Indicators.Enums
-```
+<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Enums](../../../../../TigerTrade.Chart/Indicators/Enums.md)
 
 
 
