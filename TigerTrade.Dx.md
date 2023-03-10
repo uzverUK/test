@@ -1,7 +1,7 @@
 
 # TigerTrade.Dx
 
-`namespace` TigerTrade.Dx
+`namespace` [.](../..md).TigerTrade.Dx
 
 Описание
 

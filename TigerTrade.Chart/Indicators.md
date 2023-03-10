@@ -1,7 +1,7 @@
 
 # Indicators
 
-`namespace` Indicators
+`namespace` [TigerTrade.Chart](../TigerTrade.Chart.md).Indicators
 
 Описание
 

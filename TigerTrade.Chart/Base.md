@@ -1,7 +1,7 @@
 
 # Base
 
-`namespace` Base
+`namespace` [TigerTrade.Chart](../TigerTrade.Chart.md).Base
 
 Описание
 

@@ -1,7 +1,7 @@
 
 # Alerts
 
-`namespace` Alerts
+`namespace` [TigerTrade.Chart](../TigerTrade.Chart.md).Alerts
 
 Описание
 

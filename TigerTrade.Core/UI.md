@@ -1,7 +1,7 @@
 
 # UI
 
-`namespace` UI
+`namespace` [TigerTrade.Core](../TigerTrade.Core.md).UI
 
 Описание
 

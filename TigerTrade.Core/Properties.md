@@ -1,7 +1,7 @@
 
 # Properties
 
-`namespace` Properties
+`namespace` [TigerTrade.Core](../TigerTrade.Core.md).Properties
 
 Описание
 

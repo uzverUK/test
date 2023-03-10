@@ -1,7 +1,7 @@
 
 # Localization
 
-`namespace` Localization
+`namespace` [TigerTrade.Core](../TigerTrade.Core.md).Localization
 
 Описание
 

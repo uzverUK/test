@@ -1,7 +1,7 @@
 
 # Fonts
 
-`namespace` Fonts
+`namespace` [TigerTrade.Dx](../TigerTrade.Dx.md).Fonts
 
 Описание
 

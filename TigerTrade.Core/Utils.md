@@ -1,7 +1,7 @@
 
 # Utils
 
-`namespace` Utils
+`namespace` [TigerTrade.Core](../TigerTrade.Core.md).Utils
 
 Описание
 

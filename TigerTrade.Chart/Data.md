@@ -1,7 +1,7 @@
 
 # Data
 
-`namespace` Data
+`namespace` [TigerTrade.Chart](../TigerTrade.Chart.md).Data
 
 Описание
 

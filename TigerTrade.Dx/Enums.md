@@ -1,7 +1,7 @@
 
 # Enums
 
-`namespace` Enums
+`namespace` [TigerTrade.Dx](../TigerTrade.Dx.md).Enums
 
 Описание
 
