@@ -9,11 +9,6 @@
 ```csharp
 public bool Set(string key, double? value, double minValue = -1.7976931348623157E+308, double maxValue = 1.7976931348623157E+308)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
@@ -25,5 +20,10 @@ public bool Set(string key, double? value, double minValue = -1.7976931348623157
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

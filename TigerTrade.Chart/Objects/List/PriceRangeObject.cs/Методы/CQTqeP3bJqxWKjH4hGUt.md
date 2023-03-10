@@ -9,11 +9,11 @@
 ```csharp
 public CQTqeP3bJqxWKjH4hGUt()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 public UltimateOscillatorSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

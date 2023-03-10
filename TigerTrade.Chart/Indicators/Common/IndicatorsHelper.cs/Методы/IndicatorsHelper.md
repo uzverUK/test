@@ -9,11 +9,11 @@
 ```csharp
 public IndicatorsHelper()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

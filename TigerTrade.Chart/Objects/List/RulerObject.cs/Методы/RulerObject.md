@@ -9,11 +9,11 @@
 ```csharp
 public RulerObject()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

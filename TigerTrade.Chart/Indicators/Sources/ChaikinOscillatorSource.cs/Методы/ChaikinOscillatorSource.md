@@ -9,11 +9,11 @@
 ```csharp
 public ChaikinOscillatorSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

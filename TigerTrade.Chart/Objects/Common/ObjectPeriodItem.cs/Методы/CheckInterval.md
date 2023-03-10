@@ -9,15 +9,15 @@
 ```csharp
 public bool CheckInterval(int interval)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

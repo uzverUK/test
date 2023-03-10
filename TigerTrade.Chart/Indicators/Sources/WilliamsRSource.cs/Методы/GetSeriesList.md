@@ -9,14 +9,14 @@
 ```csharp
 public override IEnumerable<string> GetSeriesList()
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

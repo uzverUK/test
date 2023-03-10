@@ -9,11 +9,11 @@
 ```csharp
 protected override bool IsObjectInArea()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

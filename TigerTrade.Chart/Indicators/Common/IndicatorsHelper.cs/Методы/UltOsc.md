@@ -9,11 +9,6 @@
 ```csharp
 public double[] UltOsc(int period1, int period2, int period3)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`period1`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
@@ -25,5 +20,10 @@ public double[] UltOsc(int period1, int period2, int period3)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

@@ -9,11 +9,6 @@
 ```csharp
 protected abstract void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
   
@@ -21,5 +16,10 @@ protected abstract void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> lab
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 public void DisableAll()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

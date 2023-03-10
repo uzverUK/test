@@ -9,11 +9,6 @@
 ```csharp
 public double[] ZIGZAG(int depth, int deviation, int backstep, bool reg = true)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`depth`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
@@ -27,5 +22,10 @@ public double[] ZIGZAG(int depth, int deviation, int backstep, bool reg = true)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

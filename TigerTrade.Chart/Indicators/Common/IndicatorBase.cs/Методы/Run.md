@@ -9,11 +9,6 @@
 ```csharp
 public void Run(IChartDataProvider dp, string longKey, string shortKey, string revision)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
  *Описание*  
   
@@ -27,5 +22,10 @@ public void Run(IChartDataProvider dp, string longKey, string shortKey, string r
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

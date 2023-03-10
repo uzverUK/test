@@ -9,14 +9,14 @@
 ```csharp
 public Point ToPoint(ObjectPoint op)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

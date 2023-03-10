@@ -9,11 +9,11 @@
 ```csharp
 public LabelObject()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

@@ -9,15 +9,15 @@
 ```csharp
 public void AddCluster(IChartCluster cluster)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`cluster`</mark> <mark style="color:red;">*`IChartCluster`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

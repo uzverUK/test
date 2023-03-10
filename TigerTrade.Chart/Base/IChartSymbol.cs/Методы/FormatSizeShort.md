@@ -9,15 +9,15 @@
 ```csharp
 string FormatSizeShort(Decimal size)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`size`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

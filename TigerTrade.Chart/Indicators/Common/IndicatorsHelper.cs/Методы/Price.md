@@ -9,14 +9,14 @@
 ```csharp
 public double[] Price(IndicatorPriceType priceField)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`priceField`</mark> <mark style="color:red;">*`IndicatorPriceType`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

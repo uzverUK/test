@@ -10,11 +10,6 @@
 public ChartLevel()
 public ChartLevel(Decimal level, XColor color)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`level`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
@@ -23,5 +18,10 @@ public ChartLevel(Decimal level, XColor color)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

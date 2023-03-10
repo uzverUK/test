@@ -9,11 +9,11 @@
 ```csharp
 public EllipseObject()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

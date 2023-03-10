@@ -9,14 +9,14 @@
 ```csharp
 double GetValue(double y)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

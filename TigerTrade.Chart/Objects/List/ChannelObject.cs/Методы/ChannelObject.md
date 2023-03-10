@@ -9,11 +9,11 @@
 ```csharp
 public ChannelObject()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

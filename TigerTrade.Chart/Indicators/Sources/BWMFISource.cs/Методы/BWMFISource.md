@@ -9,11 +9,11 @@
 ```csharp
 public BWMFISource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

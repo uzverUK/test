@@ -10,11 +10,6 @@
 public T Get(string key, T defaultValue)
 public T Get(string key)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
@@ -23,5 +18,10 @@ public T Get(string key)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

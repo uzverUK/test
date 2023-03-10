@@ -9,15 +9,15 @@
 ```csharp
 IRawClusterItem GetItem(long price)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

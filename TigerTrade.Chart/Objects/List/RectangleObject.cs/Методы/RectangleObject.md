@@ -9,11 +9,11 @@
 ```csharp
 public RectangleObject()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 public List<ChartAlertInfo> GetAlerts()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

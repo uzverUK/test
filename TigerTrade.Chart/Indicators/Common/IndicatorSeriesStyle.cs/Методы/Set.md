@@ -11,11 +11,6 @@ public void Set(ChartSeries series, string name = "")
 public void Set(ChartRegion region)
 public void Set(ChartLine line)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
  *Описание*  
@@ -30,5 +25,10 @@ public void Set(ChartLine line)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

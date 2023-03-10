@@ -9,11 +9,11 @@
 ```csharp
 public ObjectPeriods()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 protected abstract void Execute()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

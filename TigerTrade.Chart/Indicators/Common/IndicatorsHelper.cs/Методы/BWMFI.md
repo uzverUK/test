@@ -9,14 +9,14 @@
 ```csharp
 public double[] BWMFI(IndicatorBWMFIType volumeType = IndicatorBWMFIType.Ticks)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`volumeType`</mark> <mark style="color:red;">*`IndicatorBWMFIType`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

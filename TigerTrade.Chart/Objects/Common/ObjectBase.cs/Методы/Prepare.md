@@ -9,11 +9,11 @@
 ```csharp
 protected virtual void Prepare()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

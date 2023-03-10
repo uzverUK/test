@@ -9,11 +9,6 @@
 ```csharp
 public virtual int GetControlPoint(int x, int y)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
@@ -22,5 +17,10 @@ public virtual int GetControlPoint(int x, int y)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

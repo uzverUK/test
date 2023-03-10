@@ -9,11 +9,11 @@
 ```csharp
 public PriceOscillatorSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

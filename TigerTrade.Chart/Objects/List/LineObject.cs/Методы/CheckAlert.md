@@ -9,11 +9,11 @@
 ```csharp
 public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> indicators)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

@@ -9,14 +9,14 @@
 ```csharp
 Decimal GetSize(long rawSize)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`rawSize`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

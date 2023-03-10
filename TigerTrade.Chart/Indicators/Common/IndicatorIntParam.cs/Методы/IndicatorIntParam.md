@@ -10,15 +10,15 @@
 public IndicatorIntParam()
 public IndicatorIntParam(int value)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

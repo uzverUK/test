@@ -9,11 +9,6 @@
 ```csharp
 protected override int GetMinDist(int x, int y)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
@@ -21,5 +16,10 @@ protected override int GetMinDist(int x, int y)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

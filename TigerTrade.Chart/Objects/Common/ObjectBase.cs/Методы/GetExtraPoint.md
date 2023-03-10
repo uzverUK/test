@@ -9,11 +9,11 @@
 ```csharp
 public virtual int GetExtraPoint(int x, int y)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

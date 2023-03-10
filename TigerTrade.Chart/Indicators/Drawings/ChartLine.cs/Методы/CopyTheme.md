@@ -9,15 +9,15 @@
 ```csharp
 public void CopyTheme(ChartLine chartLine)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`chartLine`</mark> <mark style="color:red;">*`ChartLine`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

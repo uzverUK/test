@@ -9,14 +9,14 @@
 ```csharp
 public double[] ATR(int period)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

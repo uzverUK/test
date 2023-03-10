@@ -9,11 +9,11 @@
 ```csharp
 public ChaikinsVolatilitySource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

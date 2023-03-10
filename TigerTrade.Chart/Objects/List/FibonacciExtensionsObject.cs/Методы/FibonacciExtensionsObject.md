@@ -9,11 +9,11 @@
 ```csharp
 public FibonacciExtensionsObject()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

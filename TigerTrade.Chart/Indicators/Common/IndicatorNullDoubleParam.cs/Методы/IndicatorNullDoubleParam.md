@@ -10,11 +10,11 @@
 public IndicatorNullDoubleParam()
 public IndicatorNullDoubleParam(double? value)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

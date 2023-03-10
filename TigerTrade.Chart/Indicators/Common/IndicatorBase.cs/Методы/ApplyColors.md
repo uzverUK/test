@@ -9,14 +9,14 @@
 ```csharp
 public virtual void ApplyColors(IChartTheme palette)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`palette`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

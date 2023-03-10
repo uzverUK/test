@@ -9,14 +9,14 @@
 ```csharp
 public double[] VHF(int n)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

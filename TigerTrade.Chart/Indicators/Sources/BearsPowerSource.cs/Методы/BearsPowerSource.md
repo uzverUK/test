@@ -9,11 +9,11 @@
 ```csharp
 public BearsPowerSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 public VolumeOscillatorSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

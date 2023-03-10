@@ -9,14 +9,14 @@
 ```csharp
 public override void ApplyTheme(IChartTheme theme)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

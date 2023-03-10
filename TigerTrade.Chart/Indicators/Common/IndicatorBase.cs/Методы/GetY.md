@@ -10,11 +10,6 @@
 protected double GetY(double d)
 protected double GetY(Decimal d)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
@@ -22,5 +17,10 @@ protected double GetY(Decimal d)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

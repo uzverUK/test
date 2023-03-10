@@ -9,15 +9,15 @@
 ```csharp
 public void CachePoints(Point[] points, string pointsName)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`pointsName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

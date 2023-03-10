@@ -10,15 +10,15 @@
 long CorrectSizeFilter(double filter)
 long? CorrectSizeFilter(double? filter)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`filter`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

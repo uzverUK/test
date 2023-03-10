@@ -9,14 +9,14 @@
 ```csharp
 public virtual bool GetPropertyHasStandardValues(string propertyName)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

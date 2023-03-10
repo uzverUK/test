@@ -9,11 +9,11 @@
 ```csharp
 public MoneyFlowIndexSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

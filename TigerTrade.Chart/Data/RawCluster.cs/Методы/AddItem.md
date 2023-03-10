@@ -9,14 +9,14 @@
 ```csharp
 public void AddItem(IRawClusterItem item)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

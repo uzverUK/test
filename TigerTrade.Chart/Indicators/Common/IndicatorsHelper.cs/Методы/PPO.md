@@ -9,11 +9,6 @@
 ```csharp
 public double[] PPO(IndicatorMaType maType, double[] d, int shortPeriod, int longPeriod)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`maType`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
@@ -25,5 +20,10 @@ public double[] PPO(IndicatorMaType maType, double[] d, int shortPeriod, int lon
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

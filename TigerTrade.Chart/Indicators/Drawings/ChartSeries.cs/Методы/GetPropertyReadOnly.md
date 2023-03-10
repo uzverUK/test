@@ -9,11 +9,11 @@
 ```csharp
 public bool GetPropertyReadOnly(string propertyName)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

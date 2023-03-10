@@ -9,17 +9,17 @@
 ```csharp
 public virtual bool GetMinMax(out double min, out double max)
 ```
+<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+ *Описание*  
+  
+<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+ *Описание*  
+  
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
- *Описание*  
-  
-
                     
                     

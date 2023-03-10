@@ -9,11 +9,6 @@
 ```csharp
 public virtual void CopyTemplate(IndicatorBase indicator, bool style)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`indicator`</mark> <mark style="color:red;">*`IndicatorBase`*</mark>  
  *Описание*  
@@ -22,5 +17,10 @@ public virtual void CopyTemplate(IndicatorBase indicator, bool style)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

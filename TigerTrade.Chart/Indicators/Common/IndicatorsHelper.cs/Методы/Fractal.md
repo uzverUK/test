@@ -9,17 +9,17 @@
 ```csharp
 public void Fractal(int n, out double[] up, out double[] down)
 ```
+<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+ *Описание*  
+  
+<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+ *Описание*  
+  
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
- *Описание*  
-  
-
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 public virtual void BeginDrag()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 public double[] RSI(double[] d, int period)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

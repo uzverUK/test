@@ -9,11 +9,11 @@
 ```csharp
 protected IndicatorParam()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

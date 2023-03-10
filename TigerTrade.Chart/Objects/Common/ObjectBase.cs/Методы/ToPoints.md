@@ -9,11 +9,11 @@
 ```csharp
 protected Point[] ToPoints(ObjectPoint[] ops)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

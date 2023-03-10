@@ -9,11 +9,11 @@
 ```csharp
 public virtual bool CheckNeedRedraw()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

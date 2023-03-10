@@ -9,11 +9,11 @@
 ```csharp
 public CandlePatternSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

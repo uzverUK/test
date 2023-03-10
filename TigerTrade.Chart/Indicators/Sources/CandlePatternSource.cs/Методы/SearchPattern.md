@@ -9,11 +9,6 @@
 ```csharp
 public double[] SearchPattern(IndicatorsHelper helper, CandlePatternSourcePatternType type)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
  *Описание*  
   
@@ -21,5 +16,10 @@ public double[] SearchPattern(IndicatorsHelper helper, CandlePatternSourcePatter
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

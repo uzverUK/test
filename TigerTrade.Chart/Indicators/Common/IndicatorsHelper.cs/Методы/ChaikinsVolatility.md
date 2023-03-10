@@ -9,11 +9,6 @@
 ```csharp
 public double[] ChaikinsVolatility(IndicatorMaType type, int n)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
   
@@ -21,5 +16,10 @@ public double[] ChaikinsVolatility(IndicatorMaType type, int n)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

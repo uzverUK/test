@@ -9,11 +9,11 @@
 ```csharp
 public PriceRangeObject()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

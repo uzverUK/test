@@ -9,11 +9,11 @@
 ```csharp
 public override int GetHashCode()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

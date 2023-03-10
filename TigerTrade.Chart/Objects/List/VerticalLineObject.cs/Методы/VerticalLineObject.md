@@ -9,11 +9,11 @@
 ```csharp
 public VerticalLineObject()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

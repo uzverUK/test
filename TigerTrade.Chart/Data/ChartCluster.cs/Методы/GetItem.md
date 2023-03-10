@@ -9,14 +9,14 @@
 ```csharp
 public IChartClusterItem GetItem(Decimal price)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

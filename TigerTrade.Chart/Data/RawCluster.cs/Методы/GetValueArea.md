@@ -9,14 +9,14 @@
 ```csharp
 public IRawClusterValueArea GetValueArea(int valueArea)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`valueArea`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

@@ -9,11 +9,6 @@
 ```csharp
 string FormatPrice(Decimal price, bool shortDecimals = false)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
   
@@ -21,5 +16,10 @@ string FormatPrice(Decimal price, bool shortDecimals = false)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 public override int GetExtraPoint(int x, int y)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

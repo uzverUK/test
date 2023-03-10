@@ -9,11 +9,11 @@
 ```csharp
 IChartMarketDepth GetMarketDepth()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 public virtual void CheckAlert(List<IndicatorBase> indicators)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

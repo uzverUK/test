@@ -9,11 +9,6 @@
 ```csharp
 public void AddTick(IRawTick tick, int scale)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`tick`</mark> <mark style="color:red;">*`IRawTick`*</mark>  
  *Описание*  
   
@@ -21,5 +16,10 @@ public void AddTick(IRawTick tick, int scale)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

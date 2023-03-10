@@ -9,15 +9,15 @@
 ```csharp
 public bool CheckPeriod(IChartPeriod dc)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`dc`</mark> <mark style="color:red;">*`IChartPeriod`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

@@ -11,11 +11,6 @@ public ObjectLine()
 public ObjectLine(double value, XColor color)
 public ObjectLine(ObjectLine line)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
@@ -27,5 +22,10 @@ public ObjectLine(ObjectLine line)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

@@ -10,11 +10,11 @@
 public IndicatorNullDecimalParam()
 public IndicatorNullDecimalParam(Decimal? value)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 public double[] CumDelta()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

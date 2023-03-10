@@ -9,11 +9,6 @@
 ```csharp
 protected void AddAlert(ChartAlertSettings settings, string message)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
  *Описание*  
@@ -22,5 +17,10 @@ protected void AddAlert(ChartAlertSettings settings, string message)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

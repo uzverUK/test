@@ -9,11 +9,11 @@
 ```csharp
 public StochasticSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

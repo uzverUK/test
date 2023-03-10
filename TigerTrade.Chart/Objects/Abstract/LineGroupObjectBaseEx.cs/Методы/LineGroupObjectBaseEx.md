@@ -9,11 +9,11 @@
 ```csharp
 protected LineGroupObjectBaseEx()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

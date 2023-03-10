@@ -9,11 +9,11 @@
 ```csharp
 public StandardDeviationSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

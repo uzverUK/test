@@ -9,11 +9,6 @@
 ```csharp
 public ChartObjectAttribute(string id, string name, int points)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`id`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
@@ -25,5 +20,10 @@ public ChartObjectAttribute(string id, string name, int points)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

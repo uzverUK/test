@@ -9,11 +9,6 @@
 ```csharp
 XBrush GetSelection(int index, long price, int type)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
@@ -25,5 +20,10 @@ XBrush GetSelection(int index, long price, int type)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

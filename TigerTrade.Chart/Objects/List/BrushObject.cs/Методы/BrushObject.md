@@ -9,11 +9,11 @@
 ```csharp
 public BrushObject()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

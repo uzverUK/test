@@ -10,11 +10,6 @@
 Point GetValueFromPos(double x, double y)
 Point GetValueFromPos(double x, double y, bool snapToGrid)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
@@ -25,5 +20,10 @@ Point GetValueFromPos(double x, double y, bool snapToGrid)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

@@ -9,11 +9,6 @@
 ```csharp
 public virtual void CopyTemplate(ObjectBase objectBase, bool style)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
  *Описание*  
@@ -22,5 +17,10 @@ public virtual void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

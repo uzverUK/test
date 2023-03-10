@@ -10,15 +10,15 @@
 public IndicatorDoubleParam()
 public IndicatorDoubleParam(double value)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

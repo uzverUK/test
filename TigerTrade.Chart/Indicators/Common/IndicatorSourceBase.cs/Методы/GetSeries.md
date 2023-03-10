@@ -9,14 +9,14 @@
 ```csharp
 public abstract double[] GetSeries(IndicatorsHelper helper)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

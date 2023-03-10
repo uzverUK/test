@@ -9,11 +9,11 @@
 ```csharp
 public MASource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

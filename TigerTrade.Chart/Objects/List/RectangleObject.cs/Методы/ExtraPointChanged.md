@@ -9,11 +9,6 @@
 ```csharp
 public override void ExtraPointChanged(int index, ObjectPoint op)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
@@ -22,5 +17,10 @@ public override void ExtraPointChanged(int index, ObjectPoint op)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

@@ -9,11 +9,6 @@
 ```csharp
 public double[] SAR(double step, double maxp)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`step`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
@@ -22,5 +17,10 @@ public double[] SAR(double step, double maxp)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

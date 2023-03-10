@@ -9,11 +9,11 @@
 ```csharp
 public virtual bool GetPropertyVisibility(string propertyName)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

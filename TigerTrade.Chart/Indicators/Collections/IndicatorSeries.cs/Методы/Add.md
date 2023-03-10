@@ -11,11 +11,6 @@ public void Add(IndicatorSeriesData series)
 public void Add(IndicatorSeriesData series1, IndicatorSeriesData series2)
 public void Add(params IndicatorSeriesData[] series)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
  *Описание*  
@@ -30,5 +25,10 @@ public void Add(params IndicatorSeriesData[] series)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

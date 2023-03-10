@@ -9,11 +9,11 @@
 ```csharp
 public double[] MedianPrice()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

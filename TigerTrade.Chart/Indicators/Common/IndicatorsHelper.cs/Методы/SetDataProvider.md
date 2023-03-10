@@ -9,14 +9,14 @@
 ```csharp
 public void SetDataProvider(IChartDataProvider dp)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

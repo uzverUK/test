@@ -9,11 +9,11 @@
 ```csharp
 public PriceChannelSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

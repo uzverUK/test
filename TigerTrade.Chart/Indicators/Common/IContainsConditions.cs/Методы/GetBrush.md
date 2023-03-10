@@ -9,11 +9,6 @@
 ```csharp
 XBrush GetBrush(int index, bool isUp)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
@@ -22,5 +17,10 @@ XBrush GetBrush(int index, bool isUp)
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

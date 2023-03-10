@@ -9,14 +9,14 @@
 ```csharp
 string FormatValue(double d)
 ```
-### Пример  
-```csharp
-// example
-```
-
 <mark style="color:yellow;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

@@ -9,11 +9,11 @@
 ```csharp
 protected PolygonObjectBase()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

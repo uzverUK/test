@@ -9,15 +9,15 @@
 ```csharp
 public void SetCanvas(IChartCanvas canvas)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`canvas`</mark> <mark style="color:red;">*`IChartCanvas`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     

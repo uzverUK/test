@@ -9,11 +9,11 @@
 ```csharp
 public double[] WilliamsAD()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

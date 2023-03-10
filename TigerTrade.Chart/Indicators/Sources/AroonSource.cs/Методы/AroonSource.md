@@ -9,11 +9,11 @@
 ```csharp
 public AroonSource()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

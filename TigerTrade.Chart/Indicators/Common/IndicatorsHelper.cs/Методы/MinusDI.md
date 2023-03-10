@@ -9,11 +9,11 @@
 ```csharp
 public double[] MinusDI(int period)
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

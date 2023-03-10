@@ -9,11 +9,11 @@
 ```csharp
 public ObjectPeriods Copy()
 ```
+
+
 ### Пример  
 ```csharp
 // example
 ```
-
-
                     
                     

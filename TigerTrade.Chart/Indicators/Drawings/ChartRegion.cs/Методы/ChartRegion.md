@@ -10,15 +10,15 @@
 public ChartRegion()
 public ChartRegion(XColor color)
 ```
-### Пример  
-```csharp
-// example
-```
-
 ### Параметры  
 <mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
  *Описание*  
   
 
+
+### Пример  
+```csharp
+// example
+```
                     
                     
