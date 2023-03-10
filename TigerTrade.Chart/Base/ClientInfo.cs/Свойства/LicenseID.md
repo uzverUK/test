@@ -1,6 +1,6 @@
 
 # ClientInfo.cs
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Base](../../TigerTrade.Chart/Base.md)  
+`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
     `class` [ClientInfo](../../ClientInfo.cs.md)
 
 Описание
