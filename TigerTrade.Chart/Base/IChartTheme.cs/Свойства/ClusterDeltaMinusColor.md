@@ -1,7 +1,7 @@
 
 # IChartTheme.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mark style="color:red;">`class`</mark> [IChartTheme](../../IChartTheme.cs.md)
+<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Base](../../../TigerTrade.Chart/Base.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<mark style="color:red;">`class`</mark> [IChartTheme](../IChartTheme.cs.md)
 
 Описание
 
