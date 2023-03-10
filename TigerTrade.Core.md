@@ -1,7 +1,7 @@
 
 # TigerTrade.Core
 
-`namespace` [.](../..md).TigerTrade.Core
+`namespace` TigerTrade.Core
 
 Описание
 
