@@ -9,6 +9,10 @@
 ```csharp
 public CMOSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

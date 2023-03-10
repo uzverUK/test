@@ -9,3 +9,7 @@
 ```csharp
 public Decimal DeltaLow { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

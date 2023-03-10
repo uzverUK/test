@@ -9,3 +9,7 @@
 ```csharp
 public bool ShowInfoDelta { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

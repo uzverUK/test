@@ -9,3 +9,7 @@
 ```csharp
 public int Width { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,6 +9,10 @@
 ```csharp
 public void SetSettings(IChartSettings settings)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`IChartSettings`*</mark>  
  *Описание*  

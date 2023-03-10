@@ -9,3 +9,7 @@
 ```csharp
 public bool OpenEnd { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

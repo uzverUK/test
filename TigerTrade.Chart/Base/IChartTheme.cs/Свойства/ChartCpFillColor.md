@@ -9,3 +9,7 @@
 ```csharp
 XColor ChartCpFillColor { get; }
 ```
+### Пример  
+```csharp
+// example
+```

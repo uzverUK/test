@@ -9,3 +9,7 @@
 ```csharp
 long NumBids { get; }
 ```
+### Пример  
+```csharp
+// example
+```

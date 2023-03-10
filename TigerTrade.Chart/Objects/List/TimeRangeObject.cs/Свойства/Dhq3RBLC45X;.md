@@ -9,3 +9,7 @@
 ```csharp
 public Rect Dhq3RBLC45X; {}
 ```
+### Пример  
+```csharp
+// example
+```

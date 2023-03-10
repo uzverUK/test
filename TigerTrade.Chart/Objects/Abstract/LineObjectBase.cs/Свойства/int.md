@@ -9,3 +9,7 @@
 ```csharp
 protected override int PenWidth { get; }
 ```
+### Пример  
+```csharp
+// example
+```

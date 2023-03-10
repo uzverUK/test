@@ -9,6 +9,10 @@
 ```csharp
 public abstract IEnumerable<string> GetSeriesList()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

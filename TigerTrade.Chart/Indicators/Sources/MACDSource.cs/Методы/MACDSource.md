@@ -9,6 +9,10 @@
 ```csharp
 public MACDSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

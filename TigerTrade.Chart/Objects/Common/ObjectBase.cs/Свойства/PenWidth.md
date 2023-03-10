@@ -9,3 +9,7 @@
 ```csharp
 protected virtual int PenWidth { get; }
 ```
+### Пример  
+```csharp
+// example
+```

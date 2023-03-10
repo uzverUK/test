@@ -9,3 +9,7 @@
 ```csharp
 public double? Position { get; }
 ```
+### Пример  
+```csharp
+// example
+```

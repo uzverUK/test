@@ -9,3 +9,7 @@
 ```csharp
 public RegressionType RegressionType { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

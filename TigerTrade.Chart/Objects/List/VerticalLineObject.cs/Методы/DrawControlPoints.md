@@ -9,6 +9,10 @@
 ```csharp
 public override void DrawControlPoints(DxVisualQueue visual)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

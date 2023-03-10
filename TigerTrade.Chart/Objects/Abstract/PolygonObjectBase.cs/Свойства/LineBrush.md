@@ -9,3 +9,7 @@
 ```csharp
 protected XBrush LineBrush { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,3 +9,7 @@
 ```csharp
 Rect Rect { get; }
 ```
+### Пример  
+```csharp
+// example
+```

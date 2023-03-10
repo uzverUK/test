@@ -9,6 +9,10 @@
 ```csharp
 public int GetMinDistance(int x, int y)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

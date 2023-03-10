@@ -9,3 +9,7 @@
 ```csharp
 XFont ChartFontBold { get; }
 ```
+### Пример  
+```csharp
+// example
+```

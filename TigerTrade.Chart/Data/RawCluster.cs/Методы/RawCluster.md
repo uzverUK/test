@@ -9,6 +9,10 @@
 ```csharp
 public RawCluster(DateTime time)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`time`</mark> <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  

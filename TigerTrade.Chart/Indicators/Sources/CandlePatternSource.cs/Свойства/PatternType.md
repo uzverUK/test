@@ -9,3 +9,7 @@
 ```csharp
 public CandlePatternSourcePatternType PatternType { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

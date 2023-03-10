@@ -9,3 +9,7 @@
 ```csharp
 public bool Overlay { get; }
 ```
+### Пример  
+```csharp
+// example
+```

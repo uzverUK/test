@@ -9,3 +9,7 @@
 ```csharp
 public DateTime OpenTime { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

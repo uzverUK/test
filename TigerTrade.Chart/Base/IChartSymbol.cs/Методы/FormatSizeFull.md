@@ -9,6 +9,10 @@
 ```csharp
 string FormatSizeFull(Decimal size)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

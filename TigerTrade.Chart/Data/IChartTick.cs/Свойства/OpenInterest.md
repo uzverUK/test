@@ -9,3 +9,7 @@
 ```csharp
 long OpenInterest { get; }
 ```
+### Пример  
+```csharp
+// example
+```

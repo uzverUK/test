@@ -9,6 +9,10 @@
 ```csharp
 public BollingerBandsSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

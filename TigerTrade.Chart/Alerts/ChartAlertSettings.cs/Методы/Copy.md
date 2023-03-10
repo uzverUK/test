@@ -9,6 +9,10 @@
 ```csharp
 public void Copy(ChartAlertSettings alert, bool copyActive = false)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`alert`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  

@@ -9,6 +9,10 @@
 ```csharp
 public virtual void DrawControlPoints(DxVisualQueue visual)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  

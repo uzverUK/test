@@ -9,3 +9,7 @@
 ```csharp
 long Trades { get; }
 ```
+### Пример  
+```csharp
+// example
+```

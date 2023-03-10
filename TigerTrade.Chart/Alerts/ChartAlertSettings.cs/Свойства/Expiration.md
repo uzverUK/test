@@ -9,3 +9,7 @@
 ```csharp
 public DateTime? Expiration { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

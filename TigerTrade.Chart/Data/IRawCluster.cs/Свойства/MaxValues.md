@@ -9,3 +9,7 @@
 ```csharp
 IRawClusterMaxValues MaxValues { get; }
 ```
+### Пример  
+```csharp
+// example
+```

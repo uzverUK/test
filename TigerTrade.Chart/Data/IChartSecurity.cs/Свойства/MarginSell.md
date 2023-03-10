@@ -9,3 +9,7 @@
 ```csharp
 Decimal MarginSell { get; }
 ```
+### Пример  
+```csharp
+// example
+```

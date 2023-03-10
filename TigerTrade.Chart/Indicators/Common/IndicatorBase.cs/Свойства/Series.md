@@ -9,3 +9,7 @@
 ```csharp
 public IndicatorSeries Series { get; }
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,6 +9,10 @@
 ```csharp
 IRawSecurity GetRawSecurity()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

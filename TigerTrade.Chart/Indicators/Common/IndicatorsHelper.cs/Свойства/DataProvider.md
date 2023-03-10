@@ -9,3 +9,7 @@
 ```csharp
 public IChartDataProvider DataProvider { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

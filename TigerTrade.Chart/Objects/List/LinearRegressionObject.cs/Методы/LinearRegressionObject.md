@@ -9,6 +9,10 @@
 ```csharp
 public LinearRegressionObject()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

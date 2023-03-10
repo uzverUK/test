@@ -9,3 +9,7 @@
 ```csharp
 double ColumnWidth { get; }
 ```
+### Пример  
+```csharp
+// example
+```

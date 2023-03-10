@@ -9,6 +9,10 @@
 ```csharp
 public double[] ShiftData(double[] data, int shift)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`shift`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  

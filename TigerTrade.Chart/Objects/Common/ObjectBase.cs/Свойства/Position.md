@@ -9,3 +9,7 @@
 ```csharp
 public ObjectPosition Position { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

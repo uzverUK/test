@@ -9,3 +9,7 @@
 ```csharp
 public long OpenPosLow { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,3 +9,7 @@
 ```csharp
 long OpenInt { get; }
 ```
+### Пример  
+```csharp
+// example
+```

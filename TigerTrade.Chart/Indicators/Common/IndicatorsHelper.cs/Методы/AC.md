@@ -9,6 +9,10 @@
 ```csharp
 public double[] AC(IndicatorMaType type, int shortN, int longN)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  

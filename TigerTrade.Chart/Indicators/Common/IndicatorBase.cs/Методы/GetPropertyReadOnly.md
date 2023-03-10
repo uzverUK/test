@@ -9,6 +9,10 @@
 ```csharp
 public virtual bool GetPropertyReadOnly(string propertyName)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

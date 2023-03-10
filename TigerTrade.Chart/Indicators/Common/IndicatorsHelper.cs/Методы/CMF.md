@@ -9,6 +9,10 @@
 ```csharp
 public double[] CMF(int n)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  

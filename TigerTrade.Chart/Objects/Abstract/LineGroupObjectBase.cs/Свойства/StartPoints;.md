@@ -9,3 +9,7 @@
 ```csharp
 protected Point[] StartPoints; {}
 ```
+### Пример  
+```csharp
+// example
+```

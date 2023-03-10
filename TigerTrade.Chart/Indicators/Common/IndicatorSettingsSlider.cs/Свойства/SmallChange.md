@@ -9,3 +9,7 @@
 ```csharp
 public double SmallChange { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

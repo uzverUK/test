@@ -9,3 +9,7 @@
 ```csharp
 double StepHeight { get; }
 ```
+### Пример  
+```csharp
+// example
+```

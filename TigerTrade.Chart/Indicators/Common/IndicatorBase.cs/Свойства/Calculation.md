@@ -9,3 +9,7 @@
 ```csharp
 public virtual IndicatorCalculation Calculation { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

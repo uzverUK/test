@@ -9,6 +9,10 @@
 ```csharp
 public override bool Equals(object obj)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`obj`</mark> <mark style="color:red;">*`object`*</mark>  
  *Описание*  

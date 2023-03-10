@@ -9,3 +9,7 @@
 ```csharp
 XColor HistogramMaximumColor { get; }
 ```
+### Пример  
+```csharp
+// example
+```

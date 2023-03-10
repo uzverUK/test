@@ -9,3 +9,7 @@
 ```csharp
 public bool Visible { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

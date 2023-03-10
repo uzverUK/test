@@ -9,6 +9,10 @@
 ```csharp
 public ChartLine()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

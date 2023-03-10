@@ -9,6 +9,10 @@
 ```csharp
 public StockSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

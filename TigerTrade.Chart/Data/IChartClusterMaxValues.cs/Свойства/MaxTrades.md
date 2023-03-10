@@ -9,3 +9,7 @@
 ```csharp
 int MaxTrades { get; }
 ```
+### Пример  
+```csharp
+// example
+```

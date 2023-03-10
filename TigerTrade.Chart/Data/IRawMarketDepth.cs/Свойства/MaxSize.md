@@ -9,3 +9,7 @@
 ```csharp
 long MaxSize { get; }
 ```
+### Пример  
+```csharp
+// example
+```

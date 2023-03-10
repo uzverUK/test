@@ -9,6 +9,10 @@
 ```csharp
 public void DrawObject(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
  *Описание*  

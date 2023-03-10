@@ -9,6 +9,10 @@
 ```csharp
 protected virtual void CalcPoint()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

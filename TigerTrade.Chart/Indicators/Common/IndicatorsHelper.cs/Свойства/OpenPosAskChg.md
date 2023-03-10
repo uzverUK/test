@@ -9,3 +9,7 @@
 ```csharp
 public double[] OpenPosAskChg { get; }
 ```
+### Пример  
+```csharp
+// example
+```

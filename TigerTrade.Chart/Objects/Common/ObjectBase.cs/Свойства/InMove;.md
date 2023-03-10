@@ -9,3 +9,7 @@
 ```csharp
 public bool InMove; {}
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,3 +9,7 @@
 ```csharp
 protected IChartCanvas Canvas { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

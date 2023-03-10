@@ -9,3 +9,7 @@
 ```csharp
 public RectangleObject.x9Yyrp3RfkGdCbNTXU4b RectInfo { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

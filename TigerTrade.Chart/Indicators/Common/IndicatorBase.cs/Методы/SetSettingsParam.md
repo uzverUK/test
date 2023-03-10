@@ -9,6 +9,10 @@
 ```csharp
 public virtual void SetSettingsParam(string name, object param)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  

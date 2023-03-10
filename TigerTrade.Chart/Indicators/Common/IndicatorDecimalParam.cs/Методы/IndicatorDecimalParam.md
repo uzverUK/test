@@ -10,6 +10,10 @@
 public IndicatorDecimalParam()
 public IndicatorDecimalParam(Decimal value)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`Decimal`*</mark>  

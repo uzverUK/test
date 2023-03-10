@@ -9,3 +9,7 @@
 ```csharp
 public int AlertMinDistance { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

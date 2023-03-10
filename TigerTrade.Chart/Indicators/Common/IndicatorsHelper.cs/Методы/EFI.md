@@ -9,6 +9,10 @@
 ```csharp
 public double[] EFI(double[] d, IndicatorMaType type, int n)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  

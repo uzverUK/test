@@ -9,6 +9,10 @@
 ```csharp
 public ParabolicSARSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

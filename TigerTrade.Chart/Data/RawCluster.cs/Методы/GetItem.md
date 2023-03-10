@@ -9,6 +9,10 @@
 ```csharp
 public IRawClusterItem GetItem(long price)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  

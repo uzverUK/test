@@ -9,6 +9,10 @@
 ```csharp
 public IEnumerable<object> GetPropertyStandardValues(string propertyName)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  

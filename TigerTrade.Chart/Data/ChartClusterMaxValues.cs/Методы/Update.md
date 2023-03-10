@@ -9,6 +9,10 @@
 ```csharp
 public void Update(Dictionary<Decimal, ChartClusterItem> items)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

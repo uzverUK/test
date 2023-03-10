@@ -9,3 +9,7 @@
 ```csharp
 XColor CandleUpBorderColor { get; }
 ```
+### Пример  
+```csharp
+// example
+```

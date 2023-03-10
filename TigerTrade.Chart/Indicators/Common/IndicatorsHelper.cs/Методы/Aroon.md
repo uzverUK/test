@@ -9,6 +9,10 @@
 ```csharp
 public void Aroon(int period, out double[] aroonUp, out double[] aroonDown)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
  *Описание*  

@@ -9,3 +9,7 @@
 ```csharp
 Decimal LastSize { get; }
 ```
+### Пример  
+```csharp
+// example
+```

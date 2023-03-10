@@ -9,6 +9,10 @@
 ```csharp
 protected abstract string GetDegreeText(int num)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`num`</mark> <mark style="color:red;">*`int`*</mark>  

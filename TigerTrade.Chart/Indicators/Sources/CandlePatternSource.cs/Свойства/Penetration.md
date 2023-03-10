@@ -9,3 +9,7 @@
 ```csharp
 public double Penetration { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

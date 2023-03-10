@@ -9,3 +9,7 @@
 ```csharp
 XColor ClusterCellBorderColor { get; }
 ```
+### Пример  
+```csharp
+// example
+```

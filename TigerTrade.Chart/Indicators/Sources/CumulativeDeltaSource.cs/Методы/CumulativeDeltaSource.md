@@ -9,6 +9,10 @@
 ```csharp
 public CumulativeDeltaSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

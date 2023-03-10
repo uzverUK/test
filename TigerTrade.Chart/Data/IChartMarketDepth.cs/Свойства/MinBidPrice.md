@@ -9,3 +9,7 @@
 ```csharp
 Decimal MinBidPrice { get; }
 ```
+### Пример  
+```csharp
+// example
+```

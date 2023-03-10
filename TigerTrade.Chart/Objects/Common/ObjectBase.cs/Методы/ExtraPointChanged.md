@@ -9,6 +9,10 @@
 ```csharp
 public virtual void ExtraPointChanged(int index, ObjectPoint op)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  

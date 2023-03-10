@@ -10,6 +10,10 @@
 int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double timeOffset)
 int GetSequence(ChartPeriodType type, int interval, double dateTime, double timeOffset)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`ChartPeriodType`*</mark>  

@@ -9,6 +9,10 @@
 ```csharp
 public IchimokuSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

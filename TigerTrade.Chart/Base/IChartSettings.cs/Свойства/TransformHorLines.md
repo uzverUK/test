@@ -9,3 +9,7 @@
 ```csharp
 bool TransformHorLines { get; }
 ```
+### Пример  
+```csharp
+// example
+```

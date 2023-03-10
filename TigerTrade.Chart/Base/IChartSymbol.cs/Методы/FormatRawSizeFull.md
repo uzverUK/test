@@ -9,6 +9,10 @@
 ```csharp
 string FormatRawSizeFull(long size)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

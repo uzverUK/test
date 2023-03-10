@@ -9,6 +9,10 @@
 ```csharp
 protected override bool IsObjectOnChart()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

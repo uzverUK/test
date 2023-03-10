@@ -9,3 +9,7 @@
 ```csharp
 public double Maximum { get; }
 ```
+### Пример  
+```csharp
+// example
+```

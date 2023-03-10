@@ -9,6 +9,10 @@
 ```csharp
 public bool Equals(ChartAlertSettings other)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`other`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
  *Описание*  

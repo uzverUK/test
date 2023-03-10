@@ -9,3 +9,7 @@
 ```csharp
 Decimal MaxDelta { get; }
 ```
+### Пример  
+```csharp
+// example
+```

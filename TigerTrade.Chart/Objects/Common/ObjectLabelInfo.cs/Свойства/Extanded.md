@@ -9,3 +9,7 @@
 ```csharp
 public bool Extanded { get; }
 ```
+### Пример  
+```csharp
+// example
+```

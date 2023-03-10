@@ -9,3 +9,7 @@
 ```csharp
 long LastPrice { get; }
 ```
+### Пример  
+```csharp
+// example
+```

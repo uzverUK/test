@@ -9,3 +9,7 @@
 ```csharp
 protected IChartSettings Settings { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,3 +9,7 @@
 ```csharp
 public int AskTrades { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

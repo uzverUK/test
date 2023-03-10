@@ -10,6 +10,10 @@
 public ChartClusterItem(Decimal price)
 public ChartClusterItem(IChartClusterItem item)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  

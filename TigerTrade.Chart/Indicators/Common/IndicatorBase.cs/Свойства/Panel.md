@@ -9,3 +9,7 @@
 ```csharp
 public string Panel { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

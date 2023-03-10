@@ -9,3 +9,7 @@
 ```csharp
 public bool DrawBorder { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

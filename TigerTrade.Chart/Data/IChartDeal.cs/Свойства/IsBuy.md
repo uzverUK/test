@@ -9,3 +9,7 @@
 ```csharp
 bool IsBuy { get; }
 ```
+### Пример  
+```csharp
+// example
+```

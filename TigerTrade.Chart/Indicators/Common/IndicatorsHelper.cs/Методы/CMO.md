@@ -9,6 +9,10 @@
 ```csharp
 public double[] CMO(double[] d, int period)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  

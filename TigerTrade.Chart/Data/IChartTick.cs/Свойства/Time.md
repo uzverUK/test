@@ -9,3 +9,7 @@
 ```csharp
 DateTime Time { get; }
 ```
+### Пример  
+```csharp
+// example
+```

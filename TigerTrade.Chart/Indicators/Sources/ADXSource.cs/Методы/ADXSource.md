@@ -9,6 +9,10 @@
 ```csharp
 public ADXSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

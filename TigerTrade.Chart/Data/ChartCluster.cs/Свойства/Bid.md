@@ -9,3 +9,7 @@
 ```csharp
 public Decimal Bid { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,6 +9,10 @@
 ```csharp
 public bool GetPropertyVisibility(string propertyName)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

@@ -10,6 +10,10 @@
 string FormatRawSize(long size, int round = 2)
 string FormatRawSize(long size, int round, bool minimize)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`size`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  

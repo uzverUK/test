@@ -9,6 +9,10 @@
 ```csharp
 public void CopyTheme(ChartLevel chartLevel)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`chartLevel`</mark> <mark style="color:red;">*`ChartLevel`*</mark>  
  *Описание*  

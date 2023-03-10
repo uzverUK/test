@@ -9,6 +9,10 @@
 ```csharp
 protected IndicatorBase()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

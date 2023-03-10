@@ -9,6 +9,10 @@
 ```csharp
 public ObjectPeriodItem()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

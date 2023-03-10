@@ -9,6 +9,10 @@
 ```csharp
 public FibonacciFanObject()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

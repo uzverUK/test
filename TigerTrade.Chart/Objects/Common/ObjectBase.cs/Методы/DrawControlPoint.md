@@ -9,6 +9,10 @@
 ```csharp
 protected void DrawControlPoint(DxVisualQueue visual, Point point)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`point`</mark> <mark style="color:red;">*`Point`*</mark>  
  *Описание*  

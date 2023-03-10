@@ -9,3 +9,7 @@
 ```csharp
 IChartSymbol Symbol { get; }
 ```
+### Пример  
+```csharp
+// example
+```

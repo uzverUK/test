@@ -9,6 +9,10 @@
 ```csharp
 public x9Yyrp3RfkGdCbNTXU4b()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

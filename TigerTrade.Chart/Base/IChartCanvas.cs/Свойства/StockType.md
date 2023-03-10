@@ -9,3 +9,7 @@
 ```csharp
 ChartStockType StockType { get; }
 ```
+### Пример  
+```csharp
+// example
+```

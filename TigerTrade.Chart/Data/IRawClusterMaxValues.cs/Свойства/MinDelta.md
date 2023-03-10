@@ -9,3 +9,7 @@
 ```csharp
 long MinDelta { get; }
 ```
+### Пример  
+```csharp
+// example
+```

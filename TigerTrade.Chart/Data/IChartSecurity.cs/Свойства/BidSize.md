@@ -9,3 +9,7 @@
 ```csharp
 Decimal BidSize { get; }
 ```
+### Пример  
+```csharp
+// example
+```

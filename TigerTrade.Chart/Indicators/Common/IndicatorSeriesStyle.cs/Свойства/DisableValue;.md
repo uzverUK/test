@@ -9,3 +9,7 @@
 ```csharp
 public bool DisableValue; {}
 ```
+### Пример  
+```csharp
+// example
+```

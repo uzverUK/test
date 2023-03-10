@@ -9,3 +9,7 @@
 ```csharp
 double ColumnPercent { get; }
 ```
+### Пример  
+```csharp
+// example
+```

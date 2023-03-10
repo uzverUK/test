@@ -9,6 +9,10 @@
 ```csharp
 public virtual IndicatorTitleInfo GetTitle()
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`IndicatorTitleInfo`</mark> <mark style="color:red;">*`new`*</mark>  

@@ -9,3 +9,7 @@
 ```csharp
 public XColor AllColors {set; }
 ```
+### Пример  
+```csharp
+// example
+```

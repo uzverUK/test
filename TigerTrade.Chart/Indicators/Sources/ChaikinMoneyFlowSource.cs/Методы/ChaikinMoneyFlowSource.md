@@ -9,6 +9,10 @@
 ```csharp
 public ChaikinMoneyFlowSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

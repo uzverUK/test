@@ -9,6 +9,10 @@
 ```csharp
 public IEnumerator<IndicatorSeriesData> GetEnumerator()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

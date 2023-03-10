@@ -9,3 +9,7 @@
 ```csharp
 public int LongPeriod { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

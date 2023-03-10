@@ -9,6 +9,10 @@
 ```csharp
 public double[] Momentum(double[] d, int period)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  

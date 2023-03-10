@@ -9,3 +9,7 @@
 ```csharp
 public Dictionary<string, ObjectPeriodItem> Periods { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

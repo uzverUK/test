@@ -9,6 +9,10 @@
 ```csharp
 public RateOfChangeSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

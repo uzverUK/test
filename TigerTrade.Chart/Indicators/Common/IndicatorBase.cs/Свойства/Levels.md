@@ -9,3 +9,7 @@
 ```csharp
 public List<ChartLevel> Levels { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

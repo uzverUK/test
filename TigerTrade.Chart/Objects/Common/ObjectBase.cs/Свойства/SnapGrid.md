@@ -9,3 +9,7 @@
 ```csharp
 public virtual bool SnapGrid { get; }
 ```
+### Пример  
+```csharp
+// example
+```

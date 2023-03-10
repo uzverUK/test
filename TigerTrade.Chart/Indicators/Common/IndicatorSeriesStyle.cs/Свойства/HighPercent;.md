@@ -9,3 +9,7 @@
 ```csharp
 public double HighPercent; {}
 ```
+### Пример  
+```csharp
+// example
+```

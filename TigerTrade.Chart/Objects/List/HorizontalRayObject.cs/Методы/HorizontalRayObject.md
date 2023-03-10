@@ -9,6 +9,10 @@
 ```csharp
 public HorizontalRayObject()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

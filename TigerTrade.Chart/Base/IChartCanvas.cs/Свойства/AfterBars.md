@@ -9,3 +9,7 @@
 ```csharp
 int AfterBars { get; }
 ```
+### Пример  
+```csharp
+// example
+```

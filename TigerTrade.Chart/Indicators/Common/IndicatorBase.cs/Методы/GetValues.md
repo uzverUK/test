@@ -9,6 +9,10 @@
 ```csharp
 public virtual List<IndicatorValueInfo> GetValues(int cursorPos)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`cursorPos`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  

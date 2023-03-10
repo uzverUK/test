@@ -9,3 +9,7 @@
 ```csharp
 protected Rect LineRect; {}
 ```
+### Пример  
+```csharp
+// example
+```

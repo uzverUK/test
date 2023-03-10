@@ -9,3 +9,7 @@
 ```csharp
 public IndicatorMaType SlowDMaType { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

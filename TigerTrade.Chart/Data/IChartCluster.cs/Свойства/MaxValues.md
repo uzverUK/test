@@ -9,3 +9,7 @@
 ```csharp
 IChartClusterMaxValues MaxValues { get; }
 ```
+### Пример  
+```csharp
+// example
+```

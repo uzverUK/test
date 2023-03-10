@@ -9,6 +9,10 @@
 ```csharp
 public double[] MovingAverage(IndicatorMaType maType, double[] d, int period)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`maType`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  

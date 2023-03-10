@@ -9,3 +9,7 @@
 ```csharp
 public long MaxOpenPos { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

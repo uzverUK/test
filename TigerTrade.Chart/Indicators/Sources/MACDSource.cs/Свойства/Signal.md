@@ -9,3 +9,7 @@
 ```csharp
 public int Signal { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

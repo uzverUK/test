@@ -9,3 +9,7 @@
 ```csharp
 int Decimals { get; }
 ```
+### Пример  
+```csharp
+// example
+```

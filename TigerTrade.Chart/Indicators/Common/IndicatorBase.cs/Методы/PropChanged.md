@@ -9,6 +9,10 @@
 ```csharp
 public void PropChanged()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

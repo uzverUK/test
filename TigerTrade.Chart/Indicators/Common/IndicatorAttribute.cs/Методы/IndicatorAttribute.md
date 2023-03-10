@@ -9,6 +9,10 @@
 ```csharp
 public IndicatorAttribute(string id, string name, bool overlay)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`id`</mark> <mark style="color:red;">*`string`*</mark>  

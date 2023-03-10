@@ -9,3 +9,7 @@
 ```csharp
 long BidDepthT { get; }
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,6 +9,10 @@
 ```csharp
 protected override void CalcPoint()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

@@ -9,3 +9,7 @@
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
+### Пример  
+```csharp
+// example
+```

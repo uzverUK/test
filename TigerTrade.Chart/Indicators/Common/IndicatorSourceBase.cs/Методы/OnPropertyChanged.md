@@ -9,6 +9,10 @@
 ```csharp
 protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  

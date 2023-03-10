@@ -9,3 +9,7 @@
 ```csharp
 XColor ClusterCellBorderMaxColor { get; }
 ```
+### Пример  
+```csharp
+// example
+```

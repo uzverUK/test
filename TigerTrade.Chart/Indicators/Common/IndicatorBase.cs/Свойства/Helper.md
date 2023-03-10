@@ -9,3 +9,7 @@
 ```csharp
 protected IndicatorsHelper Helper { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

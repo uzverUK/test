@@ -9,6 +9,10 @@
 ```csharp
 public static void SetSources(List<Type> sources)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

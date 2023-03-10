@@ -9,3 +9,7 @@
 ```csharp
 XColor ClusterTradesColor { get; }
 ```
+### Пример  
+```csharp
+// example
+```

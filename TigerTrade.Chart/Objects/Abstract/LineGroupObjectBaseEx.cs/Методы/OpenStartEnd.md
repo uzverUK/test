@@ -9,6 +9,10 @@
 ```csharp
 protected void OpenStartEnd(bool openStart, bool openEnd)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`openStart`</mark> <mark style="color:red;">*`bool`*</mark>  

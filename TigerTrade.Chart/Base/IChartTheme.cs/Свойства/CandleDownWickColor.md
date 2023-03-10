@@ -9,3 +9,7 @@
 ```csharp
 XColor CandleDownWickColor { get; }
 ```
+### Пример  
+```csharp
+// example
+```

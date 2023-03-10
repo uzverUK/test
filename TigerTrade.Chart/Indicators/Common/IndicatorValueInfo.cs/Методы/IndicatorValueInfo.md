@@ -10,6 +10,10 @@
 public IndicatorValueInfo(string value, XBrush brush)
 public IndicatorValueInfo(string value, XColor color)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`string`*</mark>  

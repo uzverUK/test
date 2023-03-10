@@ -9,3 +9,7 @@
 ```csharp
 DateTime BidTime { get; }
 ```
+### Пример  
+```csharp
+// example
+```

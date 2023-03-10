@@ -9,6 +9,10 @@
 ```csharp
 public void Clear()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

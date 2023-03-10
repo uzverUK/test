@@ -9,6 +9,10 @@
 ```csharp
 public CircleObject()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

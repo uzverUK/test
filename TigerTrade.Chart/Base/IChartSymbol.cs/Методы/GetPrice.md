@@ -9,6 +9,10 @@
 ```csharp
 Decimal GetPrice(long rawPrice)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`rawPrice`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  

@@ -9,3 +9,7 @@
 ```csharp
 public int FontSize { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

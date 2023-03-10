@@ -9,3 +9,7 @@
 ```csharp
 public ChartAlertExecution Execution { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

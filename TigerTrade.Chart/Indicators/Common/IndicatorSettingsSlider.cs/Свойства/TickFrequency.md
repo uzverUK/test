@@ -9,3 +9,7 @@
 ```csharp
 public double TickFrequency { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

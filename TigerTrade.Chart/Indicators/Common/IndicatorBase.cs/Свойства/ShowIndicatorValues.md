@@ -9,3 +9,7 @@
 ```csharp
 public virtual bool ShowIndicatorValues { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

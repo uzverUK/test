@@ -9,3 +9,7 @@
 ```csharp
 public long Volume { get; }
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,3 +9,7 @@
 ```csharp
 double MinY { get; }
 ```
+### Пример  
+```csharp
+// example
+```

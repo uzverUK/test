@@ -9,3 +9,7 @@
 ```csharp
 long OfferDepthT { get; }
 ```
+### Пример  
+```csharp
+// example
+```

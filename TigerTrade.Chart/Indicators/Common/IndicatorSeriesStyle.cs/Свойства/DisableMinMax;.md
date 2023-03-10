@@ -9,3 +9,7 @@
 ```csharp
 public bool DisableMinMax; {}
 ```
+### Пример  
+```csharp
+// example
+```

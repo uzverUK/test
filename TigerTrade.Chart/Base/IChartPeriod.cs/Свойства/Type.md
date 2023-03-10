@@ -9,3 +9,7 @@
 ```csharp
 ChartPeriodType Type { get; }
 ```
+### Пример  
+```csharp
+// example
+```

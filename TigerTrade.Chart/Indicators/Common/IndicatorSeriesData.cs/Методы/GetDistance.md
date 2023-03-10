@@ -9,6 +9,10 @@
 ```csharp
 public double GetDistance(double x, double y)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  

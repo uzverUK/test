@@ -9,3 +9,7 @@
 ```csharp
 protected string SettingsShortKey { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

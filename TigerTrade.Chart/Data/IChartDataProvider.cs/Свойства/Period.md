@@ -9,3 +9,7 @@
 ```csharp
 IChartPeriod Period { get; }
 ```
+### Пример  
+```csharp
+// example
+```

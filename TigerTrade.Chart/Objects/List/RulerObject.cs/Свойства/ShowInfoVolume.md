@@ -9,3 +9,7 @@
 ```csharp
 public bool ShowInfoVolume { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

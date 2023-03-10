@@ -9,6 +9,10 @@
 ```csharp
 public double[] TypicalPrice()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

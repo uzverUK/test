@@ -9,3 +9,7 @@
 ```csharp
 public bool InSetup; {}
 ```
+### Пример  
+```csharp
+// example
+```

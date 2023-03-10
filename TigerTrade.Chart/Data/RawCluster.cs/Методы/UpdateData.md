@@ -9,6 +9,10 @@
 ```csharp
 public void UpdateData()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

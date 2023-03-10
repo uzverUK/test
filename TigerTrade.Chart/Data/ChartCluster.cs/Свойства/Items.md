@@ -9,3 +9,7 @@
 ```csharp
 public List<IChartClusterItem> Items { get; }
 ```
+### Пример  
+```csharp
+// example
+```

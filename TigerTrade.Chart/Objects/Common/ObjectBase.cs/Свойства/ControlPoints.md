@@ -9,3 +9,7 @@
 ```csharp
 public ObjectPoint[] ControlPoints { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

@@ -10,6 +10,10 @@
 public ObjectLabelInfo(double value, XColor color, double? position = null)
 public ObjectLabelInfo(double value, double y1, double y2, XColor color)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`double`*</mark>  

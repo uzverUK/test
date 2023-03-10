@@ -9,3 +9,7 @@
 ```csharp
 public ElliottWaveDegree Degree { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

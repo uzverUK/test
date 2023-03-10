@@ -9,6 +9,10 @@
 ```csharp
 public double[] VolumeOscillator(IndicatorMaType type, int shortN, int longN)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  

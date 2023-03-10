@@ -9,6 +9,10 @@
 ```csharp
 public IndicatorSeriesStyle()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

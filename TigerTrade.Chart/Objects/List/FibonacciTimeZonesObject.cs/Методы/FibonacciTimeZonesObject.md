@@ -9,6 +9,10 @@
 ```csharp
 public FibonacciTimeZonesObject()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

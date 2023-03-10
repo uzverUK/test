@@ -9,3 +9,7 @@
 ```csharp
 public double[] Low { get; }
 ```
+### Пример  
+```csharp
+// example
+```

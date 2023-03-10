@@ -9,3 +9,7 @@
 ```csharp
 public Rect Rectangle; {}
 ```
+### Пример  
+```csharp
+// example
+```

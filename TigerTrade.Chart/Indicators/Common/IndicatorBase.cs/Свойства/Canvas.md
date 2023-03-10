@@ -9,3 +9,7 @@
 ```csharp
 public IChartCanvas Canvas { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

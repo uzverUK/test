@@ -9,3 +9,7 @@
 ```csharp
 long LastSize { get; }
 ```
+### Пример  
+```csharp
+// example
+```

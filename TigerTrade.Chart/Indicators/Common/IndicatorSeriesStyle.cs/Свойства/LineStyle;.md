@@ -9,3 +9,7 @@
 ```csharp
 public XDashStyle LineStyle; {}
 ```
+### Пример  
+```csharp
+// example
+```

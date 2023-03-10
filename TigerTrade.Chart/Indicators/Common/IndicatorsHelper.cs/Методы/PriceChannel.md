@@ -9,6 +9,10 @@
 ```csharp
 public void PriceChannel(int n, out double[] avg, out double[] upper, out double[] lower)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  

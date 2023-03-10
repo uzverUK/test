@@ -9,3 +9,7 @@
 ```csharp
 public ChartSeriesDotStyle DotType; {}
 ```
+### Пример  
+```csharp
+// example
+```

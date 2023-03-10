@@ -9,6 +9,10 @@
 ```csharp
 protected override void Prepare()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

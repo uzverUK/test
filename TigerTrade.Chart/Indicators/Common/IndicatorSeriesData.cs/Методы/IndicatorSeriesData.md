@@ -12,6 +12,10 @@ public IndicatorSeriesData(double[] data, ChartSeries style, string name = "")
 public IndicatorSeriesData(double[] data, ChartRegion style)
 public IndicatorSeriesData(double[] data, ChartLine style)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  

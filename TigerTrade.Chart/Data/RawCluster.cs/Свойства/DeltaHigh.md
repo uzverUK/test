@@ -9,3 +9,7 @@
 ```csharp
 public long DeltaHigh { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

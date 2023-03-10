@@ -9,6 +9,10 @@
 ```csharp
 public void Copy(IndicatorParam<T> p)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

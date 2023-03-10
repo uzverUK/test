@@ -9,6 +9,10 @@
 ```csharp
 IChartCluster GetCluster(int i)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  

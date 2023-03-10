@@ -9,3 +9,7 @@
 ```csharp
 long OpenPosBidChg { get; }
 ```
+### Пример  
+```csharp
+// example
+```

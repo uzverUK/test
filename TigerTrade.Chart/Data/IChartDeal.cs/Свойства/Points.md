@@ -9,3 +9,7 @@
 ```csharp
 double Points { get; }
 ```
+### Пример  
+```csharp
+// example
+```

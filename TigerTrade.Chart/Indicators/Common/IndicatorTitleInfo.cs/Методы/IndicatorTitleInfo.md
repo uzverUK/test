@@ -10,6 +10,10 @@
 public IndicatorTitleInfo(string title, XBrush brush)
 public IndicatorTitleInfo(string title, XColor color)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`title`</mark> <mark style="color:red;">*`string`*</mark>  

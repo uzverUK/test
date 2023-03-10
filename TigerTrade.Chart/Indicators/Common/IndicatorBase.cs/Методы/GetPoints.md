@@ -9,6 +9,10 @@
 ```csharp
 protected Point[] GetPoints(IndicatorSeriesData seriesData, string name = null)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`seriesData`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
  *Описание*  

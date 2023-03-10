@@ -9,3 +9,7 @@
 ```csharp
 public bool DownLine { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

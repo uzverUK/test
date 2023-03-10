@@ -9,6 +9,10 @@
 ```csharp
 protected virtual int GetMinDist(int x, int y)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  

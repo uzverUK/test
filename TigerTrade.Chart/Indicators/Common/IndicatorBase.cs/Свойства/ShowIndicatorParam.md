@@ -9,3 +9,7 @@
 ```csharp
 public bool? ShowIndicatorParam { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

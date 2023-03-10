@@ -9,3 +9,7 @@
 ```csharp
 public ChartSeriesColorSplit ColorSplit; {}
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,6 +9,10 @@
 ```csharp
 protected LineObjectBase()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

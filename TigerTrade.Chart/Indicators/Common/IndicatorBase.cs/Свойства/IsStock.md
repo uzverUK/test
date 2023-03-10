@@ -9,3 +9,7 @@
 ```csharp
 public virtual bool IsStock { get; }
 ```
+### Пример  
+```csharp
+// example
+```

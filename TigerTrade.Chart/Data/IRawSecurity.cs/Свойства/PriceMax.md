@@ -9,3 +9,7 @@
 ```csharp
 double PriceMax { get; }
 ```
+### Пример  
+```csharp
+// example
+```

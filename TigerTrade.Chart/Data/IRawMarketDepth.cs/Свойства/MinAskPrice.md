@@ -9,3 +9,7 @@
 ```csharp
 long MinAskPrice { get; }
 ```
+### Пример  
+```csharp
+// example
+```

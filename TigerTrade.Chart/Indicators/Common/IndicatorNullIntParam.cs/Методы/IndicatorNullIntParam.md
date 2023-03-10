@@ -10,6 +10,10 @@
 public IndicatorNullIntParam()
 public IndicatorNullIntParam(int? value)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

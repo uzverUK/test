@@ -9,6 +9,10 @@
 ```csharp
 public double[] BullsPower(int n)
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

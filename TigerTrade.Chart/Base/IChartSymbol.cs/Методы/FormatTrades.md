@@ -10,6 +10,10 @@
 string FormatTrades(long trades)
 string FormatTrades(long trades, int round, bool minimize)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`trades`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  

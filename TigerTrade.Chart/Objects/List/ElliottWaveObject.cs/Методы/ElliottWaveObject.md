@@ -9,6 +9,10 @@
 ```csharp
 protected ElliottWaveObject()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

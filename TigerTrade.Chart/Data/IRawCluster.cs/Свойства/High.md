@@ -9,3 +9,7 @@
 ```csharp
 long High { get; }
 ```
+### Пример  
+```csharp
+// example
+```

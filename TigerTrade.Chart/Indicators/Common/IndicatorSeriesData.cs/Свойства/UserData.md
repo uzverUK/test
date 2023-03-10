@@ -9,3 +9,7 @@
 ```csharp
 public Hashtable UserData { get; }
 ```
+### Пример  
+```csharp
+// example
+```

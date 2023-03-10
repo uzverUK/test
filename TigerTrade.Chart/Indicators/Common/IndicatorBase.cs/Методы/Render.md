@@ -9,6 +9,10 @@
 ```csharp
 public virtual void Render(DxVisualQueue visual)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  

@@ -9,6 +9,10 @@
 ```csharp
 public TimeRangeObject()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

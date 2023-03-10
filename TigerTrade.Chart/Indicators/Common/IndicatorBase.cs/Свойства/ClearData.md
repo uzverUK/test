@@ -9,3 +9,7 @@
 ```csharp
 protected bool ClearData { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

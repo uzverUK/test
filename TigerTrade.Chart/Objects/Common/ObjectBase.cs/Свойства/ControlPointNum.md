@@ -9,3 +9,7 @@
 ```csharp
 public int ControlPointNum { get; }
 ```
+### Пример  
+```csharp
+// example
+```

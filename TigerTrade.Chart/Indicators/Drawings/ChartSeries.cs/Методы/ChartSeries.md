@@ -11,6 +11,10 @@ public ChartSeries()
 public ChartSeries(ChartSeriesType type, XColor color)
 public ChartSeries(ChartSeriesType type, XColor color, XDashStyle style)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`ChartSeriesType`*</mark>  

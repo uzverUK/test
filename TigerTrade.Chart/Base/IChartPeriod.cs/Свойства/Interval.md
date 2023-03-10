@@ -9,3 +9,7 @@
 ```csharp
 int Interval { get; }
 ```
+### Пример  
+```csharp
+// example
+```

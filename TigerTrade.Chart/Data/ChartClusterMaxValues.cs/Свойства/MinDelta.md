@@ -9,3 +9,7 @@
 ```csharp
 public Decimal MinDelta { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

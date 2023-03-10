@@ -9,6 +9,10 @@
 ```csharp
 protected override void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  

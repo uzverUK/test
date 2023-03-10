@@ -9,6 +9,10 @@
 ```csharp
 public IndicatorSourceBase CloneSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

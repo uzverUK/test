@@ -9,3 +9,7 @@
 ```csharp
 public ObjectPoint? RefPoint { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

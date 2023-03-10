@@ -9,6 +9,10 @@
 ```csharp
 XColor GetNextColor()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

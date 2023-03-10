@@ -9,3 +9,7 @@
 ```csharp
 public double LargeChange { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

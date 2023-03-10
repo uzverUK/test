@@ -9,3 +9,7 @@
 ```csharp
 Decimal MaxBid { get; }
 ```
+### Пример  
+```csharp
+// example
+```

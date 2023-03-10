@@ -9,6 +9,10 @@
 ```csharp
 public void AddPoint(ObjectPoint op)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  

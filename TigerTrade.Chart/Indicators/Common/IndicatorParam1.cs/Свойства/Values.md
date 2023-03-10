@@ -9,3 +9,7 @@
 ```csharp
 public Dictionary<string, T> Values { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

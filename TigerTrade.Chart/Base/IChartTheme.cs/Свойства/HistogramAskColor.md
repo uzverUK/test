@@ -9,3 +9,7 @@
 ```csharp
 XColor HistogramAskColor { get; }
 ```
+### Пример  
+```csharp
+// example
+```

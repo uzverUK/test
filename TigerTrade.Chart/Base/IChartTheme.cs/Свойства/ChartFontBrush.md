@@ -9,3 +9,7 @@
 ```csharp
 XBrush ChartFontBrush { get; }
 ```
+### Пример  
+```csharp
+// example
+```

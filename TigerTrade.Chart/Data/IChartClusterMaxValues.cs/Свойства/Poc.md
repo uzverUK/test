@@ -9,3 +9,7 @@
 ```csharp
 Decimal Poc { get; }
 ```
+### Пример  
+```csharp
+// example
+```

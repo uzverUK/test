@@ -9,3 +9,7 @@
 ```csharp
 public Decimal Volume { get; }
 ```
+### Пример  
+```csharp
+// example
+```

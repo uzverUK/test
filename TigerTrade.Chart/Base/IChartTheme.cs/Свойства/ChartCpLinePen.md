@@ -9,3 +9,7 @@
 ```csharp
 XPen ChartCpLinePen { get; }
 ```
+### Пример  
+```csharp
+// example
+```

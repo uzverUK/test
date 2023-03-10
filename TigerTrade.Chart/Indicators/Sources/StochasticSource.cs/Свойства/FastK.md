@@ -9,3 +9,7 @@
 ```csharp
 public int FastK { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

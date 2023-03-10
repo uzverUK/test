@@ -9,3 +9,7 @@
 ```csharp
 protected IChartTheme Theme { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

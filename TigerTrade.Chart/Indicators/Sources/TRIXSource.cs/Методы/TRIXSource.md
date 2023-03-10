@@ -9,6 +9,10 @@
 ```csharp
 public TRIXSource()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

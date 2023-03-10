@@ -9,6 +9,10 @@
 ```csharp
 public override string ToString()
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`object`</mark> <mark style="color:red;">*`new`*</mark>  

@@ -9,3 +9,7 @@
 ```csharp
 public int Factor { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

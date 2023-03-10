@@ -9,6 +9,10 @@
 ```csharp
 public double[] Variance(double[] d, int period, double dev)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  

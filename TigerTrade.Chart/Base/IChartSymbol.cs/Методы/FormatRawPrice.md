@@ -9,6 +9,10 @@
 ```csharp
 string FormatRawPrice(long price, bool shortDecimals = false)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  

@@ -9,3 +9,7 @@
 ```csharp
 public XPen LinePen { get; private set; }
 ```
+### Пример  
+```csharp
+// example
+```

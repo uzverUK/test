@@ -9,3 +9,7 @@
 ```csharp
 double MarginBuy { get; }
 ```
+### Пример  
+```csharp
+// example
+```

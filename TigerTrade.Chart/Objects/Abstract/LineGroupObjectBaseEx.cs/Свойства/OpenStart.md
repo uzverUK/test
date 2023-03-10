@@ -9,3 +9,7 @@
 ```csharp
 public bool OpenStart { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

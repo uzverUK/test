@@ -9,6 +9,10 @@
 ```csharp
 public ChartAlertSettings()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

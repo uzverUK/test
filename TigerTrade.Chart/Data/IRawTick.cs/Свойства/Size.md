@@ -9,3 +9,7 @@
 ```csharp
 long Size { get; }
 ```
+### Пример  
+```csharp
+// example
+```

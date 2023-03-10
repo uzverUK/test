@@ -9,3 +9,7 @@
 ```csharp
 public ChartSeriesType RenderType; {}
 ```
+### Пример  
+```csharp
+// example
+```

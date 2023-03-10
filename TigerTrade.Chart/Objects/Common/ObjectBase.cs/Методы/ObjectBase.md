@@ -9,6 +9,10 @@
 ```csharp
 protected ObjectBase()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

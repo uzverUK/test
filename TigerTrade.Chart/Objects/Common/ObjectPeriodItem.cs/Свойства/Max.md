@@ -9,3 +9,7 @@
 ```csharp
 public int Max { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

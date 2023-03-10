@@ -10,6 +10,10 @@
 public double MinValue()
 public double MinValue(int start, int count)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`start`</mark> <mark style="color:red;">*`int`*</mark>  

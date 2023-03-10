@@ -9,3 +9,7 @@
 ```csharp
 public virtual bool IntegerValues { get; }
 ```
+### Пример  
+```csharp
+// example
+```

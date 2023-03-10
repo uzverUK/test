@@ -9,6 +9,10 @@
 ```csharp
 public virtual void DragObject(double dx, double dy)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`dx`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  

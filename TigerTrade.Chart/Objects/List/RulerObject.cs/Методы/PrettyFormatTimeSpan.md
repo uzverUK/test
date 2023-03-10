@@ -9,6 +9,10 @@
 ```csharp
 public string PrettyFormatTimeSpan(TimeSpan span)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`span`</mark> <mark style="color:red;">*`TimeSpan`*</mark>  
  *Описание*  

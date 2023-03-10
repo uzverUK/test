@@ -10,6 +10,10 @@
 string FormatSize(Decimal size, int round = 2)
 string FormatSize(Decimal size, int round, bool minimize)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`size`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  

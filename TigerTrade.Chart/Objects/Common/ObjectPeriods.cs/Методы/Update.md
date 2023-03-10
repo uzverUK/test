@@ -9,6 +9,10 @@
 ```csharp
 public void Update(string type, bool isChecked, bool checkRange, int min, int max)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`string`*</mark>  

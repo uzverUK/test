@@ -9,6 +9,10 @@
 ```csharp
 public IndicatorSourceAttribute(string name)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  

@@ -9,6 +9,10 @@
 ```csharp
 protected virtual bool IsObjectInArea()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

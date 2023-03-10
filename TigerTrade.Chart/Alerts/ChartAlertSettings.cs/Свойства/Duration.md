@@ -9,3 +9,7 @@
 ```csharp
 public ChartAlertPlayDuration Duration { get; set; }
 ```
+### Пример  
+```csharp
+// example
+```

@@ -9,6 +9,10 @@
 ```csharp
 protected bool Set(string key, T value)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  

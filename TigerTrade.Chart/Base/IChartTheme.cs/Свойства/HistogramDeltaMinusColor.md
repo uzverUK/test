@@ -9,3 +9,7 @@
 ```csharp
 XColor HistogramDeltaMinusColor { get; }
 ```
+### Пример  
+```csharp
+// example
+```

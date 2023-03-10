@@ -9,6 +9,10 @@
 ```csharp
 public ChartCluster(DateTime time, Decimal step)
 ```
+### Пример  
+```csharp
+// example
+```
 
 <mark style="color:yellow;">`time`</mark> <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  

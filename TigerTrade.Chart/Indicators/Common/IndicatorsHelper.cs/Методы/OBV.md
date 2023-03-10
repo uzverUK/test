@@ -9,6 +9,10 @@
 ```csharp
 public double[] OBV()
 ```
+### Пример  
+```csharp
+// example
+```
 
 
                     

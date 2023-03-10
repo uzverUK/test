@@ -9,3 +9,7 @@
 ```csharp
 XColor ClusterUpBarColor { get; }
 ```
+### Пример  
+```csharp
+// example
+```

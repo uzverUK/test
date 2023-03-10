@@ -10,6 +10,10 @@
 int DateToIndex(DateTime dt, int dir)
 int DateToIndex(double dt, int dir)
 ```
+### Пример  
+```csharp
+// example
+```
 
 ### Параметры  
 <mark style="color:yellow;">`dt`</mark> <mark style="color:red;">*`DateTime`*</mark>  
