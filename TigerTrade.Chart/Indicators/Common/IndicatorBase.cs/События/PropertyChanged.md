@@ -9,3 +9,7 @@
 ```csharp
 public event PropertyChangedEventHandler PropertyChanged
 ```
+### Пример  
+```csharp
+// example
+```
