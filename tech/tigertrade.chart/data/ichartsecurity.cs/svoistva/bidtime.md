@@ -1,0 +1,18 @@
+# BidTime
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [IChartSecurity](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+DateTime BidTime { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

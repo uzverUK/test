@@ -1,0 +1,18 @@
+# Indicator
+
+`namespace` [TigerTrade.Tc](../../../../).[Config](../../../).[UI](../../)\
+`class` [ConnectionIndicators](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public int Indicator { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

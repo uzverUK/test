@@ -1,0 +1,18 @@
+# SnapGrid
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Objects](../../../).[Common](../../)\
+`class` [ObjectBase](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public virtual bool SnapGrid { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

@@ -1,0 +1,18 @@
+# Quantity
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [IChartDeal](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+double Quantity { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

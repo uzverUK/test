@@ -1,0 +1,18 @@
+# ControlPointsChanged
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Objects](../../../).[Common](../../)\
+`class` [ObjectBase](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public virtual void ControlPointsChanged()
+```
+
+### Пример
+
+```csharp
+// example
+```

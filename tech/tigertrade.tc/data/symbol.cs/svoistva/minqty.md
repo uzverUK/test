@@ -1,0 +1,18 @@
+# MinQty
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [Symbol](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public double MinQty { get; internal set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

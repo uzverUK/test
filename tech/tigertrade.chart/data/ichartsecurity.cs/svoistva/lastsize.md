@@ -1,0 +1,18 @@
+# LastSize
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [IChartSecurity](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+Decimal LastSize { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

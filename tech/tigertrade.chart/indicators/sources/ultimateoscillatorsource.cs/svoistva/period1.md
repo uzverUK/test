@@ -1,0 +1,18 @@
+# Period1
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Indicators](../../../).[Sources](../../)\
+`class` [UltimateOscillatorSource](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public int Period1 { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

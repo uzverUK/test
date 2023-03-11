@@ -1,0 +1,18 @@
+# Side
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [Execution](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public Side Side { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

@@ -1,0 +1,18 @@
+# CloseTime
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [UserDeal](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public DateTime CloseTime { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

@@ -1,0 +1,18 @@
+# PolygonObjectBase
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Objects](../../../).[Abstract](../../)\
+`class` [PolygonObjectBase](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+protected PolygonObjectBase()
+```
+
+### Пример
+
+```csharp
+// example
+```

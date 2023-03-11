@@ -1,0 +1,18 @@
+# Poc
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [ChartClusterMaxValues](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public Decimal Poc { get; private set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

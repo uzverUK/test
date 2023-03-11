@@ -1,0 +1,18 @@
+# LotSize
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [Symbol](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public int LotSize { get; internal set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

@@ -1,0 +1,18 @@
+# DeltaHigh
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [ChartCluster](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public Decimal DeltaHigh { get; private set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

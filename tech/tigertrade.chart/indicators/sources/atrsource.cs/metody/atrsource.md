@@ -1,0 +1,18 @@
+# ATRSource
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Indicators](../../../).[Sources](../../)\
+`class` [ATRSource](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public ATRSource()
+```
+
+### Пример
+
+```csharp
+// example
+```

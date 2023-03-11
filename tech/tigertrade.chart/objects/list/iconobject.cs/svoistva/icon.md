@@ -1,0 +1,18 @@
+# Icon
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Objects](../../../).[List](../../)\
+`class` [IconObject](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public string Icon { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

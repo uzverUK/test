@@ -1,0 +1,18 @@
+# LabelText
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Objects](../../../).[List](../../)\
+`class` [LabelObject](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public string LabelText { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

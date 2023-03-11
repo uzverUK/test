@@ -1,0 +1,18 @@
+# SendEmail
+
+`namespace` [TigerTrade.Chart](../../../../../).[Alerts](../../)\
+`class` [ChartAlertInfo](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public bool SendEmail { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

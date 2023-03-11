@@ -1,0 +1,18 @@
+# ControlPointsList
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Objects](../../../).[Common](../../)\
+`class` [ObjectBase](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public ObjectPointInfo[] ControlPointsList { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

@@ -1,0 +1,18 @@
+# Name
+
+`namespace` [TigerTrade.Tc](../../../../../../).[Connectors](../../../../../).[Crypto](../../../../).[Bitmex](../../../).[Client](../../)\
+`class` [Error](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public string Name { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

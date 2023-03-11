@@ -1,0 +1,18 @@
+# StdDev
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Indicators](../../../).[Sources](../../)\
+`class` [BollingerBandsSource](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public Decimal StdDev { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

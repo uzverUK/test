@@ -1,0 +1,18 @@
+# PlaceInitiator
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [Order](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public string PlaceInitiator { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

@@ -1,0 +1,18 @@
+# Exchange
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [Symbol](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public string Exchange { get; internal set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

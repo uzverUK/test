@@ -1,0 +1,18 @@
+# HistogramValueAreaColor
+
+`namespace` [TigerTrade.Chart](../../../../../).[Base](../../)\
+`class` [IChartTheme](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+XColor HistogramValueAreaColor { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

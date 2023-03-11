@@ -1,0 +1,18 @@
+# OpenPosChg
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [IChartCluster](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+long OpenPosChg { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

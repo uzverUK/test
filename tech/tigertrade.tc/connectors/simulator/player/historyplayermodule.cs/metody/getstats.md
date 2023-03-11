@@ -1,0 +1,18 @@
+# GetStats
+
+`namespace` [TigerTrade.Tc](../../../../../).[Connectors](../../../../).[Simulator](../../../).[Player](../../)\
+`class` [HistoryPlayerModule](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public static List<HistoryPlayerStats> GetStats()
+```
+
+### Пример
+
+```csharp
+// example
+```

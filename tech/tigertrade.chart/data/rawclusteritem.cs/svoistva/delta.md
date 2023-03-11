@@ -1,0 +1,18 @@
+# Delta
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [RawClusterItem](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public long Delta { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

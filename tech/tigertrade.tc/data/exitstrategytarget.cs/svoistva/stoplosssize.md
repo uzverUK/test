@@ -1,0 +1,18 @@
+# StopLossSize
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [ExitStrategyTarget](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public long? StopLossSize { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

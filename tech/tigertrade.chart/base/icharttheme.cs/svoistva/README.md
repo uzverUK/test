@@ -1,0 +1,62 @@
+# Свойства
+
+`namespace` [TigerTrade.Chart](../../../../../).[Base](../../)\
+`class` [IChartTheme](../)
+
+| Название                                                    | Описание   |
+| ----------------------------------------------------------- | ---------- |
+| [`BarDownBarColor`](bardownbarcolor.md)                     | _Описание_ |
+| [`BarUpBarColor`](barupbarcolor.md)                         | _Описание_ |
+| [`CandleDownBackColor`](candledownbackcolor.md)             | _Описание_ |
+| [`CandleDownBorderColor`](candledownbordercolor.md)         | _Описание_ |
+| [`CandleDownWickColor`](candledownwickcolor.md)             | _Описание_ |
+| [`CandleUpBackColor`](candleupbackcolor.md)                 | _Описание_ |
+| [`CandleUpBorderColor`](candleupbordercolor.md)             | _Описание_ |
+| [`CandleUpWickColor`](candleupwickcolor.md)                 | _Описание_ |
+| [`ChartAxisColor`](chartaxiscolor.md)                       | _Описание_ |
+| [`ChartBackBrush`](chartbackbrush.md)                       | _Описание_ |
+| [`ChartBackColor`](chartbackcolor.md)                       | _Описание_ |
+| [`ChartCpFillBrush`](chartcpfillbrush.md)                   | _Описание_ |
+| [`ChartCpFillColor`](chartcpfillcolor.md)                   | _Описание_ |
+| [`ChartCpLineColor`](chartcplinecolor.md)                   | _Описание_ |
+| [`ChartCpLinePen`](chartcplinepen.md)                       | _Описание_ |
+| [`ChartFontBrush`](chartfontbrush.md)                       | _Описание_ |
+| [`ChartFontColor`](chartfontcolor.md)                       | _Описание_ |
+| [`ChartGridColor`](chartgridcolor.md)                       | _Описание_ |
+| [`ChartObjectFillColor`](chartobjectfillcolor.md)           | _Описание_ |
+| [`ChartObjectLineColor`](chartobjectlinecolor.md)           | _Описание_ |
+| [`ClusterAskColor`](clusteraskcolor.md)                     | _Описание_ |
+| [`ClusterBidColor`](clusterbidcolor.md)                     | _Описание_ |
+| [`ClusterBorderColor`](clusterbordercolor.md)               | _Описание_ |
+| [`ClusterCellBorderColor`](clustercellbordercolor.md)       | _Описание_ |
+| [`ClusterCellBorderMaxColor`](clustercellbordermaxcolor.md) | _Описание_ |
+| [`ClusterDeltaMinusColor`](clusterdeltaminuscolor.md)       | _Описание_ |
+| [`ClusterDeltaPlusColor`](clusterdeltapluscolor.md)         | _Описание_ |
+| [`ClusterDownBarColor`](clusterdownbarcolor.md)             | _Описание_ |
+| [`ClusterNeutralBidAskColor`](clusterneutralbidaskcolor.md) | _Описание_ |
+| [`ClusterOpenIntMinusColor`](clusteropenintminuscolor.md)   | _Описание_ |
+| [`ClusterOpenIntPlusColor`](clusteropenintpluscolor.md)     | _Описание_ |
+| [`ClusterStrongAskColor`](clusterstrongaskcolor.md)         | _Описание_ |
+| [`ClusterStrongBidColor`](clusterstrongbidcolor.md)         | _Описание_ |
+| [`ClusterTextColor`](clustertextcolor.md)                   | _Описание_ |
+| [`ClusterTradesColor`](clustertradescolor.md)               | _Описание_ |
+| [`ClusterUpBarColor`](clusterupbarcolor.md)                 | _Описание_ |
+| [`ClusterValueAreaColor`](clustervalueareacolor.md)         | _Описание_ |
+| [`ClusterVolumeColor`](clustervolumecolor.md)               | _Описание_ |
+| [`HistogramAskColor`](histogramaskcolor.md)                 | _Описание_ |
+| [`HistogramBidColor`](histogrambidcolor.md)                 | _Описание_ |
+| [`HistogramCellBorderColor`](histogramcellbordercolor.md)   | _Описание_ |
+| [`HistogramDeltaMinusColor`](histogramdeltaminuscolor.md)   | _Описание_ |
+| [`HistogramDeltaPlusColor`](histogramdeltapluscolor.md)     | _Описание_ |
+| [`HistogramMaximumColor`](histogrammaximumcolor.md)         | _Описание_ |
+| [`HistogramTextColor`](histogramtextcolor.md)               | _Описание_ |
+| [`HistogramTradesColor`](histogramtradescolor.md)           | _Описание_ |
+| [`HistogramValueAreaColor`](histogramvalueareacolor.md)     | _Описание_ |
+| [`HistogramVolumeColor`](histogramvolumecolor.md)           | _Описание_ |
+| [`PaletteColor1`](palettecolor1.md)                         | _Описание_ |
+| [`PaletteColor2`](palettecolor2.md)                         | _Описание_ |
+| [`PaletteColor3`](palettecolor3.md)                         | _Описание_ |
+| [`PaletteColor4`](palettecolor4.md)                         | _Описание_ |
+| [`PaletteColor5`](palettecolor5.md)                         | _Описание_ |
+| [`PaletteColor6`](palettecolor6.md)                         | _Описание_ |
+| [`PaletteColor7`](palettecolor7.md)                         | _Описание_ |

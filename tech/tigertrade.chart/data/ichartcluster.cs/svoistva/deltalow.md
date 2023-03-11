@@ -1,0 +1,18 @@
+# DeltaLow
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [IChartCluster](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+Decimal DeltaLow { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

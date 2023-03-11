@@ -1,0 +1,18 @@
+# BidTrades
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [ChartCluster](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public int BidTrades { get; private set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

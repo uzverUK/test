@@ -1,0 +1,18 @@
+# BestAskSize
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [MarketDepth](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public long BestAskSize { get; internal set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

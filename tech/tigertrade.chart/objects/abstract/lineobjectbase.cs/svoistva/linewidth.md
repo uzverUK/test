@@ -1,0 +1,18 @@
+# LineWidth
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Objects](../../../).[Abstract](../../)\
+`class` [LineObjectBase](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public int LineWidth { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

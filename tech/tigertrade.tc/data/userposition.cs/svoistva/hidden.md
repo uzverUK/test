@@ -1,0 +1,18 @@
+# Hidden
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [UserPosition](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public bool Hidden { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

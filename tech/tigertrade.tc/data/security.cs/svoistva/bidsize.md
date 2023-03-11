@@ -1,0 +1,18 @@
+# BidSize
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [Security](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public long BidSize { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

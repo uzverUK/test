@@ -1,0 +1,18 @@
+# Slow
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Indicators](../../../).[Sources](../../)\
+`class` [MACDSource](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public int Slow { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

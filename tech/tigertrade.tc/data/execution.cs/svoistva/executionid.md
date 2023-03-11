@@ -1,0 +1,18 @@
+# ExecutionID
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [Execution](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public string ExecutionID { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

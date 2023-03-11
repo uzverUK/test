@@ -1,0 +1,18 @@
+# StepHeight
+
+`namespace` [TigerTrade.Chart](../../../../../).[Base](../../)\
+`class` [IChartCanvas](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+double StepHeight { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

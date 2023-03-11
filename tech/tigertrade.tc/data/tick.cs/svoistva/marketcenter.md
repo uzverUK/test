@@ -1,0 +1,18 @@
+# MarketCenter
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [Tick](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public long MarketCenter { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

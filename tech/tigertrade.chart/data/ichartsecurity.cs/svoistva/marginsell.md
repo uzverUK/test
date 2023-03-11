@@ -1,0 +1,18 @@
+# MarginSell
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [IChartSecurity](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+Decimal MarginSell { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

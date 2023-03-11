@@ -1,0 +1,18 @@
+# TakePrice
+
+`namespace` [TigerTrade.Tc](../../../).[Data](../../)\
+`class` [Order](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public long TakePrice { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

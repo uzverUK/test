@@ -1,0 +1,18 @@
+# Message
+
+`namespace` [TigerTrade.Chart](../../../../../).[Alerts](../../)\
+`class` [ChartAlertInfo](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public string Message { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

@@ -1,0 +1,18 @@
+# Volume
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [IChartClusterItem](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+Decimal Volume { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

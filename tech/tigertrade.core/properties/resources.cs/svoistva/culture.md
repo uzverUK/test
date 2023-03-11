@@ -1,0 +1,18 @@
+# Culture
+
+`namespace` [TigerTrade.Core](../../../).[Properties](../../)\
+`class` [Resources](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public static CultureInfo Culture { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

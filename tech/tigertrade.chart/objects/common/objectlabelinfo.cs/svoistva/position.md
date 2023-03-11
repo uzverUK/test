@@ -1,0 +1,18 @@
+# Position
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Objects](../../../).[Common](../../)\
+`class` [ObjectLabelInfo](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public double? Position { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

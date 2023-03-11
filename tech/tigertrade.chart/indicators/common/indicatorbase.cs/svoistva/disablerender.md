@@ -1,0 +1,18 @@
+# DisableRender
+
+`namespace` [TigerTrade.Chart](../../../../../../).[Indicators](../../../).[Common](../../)\
+`class` [IndicatorBase](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public bool DisableRender { get; protected set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

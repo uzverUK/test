@@ -1,0 +1,18 @@
+# Message
+
+`namespace` [TigerTrade.Tc](../../../../../../).[Connectors](../../../../../).[Crypto](../../../../).[Bitmex](../../../).[Client](../../)\
+`class` [Error](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public string Message { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```

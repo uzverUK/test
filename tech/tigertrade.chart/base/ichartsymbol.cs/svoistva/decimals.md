@@ -1,0 +1,18 @@
+# Decimals
+
+`namespace` [TigerTrade.Chart](../../../../../).[Base](../../)\
+`class` [IChartSymbol](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+int Decimals { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

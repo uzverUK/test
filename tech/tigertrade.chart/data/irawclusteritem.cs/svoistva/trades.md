@@ -1,0 +1,18 @@
+# Trades
+
+`namespace` [TigerTrade.Chart](../../../../../).[Data](../../)\
+`class` [IRawClusterItem](../)
+
+Описание
+
+### Синтаксис
+
+```csharp
+int Trades { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```
