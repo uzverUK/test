@@ -1,7 +1,7 @@
 
 # IContainsSelection.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IContainsSelection](../../IContainsSelection.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IContainsSelection](../../IContainsSelection.cs.md)
 
 Описание
 
@@ -10,13 +10,13 @@
 XBrush GetSelection(int index, long price, int type)
 ```
 ### Параметры  
-<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`index` *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+<mark style="color:yellow;">`price` *`long`*  
  *Описание*  
   
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`type` *`int`*  
  *Описание*  
   
 

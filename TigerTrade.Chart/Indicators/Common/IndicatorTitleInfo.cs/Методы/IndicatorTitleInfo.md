@@ -1,7 +1,7 @@
 
 # IndicatorTitleInfo.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorTitleInfo](../../IndicatorTitleInfo.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorTitleInfo](../../IndicatorTitleInfo.cs.md)
 
 Описание
 
@@ -11,13 +11,13 @@ public IndicatorTitleInfo(string title, XBrush brush)
 public IndicatorTitleInfo(string title, XColor color)
 ```
 ### Параметры  
-<mark style="color:yellow;">`title`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:yellow;">`title` *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`brush`</mark> <mark style="color:red;">*`XBrush`*</mark>  
+<mark style="color:yellow;">`brush` *`XBrush`*  
  *Описание*  
   
-<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+<mark style="color:yellow;">`color` *`XColor`*  
  *Описание*  
   
 

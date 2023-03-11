@@ -1,7 +1,7 @@
 
 # ObjectPeriods.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Common](../../../../../TigerTrade.Chart/Objects/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [ObjectPeriods](../../ObjectPeriods.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Common](../../../../../TigerTrade.Chart/Objects/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ObjectPeriods](../../ObjectPeriods.cs.md)
 
 Описание
 
@@ -10,7 +10,7 @@
 public bool CheckPeriod(IChartPeriod dc)
 ```
 ### Параметры  
-<mark style="color:yellow;">`dc`</mark> <mark style="color:red;">*`IChartPeriod`*</mark>  
+<mark style="color:yellow;">`dc` *`IChartPeriod`*  
  *Описание*  
   
 

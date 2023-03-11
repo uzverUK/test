@@ -1,7 +1,7 @@
 
 # IndicatorBase.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorBase](../../IndicatorBase.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorBase](../../IndicatorBase.cs.md)
 
 Описание
 
@@ -9,10 +9,10 @@
 ```csharp
 protected Point[] GetPoints(IndicatorSeriesData seriesData, string name = null)
 ```
-<mark style="color:yellow;">`seriesData`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:yellow;">`seriesData` *`IndicatorSeriesData`*  
  *Описание*  
   
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:yellow;">`name` *`string`*  
  *Описание*  
   
 

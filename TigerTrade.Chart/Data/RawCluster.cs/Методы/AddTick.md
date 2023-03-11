@@ -1,7 +1,7 @@
 
 # RawCluster.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [RawCluster](../../RawCluster.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [RawCluster](../../RawCluster.cs.md)
 
 Описание
 
@@ -9,10 +9,10 @@
 ```csharp
 public void AddTick(IRawTick tick, int scale)
 ```
-<mark style="color:yellow;">`tick`</mark> <mark style="color:red;">*`IRawTick`*</mark>  
+<mark style="color:yellow;">`tick` *`IRawTick`*  
  *Описание*  
   
-<mark style="color:yellow;">`scale`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`scale` *`int`*  
  *Описание*  
   
 

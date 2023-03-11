@@ -1,7 +1,7 @@
 
 # ChartCluster.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [ChartCluster](../../ChartCluster.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartCluster](../../ChartCluster.cs.md)
 
 Описание
 
@@ -10,7 +10,7 @@
 public void AddCluster(IChartCluster cluster)
 ```
 ### Параметры  
-<mark style="color:yellow;">`cluster`</mark> <mark style="color:red;">*`IChartCluster`*</mark>  
+<mark style="color:yellow;">`cluster` *`IChartCluster`*  
  *Описание*  
   
 

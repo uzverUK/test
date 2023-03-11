@@ -1,7 +1,7 @@
 
 # ChartCluster.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [ChartCluster](../../ChartCluster.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartCluster](../../ChartCluster.cs.md)
 
 Описание
 
@@ -9,10 +9,10 @@
 ```csharp
 public ChartCluster(DateTime time, Decimal step)
 ```
-<mark style="color:yellow;">`time`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+<mark style="color:yellow;">`time` *`DateTime`*  
  *Описание*  
   
-<mark style="color:yellow;">`step`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+<mark style="color:yellow;">`step` *`Decimal`*  
  *Описание*  
   
 

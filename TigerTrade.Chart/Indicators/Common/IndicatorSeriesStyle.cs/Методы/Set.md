@@ -1,7 +1,7 @@
 
 # IndicatorSeriesStyle.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorSeriesStyle](../../IndicatorSeriesStyle.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorSeriesStyle](../../IndicatorSeriesStyle.cs.md)
 
 Описание
 
@@ -12,16 +12,16 @@ public void Set(ChartRegion region)
 public void Set(ChartLine line)
 ```
 ### Параметры  
-<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+<mark style="color:yellow;">`series` *`ChartSeries`*  
  *Описание*  
   
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:yellow;">`name` *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`region`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
+<mark style="color:yellow;">`region` *`ChartRegion`*  
  *Описание*  
   
-<mark style="color:yellow;">`line`</mark> <mark style="color:red;">*`ChartLine`*</mark>  
+<mark style="color:yellow;">`line` *`ChartLine`*  
  *Описание*  
   
 

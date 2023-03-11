@@ -1,7 +1,7 @@
 
 # ObjectBase.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Common](../../../../../TigerTrade.Chart/Objects/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [ObjectBase](../../ObjectBase.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Common](../../../../../TigerTrade.Chart/Objects/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ObjectBase](../../ObjectBase.cs.md)
 
 Описание
 
@@ -10,10 +10,10 @@
 public virtual void CopyTemplate(ObjectBase objectBase, bool style)
 ```
 ### Параметры  
-<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+<mark style="color:yellow;">`objectBase` *`ObjectBase`*  
  *Описание*  
   
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:yellow;">`style` *`bool`*  
  *Описание*  
   
 

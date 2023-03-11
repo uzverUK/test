@@ -1,7 +1,7 @@
 
 # ChartRegion.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../TigerTrade.Chart/Indicators/Drawings.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [ChartRegion](../../ChartRegion.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../TigerTrade.Chart/Indicators/Drawings.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartRegion](../../ChartRegion.cs.md)
 
 Описание
 
@@ -11,7 +11,7 @@ public ChartRegion()
 public ChartRegion(XColor color)
 ```
 ### Параметры  
-<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+<mark style="color:yellow;">`color` *`XColor`*  
  *Описание*  
   
 

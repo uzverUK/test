@@ -1,7 +1,7 @@
 
 # Alerts
 
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../TigerTrade.Chart.md).Alerts
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../TigerTrade.Chart.md).Alerts
 
 Описание
 

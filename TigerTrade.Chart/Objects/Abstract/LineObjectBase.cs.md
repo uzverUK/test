@@ -1,6 +1,6 @@
 
 # public abstract class LineObjectBase : ObjectBase
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Abstract](../../../TigerTrade.Chart/Objects/Abstract.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Abstract](../../../TigerTrade.Chart/Objects/Abstract.md)
 
 
 

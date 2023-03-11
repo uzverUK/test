@@ -1,7 +1,7 @@
 
 # FibonacciRetracementObject.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [FibonacciRetracementObject](../../FibonacciRetracementObject.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [FibonacciRetracementObject](../../FibonacciRetracementObject.cs.md)
 
 Описание
 
@@ -9,10 +9,10 @@
 ```csharp
 public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```
-<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+<mark style="color:yellow;">`objectBase` *`ObjectBase`*  
  *Описание*  
   
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:yellow;">`style` *`bool`*  
  *Описание*  
   
 

@@ -1,7 +1,7 @@
 
 # ObjectLabelInfo.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Common](../../../../../TigerTrade.Chart/Objects/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [ObjectLabelInfo](../../ObjectLabelInfo.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Common](../../../../../TigerTrade.Chart/Objects/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ObjectLabelInfo](../../ObjectLabelInfo.cs.md)
 
 Описание
 
@@ -11,16 +11,16 @@ public ObjectLabelInfo(double value, XColor color, double? position = null)
 public ObjectLabelInfo(double value, double y1, double y2, XColor color)
 ```
 ### Параметры  
-<mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:yellow;">`value` *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+<mark style="color:yellow;">`color` *`XColor`*  
  *Описание*  
   
-<mark style="color:yellow;">`y1`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:yellow;">`y1` *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`y2`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:yellow;">`y2` *`double`*  
  *Описание*  
   
 

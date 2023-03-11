@@ -1,7 +1,7 @@
 
 # RawCluster.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [RawCluster](../../RawCluster.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [RawCluster](../../RawCluster.cs.md)
 
 Описание
 
@@ -9,7 +9,7 @@
 ```csharp
 public IRawClusterItem GetItem(long price)
 ```
-<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+<mark style="color:yellow;">`price` *`long`*  
  *Описание*  
   
 

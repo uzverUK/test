@@ -1,7 +1,7 @@
 
 # EnvelopesSource.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [EnvelopesSource](../../EnvelopesSource.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [EnvelopesSource](../../EnvelopesSource.cs.md)
 
 Описание
 
@@ -10,7 +10,7 @@
 public override double[] GetSeries(IndicatorsHelper helper)
 ```
 ### Параметры  
-<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
+<mark style="color:yellow;">`helper` *`IndicatorsHelper`*  
  *Описание*  
   
 

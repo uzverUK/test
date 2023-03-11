@@ -1,7 +1,7 @@
 
 # IndicatorSeriesData.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorSeriesData](../../IndicatorSeriesData.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorSeriesData](../../IndicatorSeriesData.cs.md)
 
 Описание
 
@@ -9,10 +9,10 @@
 ```csharp
 public double GetDistance(double x, double y)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:yellow;">`x` *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:yellow;">`y` *`double`*  
  *Описание*  
   
 

@@ -1,7 +1,7 @@
 
 # CircleObject.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [CircleObject](../../CircleObject.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [CircleObject](../../CircleObject.cs.md)
 
 Описание
 
@@ -9,10 +9,10 @@
 ```csharp
 protected override int GetMinDist(int x, int y)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`x` *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`y` *`int`*  
  *Описание*  
   
 

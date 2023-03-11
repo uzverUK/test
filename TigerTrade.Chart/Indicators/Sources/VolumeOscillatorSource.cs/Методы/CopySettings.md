@@ -1,7 +1,7 @@
 
 # VolumeOscillatorSource.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [VolumeOscillatorSource](../../VolumeOscillatorSource.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [VolumeOscillatorSource](../../VolumeOscillatorSource.cs.md)
 
 Описание
 
@@ -10,7 +10,7 @@
 public override void CopySettings(IndicatorSourceBase source)
 ```
 ### Параметры  
-<mark style="color:yellow;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
+<mark style="color:yellow;">`source` *`IndicatorSourceBase`*  
  *Описание*  
   
 

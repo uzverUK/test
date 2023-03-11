@@ -1,7 +1,7 @@
 
 # LineGroupObjectBase.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Abstract](../../../../../TigerTrade.Chart/Objects/Abstract.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [LineGroupObjectBase](../../LineGroupObjectBase.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Abstract](../../../../../TigerTrade.Chart/Objects/Abstract.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [LineGroupObjectBase](../../LineGroupObjectBase.cs.md)
 
 Описание
 
@@ -9,10 +9,10 @@
 ```csharp
 protected override bool InObject(int x, int y)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`x` *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`y` *`int`*  
  *Описание*  
   
 

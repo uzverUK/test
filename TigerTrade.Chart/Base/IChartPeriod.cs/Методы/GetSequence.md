@@ -1,7 +1,7 @@
 
 # IChartPeriod.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IChartPeriod](../../IChartPeriod.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartPeriod](../../IChartPeriod.cs.md)
 
 Описание
 
@@ -11,19 +11,19 @@ int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double ti
 int GetSequence(ChartPeriodType type, int interval, double dateTime, double timeOffset)
 ```
 ### Параметры  
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`ChartPeriodType`*</mark>  
+<mark style="color:yellow;">`type` *`ChartPeriodType`*  
  *Описание*  
   
-<mark style="color:yellow;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`interval` *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`dateTime`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+<mark style="color:yellow;">`dateTime` *`DateTime`*  
  *Описание*  
   
-<mark style="color:yellow;">`timeOffset`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:yellow;">`timeOffset` *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`dateTime`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:yellow;">`dateTime` *`double`*  
  *Описание*  
   
 

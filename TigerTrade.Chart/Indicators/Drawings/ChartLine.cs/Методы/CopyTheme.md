@@ -1,7 +1,7 @@
 
 # ChartLine.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../TigerTrade.Chart/Indicators/Drawings.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [ChartLine](../../ChartLine.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../TigerTrade.Chart/Indicators/Drawings.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartLine](../../ChartLine.cs.md)
 
 Описание
 
@@ -10,7 +10,7 @@
 public void CopyTheme(ChartLine chartLine)
 ```
 ### Параметры  
-<mark style="color:yellow;">`chartLine`</mark> <mark style="color:red;">*`ChartLine`*</mark>  
+<mark style="color:yellow;">`chartLine` *`ChartLine`*  
  *Описание*  
   
 

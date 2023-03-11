@@ -1,7 +1,7 @@
 
 # IChartSymbol.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IChartSymbol](../../IChartSymbol.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartSymbol](../../IChartSymbol.cs.md)
 
 Описание
 
@@ -10,13 +10,13 @@
 string FormatSize(Decimal size, int round = 2)
 string FormatSize(Decimal size, int round, bool minimize)
 ```
-<mark style="color:yellow;">`size`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+<mark style="color:yellow;">`size` *`Decimal`*  
  *Описание*  
   
-<mark style="color:yellow;">`round`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`round` *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`minimize`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:yellow;">`minimize` *`bool`*  
  *Описание*  
   
 

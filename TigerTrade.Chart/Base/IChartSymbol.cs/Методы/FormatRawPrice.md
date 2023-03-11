@@ -1,7 +1,7 @@
 
 # IChartSymbol.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IChartSymbol](../../IChartSymbol.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartSymbol](../../IChartSymbol.cs.md)
 
 Описание
 
@@ -9,7 +9,7 @@
 ```csharp
 string FormatRawPrice(long price, bool shortDecimals = false)
 ```
-<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+<mark style="color:yellow;">`price` *`long`*  
  *Описание*  
   
 

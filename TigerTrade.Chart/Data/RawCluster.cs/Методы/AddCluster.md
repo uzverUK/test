@@ -1,7 +1,7 @@
 
 # RawCluster.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [RawCluster](../../RawCluster.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [RawCluster](../../RawCluster.cs.md)
 
 Описание
 
@@ -10,7 +10,7 @@
 public void AddCluster(IRawCluster cluster)
 ```
 ### Параметры  
-<mark style="color:yellow;">`cluster`</mark> <mark style="color:red;">*`IRawCluster`*</mark>  
+<mark style="color:yellow;">`cluster` *`IRawCluster`*  
  *Описание*  
   
 

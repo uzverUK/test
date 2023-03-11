@@ -1,7 +1,7 @@
 
 # IndicatorBase.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorBase](../../IndicatorBase.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorBase](../../IndicatorBase.cs.md)
 
 Описание
 
@@ -9,16 +9,16 @@
 ```csharp
 public void Run(IChartDataProvider dp, string longKey, string shortKey, string revision)
 ```
-<mark style="color:yellow;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
+<mark style="color:yellow;">`dp` *`IChartDataProvider`*  
  *Описание*  
   
-<mark style="color:yellow;">`longKey`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:yellow;">`longKey` *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`shortKey`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:yellow;">`shortKey` *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`revision`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:yellow;">`revision` *`string`*  
  *Описание*  
   
 

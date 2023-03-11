@@ -1,7 +1,7 @@
 
 # ChartRegion.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../TigerTrade.Chart/Indicators/Drawings.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [ChartRegion](../../ChartRegion.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../TigerTrade.Chart/Indicators/Drawings.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartRegion](../../ChartRegion.cs.md)
 
 Описание
 
@@ -9,7 +9,7 @@
 ```csharp
 public void CopyTheme(ChartRegion chartRegion)
 ```
-<mark style="color:yellow;">`chartRegion`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
+<mark style="color:yellow;">`chartRegion` *`ChartRegion`*  
  *Описание*  
   
 

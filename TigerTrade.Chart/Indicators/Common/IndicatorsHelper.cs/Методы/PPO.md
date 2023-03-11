@@ -1,7 +1,7 @@
 
 # IndicatorsHelper.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorsHelper](../../IndicatorsHelper.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorsHelper](../../IndicatorsHelper.cs.md)
 
 Описание
 
@@ -10,13 +10,13 @@
 public double[] PPO(IndicatorMaType maType, double[] d, int shortPeriod, int longPeriod)
 ```
 ### Параметры  
-<mark style="color:yellow;">`maType`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
+<mark style="color:yellow;">`maType` *`IndicatorMaType`*  
  *Описание*  
   
-<mark style="color:yellow;">`shortPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`shortPeriod` *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`longPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`longPeriod` *`int`*  
  *Описание*  
   
 

@@ -1,7 +1,7 @@
 
 # IndicatorSeriesData.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorSeriesData](../../IndicatorSeriesData.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorSeriesData](../../IndicatorSeriesData.cs.md)
 
 Описание
 
@@ -10,7 +10,7 @@
 public void CachePoints(Point[] points, string pointsName)
 ```
 ### Параметры  
-<mark style="color:yellow;">`pointsName`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:yellow;">`pointsName` *`string`*  
  *Описание*  
   
 

@@ -1,6 +1,6 @@
 
 # IndicatorMaType.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Enums](../../../../../TigerTrade.Chart/Indicators/Enums.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Enums](../../../../../TigerTrade.Chart/Indicators/Enums.md)
 
 
 

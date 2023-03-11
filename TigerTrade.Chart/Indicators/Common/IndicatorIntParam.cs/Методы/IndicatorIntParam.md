@@ -1,7 +1,7 @@
 
 # IndicatorIntParam.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorIntParam](../../IndicatorIntParam.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorIntParam](../../IndicatorIntParam.cs.md)
 
 Описание
 
@@ -11,7 +11,7 @@ public IndicatorIntParam()
 public IndicatorIntParam(int value)
 ```
 ### Параметры  
-<mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`value` *`int`*  
  *Описание*  
   
 

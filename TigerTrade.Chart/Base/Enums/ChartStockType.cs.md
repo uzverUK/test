@@ -1,6 +1,6 @@
 
 # ChartStockType.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Base](../../../../../TigerTrade.Chart/Base.md).[Enums](../../../../../TigerTrade.Chart/Base/Enums.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Base](../../../../../TigerTrade.Chart/Base.md).[Enums](../../../../../TigerTrade.Chart/Base/Enums.md)
 
 
 

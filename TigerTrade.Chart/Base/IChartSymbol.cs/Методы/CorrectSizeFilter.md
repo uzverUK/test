@@ -1,7 +1,7 @@
 
 # IChartSymbol.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IChartSymbol](../../IChartSymbol.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartSymbol](../../IChartSymbol.cs.md)
 
 Описание
 
@@ -11,7 +11,7 @@ long CorrectSizeFilter(double filter)
 long? CorrectSizeFilter(double? filter)
 ```
 ### Параметры  
-<mark style="color:yellow;">`filter`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:yellow;">`filter` *`double`*  
  *Описание*  
   
 

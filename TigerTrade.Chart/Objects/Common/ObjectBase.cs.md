@@ -1,6 +1,6 @@
 
 # public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Common](../../../TigerTrade.Chart/Objects/Common.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Common](../../../TigerTrade.Chart/Objects/Common.md)
 
 
 

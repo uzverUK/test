@@ -1,6 +1,6 @@
 
 # public class IconObject : ObjectBase
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)
 
 
 

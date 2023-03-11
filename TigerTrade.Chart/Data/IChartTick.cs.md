@@ -1,6 +1,6 @@
 
 # public interface IChartTick
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
 
 
 

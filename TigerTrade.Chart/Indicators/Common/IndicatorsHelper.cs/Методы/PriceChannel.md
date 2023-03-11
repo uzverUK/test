@@ -1,7 +1,7 @@
 
 # IndicatorsHelper.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorsHelper](../../IndicatorsHelper.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorsHelper](../../IndicatorsHelper.cs.md)
 
 Описание
 
@@ -9,16 +9,16 @@
 ```csharp
 public void PriceChannel(int n, out double[] avg, out double[] upper, out double[] lower)
 ```
-<mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`n` *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:yellow;">`double` *`out`*  
  *Описание*  
   
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:yellow;">`double` *`out`*  
  *Описание*  
   
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:yellow;">`double` *`out`*  
  *Описание*  
   
 

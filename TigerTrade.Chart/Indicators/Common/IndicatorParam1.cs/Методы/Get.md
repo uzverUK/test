@@ -1,7 +1,7 @@
 
 # IndicatorParam1.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorParam1](../../IndicatorParam1.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorParam1](../../IndicatorParam1.cs.md)
 
 Описание
 
@@ -11,10 +11,10 @@ public T Get(string key, T defaultValue)
 public T Get(string key)
 ```
 ### Параметры  
-<mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:yellow;">`key` *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`defaultValue`</mark> <mark style="color:red;">*`T`*</mark>  
+<mark style="color:yellow;">`defaultValue` *`T`*  
  *Описание*  
   
 

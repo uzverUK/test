@@ -1,7 +1,7 @@
 
 # ChartAlertInfo.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Alerts](../../../../TigerTrade.Chart/Alerts.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [ChartAlertInfo](../../ChartAlertInfo.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Alerts](../../../../TigerTrade.Chart/Alerts.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartAlertInfo](../../ChartAlertInfo.cs.md)
 
 Описание
 
@@ -10,10 +10,10 @@
 public ChartAlertInfo(ChartAlertSettings settings, string message)
 ```
 ### Параметры  
-<mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
+<mark style="color:yellow;">`settings` *`ChartAlertSettings`*  
  *Описание*  
   
-<mark style="color:yellow;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:yellow;">`message` *`string`*  
  *Описание*  
   
 

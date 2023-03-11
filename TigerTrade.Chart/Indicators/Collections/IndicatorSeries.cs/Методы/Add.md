@@ -1,7 +1,7 @@
 
 # IndicatorSeries.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Collections](../../../../../TigerTrade.Chart/Indicators/Collections.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [IndicatorSeries](../../IndicatorSeries.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Collections](../../../../../TigerTrade.Chart/Indicators/Collections.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorSeries](../../IndicatorSeries.cs.md)
 
 Описание
 
@@ -12,16 +12,16 @@ public void Add(IndicatorSeriesData series1, IndicatorSeriesData series2)
 public void Add(params IndicatorSeriesData[] series)
 ```
 ### Параметры  
-<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:yellow;">`series` *`IndicatorSeriesData`*  
  *Описание*  
   
-<mark style="color:yellow;">`series1`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:yellow;">`series1` *`IndicatorSeriesData`*  
  *Описание*  
   
-<mark style="color:yellow;">`series2`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:yellow;">`series2` *`IndicatorSeriesData`*  
  *Описание*  
   
-<mark style="color:yellow;">`IndicatorSeriesData`</mark> <mark style="color:red;">*`params`*</mark>  
+<mark style="color:yellow;">`IndicatorSeriesData` *`params`*  
  *Описание*  
   
 

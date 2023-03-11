@@ -1,6 +1,6 @@
 
 # ObjectTextAlignment.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Enums](../../../../../TigerTrade.Chart/Objects/Enums.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Enums](../../../../../TigerTrade.Chart/Objects/Enums.md)
 
 
 

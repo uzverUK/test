@@ -1,7 +1,7 @@
 
 # HorizontalLineObject.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [HorizontalLineObject](../../HorizontalLineObject.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [HorizontalLineObject](../../HorizontalLineObject.cs.md)
 
 Описание
 
@@ -10,10 +10,10 @@
 protected override bool InObject(int x, int y)
 ```
 ### Параметры  
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`x` *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:yellow;">`y` *`int`*  
  *Описание*  
   
 

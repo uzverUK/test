@@ -1,7 +1,7 @@
 
 # BullsPowerSource.cs
-<mark style="color:purple;">`namespace`</mark> [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-<mark style="color:red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class`</mark> [BullsPowerSource](../../BullsPowerSource.cs.md)
+<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [BullsPowerSource](../../BullsPowerSource.cs.md)
 
 Описание
 
@@ -9,7 +9,7 @@
 ```csharp
 public override IEnumerable<string> GetSeriesList()
 ```
-<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
+<mark style="color:yellow;">`List` *`new`*  
  *Описание*  
   
 
