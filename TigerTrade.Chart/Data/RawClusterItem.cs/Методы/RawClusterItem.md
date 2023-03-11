@@ -10,10 +10,10 @@
 public RawClusterItem(long price)
 public RawClusterItem(IRawClusterItem item)
 ```
-<mark style="color:yellow;">`price` *`long`*  
+<mark style="color:yellow;">`price`</mark> *`long`*  
  *Описание*  
   
-<mark style="color:yellow;">`item` *`IRawClusterItem`*  
+<mark style="color:yellow;">`item`</mark> *`IRawClusterItem`*  
  *Описание*  
   
 

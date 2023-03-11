@@ -10,7 +10,7 @@
 string FormatSizeShort(Decimal size)
 ```
 ### Параметры  
-<mark style="color:yellow;">`size` *`Decimal`*  
+<mark style="color:yellow;">`size`</mark> *`Decimal`*  
  *Описание*  
   
 

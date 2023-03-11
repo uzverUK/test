@@ -10,7 +10,7 @@
 public IndicatorSourceAttribute(string name)
 ```
 ### Параметры  
-<mark style="color:yellow;">`name` *`string`*  
+<mark style="color:yellow;">`name`</mark> *`string`*  
  *Описание*  
   
 

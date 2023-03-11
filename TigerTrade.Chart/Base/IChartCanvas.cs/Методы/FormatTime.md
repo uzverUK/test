@@ -9,7 +9,7 @@
 ```csharp
 string FormatTime(DateTime dt, string format)
 ```
-<mark style="color:yellow;">`format` *`string`*  
+<mark style="color:yellow;">`format`</mark> *`string`*  
  *Описание*  
   
 

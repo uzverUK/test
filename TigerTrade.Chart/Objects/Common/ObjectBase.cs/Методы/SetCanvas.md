@@ -10,7 +10,7 @@
 public void SetCanvas(IChartCanvas canvas)
 ```
 ### Параметры  
-<mark style="color:yellow;">`canvas` *`IChartCanvas`*  
+<mark style="color:yellow;">`canvas`</mark> *`IChartCanvas`*  
  *Описание*  
   
 

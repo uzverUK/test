@@ -9,10 +9,10 @@
 ```csharp
 public virtual bool GetMinMax(out double min, out double max)
 ```
-<mark style="color:yellow;">`double` *`out`*  
+<mark style="color:yellow;">`double`</mark> *`out`*  
  *Описание*  
   
-<mark style="color:yellow;">`double` *`out`*  
+<mark style="color:yellow;">`double`</mark> *`out`*  
  *Описание*  
   
 

@@ -9,7 +9,7 @@
 ```csharp
 public void AddTick(IChartTick tick)
 ```
-<mark style="color:yellow;">`tick` *`IChartTick`*  
+<mark style="color:yellow;">`tick`</mark> *`IChartTick`*  
  *Описание*  
   
 

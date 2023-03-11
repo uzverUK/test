@@ -9,7 +9,7 @@
 ```csharp
 Decimal GetSize(long rawSize)
 ```
-<mark style="color:yellow;">`rawSize` *`long`*  
+<mark style="color:yellow;">`rawSize`</mark> *`long`*  
  *Описание*  
   
 

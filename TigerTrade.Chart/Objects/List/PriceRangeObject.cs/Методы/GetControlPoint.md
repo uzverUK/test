@@ -10,10 +10,10 @@
 public override int GetControlPoint(int x, int y)
 ```
 ### Параметры  
-<mark style="color:yellow;">`x` *`int`*  
+<mark style="color:yellow;">`x`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`y` *`int`*  
+<mark style="color:yellow;">`y`</mark> *`int`*  
  *Описание*  
   
 

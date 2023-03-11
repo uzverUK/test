@@ -10,7 +10,7 @@
 public double[] WilliamsR(int period)
 ```
 ### Параметры  
-<mark style="color:yellow;">`period` *`int`*  
+<mark style="color:yellow;">`period`</mark> *`int`*  
  *Описание*  
   
 

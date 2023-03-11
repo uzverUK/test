@@ -10,13 +10,13 @@
 Point GetValueFromPos(double x, double y)
 Point GetValueFromPos(double x, double y, bool snapToGrid)
 ```
-<mark style="color:yellow;">`x` *`double`*  
+<mark style="color:yellow;">`x`</mark> *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`y` *`double`*  
+<mark style="color:yellow;">`y`</mark> *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`snapToGrid` *`bool`*  
+<mark style="color:yellow;">`snapToGrid`</mark> *`bool`*  
  *Описание*  
   
 

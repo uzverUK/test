@@ -9,7 +9,7 @@
 ```csharp
 public void CopyTheme(ChartRegion chartRegion)
 ```
-<mark style="color:yellow;">`chartRegion` *`ChartRegion`*  
+<mark style="color:yellow;">`chartRegion`</mark> *`ChartRegion`*  
  *Описание*  
   
 

@@ -9,7 +9,7 @@
 ```csharp
 protected void DrawControlPoint(DxVisualQueue visual, Point point)
 ```
-<mark style="color:yellow;">`point` *`Point`*  
+<mark style="color:yellow;">`point`</mark> *`Point`*  
  *Описание*  
   
 

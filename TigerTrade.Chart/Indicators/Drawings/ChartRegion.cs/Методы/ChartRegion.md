@@ -11,7 +11,7 @@ public ChartRegion()
 public ChartRegion(XColor color)
 ```
 ### Параметры  
-<mark style="color:yellow;">`color` *`XColor`*  
+<mark style="color:yellow;">`color`</mark> *`XColor`*  
  *Описание*  
   
 

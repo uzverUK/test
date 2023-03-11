@@ -10,7 +10,7 @@
 IChartClusterItem GetItem(Decimal price)
 ```
 ### Параметры  
-<mark style="color:yellow;">`price` *`Decimal`*  
+<mark style="color:yellow;">`price`</mark> *`Decimal`*  
  *Описание*  
   
 

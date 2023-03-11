@@ -9,10 +9,10 @@
 ```csharp
 public double GetDistance(double x, double y)
 ```
-<mark style="color:yellow;">`x` *`double`*  
+<mark style="color:yellow;">`x`</mark> *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`y` *`double`*  
+<mark style="color:yellow;">`y`</mark> *`double`*  
  *Описание*  
   
 

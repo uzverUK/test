@@ -9,7 +9,7 @@
 ```csharp
 public void AddItem(IChartClusterItem item)
 ```
-<mark style="color:yellow;">`item` *`IChartClusterItem`*  
+<mark style="color:yellow;">`item`</mark> *`IChartClusterItem`*  
  *Описание*  
   
 

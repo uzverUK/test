@@ -9,13 +9,13 @@
 ```csharp
 public bool Set(string key, double value, double minValue = -1.7976931348623157E+308, double maxValue = 1.7976931348623157E+308)
 ```
-<mark style="color:yellow;">`key` *`string`*  
+<mark style="color:yellow;">`key`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`minValue` *`double`*  
+<mark style="color:yellow;">`minValue`</mark> *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`maxValue` *`double`*  
+<mark style="color:yellow;">`maxValue`</mark> *`double`*  
  *Описание*  
   
 

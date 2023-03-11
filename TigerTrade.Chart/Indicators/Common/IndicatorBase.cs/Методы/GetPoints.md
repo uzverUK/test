@@ -9,10 +9,10 @@
 ```csharp
 protected Point[] GetPoints(IndicatorSeriesData seriesData, string name = null)
 ```
-<mark style="color:yellow;">`seriesData` *`IndicatorSeriesData`*  
+<mark style="color:yellow;">`seriesData`</mark> *`IndicatorSeriesData`*  
  *Описание*  
   
-<mark style="color:yellow;">`name` *`string`*  
+<mark style="color:yellow;">`name`</mark> *`string`*  
  *Описание*  
   
 

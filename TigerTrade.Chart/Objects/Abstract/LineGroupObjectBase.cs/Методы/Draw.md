@@ -10,10 +10,10 @@
 protected override void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
 ### Параметры  
-<mark style="color:yellow;">`visual` *`DxVisualQueue`*  
+<mark style="color:yellow;">`visual`</mark> *`DxVisualQueue`*  
  *Описание*  
   
-<mark style="color:yellow;">`List` *`ref`*  
+<mark style="color:yellow;">`List`</mark> *`ref`*  
  *Описание*  
   
 

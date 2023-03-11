@@ -9,10 +9,10 @@
 ```csharp
 public void AddTick(IRawTick tick, int scale)
 ```
-<mark style="color:yellow;">`tick` *`IRawTick`*  
+<mark style="color:yellow;">`tick`</mark> *`IRawTick`*  
  *Описание*  
   
-<mark style="color:yellow;">`scale` *`int`*  
+<mark style="color:yellow;">`scale`</mark> *`int`*  
  *Описание*  
   
 

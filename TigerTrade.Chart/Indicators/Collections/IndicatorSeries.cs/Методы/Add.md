@@ -12,16 +12,16 @@ public void Add(IndicatorSeriesData series1, IndicatorSeriesData series2)
 public void Add(params IndicatorSeriesData[] series)
 ```
 ### Параметры  
-<mark style="color:yellow;">`series` *`IndicatorSeriesData`*  
+<mark style="color:yellow;">`series`</mark> *`IndicatorSeriesData`*  
  *Описание*  
   
-<mark style="color:yellow;">`series1` *`IndicatorSeriesData`*  
+<mark style="color:yellow;">`series1`</mark> *`IndicatorSeriesData`*  
  *Описание*  
   
-<mark style="color:yellow;">`series2` *`IndicatorSeriesData`*  
+<mark style="color:yellow;">`series2`</mark> *`IndicatorSeriesData`*  
  *Описание*  
   
-<mark style="color:yellow;">`IndicatorSeriesData` *`params`*  
+<mark style="color:yellow;">`IndicatorSeriesData`</mark> *`params`*  
  *Описание*  
   
 

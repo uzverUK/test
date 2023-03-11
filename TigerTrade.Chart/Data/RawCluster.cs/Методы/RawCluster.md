@@ -9,7 +9,7 @@
 ```csharp
 public RawCluster(DateTime time)
 ```
-<mark style="color:yellow;">`time` *`DateTime`*  
+<mark style="color:yellow;">`time`</mark> *`DateTime`*  
  *Описание*  
   
 

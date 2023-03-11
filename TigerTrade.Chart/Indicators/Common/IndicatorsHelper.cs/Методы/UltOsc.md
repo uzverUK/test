@@ -10,13 +10,13 @@
 public double[] UltOsc(int period1, int period2, int period3)
 ```
 ### Параметры  
-<mark style="color:yellow;">`period1` *`int`*  
+<mark style="color:yellow;">`period1`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`period2` *`int`*  
+<mark style="color:yellow;">`period2`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`period3` *`int`*  
+<mark style="color:yellow;">`period3`</mark> *`int`*  
  *Описание*  
   
 

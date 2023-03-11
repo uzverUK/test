@@ -9,7 +9,7 @@
 ```csharp
 public abstract double[] GetSeries(IndicatorsHelper helper)
 ```
-<mark style="color:yellow;">`helper` *`IndicatorsHelper`*  
+<mark style="color:yellow;">`helper`</mark> *`IndicatorsHelper`*  
  *Описание*  
   
 

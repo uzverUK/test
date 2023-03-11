@@ -9,7 +9,7 @@
 ```csharp
 public double[] CMO(double[] d, int period)
 ```
-<mark style="color:yellow;">`period` *`int`*  
+<mark style="color:yellow;">`period`</mark> *`int`*  
  *Описание*  
   
 

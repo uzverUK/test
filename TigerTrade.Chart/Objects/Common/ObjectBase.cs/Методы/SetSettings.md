@@ -9,7 +9,7 @@
 ```csharp
 public void SetSettings(IChartSettings settings)
 ```
-<mark style="color:yellow;">`settings` *`IChartSettings`*  
+<mark style="color:yellow;">`settings`</mark> *`IChartSettings`*  
  *Описание*  
   
 

@@ -9,10 +9,10 @@
 ```csharp
 public double[] Variance(double[] d, int period, double dev)
 ```
-<mark style="color:yellow;">`period` *`int`*  
+<mark style="color:yellow;">`period`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`dev` *`double`*  
+<mark style="color:yellow;">`dev`</mark> *`double`*  
  *Описание*  
   
 

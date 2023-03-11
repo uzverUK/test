@@ -10,13 +10,13 @@
 public ChartObjectAttribute(string id, string name, int points)
 ```
 ### Параметры  
-<mark style="color:yellow;">`id` *`string`*  
+<mark style="color:yellow;">`id`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`name` *`string`*  
+<mark style="color:yellow;">`name`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`points` *`int`*  
+<mark style="color:yellow;">`points`</mark> *`int`*  
  *Описание*  
   
 

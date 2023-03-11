@@ -9,7 +9,7 @@
 ```csharp
 public double[] BWMFI(IndicatorBWMFIType volumeType = IndicatorBWMFIType.Ticks)
 ```
-<mark style="color:yellow;">`volumeType` *`IndicatorBWMFIType`*  
+<mark style="color:yellow;">`volumeType`</mark> *`IndicatorBWMFIType`*  
  *Описание*  
   
 

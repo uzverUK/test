@@ -9,7 +9,7 @@
 ```csharp
 public void AddItem(IRawClusterItem item)
 ```
-<mark style="color:yellow;">`item` *`IRawClusterItem`*  
+<mark style="color:yellow;">`item`</mark> *`IRawClusterItem`*  
  *Описание*  
   
 

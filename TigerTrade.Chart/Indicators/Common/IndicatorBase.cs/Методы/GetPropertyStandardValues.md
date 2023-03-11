@@ -10,7 +10,7 @@
 public virtual IEnumerable<object> GetPropertyStandardValues(string propertyName)
 ```
 ### Параметры  
-<mark style="color:yellow;">`propertyName` *`string`*  
+<mark style="color:yellow;">`propertyName`</mark> *`string`*  
  *Описание*  
   
 

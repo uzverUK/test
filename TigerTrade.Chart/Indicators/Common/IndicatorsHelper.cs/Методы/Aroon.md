@@ -9,10 +9,10 @@
 ```csharp
 public void Aroon(int period, out double[] aroonUp, out double[] aroonDown)
 ```
-<mark style="color:yellow;">`double` *`out`*  
+<mark style="color:yellow;">`double`</mark> *`out`*  
  *Описание*  
   
-<mark style="color:yellow;">`double` *`out`*  
+<mark style="color:yellow;">`double`</mark> *`out`*  
  *Описание*  
   
 

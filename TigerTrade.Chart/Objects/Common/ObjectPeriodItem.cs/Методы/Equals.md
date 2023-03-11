@@ -9,7 +9,7 @@
 ```csharp
 public override bool Equals(object obj)
 ```
-<mark style="color:yellow;">`obj` *`object`*  
+<mark style="color:yellow;">`obj`</mark> *`object`*  
  *Описание*  
   
 

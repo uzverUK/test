@@ -10,7 +10,7 @@
 public virtual bool GetPropertyHasStandardValues(string propertyName)
 ```
 ### Параметры  
-<mark style="color:yellow;">`propertyName` *`string`*  
+<mark style="color:yellow;">`propertyName`</mark> *`string`*  
  *Описание*  
   
 

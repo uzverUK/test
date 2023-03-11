@@ -10,7 +10,7 @@
 public virtual IndicatorTitleInfo GetTitle()
 ```
 ### Параметры  
-<mark style="color:yellow;">`IndicatorTitleInfo` *`new`*  
+<mark style="color:yellow;">`IndicatorTitleInfo`</mark> *`new`*  
  *Описание*  
   
 

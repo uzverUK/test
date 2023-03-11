@@ -11,10 +11,10 @@ public T Get(string key, T defaultValue)
 public T Get(string key)
 ```
 ### Параметры  
-<mark style="color:yellow;">`key` *`string`*  
+<mark style="color:yellow;">`key`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`defaultValue` *`T`*  
+<mark style="color:yellow;">`defaultValue`</mark> *`T`*  
  *Описание*  
   
 

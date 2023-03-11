@@ -10,10 +10,10 @@
 public virtual void CopyTemplate(IndicatorBase indicator, bool style)
 ```
 ### Параметры  
-<mark style="color:yellow;">`indicator` *`IndicatorBase`*  
+<mark style="color:yellow;">`indicator`</mark> *`IndicatorBase`*  
  *Описание*  
   
-<mark style="color:yellow;">`style` *`bool`*  
+<mark style="color:yellow;">`style`</mark> *`bool`*  
  *Описание*  
   
 

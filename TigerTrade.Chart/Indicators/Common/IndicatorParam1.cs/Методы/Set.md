@@ -10,10 +10,10 @@
 protected bool Set(string key, T value)
 ```
 ### Параметры  
-<mark style="color:yellow;">`key` *`string`*  
+<mark style="color:yellow;">`key`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`value` *`T`*  
+<mark style="color:yellow;">`value`</mark> *`T`*  
  *Описание*  
   
 

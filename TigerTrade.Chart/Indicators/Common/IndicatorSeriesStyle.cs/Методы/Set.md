@@ -12,16 +12,16 @@ public void Set(ChartRegion region)
 public void Set(ChartLine line)
 ```
 ### Параметры  
-<mark style="color:yellow;">`series` *`ChartSeries`*  
+<mark style="color:yellow;">`series`</mark> *`ChartSeries`*  
  *Описание*  
   
-<mark style="color:yellow;">`name` *`string`*  
+<mark style="color:yellow;">`name`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`region` *`ChartRegion`*  
+<mark style="color:yellow;">`region`</mark> *`ChartRegion`*  
  *Описание*  
   
-<mark style="color:yellow;">`line` *`ChartLine`*  
+<mark style="color:yellow;">`line`</mark> *`ChartLine`*  
  *Описание*  
   
 

@@ -9,10 +9,10 @@
 ```csharp
 public ChartCluster(DateTime time, Decimal step)
 ```
-<mark style="color:yellow;">`time` *`DateTime`*  
+<mark style="color:yellow;">`time`</mark> *`DateTime`*  
  *Описание*  
   
-<mark style="color:yellow;">`step` *`Decimal`*  
+<mark style="color:yellow;">`step`</mark> *`Decimal`*  
  *Описание*  
   
 

@@ -9,16 +9,16 @@
 ```csharp
 public double[] ZIGZAG(int depth, int deviation, int backstep, bool reg = true)
 ```
-<mark style="color:yellow;">`depth` *`int`*  
+<mark style="color:yellow;">`depth`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`deviation` *`int`*  
+<mark style="color:yellow;">`deviation`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`backstep` *`int`*  
+<mark style="color:yellow;">`backstep`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`reg` *`bool`*  
+<mark style="color:yellow;">`reg`</mark> *`bool`*  
  *Описание*  
   
 

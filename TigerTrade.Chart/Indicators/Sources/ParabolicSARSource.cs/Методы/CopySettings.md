@@ -10,7 +10,7 @@
 public override void CopySettings(IndicatorSourceBase source)
 ```
 ### Параметры  
-<mark style="color:yellow;">`source` *`IndicatorSourceBase`*  
+<mark style="color:yellow;">`source`</mark> *`IndicatorSourceBase`*  
  *Описание*  
   
 

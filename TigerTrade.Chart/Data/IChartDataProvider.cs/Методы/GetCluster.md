@@ -10,7 +10,7 @@
 IChartCluster GetCluster(int i)
 ```
 ### Параметры  
-<mark style="color:yellow;">`i` *`int`*  
+<mark style="color:yellow;">`i`</mark> *`int`*  
  *Описание*  
   
 

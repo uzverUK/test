@@ -9,16 +9,16 @@
 ```csharp
 public void PriceChannel(int n, out double[] avg, out double[] upper, out double[] lower)
 ```
-<mark style="color:yellow;">`n` *`int`*  
+<mark style="color:yellow;">`n`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`double` *`out`*  
+<mark style="color:yellow;">`double`</mark> *`out`*  
  *Описание*  
   
-<mark style="color:yellow;">`double` *`out`*  
+<mark style="color:yellow;">`double`</mark> *`out`*  
  *Описание*  
   
-<mark style="color:yellow;">`double` *`out`*  
+<mark style="color:yellow;">`double`</mark> *`out`*  
  *Описание*  
   
 

@@ -10,7 +10,7 @@
 public ObjectPointInfo(ObjectPoint[] points, int index)
 ```
 ### Параметры  
-<mark style="color:yellow;">`index` *`int`*  
+<mark style="color:yellow;">`index`</mark> *`int`*  
  *Описание*  
   
 

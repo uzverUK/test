@@ -9,7 +9,7 @@
 ```csharp
 protected double GetX(int i)
 ```
-<mark style="color:yellow;">`i` *`int`*  
+<mark style="color:yellow;">`i`</mark> *`int`*  
  *Описание*  
   
 

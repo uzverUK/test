@@ -10,10 +10,10 @@
 public virtual double GetDistance(double x, double y)
 ```
 ### Параметры  
-<mark style="color:yellow;">`x` *`double`*  
+<mark style="color:yellow;">`x`</mark> *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`y` *`double`*  
+<mark style="color:yellow;">`y`</mark> *`double`*  
  *Описание*  
   
 

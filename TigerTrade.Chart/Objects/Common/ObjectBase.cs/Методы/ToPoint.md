@@ -9,7 +9,7 @@
 ```csharp
 public Point ToPoint(ObjectPoint op)
 ```
-<mark style="color:yellow;">`op` *`ObjectPoint`*  
+<mark style="color:yellow;">`op`</mark> *`ObjectPoint`*  
  *Описание*  
   
 

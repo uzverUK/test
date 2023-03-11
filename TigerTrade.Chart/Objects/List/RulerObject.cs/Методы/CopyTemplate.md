@@ -9,10 +9,10 @@
 ```csharp
 public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```
-<mark style="color:yellow;">`objectBase` *`ObjectBase`*  
+<mark style="color:yellow;">`objectBase`</mark> *`ObjectBase`*  
  *Описание*  
   
-<mark style="color:yellow;">`style` *`bool`*  
+<mark style="color:yellow;">`style`</mark> *`bool`*  
  *Описание*  
   
 

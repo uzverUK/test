@@ -9,10 +9,10 @@
 ```csharp
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
 ```
-<mark style="color:yellow;">`visual` *`DxVisualQueue`*  
+<mark style="color:yellow;">`visual`</mark> *`DxVisualQueue`*  
  *Описание*  
   
-<mark style="color:yellow;">`System` *`ref`*  
+<mark style="color:yellow;">`System`</mark> *`ref`*  
  *Описание*  
   
 

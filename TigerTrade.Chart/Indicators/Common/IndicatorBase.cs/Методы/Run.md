@@ -9,16 +9,16 @@
 ```csharp
 public void Run(IChartDataProvider dp, string longKey, string shortKey, string revision)
 ```
-<mark style="color:yellow;">`dp` *`IChartDataProvider`*  
+<mark style="color:yellow;">`dp`</mark> *`IChartDataProvider`*  
  *Описание*  
   
-<mark style="color:yellow;">`longKey` *`string`*  
+<mark style="color:yellow;">`longKey`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`shortKey` *`string`*  
+<mark style="color:yellow;">`shortKey`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`revision` *`string`*  
+<mark style="color:yellow;">`revision`</mark> *`string`*  
  *Описание*  
   
 

@@ -9,10 +9,10 @@
 ```csharp
 public virtual void DragObject(double dx, double dy)
 ```
-<mark style="color:yellow;">`dx` *`double`*  
+<mark style="color:yellow;">`dx`</mark> *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`dy` *`double`*  
+<mark style="color:yellow;">`dy`</mark> *`double`*  
  *Описание*  
   
 

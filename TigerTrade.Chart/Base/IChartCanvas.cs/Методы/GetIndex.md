@@ -9,7 +9,7 @@
 ```csharp
 int GetIndex(int i)
 ```
-<mark style="color:yellow;">`i` *`int`*  
+<mark style="color:yellow;">`i`</mark> *`int`*  
  *Описание*  
   
 

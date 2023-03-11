@@ -9,10 +9,10 @@
 ```csharp
 public double[] ChaikinsVolatility(IndicatorMaType type, int n)
 ```
-<mark style="color:yellow;">`type` *`IndicatorMaType`*  
+<mark style="color:yellow;">`type`</mark> *`IndicatorMaType`*  
  *Описание*  
   
-<mark style="color:yellow;">`n` *`int`*  
+<mark style="color:yellow;">`n`</mark> *`int`*  
  *Описание*  
   
 

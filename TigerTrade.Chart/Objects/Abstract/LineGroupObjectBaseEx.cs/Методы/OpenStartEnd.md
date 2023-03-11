@@ -10,10 +10,10 @@
 protected void OpenStartEnd(bool openStart, bool openEnd)
 ```
 ### Параметры  
-<mark style="color:yellow;">`openStart` *`bool`*  
+<mark style="color:yellow;">`openStart`</mark> *`bool`*  
  *Описание*  
   
-<mark style="color:yellow;">`openEnd` *`bool`*  
+<mark style="color:yellow;">`openEnd`</mark> *`bool`*  
  *Описание*  
   
 

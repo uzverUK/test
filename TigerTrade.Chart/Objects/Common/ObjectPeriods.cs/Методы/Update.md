@@ -10,19 +10,19 @@
 public void Update(string type, bool isChecked, bool checkRange, int min, int max)
 ```
 ### Параметры  
-<mark style="color:yellow;">`type` *`string`*  
+<mark style="color:yellow;">`type`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`isChecked` *`bool`*  
+<mark style="color:yellow;">`isChecked`</mark> *`bool`*  
  *Описание*  
   
-<mark style="color:yellow;">`checkRange` *`bool`*  
+<mark style="color:yellow;">`checkRange`</mark> *`bool`*  
  *Описание*  
   
-<mark style="color:yellow;">`min` *`int`*  
+<mark style="color:yellow;">`min`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`max` *`int`*  
+<mark style="color:yellow;">`max`</mark> *`int`*  
  *Описание*  
   
 

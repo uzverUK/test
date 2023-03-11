@@ -11,10 +11,10 @@ public ChartLevel()
 public ChartLevel(Decimal level, XColor color)
 ```
 ### Параметры  
-<mark style="color:yellow;">`level` *`Decimal`*  
+<mark style="color:yellow;">`level`</mark> *`Decimal`*  
  *Описание*  
   
-<mark style="color:yellow;">`color` *`XColor`*  
+<mark style="color:yellow;">`color`</mark> *`XColor`*  
  *Описание*  
   
 

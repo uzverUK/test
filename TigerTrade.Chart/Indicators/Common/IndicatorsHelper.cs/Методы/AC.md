@@ -10,13 +10,13 @@
 public double[] AC(IndicatorMaType type, int shortN, int longN)
 ```
 ### Параметры  
-<mark style="color:yellow;">`type` *`IndicatorMaType`*  
+<mark style="color:yellow;">`type`</mark> *`IndicatorMaType`*  
  *Описание*  
   
-<mark style="color:yellow;">`shortN` *`int`*  
+<mark style="color:yellow;">`shortN`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`longN` *`int`*  
+<mark style="color:yellow;">`longN`</mark> *`int`*  
  *Описание*  
   
 

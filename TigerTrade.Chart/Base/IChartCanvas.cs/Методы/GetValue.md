@@ -9,7 +9,7 @@
 ```csharp
 double GetValue(double y)
 ```
-<mark style="color:yellow;">`y` *`double`*  
+<mark style="color:yellow;">`y`</mark> *`double`*  
  *Описание*  
   
 

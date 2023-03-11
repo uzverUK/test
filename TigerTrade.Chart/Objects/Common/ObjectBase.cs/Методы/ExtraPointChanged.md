@@ -9,10 +9,10 @@
 ```csharp
 public virtual void ExtraPointChanged(int index, ObjectPoint op)
 ```
-<mark style="color:yellow;">`index` *`int`*  
+<mark style="color:yellow;">`index`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`op` *`ObjectPoint`*  
+<mark style="color:yellow;">`op`</mark> *`ObjectPoint`*  
  *Описание*  
   
 

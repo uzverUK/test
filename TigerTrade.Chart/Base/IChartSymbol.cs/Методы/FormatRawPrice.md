@@ -9,7 +9,7 @@
 ```csharp
 string FormatRawPrice(long price, bool shortDecimals = false)
 ```
-<mark style="color:yellow;">`price` *`long`*  
+<mark style="color:yellow;">`price`</mark> *`long`*  
  *Описание*  
   
 

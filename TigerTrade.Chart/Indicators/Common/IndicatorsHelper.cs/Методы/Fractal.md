@@ -9,10 +9,10 @@
 ```csharp
 public void Fractal(int n, out double[] up, out double[] down)
 ```
-<mark style="color:yellow;">`double` *`out`*  
+<mark style="color:yellow;">`double`</mark> *`out`*  
  *Описание*  
   
-<mark style="color:yellow;">`double` *`out`*  
+<mark style="color:yellow;">`double`</mark> *`out`*  
  *Описание*  
   
 

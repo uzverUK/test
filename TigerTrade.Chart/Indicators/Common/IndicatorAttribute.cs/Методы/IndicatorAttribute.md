@@ -10,13 +10,13 @@
 public IndicatorAttribute(string id, string name, bool overlay)
 ```
 ### Параметры  
-<mark style="color:yellow;">`id` *`string`*  
+<mark style="color:yellow;">`id`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`name` *`string`*  
+<mark style="color:yellow;">`name`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`overlay` *`bool`*  
+<mark style="color:yellow;">`overlay`</mark> *`bool`*  
  *Описание*  
   
 

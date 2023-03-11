@@ -9,7 +9,7 @@
 ```csharp
 public IRawClusterItem GetItem(long price)
 ```
-<mark style="color:yellow;">`price` *`long`*  
+<mark style="color:yellow;">`price`</mark> *`long`*  
  *Описание*  
   
 

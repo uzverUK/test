@@ -9,7 +9,7 @@
 ```csharp
 public double[] MovingAverage(IndicatorMaType maType, double[] d, int period)
 ```
-<mark style="color:yellow;">`maType` *`IndicatorMaType`*  
+<mark style="color:yellow;">`maType`</mark> *`IndicatorMaType`*  
  *Описание*  
   
 

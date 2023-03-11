@@ -11,7 +11,7 @@ long CorrectSizeFilter(double filter)
 long? CorrectSizeFilter(double? filter)
 ```
 ### Параметры  
-<mark style="color:yellow;">`filter` *`double`*  
+<mark style="color:yellow;">`filter`</mark> *`double`*  
  *Описание*  
   
 

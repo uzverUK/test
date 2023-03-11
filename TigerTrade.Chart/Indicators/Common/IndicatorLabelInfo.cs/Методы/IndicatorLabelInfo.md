@@ -10,10 +10,10 @@
 public IndicatorLabelInfo(double value, XColor color, double? position = null)
 ```
 ### Параметры  
-<mark style="color:yellow;">`value` *`double`*  
+<mark style="color:yellow;">`value`</mark> *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`color` *`XColor`*  
+<mark style="color:yellow;">`color`</mark> *`XColor`*  
  *Описание*  
   
 

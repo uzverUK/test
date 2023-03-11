@@ -10,10 +10,10 @@
 public override void ExtraPointChanged(int index, ObjectPoint op)
 ```
 ### Параметры  
-<mark style="color:yellow;">`index` *`int`*  
+<mark style="color:yellow;">`index`</mark> *`int`*  
  *Описание*  
   
-<mark style="color:yellow;">`op` *`ObjectPoint`*  
+<mark style="color:yellow;">`op`</mark> *`ObjectPoint`*  
  *Описание*  
   
 

@@ -9,10 +9,10 @@
 ```csharp
 string FormatPrice(Decimal price, bool shortDecimals = false)
 ```
-<mark style="color:yellow;">`price` *`Decimal`*  
+<mark style="color:yellow;">`price`</mark> *`Decimal`*  
  *Описание*  
   
-<mark style="color:yellow;">`shortDecimals` *`bool`*  
+<mark style="color:yellow;">`shortDecimals`</mark> *`bool`*  
  *Описание*  
   
 

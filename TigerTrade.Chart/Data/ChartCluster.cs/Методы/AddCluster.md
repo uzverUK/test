@@ -10,7 +10,7 @@
 public void AddCluster(IChartCluster cluster)
 ```
 ### Параметры  
-<mark style="color:yellow;">`cluster` *`IChartCluster`*  
+<mark style="color:yellow;">`cluster`</mark> *`IChartCluster`*  
  *Описание*  
   
 

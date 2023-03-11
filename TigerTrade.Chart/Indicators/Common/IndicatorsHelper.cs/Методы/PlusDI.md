@@ -9,7 +9,7 @@
 ```csharp
 public double[] PlusDI(int period)
 ```
-<mark style="color:yellow;">`period` *`int`*  
+<mark style="color:yellow;">`period`</mark> *`int`*  
  *Описание*  
   
 

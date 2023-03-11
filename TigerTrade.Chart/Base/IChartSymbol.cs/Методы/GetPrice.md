@@ -9,7 +9,7 @@
 ```csharp
 Decimal GetPrice(long rawPrice)
 ```
-<mark style="color:yellow;">`rawPrice` *`long`*  
+<mark style="color:yellow;">`rawPrice`</mark> *`long`*  
  *Описание*  
   
 

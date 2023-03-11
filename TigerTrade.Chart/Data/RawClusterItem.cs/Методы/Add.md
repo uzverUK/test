@@ -10,7 +10,7 @@
 public void Add(IRawClusterItem item)
 ```
 ### Параметры  
-<mark style="color:yellow;">`item` *`IRawClusterItem`*  
+<mark style="color:yellow;">`item`</mark> *`IRawClusterItem`*  
  *Описание*  
   
 

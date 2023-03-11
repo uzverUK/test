@@ -9,7 +9,7 @@
 ```csharp
 public virtual void DrawControlPoints(DxVisualQueue visual)
 ```
-<mark style="color:yellow;">`visual` *`DxVisualQueue`*  
+<mark style="color:yellow;">`visual`</mark> *`DxVisualQueue`*  
  *Описание*  
   
 

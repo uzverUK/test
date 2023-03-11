@@ -9,7 +9,7 @@
 ```csharp
 public double[] CMF(int n)
 ```
-<mark style="color:yellow;">`n` *`int`*  
+<mark style="color:yellow;">`n`</mark> *`int`*  
  *Описание*  
   
 

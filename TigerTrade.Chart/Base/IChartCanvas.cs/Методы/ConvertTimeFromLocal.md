@@ -10,7 +10,7 @@
 DateTime ConvertTimeFromLocal(DateTime dt)
 ```
 ### Параметры  
-<mark style="color:yellow;">`dt` *`DateTime`*  
+<mark style="color:yellow;">`dt`</mark> *`DateTime`*  
  *Описание*  
   
 

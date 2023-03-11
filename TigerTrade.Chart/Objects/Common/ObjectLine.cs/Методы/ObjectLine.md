@@ -12,13 +12,13 @@ public ObjectLine(double value, XColor color)
 public ObjectLine(ObjectLine line)
 ```
 ### Параметры  
-<mark style="color:yellow;">`value` *`double`*  
+<mark style="color:yellow;">`value`</mark> *`double`*  
  *Описание*  
   
-<mark style="color:yellow;">`color` *`XColor`*  
+<mark style="color:yellow;">`color`</mark> *`XColor`*  
  *Описание*  
   
-<mark style="color:yellow;">`line` *`ObjectLine`*  
+<mark style="color:yellow;">`line`</mark> *`ObjectLine`*  
  *Описание*  
   
 

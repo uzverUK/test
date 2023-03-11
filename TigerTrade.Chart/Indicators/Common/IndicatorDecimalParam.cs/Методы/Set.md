@@ -9,13 +9,13 @@
 ```csharp
 public bool Set(string key, Decimal value, Decimal minValue = -79228162514264337593543950335M, Decimal maxValue = 79228162514264337593543950335M)
 ```
-<mark style="color:yellow;">`key` *`string`*  
+<mark style="color:yellow;">`key`</mark> *`string`*  
  *Описание*  
   
-<mark style="color:yellow;">`minValue` *`Decimal`*  
+<mark style="color:yellow;">`minValue`</mark> *`Decimal`*  
  *Описание*  
   
-<mark style="color:yellow;">`maxValue` *`Decimal`*  
+<mark style="color:yellow;">`maxValue`</mark> *`Decimal`*  
  *Описание*  
   
 

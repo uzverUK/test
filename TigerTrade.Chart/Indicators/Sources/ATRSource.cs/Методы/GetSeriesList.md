@@ -9,7 +9,7 @@
 ```csharp
 public override IEnumerable<string> GetSeriesList()
 ```
-<mark style="color:yellow;">`List` *`new`*  
+<mark style="color:yellow;">`List`</mark> *`new`*  
  *Описание*  
   
 

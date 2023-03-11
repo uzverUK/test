@@ -9,7 +9,7 @@
 ```csharp
 double GetXScreen(double x)
 ```
-<mark style="color:yellow;">`x` *`double`*  
+<mark style="color:yellow;">`x`</mark> *`double`*  
  *Описание*  
   
 
