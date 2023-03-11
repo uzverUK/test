@@ -1,6 +1,6 @@
 
 # public interface IChartCanvas
-<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Base](../../TigerTrade.Chart/Base.md)
+`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Base](../../TigerTrade.Chart/Base.md)
 
 
 

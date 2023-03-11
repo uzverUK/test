@@ -1,6 +1,6 @@
 
 # ChartAlertExecution.cs
-<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Alerts](../../../../TigerTrade.Chart/Alerts.md)
+`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Alerts](../../../../TigerTrade.Chart/Alerts.md)
 
 
 

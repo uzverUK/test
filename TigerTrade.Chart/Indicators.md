@@ -1,7 +1,7 @@
 
 # Indicators
 
-<mark style="color:purple;">`namespace` [TigerTrade.Chart](../TigerTrade.Chart.md).Indicators
+`namespace` [TigerTrade.Chart](../TigerTrade.Chart.md).Indicators
 
 Описание
 

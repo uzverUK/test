@@ -1,7 +1,7 @@
 
 # Enums
 
-<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Enums
+`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Enums
 
 Описание
 

@@ -1,6 +1,6 @@
 
 # ChartPeriodType.cs
-<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Base](../../../../../TigerTrade.Chart/Base.md).[Enums](../../../../../TigerTrade.Chart/Base/Enums.md)
+`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Base](../../../../../TigerTrade.Chart/Base.md).[Enums](../../../../../TigerTrade.Chart/Base/Enums.md)
 
 
 

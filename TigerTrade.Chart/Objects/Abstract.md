@@ -1,7 +1,7 @@
 
 # Abstract
 
-<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Objects](../../TigerTrade.Chart/Objects.md).Abstract
+`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Objects](../../TigerTrade.Chart/Objects.md).Abstract
 
 Описание
 

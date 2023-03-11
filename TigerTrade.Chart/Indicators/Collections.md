@@ -1,7 +1,7 @@
 
 # Collections
 
-<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Collections
+`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Collections
 
 Описание
 

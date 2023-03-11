@@ -1,7 +1,7 @@
 
 # Common
 
-<mark style="color:purple;">`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Common
+`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Common
 
 Описание
 
