@@ -1,0 +1,18 @@
+# MarginSell
+
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [IRawSecurity](../../IRawSecurity.cs.md)
+
+Описание
+
+### Синтаксис
+
+```csharp
+double MarginSell { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

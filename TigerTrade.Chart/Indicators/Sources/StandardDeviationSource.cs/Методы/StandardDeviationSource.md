@@ -1,0 +1,18 @@
+# StandardDeviationSource
+
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Sources](../../../Sources.md)\
+`class` [StandardDeviationSource](../../StandardDeviationSource.cs.md)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public StandardDeviationSource()
+```
+
+### Пример
+
+```csharp
+// example
+```

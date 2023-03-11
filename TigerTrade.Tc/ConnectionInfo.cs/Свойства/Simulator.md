@@ -1,0 +1,18 @@
+# Simulator
+
+`namespace` [TigerTrade.Tc](../../../TigerTrade.Tc.md)\
+`class` [ConnectionInfo](../../ConnectionInfo.cs.md)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public bool Simulator { get; }
+```
+
+### Пример
+
+```csharp
+// example
+```

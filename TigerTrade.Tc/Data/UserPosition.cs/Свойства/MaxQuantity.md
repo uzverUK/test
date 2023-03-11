@@ -1,0 +1,18 @@
+# MaxQuantity
+
+`namespace` [TigerTrade.Tc](../../../../TigerTrade.Tc.md).[Data](../../../Data.md)\
+`class` [UserPosition](../../UserPosition.cs.md)
+
+Описание
+
+### Синтаксис
+
+```csharp
+public long MaxQuantity { get; set; }
+```
+
+### Пример
+
+```csharp
+// example
+```
