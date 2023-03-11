@@ -1,19 +1,18 @@
+# WilliamsADSource
 
-# WilliamsADSource.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [WilliamsADSource](../../WilliamsADSource.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Sources](../../../Sources.md)\
+`class` [WilliamsADSource](../../WilliamsADSource.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public WilliamsADSource()
 ```
 
+### Пример
 
-### Пример  
 ```csharp
 // example
 ```
-                    
-                    

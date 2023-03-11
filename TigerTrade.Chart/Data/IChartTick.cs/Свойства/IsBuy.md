@@ -1,15 +1,18 @@
+# IsBuy
 
-# IChartTick.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartTick](../../IChartTick.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [IChartTick](../../IChartTick.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 bool IsBuy { get; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

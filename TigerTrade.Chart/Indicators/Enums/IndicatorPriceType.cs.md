@@ -1,26 +1,22 @@
+# IndicatorPriceType
 
-# IndicatorPriceType.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Enums](../../../../../TigerTrade.Chart/Indicators/Enums.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Enums](../Enums.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum IndicatorPriceType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Open` | *Описание* |
-| ` High` | *Описание* |
-| ` Low` | *Описание* |
-| ` Close` | *Описание* |
-| ` Median` | *Описание* |
-| ` Typical` | *Описание* |
 
-
-
+| Название  | Описание   |
+| --------- | ---------- |
+| `Open`    | _Описание_ |
+| `High`    | _Описание_ |
+| `Low`     | _Описание_ |
+| `Close`   | _Описание_ |
+| `Median`  | _Описание_ |
+| `Typical` | _Описание_ |

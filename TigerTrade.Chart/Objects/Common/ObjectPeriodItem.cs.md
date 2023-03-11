@@ -1,30 +1,27 @@
+# ObjectPeriodItem
 
-# public sealed class ObjectPeriodItem
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Common](../../../TigerTrade.Chart/Objects/Common.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[Common](../Common.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class ObjectPeriodItem
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`CheckInterval`](./ObjectPeriodItem.cs/Методы/CheckInterval.md) | *Описание* |
-| [`Equals`](./ObjectPeriodItem.cs/Методы/Equals.md) | *Описание* |
-| [`ObjectPeriodItem`](./ObjectPeriodItem.cs/Методы/ObjectPeriodItem.md) | *Описание* |
+
+| Название                                                             | Описание   |
+| -------------------------------------------------------------------- | ---------- |
+| [`CheckInterval`](ObjectPeriodItem.cs/Методы/CheckInterval.md)       | _Описание_ |
+| [`Equals`](ObjectPeriodItem.cs/Методы/Equals.md)                     | _Описание_ |
+| [`ObjectPeriodItem`](ObjectPeriodItem.cs/Методы/ObjectPeriodItem.md) | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`CheckRange`](./ObjectPeriodItem.cs/Свойства/CheckRange.md) | *Описание* |
-| [`Max`](./ObjectPeriodItem.cs/Свойства/Max.md) | *Описание* |
-| [`Min`](./ObjectPeriodItem.cs/Свойства/Min.md) | *Описание* |
 
-
-
+| Название                                                   | Описание   |
+| ---------------------------------------------------------- | ---------- |
+| [`CheckRange`](ObjectPeriodItem.cs/Свойства/CheckRange.md) | _Описание_ |
+| [`Max`](ObjectPeriodItem.cs/Свойства/Max.md)               | _Описание_ |
+| [`Min`](ObjectPeriodItem.cs/Свойства/Min.md)               | _Описание_ |

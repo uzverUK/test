@@ -1,30 +1,27 @@
+# ObjectPeriods
 
-# public sealed class ObjectPeriods
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Common](../../../TigerTrade.Chart/Objects/Common.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[Common](../Common.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class ObjectPeriods
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`CheckPeriod`](./ObjectPeriods.cs/Методы/CheckPeriod.md) | *Описание* |
-| [`Copy`](./ObjectPeriods.cs/Методы/Copy.md) | *Описание* |
-| [`Equals`](./ObjectPeriods.cs/Методы/Equals.md) | *Описание* |
-| [`ObjectPeriods`](./ObjectPeriods.cs/Методы/ObjectPeriods.md) | *Описание* |
-| [`Update`](./ObjectPeriods.cs/Методы/Update.md) | *Описание* |
+
+| Название                                                    | Описание   |
+| ----------------------------------------------------------- | ---------- |
+| [`CheckPeriod`](ObjectPeriods.cs/Методы/CheckPeriod.md)     | _Описание_ |
+| [`Copy`](ObjectPeriods.cs/Методы/Copy.md)                   | _Описание_ |
+| [`Equals`](ObjectPeriods.cs/Методы/Equals.md)               | _Описание_ |
+| [`ObjectPeriods`](ObjectPeriods.cs/Методы/ObjectPeriods.md) | _Описание_ |
+| [`Update`](ObjectPeriods.cs/Методы/Update.md)               | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`Periods`](./ObjectPeriods.cs/Свойства/Periods.md) | *Описание* |
 
-
-
+| Название                                          | Описание   |
+| ------------------------------------------------- | ---------- |
+| [`Periods`](ObjectPeriods.cs/Свойства/Periods.md) | _Описание_ |

@@ -1,22 +1,21 @@
+# GetValues
 
-# IndicatorBase.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorBase](../../IndicatorBase.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorBase](../../IndicatorBase.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public virtual List<IndicatorValueInfo> GetValues(int cursorPos)
 ```
-<mark style="color:yellow;">`cursorPos`</mark> <mark style="color:red;">*`int`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`cursorPos`</mark> _<mark style="color:red;">`int`</mark>_\
+_Описание_
 
-### Пример  
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

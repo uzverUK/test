@@ -1,35 +1,35 @@
-
 # Common
 
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Common
+`namespace` [TigerTrade.Chart](../../).[Indicators](../Indicators.md).Common
 
 Описание
 
-
 ### Интерфейсы
-| Название | Описание |
-| --- | --- |
-| [`IContainsConditions`](./Common/IContainsConditions.cs.md) | *Описание* |
-| [`IContainsSelection`](./Common/IContainsSelection.cs.md) | *Описание* |
+
+| Название                                                  | Описание   |
+| --------------------------------------------------------- | ---------- |
+| [`IContainsConditions`](Common/IContainsConditions.cs.md) | _Описание_ |
+| [`IContainsSelection`](Common/IContainsSelection.cs.md)   | _Описание_ |
 
 ### Классы
-| Название | Описание |
-| --- | --- |
-| [`IndicatorAttribute`](./Common/IndicatorAttribute.cs.md) | *Описание* |
-| [`IndicatorBase`](./Common/IndicatorBase.cs.md) | *Описание* |
-| [`IndicatorDecimalParam`](./Common/IndicatorDecimalParam.cs.md) | *Описание* |
-| [`IndicatorDoubleParam`](./Common/IndicatorDoubleParam.cs.md) | *Описание* |
-| [`IndicatorIntParam`](./Common/IndicatorIntParam.cs.md) | *Описание* |
-| [`IndicatorLabelInfo`](./Common/IndicatorLabelInfo.cs.md) | *Описание* |
-| [`IndicatorNullDecimalParam`](./Common/IndicatorNullDecimalParam.cs.md) | *Описание* |
-| [`IndicatorNullDoubleParam`](./Common/IndicatorNullDoubleParam.cs.md) | *Описание* |
-| [`IndicatorNullIntParam`](./Common/IndicatorNullIntParam.cs.md) | *Описание* |
-| [`IndicatorParam1`](./Common/IndicatorParam1.cs.md) | *Описание* |
-| [`IndicatorSeriesData`](./Common/IndicatorSeriesData.cs.md) | *Описание* |
-| [`IndicatorSeriesStyle`](./Common/IndicatorSeriesStyle.cs.md) | *Описание* |
-| [`IndicatorSettingsSlider`](./Common/IndicatorSettingsSlider.cs.md) | *Описание* |
-| [`IndicatorSourceAttribute`](./Common/IndicatorSourceAttribute.cs.md) | *Описание* |
-| [`IndicatorSourceBase`](./Common/IndicatorSourceBase.cs.md) | *Описание* |
-| [`IndicatorTitleInfo`](./Common/IndicatorTitleInfo.cs.md) | *Описание* |
-| [`IndicatorValueInfo`](./Common/IndicatorValueInfo.cs.md) | *Описание* |
-| [`IndicatorsHelper`](./Common/IndicatorsHelper.cs.md) | *Описание* |
+
+| Название                                                              | Описание   |
+| --------------------------------------------------------------------- | ---------- |
+| [`IndicatorAttribute`](Common/IndicatorAttribute.cs.md)               | _Описание_ |
+| [`IndicatorBase`](Common/IndicatorBase.cs.md)                         | _Описание_ |
+| [`IndicatorDecimalParam`](Common/IndicatorDecimalParam.cs.md)         | _Описание_ |
+| [`IndicatorDoubleParam`](Common/IndicatorDoubleParam.cs.md)           | _Описание_ |
+| [`IndicatorIntParam`](Common/IndicatorIntParam.cs.md)                 | _Описание_ |
+| [`IndicatorLabelInfo`](Common/IndicatorLabelInfo.cs.md)               | _Описание_ |
+| [`IndicatorNullDecimalParam`](Common/IndicatorNullDecimalParam.cs.md) | _Описание_ |
+| [`IndicatorNullDoubleParam`](Common/IndicatorNullDoubleParam.cs.md)   | _Описание_ |
+| [`IndicatorNullIntParam`](Common/IndicatorNullIntParam.cs.md)         | _Описание_ |
+| [`IndicatorParam1`](Common/IndicatorParam1.cs.md)                     | _Описание_ |
+| [`IndicatorSeriesData`](Common/IndicatorSeriesData.cs.md)             | _Описание_ |
+| [`IndicatorSeriesStyle`](Common/IndicatorSeriesStyle.cs.md)           | _Описание_ |
+| [`IndicatorSettingsSlider`](Common/IndicatorSettingsSlider.cs.md)     | _Описание_ |
+| [`IndicatorSourceAttribute`](Common/IndicatorSourceAttribute.cs.md)   | _Описание_ |
+| [`IndicatorSourceBase`](Common/IndicatorSourceBase.cs.md)             | _Описание_ |
+| [`IndicatorTitleInfo`](Common/IndicatorTitleInfo.cs.md)               | _Описание_ |
+| [`IndicatorValueInfo`](Common/IndicatorValueInfo.cs.md)               | _Описание_ |
+| [`IndicatorsHelper`](Common/IndicatorsHelper.cs.md)                   | _Описание_ |

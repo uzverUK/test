@@ -1,81 +1,77 @@
+# CandlePatternSourcePatternType
 
-# CandlePatternSourcePatternType.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Sources](../Sources.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum CandlePatternSourcePatternType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` TwoCrows` | *Описание* |
-| ` ThreeBlackCrows` | *Описание* |
-| ` ThreeInsideUpDown` | *Описание* |
-| ` ThreeLineStrike` | *Описание* |
-| ` ThreeOutsideUpDown` | *Описание* |
-| ` ThreeStarsInTheSouth` | *Описание* |
-| ` ThreeAdvancingWhiteSoldiers` | *Описание* |
-| ` AbandonedBaby` | *Описание* |
-| ` AdvanceBlock` | *Описание* |
-| ` Belthold` | *Описание* |
-| ` Breakaway` | *Описание* |
-| ` ClosingMarubozu` | *Описание* |
-| ` ConcealingBabySwallow` | *Описание* |
-| ` Counterattack` | *Описание* |
-| ` DarkCloudCover` | *Описание* |
-| ` Doji` | *Описание* |
-| ` DojiStar` | *Описание* |
-| ` DragonflyDoji` | *Описание* |
-| ` EngulfingPattern` | *Описание* |
-| ` EveningDojiStar` | *Описание* |
-| ` EveningStar` | *Описание* |
-| ` UpDownGap` | *Описание* |
-| ` GravestoneDoji` | *Описание* |
-| ` Hammer` | *Описание* |
-| ` HangingMan` | *Описание* |
-| ` HaramiPattern` | *Описание* |
-| ` HaramiCrossPattern` | *Описание* |
-| ` HighWaveCandle` | *Описание* |
-| ` HikkakePattern` | *Описание* |
-| ` ModifiedHikkakePattern` | *Описание* |
-| ` HomingPigeon` | *Описание* |
-| ` IdenticalThreeCrows` | *Описание* |
-| ` InNeckPattern` | *Описание* |
-| ` InvertedHammer` | *Описание* |
-| ` Kicking` | *Описание* |
-| ` KickingBullBear` | *Описание* |
-| ` LadderBottom` | *Описание* |
-| ` LongLeggedDoji` | *Описание* |
-| ` LongLineCandle` | *Описание* |
-| ` Marubozu` | *Описание* |
-| ` MatchingLow` | *Описание* |
-| ` MatHold` | *Описание* |
-| ` MorningDojiStar` | *Описание* |
-| ` MorningStar` | *Описание* |
-| ` OnNeckPattern` | *Описание* |
-| ` PiercingPattern` | *Описание* |
-| ` RickshawMan` | *Описание* |
-| ` RisingFallingThreeMethods` | *Описание* |
-| ` SeparatingLines` | *Описание* |
-| ` ShootingStar` | *Описание* |
-| ` ShortLineCandle` | *Описание* |
-| ` SpinningTop` | *Описание* |
-| ` StalledPattern` | *Описание* |
-| ` StickSandwich` | *Описание* |
-| ` Takuri` | *Описание* |
-| ` TasukiGap` | *Описание* |
-| ` ThrustingPattern` | *Описание* |
-| ` TristarPattern` | *Описание* |
-| ` Unique3River` | *Описание* |
-| ` UpsideGapTwoCrows` | *Описание* |
-| ` UpsideDownsideGapThreeMethods` | *Описание* |
 
-
-
+| Название                        | Описание   |
+| ------------------------------- | ---------- |
+| `TwoCrows`                      | _Описание_ |
+| `ThreeBlackCrows`               | _Описание_ |
+| `ThreeInsideUpDown`             | _Описание_ |
+| `ThreeLineStrike`               | _Описание_ |
+| `ThreeOutsideUpDown`            | _Описание_ |
+| `ThreeStarsInTheSouth`          | _Описание_ |
+| `ThreeAdvancingWhiteSoldiers`   | _Описание_ |
+| `AbandonedBaby`                 | _Описание_ |
+| `AdvanceBlock`                  | _Описание_ |
+| `Belthold`                      | _Описание_ |
+| `Breakaway`                     | _Описание_ |
+| `ClosingMarubozu`               | _Описание_ |
+| `ConcealingBabySwallow`         | _Описание_ |
+| `Counterattack`                 | _Описание_ |
+| `DarkCloudCover`                | _Описание_ |
+| `Doji`                          | _Описание_ |
+| `DojiStar`                      | _Описание_ |
+| `DragonflyDoji`                 | _Описание_ |
+| `EngulfingPattern`              | _Описание_ |
+| `EveningDojiStar`               | _Описание_ |
+| `EveningStar`                   | _Описание_ |
+| `UpDownGap`                     | _Описание_ |
+| `GravestoneDoji`                | _Описание_ |
+| `Hammer`                        | _Описание_ |
+| `HangingMan`                    | _Описание_ |
+| `HaramiPattern`                 | _Описание_ |
+| `HaramiCrossPattern`            | _Описание_ |
+| `HighWaveCandle`                | _Описание_ |
+| `HikkakePattern`                | _Описание_ |
+| `ModifiedHikkakePattern`        | _Описание_ |
+| `HomingPigeon`                  | _Описание_ |
+| `IdenticalThreeCrows`           | _Описание_ |
+| `InNeckPattern`                 | _Описание_ |
+| `InvertedHammer`                | _Описание_ |
+| `Kicking`                       | _Описание_ |
+| `KickingBullBear`               | _Описание_ |
+| `LadderBottom`                  | _Описание_ |
+| `LongLeggedDoji`                | _Описание_ |
+| `LongLineCandle`                | _Описание_ |
+| `Marubozu`                      | _Описание_ |
+| `MatchingLow`                   | _Описание_ |
+| `MatHold`                       | _Описание_ |
+| `MorningDojiStar`               | _Описание_ |
+| `MorningStar`                   | _Описание_ |
+| `OnNeckPattern`                 | _Описание_ |
+| `PiercingPattern`               | _Описание_ |
+| `RickshawMan`                   | _Описание_ |
+| `RisingFallingThreeMethods`     | _Описание_ |
+| `SeparatingLines`               | _Описание_ |
+| `ShootingStar`                  | _Описание_ |
+| `ShortLineCandle`               | _Описание_ |
+| `SpinningTop`                   | _Описание_ |
+| `StalledPattern`                | _Описание_ |
+| `StickSandwich`                 | _Описание_ |
+| `Takuri`                        | _Описание_ |
+| `TasukiGap`                     | _Описание_ |
+| `ThrustingPattern`              | _Описание_ |
+| `TristarPattern`                | _Описание_ |
+| `Unique3River`                  | _Описание_ |
+| `UpsideGapTwoCrows`             | _Описание_ |
+| `UpsideDownsideGapThreeMethods` | _Описание_ |

@@ -1,23 +1,23 @@
+# GetSeries
 
-# CumulativeDeltaSource.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [CumulativeDeltaSource](../../CumulativeDeltaSource.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Sources](../../../Sources.md)\
+`class` [CumulativeDeltaSource](../../CumulativeDeltaSource.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public override double[] GetSeries(IndicatorsHelper helper)
 ```
-### Параметры  
-<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`helper`</mark> _<mark style="color:red;">`IndicatorsHelper`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

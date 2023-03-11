@@ -1,32 +1,29 @@
+# VerticalLineObject
 
-# public sealed class VerticalLineObject : LineObjectBase
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class VerticalLineObject : LineObjectBase
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`CheckAlert`](./VerticalLineObject.cs/Методы/CheckAlert.md) | *Описание* |
-| [`CopyTemplate`](./VerticalLineObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./VerticalLineObject.cs/Методы/Draw.md) | *Описание* |
-| [`DrawControlPoints`](./VerticalLineObject.cs/Методы/DrawControlPoints.md) | *Описание* |
-| [`InObject`](./VerticalLineObject.cs/Методы/InObject.md) | *Описание* |
-| [`VerticalLineObject`](./VerticalLineObject.cs/Методы/VerticalLineObject.md) | *Описание* |
+
+| Название                                                                   | Описание   |
+| -------------------------------------------------------------------------- | ---------- |
+| [`CheckAlert`](VerticalLineObject.cs/Методы/CheckAlert.md)                 | _Описание_ |
+| [`CopyTemplate`](VerticalLineObject.cs/Методы/CopyTemplate.md)             | _Описание_ |
+| [`Draw`](VerticalLineObject.cs/Методы/Draw.md)                             | _Описание_ |
+| [`DrawControlPoints`](VerticalLineObject.cs/Методы/DrawControlPoints.md)   | _Описание_ |
+| [`InObject`](VerticalLineObject.cs/Методы/InObject.md)                     | _Описание_ |
+| [`VerticalLineObject`](VerticalLineObject.cs/Методы/VerticalLineObject.md) | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`Alert`](./VerticalLineObject.cs/Свойства/Alert.md) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](./VerticalLineObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
 
-
-
+| Название                                                                         | Описание   |
+| -------------------------------------------------------------------------------- | ---------- |
+| [`Alert`](VerticalLineObject.cs/Свойства/Alert.md)                               | _Описание_ |
+| [`xsuJlZ3bylFkXacpNF53`](VerticalLineObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | _Описание_ |

@@ -1,22 +1,21 @@
+# CopyTheme
 
-# ChartLevel.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../TigerTrade.Chart/Indicators/Drawings.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartLevel](../../ChartLevel.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Drawings](../../../Drawings.md)\
+`class` [ChartLevel](../../ChartLevel.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public void CopyTheme(ChartLevel chartLevel)
 ```
-<mark style="color:yellow;">`chartLevel`</mark> <mark style="color:red;">*`ChartLevel`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`chartLevel`</mark> _<mark style="color:red;">`ChartLevel`</mark>_\
+_Описание_
 
-### Пример  
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

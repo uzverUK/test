@@ -1,15 +1,18 @@
+# Period
 
-# ChaikinMoneyFlowSource.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChaikinMoneyFlowSource](../../ChaikinMoneyFlowSource.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Sources](../../../Sources.md)\
+`class` [ChaikinMoneyFlowSource](../../ChaikinMoneyFlowSource.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public int Period { get; set; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

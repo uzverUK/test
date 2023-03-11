@@ -1,25 +1,24 @@
+# Draw
 
-# FibonacciTimeZonesObject.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [FibonacciTimeZonesObject](../../FibonacciTimeZonesObject.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Objects](../../../../Objects.md).[List](../../../List.md)\
+`class` [FibonacciTimeZonesObject](../../FibonacciTimeZonesObject.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
 ```
-<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`visual`</mark> _<mark style="color:red;">`DxVisualQueue`</mark>_\
+_Описание_
 
-### Пример  
+<mark style="color:yellow;">`System`</mark> _<mark style="color:red;">`ref`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

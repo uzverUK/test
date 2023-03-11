@@ -1,19 +1,18 @@
+# CheckAlert
 
-# LineObject.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [LineObject](../../LineObject.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Objects](../../../../Objects.md).[List](../../../List.md)\
+`class` [LineObject](../../LineObject.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> indicators)
 ```
 
+### Пример
 
-### Пример  
 ```csharp
 // example
 ```
-                    
-                    

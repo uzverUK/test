@@ -1,25 +1,24 @@
+# AddTick
 
-# RawCluster.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [RawCluster](../../RawCluster.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [RawCluster](../../RawCluster.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public void AddTick(IRawTick tick, int scale)
 ```
-<mark style="color:yellow;">`tick`</mark> <mark style="color:red;">*`IRawTick`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`scale`</mark> <mark style="color:red;">*`int`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`tick`</mark> _<mark style="color:red;">`IRawTick`</mark>_\
+_Описание_
 
-### Пример  
+<mark style="color:yellow;">`scale`</mark> _<mark style="color:red;">`int`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

@@ -1,15 +1,18 @@
+# Volume
 
-# RawCluster.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [RawCluster](../../RawCluster.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [RawCluster](../../RawCluster.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public long Volume { get; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

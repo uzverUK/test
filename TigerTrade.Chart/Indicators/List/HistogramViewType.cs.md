@@ -1,24 +1,20 @@
+# HistogramViewType
 
-# HistogramViewType.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[List](../../../../../TigerTrade.Chart/Indicators/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum HistogramViewType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Volume` | *Описание* |
-| ` Trades` | *Описание* |
-| ` Delta` | *Описание* |
-| ` BidAsk` | *Описание* |
 
-
-
+| Название | Описание   |
+| -------- | ---------- |
+| `Volume` | _Описание_ |
+| `Trades` | _Описание_ |
+| `Delta`  | _Описание_ |
+| `BidAsk` | _Описание_ |

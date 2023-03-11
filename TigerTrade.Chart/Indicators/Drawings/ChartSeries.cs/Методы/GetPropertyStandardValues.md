@@ -1,23 +1,23 @@
+# GetPropertyStandardValues
 
-# ChartSeries.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../TigerTrade.Chart/Indicators/Drawings.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartSeries](../../ChartSeries.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Drawings](../../../Drawings.md)\
+`class` [ChartSeries](../../ChartSeries.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public IEnumerable<object> GetPropertyStandardValues(string propertyName)
 ```
-### Параметры  
-<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`propertyName`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

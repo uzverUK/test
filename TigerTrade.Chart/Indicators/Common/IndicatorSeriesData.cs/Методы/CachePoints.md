@@ -1,23 +1,23 @@
+# CachePoints
 
-# IndicatorSeriesData.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorSeriesData](../../IndicatorSeriesData.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorSeriesData](../../IndicatorSeriesData.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public void CachePoints(Point[] points, string pointsName)
 ```
-### Параметры  
-<mark style="color:yellow;">`pointsName`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`pointsName`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

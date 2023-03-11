@@ -1,26 +1,26 @@
+# ChartAlertInfo
 
-# ChartAlertInfo.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Alerts](../../../../TigerTrade.Chart/Alerts.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartAlertInfo](../../ChartAlertInfo.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Alerts](../../../Alerts.md)\
+`class` [ChartAlertInfo](../../ChartAlertInfo.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public ChartAlertInfo(ChartAlertSettings settings, string message)
 ```
-### Параметры  
-<mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`settings`</mark> _<mark style="color:red;">`ChartAlertSettings`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`message`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

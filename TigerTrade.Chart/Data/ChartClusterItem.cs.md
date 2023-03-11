@@ -1,37 +1,34 @@
+# ChartClusterItem
 
-# public sealed class ChartClusterItem : IChartClusterItem
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
-
-
+`namespace` [TigerTrade.Chart](../../).[Data](../Data.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class ChartClusterItem : IChartClusterItem
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`Add`](./ChartClusterItem.cs/Методы/Add.md) | *Описание* |
-| [`ChartClusterItem`](./ChartClusterItem.cs/Методы/ChartClusterItem.md) | *Описание* |
+
+| Название                                                             | Описание   |
+| -------------------------------------------------------------------- | ---------- |
+| [`Add`](ChartClusterItem.cs/Методы/Add.md)                           | _Описание_ |
+| [`ChartClusterItem`](ChartClusterItem.cs/Методы/ChartClusterItem.md) | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`Ask`](./ChartClusterItem.cs/Свойства/Ask.md) | *Описание* |
-| [`AskTrades`](./ChartClusterItem.cs/Свойства/AskTrades.md) | *Описание* |
-| [`Bid`](./ChartClusterItem.cs/Свойства/Bid.md) | *Описание* |
-| [`BidTrades`](./ChartClusterItem.cs/Свойства/BidTrades.md) | *Описание* |
-| [`Delta`](./ChartClusterItem.cs/Свойства/Delta.md) | *Описание* |
-| [`OpenPos`](./ChartClusterItem.cs/Свойства/OpenPos.md) | *Описание* |
-| [`OpenPosAsk`](./ChartClusterItem.cs/Свойства/OpenPosAsk.md) | *Описание* |
-| [`OpenPosBid`](./ChartClusterItem.cs/Свойства/OpenPosBid.md) | *Описание* |
-| [`Price`](./ChartClusterItem.cs/Свойства/Price.md) | *Описание* |
-| [`Trades`](./ChartClusterItem.cs/Свойства/Trades.md) | *Описание* |
-| [`Volume`](./ChartClusterItem.cs/Свойства/Volume.md) | *Описание* |
 
-
-
+| Название                                                   | Описание   |
+| ---------------------------------------------------------- | ---------- |
+| [`Ask`](ChartClusterItem.cs/Свойства/Ask.md)               | _Описание_ |
+| [`AskTrades`](ChartClusterItem.cs/Свойства/AskTrades.md)   | _Описание_ |
+| [`Bid`](ChartClusterItem.cs/Свойства/Bid.md)               | _Описание_ |
+| [`BidTrades`](ChartClusterItem.cs/Свойства/BidTrades.md)   | _Описание_ |
+| [`Delta`](ChartClusterItem.cs/Свойства/Delta.md)           | _Описание_ |
+| [`OpenPos`](ChartClusterItem.cs/Свойства/OpenPos.md)       | _Описание_ |
+| [`OpenPosAsk`](ChartClusterItem.cs/Свойства/OpenPosAsk.md) | _Описание_ |
+| [`OpenPosBid`](ChartClusterItem.cs/Свойства/OpenPosBid.md) | _Описание_ |
+| [`Price`](ChartClusterItem.cs/Свойства/Price.md)           | _Описание_ |
+| [`Trades`](ChartClusterItem.cs/Свойства/Trades.md)         | _Описание_ |
+| [`Volume`](ChartClusterItem.cs/Свойства/Volume.md)         | _Описание_ |

@@ -1,25 +1,24 @@
+# CopyTemplate
 
-# IconObject.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IconObject](../../IconObject.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Objects](../../../../Objects.md).[List](../../../List.md)\
+`class` [IconObject](../../IconObject.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```
-<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`objectBase`</mark> _<mark style="color:red;">`ObjectBase`</mark>_\
+_Описание_
 
-### Пример  
+<mark style="color:yellow;">`style`</mark> _<mark style="color:red;">`bool`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

@@ -1,26 +1,26 @@
+# IndicatorLabelInfo
 
-# IndicatorLabelInfo.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorLabelInfo](../../IndicatorLabelInfo.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorLabelInfo](../../IndicatorLabelInfo.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public IndicatorLabelInfo(double value, XColor color, double? position = null)
 ```
-### Параметры  
-<mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`double`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`value`</mark> _<mark style="color:red;">`double`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`color`</mark> _<mark style="color:red;">`XColor`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

@@ -1,22 +1,18 @@
+# DepthOfMarketScaleAlignment
 
-# DepthOfMarketScaleAlignment.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[List](../../../../../TigerTrade.Chart/Indicators/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum DepthOfMarketScaleAlignment
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Left` | *Описание* |
-| ` Right` | *Описание* |
 
-
-
+| Название | Описание   |
+| -------- | ---------- |
+| `Left`   | _Описание_ |
+| `Right`  | _Описание_ |

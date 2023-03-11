@@ -1,12 +1,11 @@
-
 # Collections
 
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Collections
+`namespace` [TigerTrade.Chart](../../).[Indicators](../Indicators.md).Collections
 
 Описание
 
-
 ### Классы
-| Название | Описание |
-| --- | --- |
-| [`IndicatorSeries`](./Collections/IndicatorSeries.cs.md) | *Описание* |
+
+| Название                                               | Описание   |
+| ------------------------------------------------------ | ---------- |
+| [`IndicatorSeries`](Collections/IndicatorSeries.cs.md) | _Описание_ |

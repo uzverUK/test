@@ -1,23 +1,19 @@
+# ChartSeriesColorSplit
 
-# ChartSeriesColorSplit.cs
-`namespace` [TigerTrade.Chart](../../../../../../TigerTrade.Chart.md).[Indicators](../../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../../TigerTrade.Chart/Indicators/Drawings.md).[Enums](../../../../../../TigerTrade.Chart/Indicators/Drawings/Enums.md)
-
-
+`namespace` [TigerTrade.Chart](../../../../).[Indicators](../../../Indicators.md).[Drawings](../../Drawings.md).[Enums](../Enums.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum ChartSeriesColorSplit
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` NoSplit` | *Описание* |
-| ` UpDown` | *Описание* |
-| ` UpDownZero` | *Описание* |
 
-
-
+| Название     | Описание   |
+| ------------ | ---------- |
+| `NoSplit`    | _Описание_ |
+| `UpDown`     | _Описание_ |
+| `UpDownZero` | _Описание_ |

@@ -1,36 +1,36 @@
+# GetSequence
 
-# IChartPeriod.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartPeriod](../../IChartPeriod.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Base](../../../Base.md)\
+`class` [IChartPeriod](../../IChartPeriod.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double timeOffset)
 int GetSequence(ChartPeriodType type, int interval, double dateTime, double timeOffset)
 ```
-### Параметры  
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`ChartPeriodType`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`dateTime`</mark> <mark style="color:red;">*`DateTime`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`timeOffset`</mark> <mark style="color:red;">*`double`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`dateTime`</mark> <mark style="color:red;">*`double`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`type`</mark> _<mark style="color:red;">`ChartPeriodType`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`interval`</mark> _<mark style="color:red;">`int`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`dateTime`</mark> _<mark style="color:red;">`DateTime`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`timeOffset`</mark> _<mark style="color:red;">`double`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`dateTime`</mark> _<mark style="color:red;">`double`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

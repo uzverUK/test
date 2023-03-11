@@ -1,19 +1,18 @@
+# SetSources
 
-# IndicatorSourceBase.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorSourceBase](../../IndicatorSourceBase.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorSourceBase](../../IndicatorSourceBase.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public static void SetSources(List<Type> sources)
 ```
 
+### Пример
 
-### Пример  
 ```csharp
 // example
 ```
-                    
-                    

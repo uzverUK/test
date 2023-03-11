@@ -1,22 +1,18 @@
+# ObjectPosition
 
-# ObjectPosition.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Enums](../../../../../TigerTrade.Chart/Objects/Enums.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[Enums](../Enums.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum ObjectPosition
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Front` | *Описание* |
-| ` Back` | *Описание* |
 
-
-
+| Название | Описание   |
+| -------- | ---------- |
+| `Front`  | _Описание_ |
+| `Back`   | _Описание_ |

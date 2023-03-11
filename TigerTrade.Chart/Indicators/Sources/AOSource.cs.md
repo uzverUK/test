@@ -1,32 +1,29 @@
+# AOSource
 
-# public sealed class AOSource : IndicatorSourceBase
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Sources](../Sources.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class AOSource : IndicatorSourceBase
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`AOSource`](./AOSource.cs/Методы/AOSource.md) | *Описание* |
-| [`CopySettings`](./AOSource.cs/Методы/CopySettings.md) | *Описание* |
-| [`GetSeries`](./AOSource.cs/Методы/GetSeries.md) | *Описание* |
-| [`GetSeriesList`](./AOSource.cs/Методы/GetSeriesList.md) | *Описание* |
-| [`ToString`](./AOSource.cs/Методы/ToString.md) | *Описание* |
+
+| Название                                               | Описание   |
+| ------------------------------------------------------ | ---------- |
+| [`AOSource`](AOSource.cs/Методы/AOSource.md)           | _Описание_ |
+| [`CopySettings`](AOSource.cs/Методы/CopySettings.md)   | _Описание_ |
+| [`GetSeries`](AOSource.cs/Методы/GetSeries.md)         | _Описание_ |
+| [`GetSeriesList`](AOSource.cs/Методы/GetSeriesList.md) | _Описание_ |
+| [`ToString`](AOSource.cs/Методы/ToString.md)           | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`LongPeriod`](./AOSource.cs/Свойства/LongPeriod.md) | *Описание* |
-| [`MaType`](./AOSource.cs/Свойства/MaType.md) | *Описание* |
-| [`ShortPeriod`](./AOSource.cs/Свойства/ShortPeriod.md) | *Описание* |
 
-
-
+| Название                                             | Описание   |
+| ---------------------------------------------------- | ---------- |
+| [`LongPeriod`](AOSource.cs/Свойства/LongPeriod.md)   | _Описание_ |
+| [`MaType`](AOSource.cs/Свойства/MaType.md)           | _Описание_ |
+| [`ShortPeriod`](AOSource.cs/Свойства/ShortPeriod.md) | _Описание_ |

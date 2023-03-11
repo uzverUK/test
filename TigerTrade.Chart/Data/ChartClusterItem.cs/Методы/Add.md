@@ -1,23 +1,23 @@
+# Add
 
-# ChartClusterItem.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartClusterItem](../../ChartClusterItem.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [ChartClusterItem](../../ChartClusterItem.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public void Add(IChartClusterItem item)
 ```
-### Параметры  
-<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`item`</mark> _<mark style="color:red;">`IChartClusterItem`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

@@ -1,31 +1,30 @@
+# Run
 
-# IndicatorBase.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorBase](../../IndicatorBase.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorBase](../../IndicatorBase.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public void Run(IChartDataProvider dp, string longKey, string shortKey, string revision)
 ```
-<mark style="color:yellow;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`longKey`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`shortKey`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`revision`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`dp`</mark> _<mark style="color:red;">`IChartDataProvider`</mark>_\
+_Описание_
 
-### Пример  
+<mark style="color:yellow;">`longKey`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`shortKey`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`revision`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

@@ -1,22 +1,21 @@
+# GetSeries
 
-# IndicatorSourceBase.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorSourceBase](../../IndicatorSourceBase.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorSourceBase](../../IndicatorSourceBase.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public abstract double[] GetSeries(IndicatorsHelper helper)
 ```
-<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`helper`</mark> _<mark style="color:red;">`IndicatorsHelper`</mark>_\
+_Описание_
 
-### Пример  
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

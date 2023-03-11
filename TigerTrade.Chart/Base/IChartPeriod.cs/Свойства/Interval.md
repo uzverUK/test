@@ -1,15 +1,18 @@
+# Interval
 
-# IChartPeriod.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartPeriod](../../IChartPeriod.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Base](../../../Base.md)\
+`class` [IChartPeriod](../../IChartPeriod.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 int Interval { get; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

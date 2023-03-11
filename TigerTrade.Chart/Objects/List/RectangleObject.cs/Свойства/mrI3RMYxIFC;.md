@@ -1,15 +1,18 @@
+# mrI3RMYxIFC;
 
-# RectangleObject.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [RectangleObject](../../RectangleObject.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Objects](../../../../Objects.md).[List](../../../List.md)\
+`class` [RectangleObject](../../RectangleObject.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public Point mrI3RMYxIFC; {}
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

@@ -1,22 +1,18 @@
+# DeltaViewType
 
-# DeltaViewType.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[List](../../../../../TigerTrade.Chart/Indicators/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum DeltaViewType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Columns` | *Описание* |
-| ` Candles` | *Описание* |
 
-
-
+| Название  | Описание   |
+| --------- | ---------- |
+| `Columns` | _Описание_ |
+| `Candles` | _Описание_ |

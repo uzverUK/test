@@ -1,15 +1,18 @@
+# LowPrice
 
-# IRawSecurity.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IRawSecurity](../../IRawSecurity.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [IRawSecurity](../../IRawSecurity.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 double LowPrice { get; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

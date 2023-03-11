@@ -1,23 +1,19 @@
+# ClusterSearchBarDirection
 
-# ClusterSearchBarDirection.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[List](../../../../../TigerTrade.Chart/Indicators/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum ClusterSearchBarDirection
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Any` | *Описание* |
-| ` Up` | *Описание* |
-| ` Down` | *Описание* |
 
-
-
+| Название | Описание   |
+| -------- | ---------- |
+| `Any`    | _Описание_ |
+| `Up`     | _Описание_ |
+| `Down`   | _Описание_ |

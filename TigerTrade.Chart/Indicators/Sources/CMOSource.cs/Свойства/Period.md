@@ -1,15 +1,18 @@
+# Period
 
-# CMOSource.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [CMOSource](../../CMOSource.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Sources](../../../Sources.md)\
+`class` [CMOSource](../../CMOSource.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public int Period { get; set; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

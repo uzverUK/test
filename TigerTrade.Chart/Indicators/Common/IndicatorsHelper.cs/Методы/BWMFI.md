@@ -1,22 +1,21 @@
+# BWMFI
 
-# IndicatorsHelper.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorsHelper](../../IndicatorsHelper.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorsHelper](../../IndicatorsHelper.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public double[] BWMFI(IndicatorBWMFIType volumeType = IndicatorBWMFIType.Ticks)
 ```
-<mark style="color:yellow;">`volumeType`</mark> <mark style="color:red;">*`IndicatorBWMFIType`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`volumeType`</mark> _<mark style="color:red;">`IndicatorBWMFIType`</mark>_\
+_Описание_
 
-### Пример  
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

@@ -1,29 +1,29 @@
+# IndicatorAttribute
 
-# IndicatorAttribute.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorAttribute](../../IndicatorAttribute.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorAttribute](../../IndicatorAttribute.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public IndicatorAttribute(string id, string name, bool overlay)
 ```
-### Параметры  
-<mark style="color:yellow;">`id`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`overlay`</mark> <mark style="color:red;">*`bool`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`id`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`name`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`overlay`</mark> _<mark style="color:red;">`bool`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

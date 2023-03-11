@@ -1,26 +1,26 @@
+# ExtraPointChanged
 
-# RectangleObject.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [RectangleObject](../../RectangleObject.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Objects](../../../../Objects.md).[List](../../../List.md)\
+`class` [RectangleObject](../../RectangleObject.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public override void ExtraPointChanged(int index, ObjectPoint op)
 ```
-### Параметры  
-<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`index`</mark> _<mark style="color:red;">`int`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`op`</mark> _<mark style="color:red;">`ObjectPoint`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

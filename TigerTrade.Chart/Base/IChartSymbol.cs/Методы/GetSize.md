@@ -1,22 +1,21 @@
+# GetSize
 
-# IChartSymbol.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartSymbol](../../IChartSymbol.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Base](../../../Base.md)\
+`class` [IChartSymbol](../../IChartSymbol.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 Decimal GetSize(long rawSize)
 ```
-<mark style="color:yellow;">`rawSize`</mark> <mark style="color:red;">*`long`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`rawSize`</mark> _<mark style="color:red;">`long`</mark>_\
+_Описание_
 
-### Пример  
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

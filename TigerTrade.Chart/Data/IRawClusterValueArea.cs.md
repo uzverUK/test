@@ -1,22 +1,18 @@
+# IRawClusterValueArea
 
-# public interface IRawClusterValueArea
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
-
-
+`namespace` [TigerTrade.Chart](../../).[Data](../Data.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public interface IRawClusterValueArea
 ```
 
-
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`Vah`](./IRawClusterValueArea.cs/Свойства/Vah.md) | *Описание* |
-| [`Val`](./IRawClusterValueArea.cs/Свойства/Val.md) | *Описание* |
 
-
-
+| Название                                         | Описание   |
+| ------------------------------------------------ | ---------- |
+| [`Vah`](IRawClusterValueArea.cs/Свойства/Vah.md) | _Описание_ |
+| [`Val`](IRawClusterValueArea.cs/Свойства/Val.md) | _Описание_ |

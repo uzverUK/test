@@ -1,26 +1,26 @@
+# Set
 
-# IndicatorParam1.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorParam1](../../IndicatorParam1.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorParam1](../../IndicatorParam1.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 protected bool Set(string key, T value)
 ```
-### Параметры  
-<mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`T`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`key`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`value`</mark> _<mark style="color:red;">`T`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

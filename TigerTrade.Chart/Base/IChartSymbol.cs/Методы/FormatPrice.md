@@ -1,25 +1,24 @@
+# FormatPrice
 
-# IChartSymbol.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartSymbol](../../IChartSymbol.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Base](../../../Base.md)\
+`class` [IChartSymbol](../../IChartSymbol.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 string FormatPrice(Decimal price, bool shortDecimals = false)
 ```
-<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`shortDecimals`</mark> <mark style="color:red;">*`bool`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`price`</mark> _<mark style="color:red;">`Decimal`</mark>_\
+_Описание_
 
-### Пример  
+<mark style="color:yellow;">`shortDecimals`</mark> _<mark style="color:red;">`bool`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

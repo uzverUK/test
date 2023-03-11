@@ -1,20 +1,20 @@
-
 # Drawings
 
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Drawings
+`namespace` [TigerTrade.Chart](../../).[Indicators](../Indicators.md).Drawings
 
 Описание
 
-
 ### Пространства имён
-| Название | Описание |
-| --- | --- |
-| [`Enums`](./Drawings/Enums.md) | *Описание* |
+
+| Название                     | Описание   |
+| ---------------------------- | ---------- |
+| [`Enums`](Drawings/Enums.md) | _Описание_ |
 
 ### Классы
-| Название | Описание |
-| --- | --- |
-| [`ChartLevel`](./Drawings/ChartLevel.cs.md) | *Описание* |
-| [`ChartLine`](./Drawings/ChartLine.cs.md) | *Описание* |
-| [`ChartRegion`](./Drawings/ChartRegion.cs.md) | *Описание* |
-| [`ChartSeries`](./Drawings/ChartSeries.cs.md) | *Описание* |
+
+| Название                                    | Описание   |
+| ------------------------------------------- | ---------- |
+| [`ChartLevel`](Drawings/ChartLevel.cs.md)   | _Описание_ |
+| [`ChartLine`](Drawings/ChartLine.cs.md)     | _Описание_ |
+| [`ChartRegion`](Drawings/ChartRegion.cs.md) | _Описание_ |
+| [`ChartSeries`](Drawings/ChartSeries.cs.md) | _Описание_ |

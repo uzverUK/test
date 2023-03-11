@@ -1,22 +1,21 @@
+# IndexToDate
 
-# IChartCanvas.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Base](../../../../TigerTrade.Chart/Base.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartCanvas](../../IChartCanvas.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Base](../../../Base.md)\
+`class` [IChartCanvas](../../IChartCanvas.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 DateTime IndexToDate(int i)
 ```
-<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`i`</mark> _<mark style="color:red;">`int`</mark>_\
+_Описание_
 
-### Пример  
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

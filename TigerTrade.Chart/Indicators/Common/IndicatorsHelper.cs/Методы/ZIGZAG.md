@@ -1,31 +1,30 @@
+# ZIGZAG
 
-# IndicatorsHelper.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorsHelper](../../IndicatorsHelper.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorsHelper](../../IndicatorsHelper.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public double[] ZIGZAG(int depth, int deviation, int backstep, bool reg = true)
 ```
-<mark style="color:yellow;">`depth`</mark> <mark style="color:red;">*`int`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`deviation`</mark> <mark style="color:red;">*`int`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`backstep`</mark> <mark style="color:red;">*`int`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`reg`</mark> <mark style="color:red;">*`bool`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`depth`</mark> _<mark style="color:red;">`int`</mark>_\
+_Описание_
 
-### Пример  
+<mark style="color:yellow;">`deviation`</mark> _<mark style="color:red;">`int`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`backstep`</mark> _<mark style="color:red;">`int`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`reg`</mark> _<mark style="color:red;">`bool`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

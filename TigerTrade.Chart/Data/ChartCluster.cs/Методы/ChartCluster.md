@@ -1,25 +1,24 @@
+# ChartCluster
 
-# ChartCluster.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartCluster](../../ChartCluster.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [ChartCluster](../../ChartCluster.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public ChartCluster(DateTime time, Decimal step)
 ```
-<mark style="color:yellow;">`time`</mark> <mark style="color:red;">*`DateTime`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`step`</mark> <mark style="color:red;">*`Decimal`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`time`</mark> _<mark style="color:red;">`DateTime`</mark>_\
+_Описание_
 
-### Пример  
+<mark style="color:yellow;">`step`</mark> _<mark style="color:red;">`Decimal`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

@@ -1,25 +1,21 @@
+# IChartTick
 
-# public interface IChartTick
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
-
-
+`namespace` [TigerTrade.Chart](../../).[Data](../Data.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public interface IChartTick
 ```
 
-
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`IsBuy`](./IChartTick.cs/Свойства/IsBuy.md) | *Описание* |
-| [`OpenInterest`](./IChartTick.cs/Свойства/OpenInterest.md) | *Описание* |
-| [`Price`](./IChartTick.cs/Свойства/Price.md) | *Описание* |
-| [`Size`](./IChartTick.cs/Свойства/Size.md) | *Описание* |
-| [`Time`](./IChartTick.cs/Свойства/Time.md) | *Описание* |
 
-
-
+| Название                                                 | Описание   |
+| -------------------------------------------------------- | ---------- |
+| [`IsBuy`](IChartTick.cs/Свойства/IsBuy.md)               | _Описание_ |
+| [`OpenInterest`](IChartTick.cs/Свойства/OpenInterest.md) | _Описание_ |
+| [`Price`](IChartTick.cs/Свойства/Price.md)               | _Описание_ |
+| [`Size`](IChartTick.cs/Свойства/Size.md)                 | _Описание_ |
+| [`Time`](IChartTick.cs/Свойства/Time.md)                 | _Описание_ |

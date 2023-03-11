@@ -1,19 +1,18 @@
+# BullsPowerSource
 
-# BullsPowerSource.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [BullsPowerSource](../../BullsPowerSource.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Sources](../../../Sources.md)\
+`class` [BullsPowerSource](../../BullsPowerSource.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public BullsPowerSource()
 ```
 
+### Пример
 
-### Пример  
 ```csharp
 // example
 ```
-                    
-                    

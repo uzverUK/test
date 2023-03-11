@@ -1,31 +1,31 @@
+# ChartSeries
 
-# ChartSeries.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../TigerTrade.Chart/Indicators/Drawings.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartSeries](../../ChartSeries.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Drawings](../../../Drawings.md)\
+`class` [ChartSeries](../../ChartSeries.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public ChartSeries()
 public ChartSeries(ChartSeriesType type, XColor color)
 public ChartSeries(ChartSeriesType type, XColor color, XDashStyle style)
 ```
-### Параметры  
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`ChartSeriesType`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`XDashStyle`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`type`</mark> _<mark style="color:red;">`ChartSeriesType`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`color`</mark> _<mark style="color:red;">`XColor`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`style`</mark> _<mark style="color:red;">`XDashStyle`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

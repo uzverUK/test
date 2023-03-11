@@ -1,22 +1,21 @@
+# GetSeries
 
-# ChaikinMoneyFlowSource.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChaikinMoneyFlowSource](../../ChaikinMoneyFlowSource.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Sources](../../../Sources.md)\
+`class` [ChaikinMoneyFlowSource](../../ChaikinMoneyFlowSource.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public override double[] GetSeries(IndicatorsHelper helper)
 ```
-<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`helper`</mark> _<mark style="color:red;">`IndicatorsHelper`</mark>_\
+_Описание_
 
-### Пример  
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

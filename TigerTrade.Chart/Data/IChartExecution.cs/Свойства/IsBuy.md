@@ -1,15 +1,18 @@
+# IsBuy
 
-# IChartExecution.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartExecution](../../IChartExecution.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [IChartExecution](../../IChartExecution.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 bool IsBuy { get; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

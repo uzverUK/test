@@ -1,29 +1,29 @@
+# Set
 
-# IndicatorNullDecimalParam.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorNullDecimalParam](../../IndicatorNullDecimalParam.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorNullDecimalParam](../../IndicatorNullDecimalParam.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public bool Set(string key, Decimal? value, Decimal minValue = -79228162514264337593543950335M, Decimal maxValue = 79228162514264337593543950335M)
 ```
-### Параметры  
-<mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`minValue`</mark> <mark style="color:red;">*`Decimal`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`maxValue`</mark> <mark style="color:red;">*`Decimal`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`key`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`minValue`</mark> _<mark style="color:red;">`Decimal`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`maxValue`</mark> _<mark style="color:red;">`Decimal`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

@@ -1,15 +1,18 @@
+# Length
 
-# IndicatorSeriesData.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorSeriesData](../../IndicatorSeriesData.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorSeriesData](../../IndicatorSeriesData.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public int Length { get; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

@@ -1,85 +1,83 @@
+# ObjectBase
 
-# public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Common](../../../TigerTrade.Chart/Objects/Common.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[Common](../Common.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`AddAlert`](./ObjectBase.cs/Методы/AddAlert.md) | *Описание* |
-| [`ApplyTheme`](./ObjectBase.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`BeginDrag`](./ObjectBase.cs/Методы/BeginDrag.md) | *Описание* |
-| [`CheckAlert`](./ObjectBase.cs/Методы/CheckAlert.md) | *Описание* |
-| [`ControlPointEditing`](./ObjectBase.cs/Методы/ControlPointEditing.md) | *Описание* |
-| [`ControlPointsChanged`](./ObjectBase.cs/Методы/ControlPointsChanged.md) | *Описание* |
-| [`CopyTemplate`](./ObjectBase.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`DragObject`](./ObjectBase.cs/Методы/DragObject.md) | *Описание* |
-| [`Draw`](./ObjectBase.cs/Методы/Draw.md) | *Описание* |
-| [`DrawControlPoint`](./ObjectBase.cs/Методы/DrawControlPoint.md) | *Описание* |
-| [`DrawControlPoints`](./ObjectBase.cs/Методы/DrawControlPoints.md) | *Описание* |
-| [`DrawObject`](./ObjectBase.cs/Методы/DrawObject.md) | *Описание* |
-| [`ExtraPointChanged`](./ObjectBase.cs/Методы/ExtraPointChanged.md) | *Описание* |
-| [`GetAlerts`](./ObjectBase.cs/Методы/GetAlerts.md) | *Описание* |
-| [`GetControlPoint`](./ObjectBase.cs/Методы/GetControlPoint.md) | *Описание* |
-| [`GetExtraPoint`](./ObjectBase.cs/Методы/GetExtraPoint.md) | *Описание* |
-| [`GetMinDist`](./ObjectBase.cs/Методы/GetMinDist.md) | *Описание* |
-| [`GetMinDistance`](./ObjectBase.cs/Методы/GetMinDistance.md) | *Описание* |
-| [`GetPropertyHasStandardValues`](./ObjectBase.cs/Методы/GetPropertyHasStandardValues.md) | *Описание* |
-| [`GetPropertyReadOnly`](./ObjectBase.cs/Методы/GetPropertyReadOnly.md) | *Описание* |
-| [`GetPropertyStandardValues`](./ObjectBase.cs/Методы/GetPropertyStandardValues.md) | *Описание* |
-| [`GetPropertyVisibility`](./ObjectBase.cs/Методы/GetPropertyVisibility.md) | *Описание* |
-| [`GetX`](./ObjectBase.cs/Методы/GetX.md) | *Описание* |
-| [`GetY`](./ObjectBase.cs/Методы/GetY.md) | *Описание* |
-| [`InObject`](./ObjectBase.cs/Методы/InObject.md) | *Описание* |
-| [`IsObjectInArea`](./ObjectBase.cs/Методы/IsObjectInArea.md) | *Описание* |
-| [`IsObjectOnChart`](./ObjectBase.cs/Методы/IsObjectOnChart.md) | *Описание* |
-| [`ObjectBase`](./ObjectBase.cs/Методы/ObjectBase.md) | *Описание* |
-| [`OnPropertyChanged`](./ObjectBase.cs/Методы/OnPropertyChanged.md) | *Описание* |
-| [`Prepare`](./ObjectBase.cs/Методы/Prepare.md) | *Описание* |
-| [`SetCanvas`](./ObjectBase.cs/Методы/SetCanvas.md) | *Описание* |
-| [`SetDataProvider`](./ObjectBase.cs/Методы/SetDataProvider.md) | *Описание* |
-| [`SetSettings`](./ObjectBase.cs/Методы/SetSettings.md) | *Описание* |
-| [`ToPoint`](./ObjectBase.cs/Методы/ToPoint.md) | *Описание* |
-| [`ToPoints`](./ObjectBase.cs/Методы/ToPoints.md) | *Описание* |
-| [`ToString`](./ObjectBase.cs/Методы/ToString.md) | *Описание* |
+
+| Название                                                                               | Описание   |
+| -------------------------------------------------------------------------------------- | ---------- |
+| [`AddAlert`](ObjectBase.cs/Методы/AddAlert.md)                                         | _Описание_ |
+| [`ApplyTheme`](ObjectBase.cs/Методы/ApplyTheme.md)                                     | _Описание_ |
+| [`BeginDrag`](ObjectBase.cs/Методы/BeginDrag.md)                                       | _Описание_ |
+| [`CheckAlert`](ObjectBase.cs/Методы/CheckAlert.md)                                     | _Описание_ |
+| [`ControlPointEditing`](ObjectBase.cs/Методы/ControlPointEditing.md)                   | _Описание_ |
+| [`ControlPointsChanged`](ObjectBase.cs/Методы/ControlPointsChanged.md)                 | _Описание_ |
+| [`CopyTemplate`](ObjectBase.cs/Методы/CopyTemplate.md)                                 | _Описание_ |
+| [`DragObject`](ObjectBase.cs/Методы/DragObject.md)                                     | _Описание_ |
+| [`Draw`](ObjectBase.cs/Методы/Draw.md)                                                 | _Описание_ |
+| [`DrawControlPoint`](ObjectBase.cs/Методы/DrawControlPoint.md)                         | _Описание_ |
+| [`DrawControlPoints`](ObjectBase.cs/Методы/DrawControlPoints.md)                       | _Описание_ |
+| [`DrawObject`](ObjectBase.cs/Методы/DrawObject.md)                                     | _Описание_ |
+| [`ExtraPointChanged`](ObjectBase.cs/Методы/ExtraPointChanged.md)                       | _Описание_ |
+| [`GetAlerts`](ObjectBase.cs/Методы/GetAlerts.md)                                       | _Описание_ |
+| [`GetControlPoint`](ObjectBase.cs/Методы/GetControlPoint.md)                           | _Описание_ |
+| [`GetExtraPoint`](ObjectBase.cs/Методы/GetExtraPoint.md)                               | _Описание_ |
+| [`GetMinDist`](ObjectBase.cs/Методы/GetMinDist.md)                                     | _Описание_ |
+| [`GetMinDistance`](ObjectBase.cs/Методы/GetMinDistance.md)                             | _Описание_ |
+| [`GetPropertyHasStandardValues`](ObjectBase.cs/Методы/GetPropertyHasStandardValues.md) | _Описание_ |
+| [`GetPropertyReadOnly`](ObjectBase.cs/Методы/GetPropertyReadOnly.md)                   | _Описание_ |
+| [`GetPropertyStandardValues`](ObjectBase.cs/Методы/GetPropertyStandardValues.md)       | _Описание_ |
+| [`GetPropertyVisibility`](ObjectBase.cs/Методы/GetPropertyVisibility.md)               | _Описание_ |
+| [`GetX`](ObjectBase.cs/Методы/GetX.md)                                                 | _Описание_ |
+| [`GetY`](ObjectBase.cs/Методы/GetY.md)                                                 | _Описание_ |
+| [`InObject`](ObjectBase.cs/Методы/InObject.md)                                         | _Описание_ |
+| [`IsObjectInArea`](ObjectBase.cs/Методы/IsObjectInArea.md)                             | _Описание_ |
+| [`IsObjectOnChart`](ObjectBase.cs/Методы/IsObjectOnChart.md)                           | _Описание_ |
+| [`ObjectBase`](ObjectBase.cs/Методы/ObjectBase.md)                                     | _Описание_ |
+| [`OnPropertyChanged`](ObjectBase.cs/Методы/OnPropertyChanged.md)                       | _Описание_ |
+| [`Prepare`](ObjectBase.cs/Методы/Prepare.md)                                           | _Описание_ |
+| [`SetCanvas`](ObjectBase.cs/Методы/SetCanvas.md)                                       | _Описание_ |
+| [`SetDataProvider`](ObjectBase.cs/Методы/SetDataProvider.md)                           | _Описание_ |
+| [`SetSettings`](ObjectBase.cs/Методы/SetSettings.md)                                   | _Описание_ |
+| [`ToPoint`](ObjectBase.cs/Методы/ToPoint.md)                                           | _Описание_ |
+| [`ToPoints`](ObjectBase.cs/Методы/ToPoints.md)                                         | _Описание_ |
+| [`ToString`](ObjectBase.cs/Методы/ToString.md)                                         | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`Canvas`](./ObjectBase.cs/Свойства/Canvas.md) | *Описание* |
-| [`ChartDataType`](./ObjectBase.cs/Свойства/ChartDataType.md) | *Описание* |
-| [`ControlPointNum`](./ObjectBase.cs/Свойства/ControlPointNum.md) | *Описание* |
-| [`ControlPoints`](./ObjectBase.cs/Свойства/ControlPoints.md) | *Описание* |
-| [`ControlPointsList`](./ObjectBase.cs/Свойства/ControlPointsList.md) | *Описание* |
-| [`DataProvider`](./ObjectBase.cs/Свойства/DataProvider.md) | *Описание* |
-| [`ID`](./ObjectBase.cs/Свойства/ID.md) | *Описание* |
-| [`InMove;`](./ObjectBase.cs/Свойства/InMove;.md) | *Описание* |
-| [`InSetup;`](./ObjectBase.cs/Свойства/InSetup;.md) | *Описание* |
-| [`Lock`](./ObjectBase.cs/Свойства/Lock.md) | *Описание* |
-| [`Name`](./ObjectBase.cs/Свойства/Name.md) | *Описание* |
-| [`ObjectID`](./ObjectBase.cs/Свойства/ObjectID.md) | *Описание* |
-| [`PenWidth`](./ObjectBase.cs/Свойства/PenWidth.md) | *Описание* |
-| [`Periods`](./ObjectBase.cs/Свойства/Periods.md) | *Описание* |
-| [`Position`](./ObjectBase.cs/Свойства/Position.md) | *Описание* |
-| [`Settings`](./ObjectBase.cs/Свойства/Settings.md) | *Описание* |
-| [`SnapGrid`](./ObjectBase.cs/Свойства/SnapGrid.md) | *Описание* |
-| [`SymbolID`](./ObjectBase.cs/Свойства/SymbolID.md) | *Описание* |
-| [`Theme`](./ObjectBase.cs/Свойства/Theme.md) | *Описание* |
-| [`Title`](./ObjectBase.cs/Свойства/Title.md) | *Описание* |
+
+| Название                                                           | Описание   |
+| ------------------------------------------------------------------ | ---------- |
+| [`Canvas`](ObjectBase.cs/Свойства/Canvas.md)                       | _Описание_ |
+| [`ChartDataType`](ObjectBase.cs/Свойства/ChartDataType.md)         | _Описание_ |
+| [`ControlPointNum`](ObjectBase.cs/Свойства/ControlPointNum.md)     | _Описание_ |
+| [`ControlPoints`](ObjectBase.cs/Свойства/ControlPoints.md)         | _Описание_ |
+| [`ControlPointsList`](ObjectBase.cs/Свойства/ControlPointsList.md) | _Описание_ |
+| [`DataProvider`](ObjectBase.cs/Свойства/DataProvider.md)           | _Описание_ |
+| [`ID`](ObjectBase.cs/Свойства/ID.md)                               | _Описание_ |
+| [`InMove;`](ObjectBase.cs/Свойства/InMove;.md)                     | _Описание_ |
+| [`InSetup;`](ObjectBase.cs/Свойства/InSetup;.md)                   | _Описание_ |
+| [`Lock`](ObjectBase.cs/Свойства/Lock.md)                           | _Описание_ |
+| [`Name`](ObjectBase.cs/Свойства/Name.md)                           | _Описание_ |
+| [`ObjectID`](ObjectBase.cs/Свойства/ObjectID.md)                   | _Описание_ |
+| [`PenWidth`](ObjectBase.cs/Свойства/PenWidth.md)                   | _Описание_ |
+| [`Periods`](ObjectBase.cs/Свойства/Periods.md)                     | _Описание_ |
+| [`Position`](ObjectBase.cs/Свойства/Position.md)                   | _Описание_ |
+| [`Settings`](ObjectBase.cs/Свойства/Settings.md)                   | _Описание_ |
+| [`SnapGrid`](ObjectBase.cs/Свойства/SnapGrid.md)                   | _Описание_ |
+| [`SymbolID`](ObjectBase.cs/Свойства/SymbolID.md)                   | _Описание_ |
+| [`Theme`](ObjectBase.cs/Свойства/Theme.md)                         | _Описание_ |
+| [`Title`](ObjectBase.cs/Свойства/Title.md)                         | _Описание_ |
 
 ### События
-| Название | Описание |
-| --- | --- |
-| [`PropertyChanged`](./ObjectBase.cs/События/PropertyChanged.md) | *Описание* |
 
-
-
+| Название                                                      | Описание   |
+| ------------------------------------------------------------- | ---------- |
+| [`PropertyChanged`](ObjectBase.cs/События/PropertyChanged.md) | _Описание_ |

@@ -1,56 +1,53 @@
+# ChartCluster
 
-# public sealed class ChartCluster : IChartCluster
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
-
-
+`namespace` [TigerTrade.Chart](../../).[Data](../Data.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class ChartCluster : IChartCluster
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`AddCluster`](./ChartCluster.cs/Методы/AddCluster.md) | *Описание* |
-| [`AddItem`](./ChartCluster.cs/Методы/AddItem.md) | *Описание* |
-| [`AddTick`](./ChartCluster.cs/Методы/AddTick.md) | *Описание* |
-| [`ChartCluster`](./ChartCluster.cs/Методы/ChartCluster.md) | *Описание* |
-| [`GetItem`](./ChartCluster.cs/Методы/GetItem.md) | *Описание* |
-| [`UpdateData`](./ChartCluster.cs/Методы/UpdateData.md) | *Описание* |
+
+| Название                                                 | Описание   |
+| -------------------------------------------------------- | ---------- |
+| [`AddCluster`](ChartCluster.cs/Методы/AddCluster.md)     | _Описание_ |
+| [`AddItem`](ChartCluster.cs/Методы/AddItem.md)           | _Описание_ |
+| [`AddTick`](ChartCluster.cs/Методы/AddTick.md)           | _Описание_ |
+| [`ChartCluster`](ChartCluster.cs/Методы/ChartCluster.md) | _Описание_ |
+| [`GetItem`](ChartCluster.cs/Методы/GetItem.md)           | _Описание_ |
+| [`UpdateData`](ChartCluster.cs/Методы/UpdateData.md)     | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`Ask`](./ChartCluster.cs/Свойства/Ask.md) | *Описание* |
-| [`AskTrades`](./ChartCluster.cs/Свойства/AskTrades.md) | *Описание* |
-| [`Bid`](./ChartCluster.cs/Свойства/Bid.md) | *Описание* |
-| [`BidTrades`](./ChartCluster.cs/Свойства/BidTrades.md) | *Описание* |
-| [`Close`](./ChartCluster.cs/Свойства/Close.md) | *Описание* |
-| [`CloseTime`](./ChartCluster.cs/Свойства/CloseTime.md) | *Описание* |
-| [`Delta`](./ChartCluster.cs/Свойства/Delta.md) | *Описание* |
-| [`DeltaHigh`](./ChartCluster.cs/Свойства/DeltaHigh.md) | *Описание* |
-| [`DeltaLow`](./ChartCluster.cs/Свойства/DeltaLow.md) | *Описание* |
-| [`High`](./ChartCluster.cs/Свойства/High.md) | *Описание* |
-| [`IsUp`](./ChartCluster.cs/Свойства/IsUp.md) | *Описание* |
-| [`Items`](./ChartCluster.cs/Свойства/Items.md) | *Описание* |
-| [`Low`](./ChartCluster.cs/Свойства/Low.md) | *Описание* |
-| [`MaxValues`](./ChartCluster.cs/Свойства/MaxValues.md) | *Описание* |
-| [`Open`](./ChartCluster.cs/Свойства/Open.md) | *Описание* |
-| [`OpenPos`](./ChartCluster.cs/Свойства/OpenPos.md) | *Описание* |
-| [`OpenPosAskChg`](./ChartCluster.cs/Свойства/OpenPosAskChg.md) | *Описание* |
-| [`OpenPosBidChg`](./ChartCluster.cs/Свойства/OpenPosBidChg.md) | *Описание* |
-| [`OpenPosChg`](./ChartCluster.cs/Свойства/OpenPosChg.md) | *Описание* |
-| [`OpenPosHigh`](./ChartCluster.cs/Свойства/OpenPosHigh.md) | *Описание* |
-| [`OpenPosLow`](./ChartCluster.cs/Свойства/OpenPosLow.md) | *Описание* |
-| [`OpenTime`](./ChartCluster.cs/Свойства/OpenTime.md) | *Описание* |
-| [`Step`](./ChartCluster.cs/Свойства/Step.md) | *Описание* |
-| [`Time`](./ChartCluster.cs/Свойства/Time.md) | *Описание* |
-| [`Trades`](./ChartCluster.cs/Свойства/Trades.md) | *Описание* |
-| [`Volume`](./ChartCluster.cs/Свойства/Volume.md) | *Описание* |
 
-
-
+| Название                                                     | Описание   |
+| ------------------------------------------------------------ | ---------- |
+| [`Ask`](ChartCluster.cs/Свойства/Ask.md)                     | _Описание_ |
+| [`AskTrades`](ChartCluster.cs/Свойства/AskTrades.md)         | _Описание_ |
+| [`Bid`](ChartCluster.cs/Свойства/Bid.md)                     | _Описание_ |
+| [`BidTrades`](ChartCluster.cs/Свойства/BidTrades.md)         | _Описание_ |
+| [`Close`](ChartCluster.cs/Свойства/Close.md)                 | _Описание_ |
+| [`CloseTime`](ChartCluster.cs/Свойства/CloseTime.md)         | _Описание_ |
+| [`Delta`](ChartCluster.cs/Свойства/Delta.md)                 | _Описание_ |
+| [`DeltaHigh`](ChartCluster.cs/Свойства/DeltaHigh.md)         | _Описание_ |
+| [`DeltaLow`](ChartCluster.cs/Свойства/DeltaLow.md)           | _Описание_ |
+| [`High`](ChartCluster.cs/Свойства/High.md)                   | _Описание_ |
+| [`IsUp`](ChartCluster.cs/Свойства/IsUp.md)                   | _Описание_ |
+| [`Items`](ChartCluster.cs/Свойства/Items.md)                 | _Описание_ |
+| [`Low`](ChartCluster.cs/Свойства/Low.md)                     | _Описание_ |
+| [`MaxValues`](ChartCluster.cs/Свойства/MaxValues.md)         | _Описание_ |
+| [`Open`](ChartCluster.cs/Свойства/Open.md)                   | _Описание_ |
+| [`OpenPos`](ChartCluster.cs/Свойства/OpenPos.md)             | _Описание_ |
+| [`OpenPosAskChg`](ChartCluster.cs/Свойства/OpenPosAskChg.md) | _Описание_ |
+| [`OpenPosBidChg`](ChartCluster.cs/Свойства/OpenPosBidChg.md) | _Описание_ |
+| [`OpenPosChg`](ChartCluster.cs/Свойства/OpenPosChg.md)       | _Описание_ |
+| [`OpenPosHigh`](ChartCluster.cs/Свойства/OpenPosHigh.md)     | _Описание_ |
+| [`OpenPosLow`](ChartCluster.cs/Свойства/OpenPosLow.md)       | _Описание_ |
+| [`OpenTime`](ChartCluster.cs/Свойства/OpenTime.md)           | _Описание_ |
+| [`Step`](ChartCluster.cs/Свойства/Step.md)                   | _Описание_ |
+| [`Time`](ChartCluster.cs/Свойства/Time.md)                   | _Описание_ |
+| [`Trades`](ChartCluster.cs/Свойства/Trades.md)               | _Описание_ |
+| [`Volume`](ChartCluster.cs/Свойства/Volume.md)               | _Описание_ |

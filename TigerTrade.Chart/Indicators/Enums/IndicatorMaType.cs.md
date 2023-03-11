@@ -1,30 +1,26 @@
+# IndicatorMaType
 
-# IndicatorMaType.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Enums](../../../../../TigerTrade.Chart/Indicators/Enums.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Enums](../Enums.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum IndicatorMaType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` SMA` | *Описание* |
-| ` EMA` | *Описание* |
-| ` WMA` | *Описание* |
-| ` DEMA` | *Описание* |
-| ` TEMA` | *Описание* |
-| ` TMA` | *Описание* |
-| ` KAMA` | *Описание* |
-| ` MAMA` | *Описание* |
-| ` T3` | *Описание* |
-| ` SMMA` | *Описание* |
 
-
-
+| Название | Описание   |
+| -------- | ---------- |
+| `SMA`    | _Описание_ |
+| `EMA`    | _Описание_ |
+| `WMA`    | _Описание_ |
+| `DEMA`   | _Описание_ |
+| `TEMA`   | _Описание_ |
+| `TMA`    | _Описание_ |
+| `KAMA`   | _Описание_ |
+| `MAMA`   | _Описание_ |
+| `T3`     | _Описание_ |
+| `SMMA`   | _Описание_ |

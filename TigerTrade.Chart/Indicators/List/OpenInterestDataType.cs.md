@@ -1,23 +1,19 @@
+# OpenInterestDataType
 
-# OpenInterestDataType.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[List](../../../../../TigerTrade.Chart/Indicators/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum OpenInterestDataType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` All` | *Описание* |
-| ` Buys` | *Описание* |
-| ` Sells` | *Описание* |
 
-
-
+| Название | Описание   |
+| -------- | ---------- |
+| `All`    | _Описание_ |
+| `Buys`   | _Описание_ |
+| `Sells`  | _Описание_ |

@@ -1,24 +1,20 @@
+# IndicatorCalculation
 
-# IndicatorCalculation.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Enums](../../../../../TigerTrade.Chart/Indicators/Enums.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Enums](../Enums.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum IndicatorCalculation
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Default` | *Описание* |
-| ` OnEachTick` | *Описание* |
-| ` OnPriceChange` | *Описание* |
-| ` OnBarClose` | *Описание* |
 
-
-
+| Название        | Описание   |
+| --------------- | ---------- |
+| `Default`       | _Описание_ |
+| `OnEachTick`    | _Описание_ |
+| `OnPriceChange` | _Описание_ |
+| `OnBarClose`    | _Описание_ |

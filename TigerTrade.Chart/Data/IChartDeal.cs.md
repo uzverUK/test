@@ -1,28 +1,24 @@
+# IChartDeal
 
-# public interface IChartDeal
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
-
-
+`namespace` [TigerTrade.Chart](../../).[Data](../Data.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public interface IChartDeal
 ```
 
-
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`ClosePrice`](./IChartDeal.cs/Свойства/ClosePrice.md) | *Описание* |
-| [`CloseTime`](./IChartDeal.cs/Свойства/CloseTime.md) | *Описание* |
-| [`IsBuy`](./IChartDeal.cs/Свойства/IsBuy.md) | *Описание* |
-| [`OpenPrice`](./IChartDeal.cs/Свойства/OpenPrice.md) | *Описание* |
-| [`OpenTime`](./IChartDeal.cs/Свойства/OpenTime.md) | *Описание* |
-| [`Points`](./IChartDeal.cs/Свойства/Points.md) | *Описание* |
-| [`Profit`](./IChartDeal.cs/Свойства/Profit.md) | *Описание* |
-| [`Quantity`](./IChartDeal.cs/Свойства/Quantity.md) | *Описание* |
 
-
-
+| Название                                             | Описание   |
+| ---------------------------------------------------- | ---------- |
+| [`ClosePrice`](IChartDeal.cs/Свойства/ClosePrice.md) | _Описание_ |
+| [`CloseTime`](IChartDeal.cs/Свойства/CloseTime.md)   | _Описание_ |
+| [`IsBuy`](IChartDeal.cs/Свойства/IsBuy.md)           | _Описание_ |
+| [`OpenPrice`](IChartDeal.cs/Свойства/OpenPrice.md)   | _Описание_ |
+| [`OpenTime`](IChartDeal.cs/Свойства/OpenTime.md)     | _Описание_ |
+| [`Points`](IChartDeal.cs/Свойства/Points.md)         | _Описание_ |
+| [`Profit`](IChartDeal.cs/Свойства/Profit.md)         | _Описание_ |
+| [`Quantity`](IChartDeal.cs/Свойства/Quantity.md)     | _Описание_ |

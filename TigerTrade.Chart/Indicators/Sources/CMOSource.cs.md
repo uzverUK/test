@@ -1,31 +1,28 @@
+# CMOSource
 
-# public sealed class CMOSource : IndicatorSourceBase
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Sources](../Sources.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class CMOSource : IndicatorSourceBase
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`CMOSource`](./CMOSource.cs/Методы/CMOSource.md) | *Описание* |
-| [`CopySettings`](./CMOSource.cs/Методы/CopySettings.md) | *Описание* |
-| [`GetSeries`](./CMOSource.cs/Методы/GetSeries.md) | *Описание* |
-| [`GetSeriesList`](./CMOSource.cs/Методы/GetSeriesList.md) | *Описание* |
-| [`ToString`](./CMOSource.cs/Методы/ToString.md) | *Описание* |
+
+| Название                                                | Описание   |
+| ------------------------------------------------------- | ---------- |
+| [`CMOSource`](CMOSource.cs/Методы/CMOSource.md)         | _Описание_ |
+| [`CopySettings`](CMOSource.cs/Методы/CopySettings.md)   | _Описание_ |
+| [`GetSeries`](CMOSource.cs/Методы/GetSeries.md)         | _Описание_ |
+| [`GetSeriesList`](CMOSource.cs/Методы/GetSeriesList.md) | _Описание_ |
+| [`ToString`](CMOSource.cs/Методы/ToString.md)           | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`Period`](./CMOSource.cs/Свойства/Period.md) | *Описание* |
-| [`Source`](./CMOSource.cs/Свойства/Source.md) | *Описание* |
 
-
-
+| Название                                    | Описание   |
+| ------------------------------------------- | ---------- |
+| [`Period`](CMOSource.cs/Свойства/Period.md) | _Описание_ |
+| [`Source`](CMOSource.cs/Свойства/Source.md) | _Описание_ |

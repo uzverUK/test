@@ -1,33 +1,30 @@
+# LineObjectBase
 
-# public abstract class LineObjectBase : ObjectBase
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Abstract](../../../TigerTrade.Chart/Objects/Abstract.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[Abstract](../Abstract.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public abstract class LineObjectBase : ObjectBase
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`ApplyTheme`](./LineObjectBase.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./LineObjectBase.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`LineObjectBase`](./LineObjectBase.cs/Методы/LineObjectBase.md) | *Описание* |
+
+| Название                                                       | Описание   |
+| -------------------------------------------------------------- | ---------- |
+| [`ApplyTheme`](LineObjectBase.cs/Методы/ApplyTheme.md)         | _Описание_ |
+| [`CopyTemplate`](LineObjectBase.cs/Методы/CopyTemplate.md)     | _Описание_ |
+| [`LineObjectBase`](LineObjectBase.cs/Методы/LineObjectBase.md) | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`LineBrush`](./LineObjectBase.cs/Свойства/LineBrush.md) | *Описание* |
-| [`LineColor`](./LineObjectBase.cs/Свойства/LineColor.md) | *Описание* |
-| [`LinePen`](./LineObjectBase.cs/Свойства/LinePen.md) | *Описание* |
-| [`LineStyle`](./LineObjectBase.cs/Свойства/LineStyle.md) | *Описание* |
-| [`LineWidth`](./LineObjectBase.cs/Свойства/LineWidth.md) | *Описание* |
-| [`int`](./LineObjectBase.cs/Свойства/int.md) | *Описание* |
 
-
-
+| Название                                               | Описание   |
+| ------------------------------------------------------ | ---------- |
+| [`LineBrush`](LineObjectBase.cs/Свойства/LineBrush.md) | _Описание_ |
+| [`LineColor`](LineObjectBase.cs/Свойства/LineColor.md) | _Описание_ |
+| [`LinePen`](LineObjectBase.cs/Свойства/LinePen.md)     | _Описание_ |
+| [`LineStyle`](LineObjectBase.cs/Свойства/LineStyle.md) | _Описание_ |
+| [`LineWidth`](LineObjectBase.cs/Свойства/LineWidth.md) | _Описание_ |
+| [`int`](LineObjectBase.cs/Свойства/int.md)             | _Описание_ |

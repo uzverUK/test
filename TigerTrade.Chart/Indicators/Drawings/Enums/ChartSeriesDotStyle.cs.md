@@ -1,23 +1,19 @@
+# ChartSeriesDotStyle
 
-# ChartSeriesDotStyle.cs
-`namespace` [TigerTrade.Chart](../../../../../../TigerTrade.Chart.md).[Indicators](../../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../../TigerTrade.Chart/Indicators/Drawings.md).[Enums](../../../../../../TigerTrade.Chart/Indicators/Drawings/Enums.md)
-
-
+`namespace` [TigerTrade.Chart](../../../../).[Indicators](../../../Indicators.md).[Drawings](../../Drawings.md).[Enums](../Enums.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum ChartSeriesDotStyle
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Point` | *Описание* |
-| ` Circle` | *Описание* |
-| ` Cross` | *Описание* |
 
-
-
+| Название | Описание   |
+| -------- | ---------- |
+| `Point`  | _Описание_ |
+| `Circle` | _Описание_ |
+| `Cross`  | _Описание_ |

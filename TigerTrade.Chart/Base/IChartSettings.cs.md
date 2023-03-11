@@ -1,22 +1,18 @@
+# IChartSettings
 
-# public interface IChartSettings
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Base](../../TigerTrade.Chart/Base.md)
-
-
+`namespace` [TigerTrade.Chart](../../).[Base](../Base.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public interface IChartSettings
 ```
 
-
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`TransformHorLines`](./IChartSettings.cs/Свойства/TransformHorLines.md) | *Описание* |
-| [`TransformVertLines`](./IChartSettings.cs/Свойства/TransformVertLines.md) | *Описание* |
 
-
-
+| Название                                                                 | Описание   |
+| ------------------------------------------------------------------------ | ---------- |
+| [`TransformHorLines`](IChartSettings.cs/Свойства/TransformHorLines.md)   | _Описание_ |
+| [`TransformVertLines`](IChartSettings.cs/Свойства/TransformVertLines.md) | _Описание_ |

@@ -1,25 +1,21 @@
+# ExternalChartBorderType
 
-# ExternalChartBorderType.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[List](../../../../../TigerTrade.Chart/Indicators/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum ExternalChartBorderType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` None` | *Описание* |
-| ` Box` | *Описание* |
-| ` ColoredBox` | *Описание* |
-| ` Candle` | *Описание* |
-| ` ColoredCandle` | *Описание* |
 
-
-
+| Название        | Описание   |
+| --------------- | ---------- |
+| `None`          | _Описание_ |
+| `Box`           | _Описание_ |
+| `ColoredBox`    | _Описание_ |
+| `Candle`        | _Описание_ |
+| `ColoredCandle` | _Описание_ |

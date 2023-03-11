@@ -1,15 +1,18 @@
+# LinePen
 
-# ChartLevel.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../TigerTrade.Chart/Indicators/Drawings.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartLevel](../../ChartLevel.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Drawings](../../../Drawings.md)\
+`class` [ChartLevel](../../ChartLevel.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public XPen LinePen { get; private set; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

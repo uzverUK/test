@@ -1,18 +1,17 @@
-
 # Common
 
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Objects](../../TigerTrade.Chart/Objects.md).Common
+`namespace` [TigerTrade.Chart](../../).[Objects](../Objects.md).Common
 
 Описание
 
-
 ### Классы
-| Название | Описание |
-| --- | --- |
-| [`ChartObjectAttribute`](./Common/ChartObjectAttribute.cs.md) | *Описание* |
-| [`ObjectBase`](./Common/ObjectBase.cs.md) | *Описание* |
-| [`ObjectLabelInfo`](./Common/ObjectLabelInfo.cs.md) | *Описание* |
-| [`ObjectLine`](./Common/ObjectLine.cs.md) | *Описание* |
-| [`ObjectPeriodItem`](./Common/ObjectPeriodItem.cs.md) | *Описание* |
-| [`ObjectPeriods`](./Common/ObjectPeriods.cs.md) | *Описание* |
-| [`ObjectPointInfo`](./Common/ObjectPointInfo.cs.md) | *Описание* |
+
+| Название                                                    | Описание   |
+| ----------------------------------------------------------- | ---------- |
+| [`ChartObjectAttribute`](Common/ChartObjectAttribute.cs.md) | _Описание_ |
+| [`ObjectBase`](Common/ObjectBase.cs.md)                     | _Описание_ |
+| [`ObjectLabelInfo`](Common/ObjectLabelInfo.cs.md)           | _Описание_ |
+| [`ObjectLine`](Common/ObjectLine.cs.md)                     | _Описание_ |
+| [`ObjectPeriodItem`](Common/ObjectPeriodItem.cs.md)         | _Описание_ |
+| [`ObjectPeriods`](Common/ObjectPeriods.cs.md)               | _Описание_ |
+| [`ObjectPointInfo`](Common/ObjectPointInfo.cs.md)           | _Описание_ |

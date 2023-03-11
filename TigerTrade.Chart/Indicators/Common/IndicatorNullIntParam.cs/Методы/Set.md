@@ -1,29 +1,29 @@
+# Set
 
-# IndicatorNullIntParam.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorNullIntParam](../../IndicatorNullIntParam.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorNullIntParam](../../IndicatorNullIntParam.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public bool Set(string key, int? value, int minValue = -2147483648, int maxValue = 2147483647)
 ```
-### Параметры  
-<mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`minValue`</mark> <mark style="color:red;">*`int`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`maxValue`</mark> <mark style="color:red;">*`int`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`key`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`minValue`</mark> _<mark style="color:red;">`int`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`maxValue`</mark> _<mark style="color:red;">`int`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

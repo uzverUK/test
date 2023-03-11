@@ -1,23 +1,23 @@
+# OnPropertyChanged
 
-# ObjectBase.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Common](../../../../../TigerTrade.Chart/Objects/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ObjectBase](../../ObjectBase.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Objects](../../../../Objects.md).[Common](../../../Common.md)\
+`class` [ObjectBase](../../ObjectBase.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
 ```
-### Параметры  
-<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`propertyName`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

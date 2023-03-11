@@ -1,15 +1,14 @@
-
 # Abstract
 
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Objects](../../TigerTrade.Chart/Objects.md).Abstract
+`namespace` [TigerTrade.Chart](../../).[Objects](../Objects.md).Abstract
 
 Описание
 
-
 ### Классы
-| Название | Описание |
-| --- | --- |
-| [`LineGroupObjectBase`](./Abstract/LineGroupObjectBase.cs.md) | *Описание* |
-| [`LineGroupObjectBaseEx`](./Abstract/LineGroupObjectBaseEx.cs.md) | *Описание* |
-| [`LineObjectBase`](./Abstract/LineObjectBase.cs.md) | *Описание* |
-| [`PolygonObjectBase`](./Abstract/PolygonObjectBase.cs.md) | *Описание* |
+
+| Название                                                        | Описание   |
+| --------------------------------------------------------------- | ---------- |
+| [`LineGroupObjectBase`](Abstract/LineGroupObjectBase.cs.md)     | _Описание_ |
+| [`LineGroupObjectBaseEx`](Abstract/LineGroupObjectBaseEx.cs.md) | _Описание_ |
+| [`LineObjectBase`](Abstract/LineObjectBase.cs.md)               | _Описание_ |
+| [`PolygonObjectBase`](Abstract/PolygonObjectBase.cs.md)         | _Описание_ |

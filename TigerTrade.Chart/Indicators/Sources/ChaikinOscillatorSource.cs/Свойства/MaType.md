@@ -1,15 +1,18 @@
+# MaType
 
-# ChaikinOscillatorSource.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChaikinOscillatorSource](../../ChaikinOscillatorSource.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Sources](../../../Sources.md)\
+`class` [ChaikinOscillatorSource](../../ChaikinOscillatorSource.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

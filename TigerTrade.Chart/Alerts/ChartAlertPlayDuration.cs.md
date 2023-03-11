@@ -1,25 +1,21 @@
+# ChartAlertPlayDuration
 
-# ChartAlertPlayDuration.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Alerts](../../../../TigerTrade.Chart/Alerts.md)
-
-
+`namespace` [TigerTrade.Chart](../../).[Alerts](../Alerts.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum ChartAlertPlayDuration
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Once` | *Описание* |
-| ` Seconds5` | *Описание* |
-| ` Seconds10` | *Описание* |
-| ` Seconds30` | *Описание* |
-| ` Minute` | *Описание* |
 
-
-
+| Название    | Описание   |
+| ----------- | ---------- |
+| `Once`      | _Описание_ |
+| `Seconds5`  | _Описание_ |
+| `Seconds10` | _Описание_ |
+| `Seconds30` | _Описание_ |
+| `Minute`    | _Описание_ |

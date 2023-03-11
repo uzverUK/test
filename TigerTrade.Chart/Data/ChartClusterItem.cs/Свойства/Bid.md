@@ -1,15 +1,18 @@
+# Bid
 
-# ChartClusterItem.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartClusterItem](../../ChartClusterItem.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [ChartClusterItem](../../ChartClusterItem.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public Decimal Bid { get; set; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

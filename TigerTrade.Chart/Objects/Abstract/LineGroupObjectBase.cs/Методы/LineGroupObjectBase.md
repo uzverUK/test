@@ -1,19 +1,18 @@
+# LineGroupObjectBase
 
-# LineGroupObjectBase.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Abstract](../../../../../TigerTrade.Chart/Objects/Abstract.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [LineGroupObjectBase](../../LineGroupObjectBase.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Objects](../../../../Objects.md).[Abstract](../../../Abstract.md)\
+`class` [LineGroupObjectBase](../../LineGroupObjectBase.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 protected LineGroupObjectBase()
 ```
 
+### Пример
 
-### Пример  
 ```csharp
 // example
 ```
-                    
-                    

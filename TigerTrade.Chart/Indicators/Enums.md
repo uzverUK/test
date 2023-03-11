@@ -1,17 +1,16 @@
-
 # Enums
 
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Enums
+`namespace` [TigerTrade.Chart](../../).[Indicators](../Indicators.md).Enums
 
 Описание
 
-
 ### Перечисления
-| Название | Описание |
-| --- | --- |
-| [`IndicatorBWMFIType`](./Enums/IndicatorBWMFIType.cs.md) | *Описание* |
-| [`IndicatorCalculation`](./Enums/IndicatorCalculation.cs.md) | *Описание* |
-| [`IndicatorMaType`](./Enums/IndicatorMaType.cs.md) | *Описание* |
-| [`IndicatorPeriodType`](./Enums/IndicatorPeriodType.cs.md) | *Описание* |
-| [`IndicatorPriceType`](./Enums/IndicatorPriceType.cs.md) | *Описание* |
-| [`IndicatorViewType`](./Enums/IndicatorViewType.cs.md) | *Описание* |
+
+| Название                                                   | Описание   |
+| ---------------------------------------------------------- | ---------- |
+| [`IndicatorBWMFIType`](Enums/IndicatorBWMFIType.cs.md)     | _Описание_ |
+| [`IndicatorCalculation`](Enums/IndicatorCalculation.cs.md) | _Описание_ |
+| [`IndicatorMaType`](Enums/IndicatorMaType.cs.md)           | _Описание_ |
+| [`IndicatorPeriodType`](Enums/IndicatorPeriodType.cs.md)   | _Описание_ |
+| [`IndicatorPriceType`](Enums/IndicatorPriceType.cs.md)     | _Описание_ |
+| [`IndicatorViewType`](Enums/IndicatorViewType.cs.md)       | _Описание_ |

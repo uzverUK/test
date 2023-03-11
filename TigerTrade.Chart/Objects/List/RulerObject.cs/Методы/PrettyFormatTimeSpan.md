@@ -1,22 +1,21 @@
+# PrettyFormatTimeSpan
 
-# RulerObject.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [RulerObject](../../RulerObject.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Objects](../../../../Objects.md).[List](../../../List.md)\
+`class` [RulerObject](../../RulerObject.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public string PrettyFormatTimeSpan(TimeSpan span)
 ```
-<mark style="color:yellow;">`span`</mark> <mark style="color:red;">*`TimeSpan`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`span`</mark> _<mark style="color:red;">`TimeSpan`</mark>_\
+_Описание_
 
-### Пример  
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

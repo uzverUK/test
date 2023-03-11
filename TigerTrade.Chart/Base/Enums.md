@@ -1,13 +1,12 @@
-
 # Enums
 
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Base](../../TigerTrade.Chart/Base.md).Enums
+`namespace` [TigerTrade.Chart](../../).[Base](../Base.md).Enums
 
 Описание
 
-
 ### Перечисления
-| Название | Описание |
-| --- | --- |
-| [`ChartPeriodType`](./Enums/ChartPeriodType.cs.md) | *Описание* |
-| [`ChartStockType`](./Enums/ChartStockType.cs.md) | *Описание* |
+
+| Название                                         | Описание   |
+| ------------------------------------------------ | ---------- |
+| [`ChartPeriodType`](Enums/ChartPeriodType.cs.md) | _Описание_ |
+| [`ChartStockType`](Enums/ChartStockType.cs.md)   | _Описание_ |

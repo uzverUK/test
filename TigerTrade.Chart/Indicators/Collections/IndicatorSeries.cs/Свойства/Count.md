@@ -1,15 +1,18 @@
+# Count
 
-# IndicatorSeries.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Collections](../../../../../TigerTrade.Chart/Indicators/Collections.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorSeries](../../IndicatorSeries.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Collections](../../../Collections.md)\
+`class` [IndicatorSeries](../../IndicatorSeries.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public int Count { get; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

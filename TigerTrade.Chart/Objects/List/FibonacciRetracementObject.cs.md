@@ -1,35 +1,32 @@
+# FibonacciRetracementObject
 
-# public sealed class FibonacciRetracementObject : LineObjectBase
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class FibonacciRetracementObject : LineObjectBase
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`ApplyTheme`](./FibonacciRetracementObject.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./FibonacciRetracementObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./FibonacciRetracementObject.cs/Методы/Draw.md) | *Описание* |
-| [`FibonacciRetracementObject`](./FibonacciRetracementObject.cs/Методы/FibonacciRetracementObject.md) | *Описание* |
-| [`InObject`](./FibonacciRetracementObject.cs/Методы/InObject.md) | *Описание* |
+
+| Название                                                                                           | Описание   |
+| -------------------------------------------------------------------------------------------------- | ---------- |
+| [`ApplyTheme`](FibonacciRetracementObject.cs/Методы/ApplyTheme.md)                                 | _Описание_ |
+| [`CopyTemplate`](FibonacciRetracementObject.cs/Методы/CopyTemplate.md)                             | _Описание_ |
+| [`Draw`](FibonacciRetracementObject.cs/Методы/Draw.md)                                             | _Описание_ |
+| [`FibonacciRetracementObject`](FibonacciRetracementObject.cs/Методы/FibonacciRetracementObject.md) | _Описание_ |
+| [`InObject`](FibonacciRetracementObject.cs/Методы/InObject.md)                                     | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`CustomLevels`](./FibonacciRetracementObject.cs/Свойства/CustomLevels.md) | *Описание* |
-| [`Levels`](./FibonacciRetracementObject.cs/Свойства/Levels.md) | *Описание* |
-| [`OpenEnd`](./FibonacciRetracementObject.cs/Свойства/OpenEnd.md) | *Описание* |
-| [`OpenStart`](./FibonacciRetracementObject.cs/Свойства/OpenStart.md) | *Описание* |
-| [`TextAlignment`](./FibonacciRetracementObject.cs/Свойства/TextAlignment.md) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](./FibonacciRetracementObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
 
-
-
+| Название                                                                                 | Описание   |
+| ---------------------------------------------------------------------------------------- | ---------- |
+| [`CustomLevels`](FibonacciRetracementObject.cs/Свойства/CustomLevels.md)                 | _Описание_ |
+| [`Levels`](FibonacciRetracementObject.cs/Свойства/Levels.md)                             | _Описание_ |
+| [`OpenEnd`](FibonacciRetracementObject.cs/Свойства/OpenEnd.md)                           | _Описание_ |
+| [`OpenStart`](FibonacciRetracementObject.cs/Свойства/OpenStart.md)                       | _Описание_ |
+| [`TextAlignment`](FibonacciRetracementObject.cs/Свойства/TextAlignment.md)               | _Описание_ |
+| [`xsuJlZ3bylFkXacpNF53`](FibonacciRetracementObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | _Описание_ |

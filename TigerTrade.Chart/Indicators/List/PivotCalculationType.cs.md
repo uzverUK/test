@@ -1,25 +1,21 @@
+# PivotCalculationType
 
-# PivotCalculationType.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[List](../../../../../TigerTrade.Chart/Indicators/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum PivotCalculationType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Classic` | *Описание* |
-| ` Woodie` | *Описание* |
-| ` Camarilla` | *Описание* |
-| ` DeMark` | *Описание* |
-| ` Fibonacci` | *Описание* |
 
-
-
+| Название    | Описание   |
+| ----------- | ---------- |
+| `Classic`   | _Описание_ |
+| `Woodie`    | _Описание_ |
+| `Camarilla` | _Описание_ |
+| `DeMark`    | _Описание_ |
+| `Fibonacci` | _Описание_ |

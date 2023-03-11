@@ -1,25 +1,21 @@
+# VolumeProfilesPeriodType
 
-# VolumeProfilesPeriodType.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[List](../../../../../TigerTrade.Chart/Indicators/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum VolumeProfilesPeriodType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Minute` | *Описание* |
-| ` Hour` | *Описание* |
-| ` Day` | *Описание* |
-| ` Week` | *Описание* |
-| ` Month` | *Описание* |
 
-
-
+| Название | Описание   |
+| -------- | ---------- |
+| `Minute` | _Описание_ |
+| `Hour`   | _Описание_ |
+| `Day`    | _Описание_ |
+| `Week`   | _Описание_ |
+| `Month`  | _Описание_ |

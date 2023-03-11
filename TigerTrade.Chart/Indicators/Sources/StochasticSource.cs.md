@@ -1,33 +1,30 @@
+# StochasticSource
 
-# public sealed class StochasticSource : IndicatorSourceBase
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Sources](../Sources.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class StochasticSource : IndicatorSourceBase
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`CopySettings`](./StochasticSource.cs/Методы/CopySettings.md) | *Описание* |
-| [`GetSeries`](./StochasticSource.cs/Методы/GetSeries.md) | *Описание* |
-| [`GetSeriesList`](./StochasticSource.cs/Методы/GetSeriesList.md) | *Описание* |
-| [`StochasticSource`](./StochasticSource.cs/Методы/StochasticSource.md) | *Описание* |
-| [`ToString`](./StochasticSource.cs/Методы/ToString.md) | *Описание* |
+
+| Название                                                             | Описание   |
+| -------------------------------------------------------------------- | ---------- |
+| [`CopySettings`](StochasticSource.cs/Методы/CopySettings.md)         | _Описание_ |
+| [`GetSeries`](StochasticSource.cs/Методы/GetSeries.md)               | _Описание_ |
+| [`GetSeriesList`](StochasticSource.cs/Методы/GetSeriesList.md)       | _Описание_ |
+| [`StochasticSource`](StochasticSource.cs/Методы/StochasticSource.md) | _Описание_ |
+| [`ToString`](StochasticSource.cs/Методы/ToString.md)                 | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`FastK`](./StochasticSource.cs/Свойства/FastK.md) | *Описание* |
-| [`SlowD`](./StochasticSource.cs/Свойства/SlowD.md) | *Описание* |
-| [`SlowDMaType`](./StochasticSource.cs/Свойства/SlowDMaType.md) | *Описание* |
-| [`Smooth`](./StochasticSource.cs/Свойства/Smooth.md) | *Описание* |
 
-
-
+| Название                                                     | Описание   |
+| ------------------------------------------------------------ | ---------- |
+| [`FastK`](StochasticSource.cs/Свойства/FastK.md)             | _Описание_ |
+| [`SlowD`](StochasticSource.cs/Свойства/SlowD.md)             | _Описание_ |
+| [`SlowDMaType`](StochasticSource.cs/Свойства/SlowDMaType.md) | _Описание_ |
+| [`Smooth`](StochasticSource.cs/Свойства/Smooth.md)           | _Описание_ |

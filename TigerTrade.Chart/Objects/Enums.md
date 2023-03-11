@@ -1,13 +1,12 @@
-
 # Enums
 
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Objects](../../TigerTrade.Chart/Objects.md).Enums
+`namespace` [TigerTrade.Chart](../../).[Objects](../Objects.md).Enums
 
 Описание
 
-
 ### Перечисления
-| Название | Описание |
-| --- | --- |
-| [`ObjectPosition`](./Enums/ObjectPosition.cs.md) | *Описание* |
-| [`ObjectTextAlignment`](./Enums/ObjectTextAlignment.cs.md) | *Описание* |
+
+| Название                                                 | Описание   |
+| -------------------------------------------------------- | ---------- |
+| [`ObjectPosition`](Enums/ObjectPosition.cs.md)           | _Описание_ |
+| [`ObjectTextAlignment`](Enums/ObjectTextAlignment.cs.md) | _Описание_ |

@@ -1,37 +1,34 @@
+# PolygonObjectBase
 
-# public abstract class PolygonObjectBase : ObjectBase
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Abstract](../../../TigerTrade.Chart/Objects/Abstract.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[Abstract](../Abstract.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public abstract class PolygonObjectBase : ObjectBase
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`ApplyTheme`](./PolygonObjectBase.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./PolygonObjectBase.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`PolygonObjectBase`](./PolygonObjectBase.cs/Методы/PolygonObjectBase.md) | *Описание* |
+
+| Название                                                                | Описание   |
+| ----------------------------------------------------------------------- | ---------- |
+| [`ApplyTheme`](PolygonObjectBase.cs/Методы/ApplyTheme.md)               | _Описание_ |
+| [`CopyTemplate`](PolygonObjectBase.cs/Методы/CopyTemplate.md)           | _Описание_ |
+| [`PolygonObjectBase`](PolygonObjectBase.cs/Методы/PolygonObjectBase.md) | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`BackBrush`](./PolygonObjectBase.cs/Свойства/BackBrush.md) | *Описание* |
-| [`BackColor`](./PolygonObjectBase.cs/Свойства/BackColor.md) | *Описание* |
-| [`DrawBack`](./PolygonObjectBase.cs/Свойства/DrawBack.md) | *Описание* |
-| [`DrawBorder`](./PolygonObjectBase.cs/Свойства/DrawBorder.md) | *Описание* |
-| [`LineBrush`](./PolygonObjectBase.cs/Свойства/LineBrush.md) | *Описание* |
-| [`LineColor`](./PolygonObjectBase.cs/Свойства/LineColor.md) | *Описание* |
-| [`LinePen`](./PolygonObjectBase.cs/Свойства/LinePen.md) | *Описание* |
-| [`LineStyle`](./PolygonObjectBase.cs/Свойства/LineStyle.md) | *Описание* |
-| [`LineWidth`](./PolygonObjectBase.cs/Свойства/LineWidth.md) | *Описание* |
-| [`int`](./PolygonObjectBase.cs/Свойства/int.md) | *Описание* |
 
-
-
+| Название                                                    | Описание   |
+| ----------------------------------------------------------- | ---------- |
+| [`BackBrush`](PolygonObjectBase.cs/Свойства/BackBrush.md)   | _Описание_ |
+| [`BackColor`](PolygonObjectBase.cs/Свойства/BackColor.md)   | _Описание_ |
+| [`DrawBack`](PolygonObjectBase.cs/Свойства/DrawBack.md)     | _Описание_ |
+| [`DrawBorder`](PolygonObjectBase.cs/Свойства/DrawBorder.md) | _Описание_ |
+| [`LineBrush`](PolygonObjectBase.cs/Свойства/LineBrush.md)   | _Описание_ |
+| [`LineColor`](PolygonObjectBase.cs/Свойства/LineColor.md)   | _Описание_ |
+| [`LinePen`](PolygonObjectBase.cs/Свойства/LinePen.md)       | _Описание_ |
+| [`LineStyle`](PolygonObjectBase.cs/Свойства/LineStyle.md)   | _Описание_ |
+| [`LineWidth`](PolygonObjectBase.cs/Свойства/LineWidth.md)   | _Описание_ |
+| [`int`](PolygonObjectBase.cs/Свойства/int.md)               | _Описание_ |

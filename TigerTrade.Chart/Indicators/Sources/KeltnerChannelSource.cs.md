@@ -1,33 +1,30 @@
+# KeltnerChannelSource
 
-# public sealed class KeltnerChannelSource : IndicatorSourceBase
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Sources](../Sources.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class KeltnerChannelSource : IndicatorSourceBase
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`CopySettings`](./KeltnerChannelSource.cs/Методы/CopySettings.md) | *Описание* |
-| [`GetSeries`](./KeltnerChannelSource.cs/Методы/GetSeries.md) | *Описание* |
-| [`GetSeriesList`](./KeltnerChannelSource.cs/Методы/GetSeriesList.md) | *Описание* |
-| [`KeltnerChannelSource`](./KeltnerChannelSource.cs/Методы/KeltnerChannelSource.md) | *Описание* |
-| [`ToString`](./KeltnerChannelSource.cs/Методы/ToString.md) | *Описание* |
+
+| Название                                                                         | Описание   |
+| -------------------------------------------------------------------------------- | ---------- |
+| [`CopySettings`](KeltnerChannelSource.cs/Методы/CopySettings.md)                 | _Описание_ |
+| [`GetSeries`](KeltnerChannelSource.cs/Методы/GetSeries.md)                       | _Описание_ |
+| [`GetSeriesList`](KeltnerChannelSource.cs/Методы/GetSeriesList.md)               | _Описание_ |
+| [`KeltnerChannelSource`](KeltnerChannelSource.cs/Методы/KeltnerChannelSource.md) | _Описание_ |
+| [`ToString`](KeltnerChannelSource.cs/Методы/ToString.md)                         | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`Factor`](./KeltnerChannelSource.cs/Свойства/Factor.md) | *Описание* |
-| [`MaType`](./KeltnerChannelSource.cs/Свойства/MaType.md) | *Описание* |
-| [`Period`](./KeltnerChannelSource.cs/Свойства/Period.md) | *Описание* |
-| [`Source`](./KeltnerChannelSource.cs/Свойства/Source.md) | *Описание* |
 
-
-
+| Название                                               | Описание   |
+| ------------------------------------------------------ | ---------- |
+| [`Factor`](KeltnerChannelSource.cs/Свойства/Factor.md) | _Описание_ |
+| [`MaType`](KeltnerChannelSource.cs/Свойства/MaType.md) | _Описание_ |
+| [`Period`](KeltnerChannelSource.cs/Свойства/Period.md) | _Описание_ |
+| [`Source`](KeltnerChannelSource.cs/Свойства/Source.md) | _Описание_ |

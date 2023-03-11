@@ -1,27 +1,24 @@
+# IndicatorTitleInfo
 
-# public sealed class IndicatorTitleInfo
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Common](../Common.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class IndicatorTitleInfo
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`IndicatorTitleInfo`](./IndicatorTitleInfo.cs/Методы/IndicatorTitleInfo.md) | *Описание* |
+
+| Название                                                                   | Описание   |
+| -------------------------------------------------------------------------- | ---------- |
+| [`IndicatorTitleInfo`](IndicatorTitleInfo.cs/Методы/IndicatorTitleInfo.md) | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`Brush`](./IndicatorTitleInfo.cs/Свойства/Brush.md) | *Описание* |
-| [`Title`](./IndicatorTitleInfo.cs/Свойства/Title.md) | *Описание* |
 
-
-
+| Название                                           | Описание   |
+| -------------------------------------------------- | ---------- |
+| [`Brush`](IndicatorTitleInfo.cs/Свойства/Brush.md) | _Описание_ |
+| [`Title`](IndicatorTitleInfo.cs/Свойства/Title.md) | _Описание_ |

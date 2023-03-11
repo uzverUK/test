@@ -1,19 +1,18 @@
+# GetHashCode
 
-# ChartAlertSettings.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Alerts](../../../../TigerTrade.Chart/Alerts.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ChartAlertSettings](../../ChartAlertSettings.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Alerts](../../../Alerts.md)\
+`class` [ChartAlertSettings](../../ChartAlertSettings.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public override int GetHashCode()
 ```
 
+### Пример
 
-### Пример  
 ```csharp
 // example
 ```
-                    
-                    

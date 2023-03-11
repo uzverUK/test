@@ -1,24 +1,20 @@
+# IChartExecution
 
-# public interface IChartExecution
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
-
-
+`namespace` [TigerTrade.Chart](../../).[Data](../Data.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public interface IChartExecution
 ```
 
-
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`IsBuy`](./IChartExecution.cs/Свойства/IsBuy.md) | *Описание* |
-| [`Price`](./IChartExecution.cs/Свойства/Price.md) | *Описание* |
-| [`Quantity`](./IChartExecution.cs/Свойства/Quantity.md) | *Описание* |
-| [`Time`](./IChartExecution.cs/Свойства/Time.md) | *Описание* |
 
-
-
+| Название                                              | Описание   |
+| ----------------------------------------------------- | ---------- |
+| [`IsBuy`](IChartExecution.cs/Свойства/IsBuy.md)       | _Описание_ |
+| [`Price`](IChartExecution.cs/Свойства/Price.md)       | _Описание_ |
+| [`Quantity`](IChartExecution.cs/Свойства/Quantity.md) | _Описание_ |
+| [`Time`](IChartExecution.cs/Свойства/Time.md)         | _Описание_ |

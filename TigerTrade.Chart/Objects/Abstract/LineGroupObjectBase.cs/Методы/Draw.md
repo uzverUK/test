@@ -1,26 +1,26 @@
+# Draw
 
-# LineGroupObjectBase.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Abstract](../../../../../TigerTrade.Chart/Objects/Abstract.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [LineGroupObjectBase](../../LineGroupObjectBase.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Objects](../../../../Objects.md).[Abstract](../../../Abstract.md)\
+`class` [LineGroupObjectBase](../../LineGroupObjectBase.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 protected override void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
-### Параметры  
-<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`visual`</mark> _<mark style="color:red;">`DxVisualQueue`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`List`</mark> _<mark style="color:red;">`ref`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

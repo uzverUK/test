@@ -1,15 +1,18 @@
+# Value
 
-# IndicatorValueInfo.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorValueInfo](../../IndicatorValueInfo.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorValueInfo](../../IndicatorValueInfo.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public string Value { get; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

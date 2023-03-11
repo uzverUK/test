@@ -1,29 +1,25 @@
+# ElliottWaveDegree
 
-# ElliottWaveDegree.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[List](../../../../../TigerTrade.Chart/Objects/List.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[List](../List.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum ElliottWaveDegree
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` GrandSupercycle` | *Описание* |
-| ` Supercycle` | *Описание* |
-| ` Cycle` | *Описание* |
-| ` Primary` | *Описание* |
-| ` Intermediate` | *Описание* |
-| ` Minor` | *Описание* |
-| ` Minute` | *Описание* |
-| ` Minuette` | *Описание* |
-| ` Subminuette` | *Описание* |
 
-
-
+| Название          | Описание   |
+| ----------------- | ---------- |
+| `GrandSupercycle` | _Описание_ |
+| `Supercycle`      | _Описание_ |
+| `Cycle`           | _Описание_ |
+| `Primary`         | _Описание_ |
+| `Intermediate`    | _Описание_ |
+| `Minor`           | _Описание_ |
+| `Minute`          | _Описание_ |
+| `Minuette`        | _Описание_ |
+| `Subminuette`     | _Описание_ |

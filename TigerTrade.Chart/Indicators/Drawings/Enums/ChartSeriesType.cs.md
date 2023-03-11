@@ -1,25 +1,21 @@
+# ChartSeriesType
 
-# ChartSeriesType.cs
-`namespace` [TigerTrade.Chart](../../../../../../TigerTrade.Chart.md).[Indicators](../../../../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../../../../TigerTrade.Chart/Indicators/Drawings.md).[Enums](../../../../../../TigerTrade.Chart/Indicators/Drawings/Enums.md)
-
-
+`namespace` [TigerTrade.Chart](../../../../).[Indicators](../../../Indicators.md).[Drawings](../../Drawings.md).[Enums](../Enums.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum ChartSeriesType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Line` | *Описание* |
-| ` Points` | *Описание* |
-| ` Columns` | *Описание* |
-| ` Area` | *Описание* |
-| ` Region` | *Описание* |
 
-
-
+| Название  | Описание   |
+| --------- | ---------- |
+| `Line`    | _Описание_ |
+| `Points`  | _Описание_ |
+| `Columns` | _Описание_ |
+| `Area`    | _Описание_ |
+| `Region`  | _Описание_ |

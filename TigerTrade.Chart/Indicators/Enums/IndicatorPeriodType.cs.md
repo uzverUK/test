@@ -1,24 +1,20 @@
+# IndicatorPeriodType
 
-# IndicatorPeriodType.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Enums](../../../../../TigerTrade.Chart/Indicators/Enums.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Enums](../Enums.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum IndicatorPeriodType
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` Day` | *Описание* |
-| ` Week` | *Описание* |
-| ` Month` | *Описание* |
-| ` AllBars` | *Описание* |
 
-
-
+| Название  | Описание   |
+| --------- | ---------- |
+| `Day`     | _Описание_ |
+| `Week`    | _Описание_ |
+| `Month`   | _Описание_ |
+| `AllBars` | _Описание_ |

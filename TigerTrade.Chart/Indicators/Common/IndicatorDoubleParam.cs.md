@@ -1,22 +1,18 @@
+# IndicatorDoubleParam
 
-# public sealed class IndicatorDoubleParam : IndicatorParam<double>
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Indicators](../../Indicators.md).[Common](../Common.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public sealed class IndicatorDoubleParam : IndicatorParam<double>
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`IndicatorDoubleParam`](./IndicatorDoubleParam.cs/Методы/IndicatorDoubleParam.md) | *Описание* |
-| [`Set`](./IndicatorDoubleParam.cs/Методы/Set.md) | *Описание* |
 
-
-
+| Название                                                                         | Описание   |
+| -------------------------------------------------------------------------------- | ---------- |
+| [`IndicatorDoubleParam`](IndicatorDoubleParam.cs/Методы/IndicatorDoubleParam.md) | _Описание_ |
+| [`Set`](IndicatorDoubleParam.cs/Методы/Set.md)                                   | _Описание_ |

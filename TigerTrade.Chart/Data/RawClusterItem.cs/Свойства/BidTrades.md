@@ -1,15 +1,18 @@
+# BidTrades
 
-# RawClusterItem.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [RawClusterItem](../../RawClusterItem.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [RawClusterItem](../../RawClusterItem.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public int BidTrades { get; set; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

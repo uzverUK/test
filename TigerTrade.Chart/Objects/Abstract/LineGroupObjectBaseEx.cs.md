@@ -1,29 +1,26 @@
+# LineGroupObjectBaseEx
 
-# public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
-`namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Abstract](../../../TigerTrade.Chart/Objects/Abstract.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[Abstract](../Abstract.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`CopyTemplate`](./LineGroupObjectBaseEx.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`LineGroupObjectBaseEx`](./LineGroupObjectBaseEx.cs/Методы/LineGroupObjectBaseEx.md) | *Описание* |
-| [`OpenStartEnd`](./LineGroupObjectBaseEx.cs/Методы/OpenStartEnd.md) | *Описание* |
+
+| Название                                                                            | Описание   |
+| ----------------------------------------------------------------------------------- | ---------- |
+| [`CopyTemplate`](LineGroupObjectBaseEx.cs/Методы/CopyTemplate.md)                   | _Описание_ |
+| [`LineGroupObjectBaseEx`](LineGroupObjectBaseEx.cs/Методы/LineGroupObjectBaseEx.md) | _Описание_ |
+| [`OpenStartEnd`](LineGroupObjectBaseEx.cs/Методы/OpenStartEnd.md)                   | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`OpenEnd`](./LineGroupObjectBaseEx.cs/Свойства/OpenEnd.md) | *Описание* |
-| [`OpenStart`](./LineGroupObjectBaseEx.cs/Свойства/OpenStart.md) | *Описание* |
 
-
-
+| Название                                                      | Описание   |
+| ------------------------------------------------------------- | ---------- |
+| [`OpenEnd`](LineGroupObjectBaseEx.cs/Свойства/OpenEnd.md)     | _Описание_ |
+| [`OpenStart`](LineGroupObjectBaseEx.cs/Свойства/OpenStart.md) | _Описание_ |

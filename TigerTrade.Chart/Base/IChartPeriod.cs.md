@@ -1,27 +1,24 @@
+# IChartPeriod
 
-# public interface IChartPeriod
-`namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Base](../../TigerTrade.Chart/Base.md)
-
-
+`namespace` [TigerTrade.Chart](../../).[Base](../Base.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public interface IChartPeriod
 ```
 
-
 ### Методы
-| Название | Описание |
-| --- | --- |
-| [`GetSequence`](./IChartPeriod.cs/Методы/GetSequence.md) | *Описание* |
+
+| Название                                               | Описание   |
+| ------------------------------------------------------ | ---------- |
+| [`GetSequence`](IChartPeriod.cs/Методы/GetSequence.md) | _Описание_ |
 
 ### Свойства
-| Название | Описание |
-| --- | --- |
-| [`Interval`](./IChartPeriod.cs/Свойства/Interval.md) | *Описание* |
-| [`Type`](./IChartPeriod.cs/Свойства/Type.md) | *Описание* |
 
-
-
+| Название                                           | Описание   |
+| -------------------------------------------------- | ---------- |
+| [`Interval`](IChartPeriod.cs/Свойства/Interval.md) | _Описание_ |
+| [`Type`](IChartPeriod.cs/Свойства/Type.md)         | _Описание_ |

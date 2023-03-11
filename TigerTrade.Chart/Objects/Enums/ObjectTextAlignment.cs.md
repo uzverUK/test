@@ -1,30 +1,26 @@
+# ObjectTextAlignment
 
-# ObjectTextAlignment.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Enums](../../../../../TigerTrade.Chart/Objects/Enums.md)
-
-
+`namespace` [TigerTrade.Chart](../../../).[Objects](../../Objects.md).[Enums](../Enums.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public enum ObjectTextAlignment
 ```
 
-
 ### Значения
-| Название | Описание |
-| --- | --- |
-| ` LeftTop` | *Описание* |
-| ` LeftMiddle` | *Описание* |
-| ` LeftBottom` | *Описание* |
-| ` CenterTop` | *Описание* |
-| ` CenterMiddle` | *Описание* |
-| ` CenterBottom` | *Описание* |
-| ` RightTop` | *Описание* |
-| ` RightMiddle` | *Описание* |
-| ` RightBottom` | *Описание* |
-| ` Hide` | *Описание* |
 
-
-
+| Название       | Описание   |
+| -------------- | ---------- |
+| `LeftTop`      | _Описание_ |
+| `LeftMiddle`   | _Описание_ |
+| `LeftBottom`   | _Описание_ |
+| `CenterTop`    | _Описание_ |
+| `CenterMiddle` | _Описание_ |
+| `CenterBottom` | _Описание_ |
+| `RightTop`     | _Описание_ |
+| `RightMiddle`  | _Описание_ |
+| `RightBottom`  | _Описание_ |
+| `Hide`         | _Описание_ |

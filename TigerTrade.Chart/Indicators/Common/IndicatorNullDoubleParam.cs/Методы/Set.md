@@ -1,29 +1,29 @@
+# Set
 
-# IndicatorNullDoubleParam.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Common](../../../../../TigerTrade.Chart/Indicators/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IndicatorNullDoubleParam](../../IndicatorNullDoubleParam.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Common](../../../Common.md)\
+`class` [IndicatorNullDoubleParam](../../IndicatorNullDoubleParam.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public bool Set(string key, double? value, double minValue = -1.7976931348623157E+308, double maxValue = 1.7976931348623157E+308)
 ```
-### Параметры  
-<mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`minValue`</mark> <mark style="color:red;">*`double`*</mark>  
- *Описание*  
-  
-<mark style="color:yellow;">`maxValue`</mark> <mark style="color:red;">*`double`*</mark>  
- *Описание*  
-  
 
+### Параметры
 
-### Пример  
+<mark style="color:yellow;">`key`</mark> _<mark style="color:red;">`string`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`minValue`</mark> _<mark style="color:red;">`double`</mark>_\
+_Описание_
+
+<mark style="color:yellow;">`maxValue`</mark> _<mark style="color:red;">`double`</mark>_\
+_Описание_
+
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

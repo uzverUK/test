@@ -1,15 +1,18 @@
+# Time
 
-# ObjectPointInfo.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Objects](../../../../../TigerTrade.Chart/Objects.md).[Common](../../../../../TigerTrade.Chart/Objects/Common.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [ObjectPointInfo](../../ObjectPointInfo.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Objects](../../../../Objects.md).[Common](../../../Common.md)\
+`class` [ObjectPointInfo](../../ObjectPointInfo.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public DateTime Time { get; set; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```

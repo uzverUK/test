@@ -1,22 +1,21 @@
+# GetSeriesList
 
-# RSISource.cs
-`namespace` [TigerTrade.Chart](../../../../../TigerTrade.Chart.md).[Indicators](../../../../../TigerTrade.Chart/Indicators.md).[Sources](../../../../../TigerTrade.Chart/Indicators/Sources.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [RSISource](../../RSISource.cs.md)
+`namespace` [TigerTrade.Chart](../../../../../).[Indicators](../../../../Indicators.md).[Sources](../../../Sources.md)\
+`class` [RSISource](../../RSISource.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 public override IEnumerable<string> GetSeriesList()
 ```
-<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
- *Описание*  
-  
 
+<mark style="color:yellow;">`List`</mark> _<mark style="color:red;">`new`</mark>_\
+_Описание_
 
-### Пример  
+### Пример
+
 ```csharp
 // example
 ```
-                    
-                    

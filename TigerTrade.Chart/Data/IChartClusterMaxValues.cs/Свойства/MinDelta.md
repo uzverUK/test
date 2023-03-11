@@ -1,15 +1,18 @@
+# MinDelta
 
-# IChartClusterMaxValues.cs
-`namespace` [TigerTrade.Chart](../../../../TigerTrade.Chart.md).[Data](../../../../TigerTrade.Chart/Data.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`class` [IChartClusterMaxValues](../../IChartClusterMaxValues.cs.md)
+`namespace` [TigerTrade.Chart](../../../../).[Data](../../../Data.md)\
+`class` [IChartClusterMaxValues](../../IChartClusterMaxValues.cs.md)
 
 Описание
 
 ### Синтаксис
+
 ```csharp
 Decimal MinDelta { get; }
 ```
-### Пример  
+
+### Пример
+
 ```csharp
 // example
 ```
