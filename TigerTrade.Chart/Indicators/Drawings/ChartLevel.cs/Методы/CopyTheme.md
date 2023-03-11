@@ -9,7 +9,7 @@
 ```csharp
 public void CopyTheme(ChartLevel chartLevel)
 ```
-<mark style="color:yellow;">`chartLevel`</mark> *`ChartLevel`*  
+<mark style="color:yellow;">`chartLevel`</mark> <mark style="color:red;">*`ChartLevel`*</mark>  
  *Описание*  
   
 

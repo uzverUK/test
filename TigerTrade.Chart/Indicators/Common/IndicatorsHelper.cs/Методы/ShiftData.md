@@ -9,7 +9,7 @@
 ```csharp
 public double[] ShiftData(double[] data, int shift)
 ```
-<mark style="color:yellow;">`shift`</mark> *`int`*  
+<mark style="color:yellow;">`shift`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

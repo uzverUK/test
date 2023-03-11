@@ -10,10 +10,10 @@
 public ChartClusterItem(Decimal price)
 public ChartClusterItem(IChartClusterItem item)
 ```
-<mark style="color:yellow;">`price`</mark> *`Decimal`*  
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`item`</mark> *`IChartClusterItem`*  
+<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
  *Описание*  
   
 

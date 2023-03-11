@@ -10,7 +10,7 @@
 public bool CheckInterval(int interval)
 ```
 ### Параметры  
-<mark style="color:yellow;">`interval`</mark> *`int`*  
+<mark style="color:yellow;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

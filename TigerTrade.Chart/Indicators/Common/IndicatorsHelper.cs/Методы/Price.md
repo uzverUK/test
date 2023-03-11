@@ -9,7 +9,7 @@
 ```csharp
 public double[] Price(IndicatorPriceType priceField)
 ```
-<mark style="color:yellow;">`priceField`</mark> *`IndicatorPriceType`*  
+<mark style="color:yellow;">`priceField`</mark> <mark style="color:red;">*`IndicatorPriceType`*</mark>  
  *Описание*  
   
 

@@ -9,13 +9,13 @@
 ```csharp
 public double[] CO(IndicatorMaType maType, int shortPeriod, int longPeriod)
 ```
-<mark style="color:yellow;">`maType`</mark> *`IndicatorMaType`*  
+<mark style="color:yellow;">`maType`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`shortPeriod`</mark> *`int`*  
+<mark style="color:yellow;">`shortPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`longPeriod`</mark> *`int`*  
+<mark style="color:yellow;">`longPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

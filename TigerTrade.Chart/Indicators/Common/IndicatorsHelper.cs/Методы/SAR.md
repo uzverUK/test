@@ -10,10 +10,10 @@
 public double[] SAR(double step, double maxp)
 ```
 ### Параметры  
-<mark style="color:yellow;">`step`</mark> *`double`*  
+<mark style="color:yellow;">`step`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`maxp`</mark> *`double`*  
+<mark style="color:yellow;">`maxp`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
 

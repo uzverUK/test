@@ -11,19 +11,19 @@ int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double ti
 int GetSequence(ChartPeriodType type, int interval, double dateTime, double timeOffset)
 ```
 ### Параметры  
-<mark style="color:yellow;">`type`</mark> *`ChartPeriodType`*  
+<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`ChartPeriodType`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`interval`</mark> *`int`*  
+<mark style="color:yellow;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`dateTime`</mark> *`DateTime`*  
+<mark style="color:yellow;">`dateTime`</mark> <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`timeOffset`</mark> *`double`*  
+<mark style="color:yellow;">`timeOffset`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`dateTime`</mark> *`double`*  
+<mark style="color:yellow;">`dateTime`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
   
 

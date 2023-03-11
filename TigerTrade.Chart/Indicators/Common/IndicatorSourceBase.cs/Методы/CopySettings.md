@@ -10,7 +10,7 @@
 public abstract void CopySettings(IndicatorSourceBase source)
 ```
 ### Параметры  
-<mark style="color:yellow;">`source`</mark> *`IndicatorSourceBase`*  
+<mark style="color:yellow;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
  *Описание*  
   
 

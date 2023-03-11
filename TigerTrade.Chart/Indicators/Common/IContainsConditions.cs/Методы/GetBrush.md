@@ -10,10 +10,10 @@
 XBrush GetBrush(int index, bool isUp)
 ```
 ### Параметры  
-<mark style="color:yellow;">`index`</mark> *`int`*  
+<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`isUp`</mark> *`bool`*  
+<mark style="color:yellow;">`isUp`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
   
 

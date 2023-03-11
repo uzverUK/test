@@ -9,7 +9,7 @@
 ```csharp
 public IRawClusterValueArea GetValueArea(int valueArea)
 ```
-<mark style="color:yellow;">`valueArea`</mark> *`int`*  
+<mark style="color:yellow;">`valueArea`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

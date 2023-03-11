@@ -9,7 +9,7 @@
 ```csharp
 public virtual void ApplyColors(IChartTheme palette)
 ```
-<mark style="color:yellow;">`palette`</mark> *`IChartTheme`*  
+<mark style="color:yellow;">`palette`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
  *Описание*  
   
 

@@ -10,7 +10,7 @@
 public void Add(IChartClusterItem item)
 ```
 ### Параметры  
-<mark style="color:yellow;">`item`</mark> *`IChartClusterItem`*  
+<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
  *Описание*  
   
 

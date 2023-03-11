@@ -9,10 +9,10 @@
 ```csharp
 public double[] SearchPattern(IndicatorsHelper helper, CandlePatternSourcePatternType type)
 ```
-<mark style="color:yellow;">`helper`</mark> *`IndicatorsHelper`*  
+<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`type`</mark> *`CandlePatternSourcePatternType`*  
+<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`CandlePatternSourcePatternType`*</mark>  
  *Описание*  
   
 

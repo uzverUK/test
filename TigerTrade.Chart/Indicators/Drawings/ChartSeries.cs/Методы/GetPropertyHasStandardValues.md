@@ -9,7 +9,7 @@
 ```csharp
 public bool GetPropertyHasStandardValues(string propertyName)
 ```
-<mark style="color:yellow;">`propertyName`</mark> *`string`*  
+<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 

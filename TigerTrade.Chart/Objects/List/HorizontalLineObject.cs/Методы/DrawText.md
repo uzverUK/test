@@ -10,7 +10,7 @@
 protected void DrawText(DxVisualQueue visual)
 ```
 ### Параметры  
-<mark style="color:yellow;">`visual`</mark> *`DxVisualQueue`*  
+<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
   
 

@@ -10,7 +10,7 @@
 public void AddCluster(IRawCluster cluster)
 ```
 ### Параметры  
-<mark style="color:yellow;">`cluster`</mark> *`IRawCluster`*  
+<mark style="color:yellow;">`cluster`</mark> <mark style="color:red;">*`IRawCluster`*</mark>  
  *Описание*  
   
 

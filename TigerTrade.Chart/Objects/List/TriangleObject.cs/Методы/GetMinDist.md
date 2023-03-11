@@ -9,10 +9,10 @@
 ```csharp
 protected override int GetMinDist(int x, int y)
 ```
-<mark style="color:yellow;">`x`</mark> *`int`*  
+<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`y`</mark> *`int`*  
+<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

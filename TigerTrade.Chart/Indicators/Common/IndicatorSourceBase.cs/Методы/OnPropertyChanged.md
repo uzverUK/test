@@ -10,7 +10,7 @@
 protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
 ```
 ### Параметры  
-<mark style="color:yellow;">`propertyName`</mark> *`string`*  
+<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
 

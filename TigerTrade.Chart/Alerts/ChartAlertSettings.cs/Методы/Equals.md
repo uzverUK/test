@@ -9,7 +9,7 @@
 ```csharp
 public bool Equals(ChartAlertSettings other)
 ```
-<mark style="color:yellow;">`other`</mark> *`ChartAlertSettings`*  
+<mark style="color:yellow;">`other`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
  *Описание*  
   
 

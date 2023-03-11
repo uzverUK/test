@@ -9,7 +9,7 @@
 ```csharp
 public string PrettyFormatTimeSpan(TimeSpan span)
 ```
-<mark style="color:yellow;">`span`</mark> *`TimeSpan`*  
+<mark style="color:yellow;">`span`</mark> <mark style="color:red;">*`TimeSpan`*</mark>  
  *Описание*  
   
 

@@ -9,7 +9,7 @@
 ```csharp
 public double[] VHF(int n)
 ```
-<mark style="color:yellow;">`n`</mark> *`int`*  
+<mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

@@ -9,7 +9,7 @@
 ```csharp
 public override void ApplyTheme(IChartTheme theme)
 ```
-<mark style="color:yellow;">`theme`</mark> *`IChartTheme`*  
+<mark style="color:yellow;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
  *Описание*  
   
 

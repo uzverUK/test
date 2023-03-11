@@ -9,10 +9,10 @@
 ```csharp
 public virtual void SetSettingsParam(string name, object param)
 ```
-<mark style="color:yellow;">`name`</mark> *`string`*  
+<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`param`</mark> *`object`*  
+<mark style="color:yellow;">`param`</mark> <mark style="color:red;">*`object`*</mark>  
  *Описание*  
   
 

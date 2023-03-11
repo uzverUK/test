@@ -10,7 +10,7 @@
 protected abstract string GetDegreeText(int num)
 ```
 ### Параметры  
-<mark style="color:yellow;">`num`</mark> *`int`*  
+<mark style="color:yellow;">`num`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

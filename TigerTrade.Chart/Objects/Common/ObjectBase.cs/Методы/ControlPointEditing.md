@@ -10,7 +10,7 @@
 public virtual void ControlPointEditing(int index)
 ```
 ### Параметры  
-<mark style="color:yellow;">`index`</mark> *`int`*  
+<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

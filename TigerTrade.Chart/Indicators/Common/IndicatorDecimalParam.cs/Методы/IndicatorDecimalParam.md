@@ -11,7 +11,7 @@ public IndicatorDecimalParam()
 public IndicatorDecimalParam(Decimal value)
 ```
 ### Параметры  
-<mark style="color:yellow;">`value`</mark> *`Decimal`*  
+<mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
   
 

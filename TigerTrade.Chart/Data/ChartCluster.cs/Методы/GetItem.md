@@ -9,7 +9,7 @@
 ```csharp
 public IChartClusterItem GetItem(Decimal price)
 ```
-<mark style="color:yellow;">`price`</mark> *`Decimal`*  
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
   
 

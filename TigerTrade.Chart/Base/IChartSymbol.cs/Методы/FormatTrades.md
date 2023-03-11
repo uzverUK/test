@@ -10,13 +10,13 @@
 string FormatTrades(long trades)
 string FormatTrades(long trades, int round, bool minimize)
 ```
-<mark style="color:yellow;">`trades`</mark> *`long`*  
+<mark style="color:yellow;">`trades`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`round`</mark> *`int`*  
+<mark style="color:yellow;">`round`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`minimize`</mark> *`bool`*  
+<mark style="color:yellow;">`minimize`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
   
 

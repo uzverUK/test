@@ -9,7 +9,7 @@
 ```csharp
 public void SetDataProvider(IChartDataProvider dp)
 ```
-<mark style="color:yellow;">`dp`</mark> *`IChartDataProvider`*  
+<mark style="color:yellow;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
  *Описание*  
   
 

@@ -10,7 +10,7 @@
 string FormatRawSizeShort(long size)
 ```
 ### Параметры  
-<mark style="color:yellow;">`size`</mark> *`long`*  
+<mark style="color:yellow;">`size`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
   
 

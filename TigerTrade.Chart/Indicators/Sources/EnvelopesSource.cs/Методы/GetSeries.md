@@ -10,7 +10,7 @@
 public override double[] GetSeries(IndicatorsHelper helper)
 ```
 ### Параметры  
-<mark style="color:yellow;">`helper`</mark> *`IndicatorsHelper`*  
+<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
  *Описание*  
   
 

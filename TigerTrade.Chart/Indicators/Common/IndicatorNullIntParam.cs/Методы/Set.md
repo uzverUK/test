@@ -10,13 +10,13 @@
 public bool Set(string key, int? value, int minValue = -2147483648, int maxValue = 2147483647)
 ```
 ### Параметры  
-<mark style="color:yellow;">`key`</mark> *`string`*  
+<mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`minValue`</mark> *`int`*  
+<mark style="color:yellow;">`minValue`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
-<mark style="color:yellow;">`maxValue`</mark> *`int`*  
+<mark style="color:yellow;">`maxValue`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

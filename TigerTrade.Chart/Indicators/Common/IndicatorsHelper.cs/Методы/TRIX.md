@@ -10,7 +10,7 @@
 public double[] TRIX(int period)
 ```
 ### Параметры  
-<mark style="color:yellow;">`period`</mark> *`int`*  
+<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
   
 

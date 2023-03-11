@@ -10,7 +10,7 @@
 IRawClusterItem GetItem(long price)
 ```
 ### Параметры  
-<mark style="color:yellow;">`price`</mark> *`long`*  
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
   
 
