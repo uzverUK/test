@@ -23,6 +23,8 @@ public sealed class OBVSource : IndicatorSourceBase
 
 
 
+***  
+***  
 # Методы
 
 ## `CopySettings`
@@ -36,6 +38,7 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
+***  
 
 ## `GetSeries`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -47,6 +50,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
+***  
 
 ## `GetSeriesList`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -58,6 +62,7 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
+***  
 
 ## `OBVSource`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -66,6 +71,7 @@ public override IEnumerable<string> GetSeriesList()
 public OBVSource()
 ```
 
+***  
 
 ## `ToString`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -74,4 +80,5 @@ public OBVSource()
 public override string ToString()
 ```
 
+***  
 

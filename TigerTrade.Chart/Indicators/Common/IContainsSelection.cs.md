@@ -19,6 +19,8 @@ public interface IContainsSelection
 
 
 
+***  
+***  
 # Методы
 
 ## `GetSelection`
@@ -38,4 +40,5 @@ XBrush GetSelection(int index, long price, int type)
  *Описание*  
 
 
+***  
 

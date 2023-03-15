@@ -25,6 +25,8 @@ public class IndicatorSourceAttribute : Attribute
 
 
 
+***  
+***  
 # Методы
 
 ## `IndicatorSourceAttribute`
@@ -38,6 +40,9 @@ public IndicatorSourceAttribute(string name)
  *Описание*  
 
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `Name`
@@ -45,12 +50,14 @@ public IndicatorSourceAttribute(string name)
 
 ```csharp
 public string Name { get; }
-```
+```  
+***
 
 ## `Type`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public Type Type { get; set; }
-```
+```  
+***
 

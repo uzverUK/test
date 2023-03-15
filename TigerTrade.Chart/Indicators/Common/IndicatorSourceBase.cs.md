@@ -37,6 +37,8 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 
 
 
+***  
+***  
 # Методы
 
 ## `CloneSource`
@@ -46,6 +48,7 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 public IndicatorSourceBase CloneSource()
 ```
 
+***  
 
 ## `CopySettings`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -58,6 +61,7 @@ public abstract void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
+***  
 
 ## `GetSeries`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -69,6 +73,7 @@ public abstract double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
+***  
 
 ## `GetSeriesList`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -77,6 +82,7 @@ public abstract double[] GetSeries(IndicatorsHelper helper)
 public abstract IEnumerable<string> GetSeriesList()
 ```
 
+***  
 
 ## `IndicatorSourceBase`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -85,6 +91,7 @@ public abstract IEnumerable<string> GetSeriesList()
 protected IndicatorSourceBase()
 ```
 
+***  
 
 ## `OnPropertyChanged`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -97,6 +104,7 @@ protected virtual void OnPropertyChanged([CallerMemberName] string propertyName 
  *Описание*  
 
 
+***  
 
 ## `SetSources`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -105,6 +113,7 @@ protected virtual void OnPropertyChanged([CallerMemberName] string propertyName 
 public static void SetSources(List<Type> sources)
 ```
 
+***  
 
 ## `ToString`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -113,6 +122,9 @@ public static void SetSources(List<Type> sources)
 public override string ToString()
 ```
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `Name`
@@ -120,14 +132,18 @@ public override string ToString()
 
 ```csharp
 public string Name { get; }
-```
+```  
+***
 
 ## `SelectedSeries`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public string SelectedSeries { get; set; }
-```
+```  
+***
+***  
+ ***  
 # События
 
 ## `PropertyChanged`

@@ -25,6 +25,8 @@ public sealed class IndicatorTitleInfo
 
 
 
+***  
+***  
 # Методы
 
 ## `IndicatorTitleInfo`
@@ -41,6 +43,7 @@ public IndicatorTitleInfo(string title, XBrush brush)
  *Описание*  
 
 
+***  
 
 ## `IndicatorTitleInfo`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -60,6 +63,9 @@ public IndicatorTitleInfo(string title, XColor color)
  *Описание*  
 
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `Brush`
@@ -67,12 +73,14 @@ public IndicatorTitleInfo(string title, XColor color)
 
 ```csharp
 public XBrush Brush { get; }
-```
+```  
+***
 
 ## `Title`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public string Title { get; }
-```
+```  
+***
 

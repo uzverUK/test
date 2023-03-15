@@ -31,6 +31,8 @@ public sealed class BrushObject : LineObjectBase
 
 
 
+***  
+***  
 # Методы
 
 ## `AddPoint`
@@ -44,6 +46,7 @@ public void AddPoint(ObjectPoint op)
  *Описание*  
 
 
+***  
 
 ## `ApplyTheme`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -55,6 +58,7 @@ public override void ApplyTheme(IChartTheme theme)
  *Описание*  
 
 
+***  
 
 ## `BrushObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -63,6 +67,7 @@ public override void ApplyTheme(IChartTheme theme)
 public BrushObject()
 ```
 
+***  
 
 ## `CopyTemplate`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -78,6 +83,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
+***  
 
 ## `Draw`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -92,6 +98,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
+***  
 
 ## `GetMinDist`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -106,6 +113,7 @@ protected override int GetMinDist(int x, int y)
  *Описание*  
 
 
+***  
 
 ## `InObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -114,6 +122,9 @@ protected override int GetMinDist(int x, int y)
 protected override bool InObject(int x, int y)
 ```
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `Points`
@@ -121,12 +132,14 @@ protected override bool InObject(int x, int y)
 
 ```csharp
 public System.Collections.Generic.List<ObjectPoint> Points { get; set; }
-```
+```  
+***
 
 ## `xsuJlZ3bylFkXacpNF53`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
-```
+```  
+***
 

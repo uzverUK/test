@@ -33,6 +33,8 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 
 
 
+***  
+***  
 # Методы
 
 ## `CalcPoint`
@@ -42,6 +44,7 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 protected override void CalcPoint()
 ```
 
+***  
 
 ## `CopyTemplate`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -57,6 +60,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
+***  
 
 ## `Draw`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -71,6 +75,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
+***  
 
 ## `LinearRegressionObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -79,6 +84,9 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 public LinearRegressionObject()
 ```
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `CenterLine`
@@ -86,47 +94,54 @@ public LinearRegressionObject()
 
 ```csharp
 public bool CenterLine { get; set; }
-```
+```  
+***
 
 ## `DownLine`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool DownLine { get; set; }
-```
+```  
+***
 
 ## `Percentage`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public double Percentage { get; set; }
-```
+```  
+***
 
 ## `RegressionType`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public RegressionType RegressionType { get; set; }
-```
+```  
+***
 
 ## `ShowAuxLine`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool ShowAuxLine { get; set; }
-```
+```  
+***
 
 ## `UpLine`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool UpLine { get; set; }
-```
+```  
+***
 
 ## `xsuJlZ3bylFkXacpNF53`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
-```
+```  
+***
 

@@ -20,6 +20,8 @@ public sealed class IndicatorDecimalParam : IndicatorParam<Decimal>
 
 
 
+***  
+***  
 # Методы
 
 ## `IndicatorDecimalParam`
@@ -29,6 +31,7 @@ public sealed class IndicatorDecimalParam : IndicatorParam<Decimal>
 public IndicatorDecimalParam()
 ```
 
+***  
 
 ## `IndicatorDecimalParam`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -42,6 +45,7 @@ public IndicatorDecimalParam(Decimal value)
  *Описание*  
 
 
+***  
 
 ## `Set`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -59,4 +63,5 @@ public bool Set(string key, Decimal value, Decimal minValue = -79228162514264337
  *Описание*  
 
 
+***  
 

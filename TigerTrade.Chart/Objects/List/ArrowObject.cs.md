@@ -26,6 +26,8 @@ public sealed class ArrowObject : LineObjectBase
 
 
 
+***  
+***  
 # Методы
 
 ## `ArrowObject`
@@ -35,6 +37,7 @@ public sealed class ArrowObject : LineObjectBase
 public ArrowObject()
 ```
 
+***  
 
 ## `Draw`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -50,6 +53,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
+***  
 
 ## `InObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -64,6 +68,9 @@ protected override bool InObject(int x, int y)
  *Описание*  
 
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `xsuJlZ3bylFkXacpNF53`
@@ -71,5 +78,6 @@ protected override bool InObject(int x, int y)
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
-```
+```  
+***
 

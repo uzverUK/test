@@ -30,6 +30,8 @@ public abstract class ElliottWaveObject : LineObjectBase
 
 
 
+***  
+***  
 # Методы
 
 ## `CopyTemplate`
@@ -46,6 +48,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
+***  
 
 ## `Draw`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -60,6 +63,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
+***  
 
 ## `ElliottWaveObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -68,6 +72,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 protected ElliottWaveObject()
 ```
 
+***  
 
 ## `GetDegreeText`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -80,6 +85,7 @@ protected abstract string GetDegreeText(int num)
  *Описание*  
 
 
+***  
 
 ## `InObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -94,6 +100,9 @@ protected override bool InObject(int x, int y)
  *Описание*  
 
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `Degree`
@@ -101,19 +110,22 @@ protected override bool InObject(int x, int y)
 
 ```csharp
 public ElliottWaveDegree Degree { get; set; }
-```
+```  
+***
 
 ## `ShowWave`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool ShowWave { get; set; }
-```
+```  
+***
 
 ## `xsuJlZ3bylFkXacpNF53`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
-```
+```  
+***
 

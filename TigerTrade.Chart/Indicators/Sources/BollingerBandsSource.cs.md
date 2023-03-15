@@ -31,6 +31,8 @@ public sealed class BollingerBandsSource : IndicatorSourceBase
 
 
 
+***  
+***  
 # Методы
 
 ## `BollingerBandsSource`
@@ -40,6 +42,7 @@ public sealed class BollingerBandsSource : IndicatorSourceBase
 public BollingerBandsSource()
 ```
 
+***  
 
 ## `CopySettings`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -52,6 +55,7 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
+***  
 
 ## `GetSeries`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -63,6 +67,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
+***  
 
 ## `GetSeriesList`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -74,6 +79,7 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
+***  
 
 ## `ToString`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -82,6 +88,9 @@ public override IEnumerable<string> GetSeriesList()
 public override string ToString()
 ```
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `MaType`
@@ -89,26 +98,30 @@ public override string ToString()
 
 ```csharp
 public IndicatorMaType MaType { get; set; }
-```
+```  
+***
 
 ## `Period`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int Period { get; set; }
-```
+```  
+***
 
 ## `Source`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public IndicatorSourceBase Source { get; set; }
-```
+```  
+***
 
 ## `StdDev`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public Decimal StdDev { get; set; }
-```
+```  
+***
 

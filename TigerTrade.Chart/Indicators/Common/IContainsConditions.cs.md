@@ -19,6 +19,8 @@ public interface IContainsConditions
 
 
 
+***  
+***  
 # Методы
 
 ## `GetBrush`
@@ -35,4 +37,5 @@ XBrush GetBrush(int index, bool isUp)
  *Описание*  
 
 
+***  
 

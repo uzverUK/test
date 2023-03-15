@@ -31,6 +31,8 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 
 
 
+***  
+***  
 # Методы
 
 ## `ObjectPointInfo`
@@ -44,6 +46,7 @@ public ObjectPointInfo(ObjectPoint[] points, int index)
  *Описание*  
 
 
+***  
 
 ## `ToString`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -52,6 +55,9 @@ public ObjectPointInfo(ObjectPoint[] points, int index)
 public override string ToString()
 ```
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `Price`
@@ -59,14 +65,18 @@ public override string ToString()
 
 ```csharp
 public double Price { get; set; }
-```
+```  
+***
 
 ## `Time`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public DateTime Time { get; set; }
-```
+```  
+***
+***  
+ ***  
 # События
 
 ## `PropertyChanged`

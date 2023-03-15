@@ -29,6 +29,8 @@ public sealed class ParabolicSARSource : IndicatorSourceBase
 
 
 
+***  
+***  
 # Методы
 
 ## `CopySettings`
@@ -42,6 +44,7 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
+***  
 
 ## `GetSeries`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -53,6 +56,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
+***  
 
 ## `GetSeriesList`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -64,6 +68,7 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
+***  
 
 ## `ParabolicSARSource`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -72,6 +77,7 @@ public override IEnumerable<string> GetSeriesList()
 public ParabolicSARSource()
 ```
 
+***  
 
 ## `ToString`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -84,6 +90,9 @@ public override string ToString()
  *Описание*  
 
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `Max`
@@ -91,12 +100,14 @@ public override string ToString()
 
 ```csharp
 public Decimal Max { get; set; }
-```
+```  
+***
 
 ## `Step`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public Decimal Step { get; set; }
-```
+```  
+***
 

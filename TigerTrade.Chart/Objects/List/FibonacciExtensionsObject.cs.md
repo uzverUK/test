@@ -37,6 +37,8 @@ public sealed class FibonacciExtensionsObject : LineObjectBase
 
 
 
+***  
+***  
 # Методы
 
 ## `ApplyTheme`
@@ -50,6 +52,7 @@ public override void ApplyTheme(IChartTheme theme)
  *Описание*  
 
 
+***  
 
 ## `CopyTemplate`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -64,6 +67,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
+***  
 
 ## `Draw`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -78,6 +82,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
+***  
 
 ## `FibonacciExtensionsObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -86,6 +91,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 public FibonacciExtensionsObject()
 ```
 
+***  
 
 ## `InObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -101,6 +107,9 @@ protected override bool InObject(int x, int y)
  *Описание*  
 
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `CustomLevels`
@@ -108,68 +117,78 @@ protected override bool InObject(int x, int y)
 
 ```csharp
 public bool CustomLevels { get; set; }
-```
+```  
+***
 
 ## `Levels`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
-```
+```  
+***
 
 ## `LevelsLineColor`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public XColor LevelsLineColor { get; set; }
-```
+```  
+***
 
 ## `LevelsLineStyle`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public XDashStyle LevelsLineStyle { get; set; }
-```
+```  
+***
 
 ## `LevelsLineWidth`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int LevelsLineWidth { get; set; }
-```
+```  
+***
 
 ## `LevelsWidth`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int LevelsWidth { get; set; }
-```
+```  
+***
 
 ## `OpenEnd`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool OpenEnd { get; set; }
-```
+```  
+***
 
 ## `OpenStart`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool OpenStart { get; set; }
-```
+```  
+***
 
 ## `TextAlignment`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
-```
+```  
+***
 
 ## `xsuJlZ3bylFkXacpNF53`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
-```
+```  
+***
 

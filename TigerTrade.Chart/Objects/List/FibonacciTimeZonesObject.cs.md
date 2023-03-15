@@ -29,6 +29,8 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 
 
 
+***  
+***  
 # Методы
 
 ## `CalcPoint`
@@ -38,6 +40,7 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 protected override void CalcPoint()
 ```
 
+***  
 
 ## `CopyTemplate`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -53,6 +56,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
+***  
 
 ## `Draw`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -67,6 +71,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
+***  
 
 ## `FibonacciTimeZonesObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -75,6 +80,9 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 public FibonacciTimeZonesObject()
 ```
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `MaxLines`
@@ -82,19 +90,22 @@ public FibonacciTimeZonesObject()
 
 ```csharp
 public int MaxLines { get; set; }
-```
+```  
+***
 
 ## `TextAlignment`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
-```
+```  
+***
 
 ## `xsuJlZ3bylFkXacpNF53`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
-```
+```  
+***
 

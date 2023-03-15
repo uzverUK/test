@@ -20,6 +20,8 @@ public sealed class IndicatorNullDoubleParam : IndicatorParam<double?>
 
 
 
+***  
+***  
 # Методы
 
 ## `IndicatorNullDoubleParam`
@@ -29,6 +31,7 @@ public sealed class IndicatorNullDoubleParam : IndicatorParam<double?>
 public IndicatorNullDoubleParam()
 ```
 
+***  
 
 ## `IndicatorNullDoubleParam`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -38,6 +41,7 @@ public IndicatorNullDoubleParam()
 public IndicatorNullDoubleParam(double? value)
 ```
 
+***  
 
 ## `Set`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -56,4 +60,5 @@ public bool Set(string key, double? value, double minValue = -1.7976931348623157
  *Описание*  
 
 
+***  
 

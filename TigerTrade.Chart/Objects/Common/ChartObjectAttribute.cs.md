@@ -27,6 +27,8 @@ public class ChartObjectAttribute : Attribute
 
 
 
+***  
+***  
 # Методы
 
 ## `ChartObjectAttribute`
@@ -46,6 +48,9 @@ public ChartObjectAttribute(string id, string name, int points)
  *Описание*  
 
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `ID`
@@ -53,26 +58,30 @@ public ChartObjectAttribute(string id, string name, int points)
 
 ```csharp
 public string ID { get; }
-```
+```  
+***
 
 ## `Name`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public string Name { get; }
-```
+```  
+***
 
 ## `Points`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int Points { get; }
-```
+```  
+***
 
 ## `Type`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public Type Type { get; set; }
-```
+```  
+***
 

@@ -27,6 +27,8 @@ public sealed class CircleObject : PolygonObjectBase
 
 
 
+***  
+***  
 # Методы
 
 ## `CircleObject`
@@ -36,6 +38,7 @@ public sealed class CircleObject : PolygonObjectBase
 public CircleObject()
 ```
 
+***  
 
 ## `Draw`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -51,6 +54,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
+***  
 
 ## `GetMinDist`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -65,6 +69,7 @@ protected override int GetMinDist(int x, int y)
  *Описание*  
 
 
+***  
 
 ## `InObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -73,6 +78,9 @@ protected override int GetMinDist(int x, int y)
 protected override bool InObject(int x, int y)
 ```
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `xsuJlZ3bylFkXacpNF53`
@@ -80,5 +88,6 @@ protected override bool InObject(int x, int y)
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
-```
+```  
+***
 

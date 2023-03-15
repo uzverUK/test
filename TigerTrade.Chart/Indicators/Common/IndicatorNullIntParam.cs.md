@@ -20,6 +20,8 @@ public sealed class IndicatorNullIntParam : IndicatorParam<int?>
 
 
 
+***  
+***  
 # Методы
 
 ## `IndicatorNullIntParam`
@@ -29,6 +31,7 @@ public sealed class IndicatorNullIntParam : IndicatorParam<int?>
 public IndicatorNullIntParam()
 ```
 
+***  
 
 ## `IndicatorNullIntParam`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -38,6 +41,7 @@ public IndicatorNullIntParam()
 public IndicatorNullIntParam(int? value)
 ```
 
+***  
 
 ## `Set`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -56,4 +60,5 @@ public bool Set(string key, int? value, int minValue = -2147483648, int maxValue
  *Описание*  
 
 
+***  
 

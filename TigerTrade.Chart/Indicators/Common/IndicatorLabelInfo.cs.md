@@ -26,6 +26,8 @@ public sealed class IndicatorLabelInfo
 
 
 
+***  
+***  
 # Методы
 
 ## `IndicatorLabelInfo`
@@ -42,6 +44,9 @@ public IndicatorLabelInfo(double value, XColor color, double? position = null)
  *Описание*  
 
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `Color`
@@ -49,19 +54,22 @@ public IndicatorLabelInfo(double value, XColor color, double? position = null)
 
 ```csharp
 public XColor Color { get; }
-```
+```  
+***
 
 ## `Position`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public double? Position { get; }
-```
+```  
+***
 
 ## `Value`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public double Value { get; }
-```
+```  
+***
 

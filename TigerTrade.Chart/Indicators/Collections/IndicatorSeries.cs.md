@@ -27,6 +27,8 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 
 
 
+***  
+***  
 # Методы
 
 ## `Add`
@@ -40,6 +42,7 @@ public void Add(IndicatorSeriesData series)
  *Описание*  
 
 
+***  
 
 ## `Add`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -59,6 +62,7 @@ public void Add(IndicatorSeriesData series1, IndicatorSeriesData series2)
  *Описание*  
 
 
+***  
 
 ## `Add`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -82,6 +86,7 @@ public void Add(params IndicatorSeriesData[] series)
  *Описание*  
 
 
+***  
 
 ## `Clear`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -90,6 +95,7 @@ public void Add(params IndicatorSeriesData[] series)
 public void Clear()
 ```
 
+***  
 
 ## `GetEnumerator`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -98,6 +104,7 @@ public void Clear()
 public IEnumerator<IndicatorSeriesData> GetEnumerator()
 ```
 
+***  
 
 ## `IndicatorSeries`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
@@ -106,6 +113,9 @@ public IEnumerator<IndicatorSeriesData> GetEnumerator()
 public IndicatorSeries()
 ```
 
+***  
+***  
+ ***  
 # Свойства
 
 ## `Count`
@@ -113,5 +123,6 @@ public IndicatorSeries()
 
 ```csharp
 public int Count { get; }
-```
+```  
+***
 
