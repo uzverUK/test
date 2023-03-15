@@ -1,5 +1,5 @@
 
-# public class IndicatorSourceAttribute : Attribute
+# IndicatorSourceAttribute
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)
 
 

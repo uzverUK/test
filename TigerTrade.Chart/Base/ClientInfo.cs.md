@@ -1,5 +1,5 @@
 
-# public static class ClientInfo
+# ClientInfo
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Base](../../TigerTrade.Chart/Base.md)
 
 

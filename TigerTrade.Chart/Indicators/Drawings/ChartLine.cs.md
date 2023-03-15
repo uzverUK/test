@@ -1,5 +1,5 @@
 
-# public sealed class ChartLine : INotifyPropertyChanged
+# ChartLine
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../TigerTrade.Chart/Indicators/Drawings.md)
 
 

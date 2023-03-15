@@ -1,5 +1,5 @@
 
-# public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
+# LineGroupObjectBaseEx
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Abstract](../../../TigerTrade.Chart/Objects/Abstract.md)
 
 

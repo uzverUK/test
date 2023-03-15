@@ -1,5 +1,5 @@
 
-# public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
+# ObjectBase
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[Common](../../../TigerTrade.Chart/Objects/Common.md)
 
 

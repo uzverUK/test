@@ -1,5 +1,5 @@
 
-# public abstract class IndicatorParam<T>
+# IndicatorParam1
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)
 
 

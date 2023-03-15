@@ -1,5 +1,5 @@
 
-# public sealed class ChartClusterItem : IChartClusterItem
+# ChartClusterItem
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
 
 

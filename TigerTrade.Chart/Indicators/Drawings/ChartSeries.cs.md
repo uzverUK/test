@@ -1,5 +1,5 @@
 
-# public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
+# ChartSeries
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../TigerTrade.Chart/Indicators/Drawings.md)
 
 

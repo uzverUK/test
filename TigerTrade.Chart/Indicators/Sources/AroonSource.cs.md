@@ -1,5 +1,5 @@
 
-# public sealed class AroonSource : IndicatorSourceBase
+# AroonSource
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)
 
 

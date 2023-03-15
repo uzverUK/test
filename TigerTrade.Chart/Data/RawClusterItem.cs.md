@@ -1,5 +1,5 @@
 
-# public sealed class RawClusterItem : IRawClusterItem
+# RawClusterItem
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
 
 

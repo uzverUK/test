@@ -1,5 +1,5 @@
 
-# public sealed class FibonacciFanObject : LineObjectBase
+# FibonacciFanObject
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)
 
 

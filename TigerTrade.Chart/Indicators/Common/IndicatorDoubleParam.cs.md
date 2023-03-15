@@ -1,5 +1,5 @@
 
-# public sealed class IndicatorDoubleParam : IndicatorParam<double>
+# IndicatorDoubleParam
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)
 
 

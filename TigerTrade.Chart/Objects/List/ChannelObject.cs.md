@@ -1,5 +1,5 @@
 
-# public sealed class ChannelObject : LineGroupObjectBaseEx
+# ChannelObject
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)
 
 

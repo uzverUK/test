@@ -1,5 +1,5 @@
 
-# public sealed class ChartAlertSettings : INotifyPropertyChanged
+# ChartAlertSettings
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Alerts](../../TigerTrade.Chart/Alerts.md)
 
 

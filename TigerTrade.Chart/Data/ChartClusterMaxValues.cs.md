@@ -1,5 +1,5 @@
 
-# public sealed class ChartClusterMaxValues : IChartClusterMaxValues
+# ChartClusterMaxValues
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
 
 

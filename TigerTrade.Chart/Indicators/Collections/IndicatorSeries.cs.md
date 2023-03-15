@@ -1,5 +1,5 @@
 
-# public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumerable
+# IndicatorSeries
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Collections](../../../TigerTrade.Chart/Indicators/Collections.md)
 
 

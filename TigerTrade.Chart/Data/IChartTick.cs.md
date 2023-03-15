@@ -1,5 +1,5 @@
 
-# public interface IChartTick
+# IChartTick
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
 
 

@@ -1,5 +1,5 @@
 
-# public sealed class PriceRangeObject : PolygonObjectBase
+# PriceRangeObject
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Objects](../../../TigerTrade.Chart/Objects.md).[List](../../../TigerTrade.Chart/Objects/List.md)
 
 

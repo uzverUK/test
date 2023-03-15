@@ -1,5 +1,5 @@
 
-# public sealed class BearsPowerSource : IndicatorSourceBase
+# BearsPowerSource
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)
 
 

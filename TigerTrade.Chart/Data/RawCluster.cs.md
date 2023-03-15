@@ -1,5 +1,5 @@
 
-# public sealed class RawCluster : IRawCluster
+# RawCluster
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
 
 
