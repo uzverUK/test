@@ -383,189 +383,189 @@ public override string ToString()
 # Свойства
 
 ## *Calculation*
-Описание
+> Описание
 
 ```csharp
 public virtual IndicatorCalculation Calculation { get; set; }
 ```
 
 ## *Canvas*
-Описание
+> Описание
 
 ```csharp
 public IChartCanvas Canvas { get; set; }
 ```
 
 ## *ChartDataType*
-Описание
+> Описание
 
 ```csharp
 public virtual xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
 
 ## *ClearData*
-Описание
+> Описание
 
 ```csharp
 protected bool ClearData { get; private set; }
 ```
 
 ## *DataProvider*
-Описание
+> Описание
 
 ```csharp
 protected IChartDataProvider DataProvider { get; private set; }
 ```
 
 ## *DefaultCalculation*
-Описание
+> Описание
 
 ```csharp
 public virtual IndicatorCalculation DefaultCalculation { get; }
 ```
 
 ## *DisableRender*
-Описание
+> Описание
 
 ```csharp
 public bool DisableRender { get; protected set; }
 ```
 
 ## *Helper*
-Описание
+> Описание
 
 ```csharp
 protected IndicatorsHelper Helper { get; private set; }
 ```
 
 ## *ID*
-Описание
+> Описание
 
 ```csharp
 public string ID { get; }
 ```
 
 ## *IntegerValues*
-Описание
+> Описание
 
 ```csharp
 public virtual bool IntegerValues { get; }
 ```
 
 ## *IsStock*
-Описание
+> Описание
 
 ```csharp
 public virtual bool IsStock { get; }
 ```
 
 ## *Levels*
-Описание
+> Описание
 
 ```csharp
 public List<ChartLevel> Levels { get; set; }
 ```
 
 ## *Name*
-Описание
+> Описание
 
 ```csharp
 public string Name { get; }
 ```
 
 ## *Panel*
-Описание
+> Описание
 
 ```csharp
 public string Panel { get; set; }
 ```
 
 ## *Panels*
-Описание
+> Описание
 
 ```csharp
 public List<string> Panels { get; }
 ```
 
 ## *Series*
-Описание
+> Описание
 
 ```csharp
 public IndicatorSeries Series { get; }
 ```
 
 ## *SettingsLongKey*
-Описание
+> Описание
 
 ```csharp
 protected string SettingsLongKey { get; private set; }
 ```
 
 ## *SettingsShortKey*
-Описание
+> Описание
 
 ```csharp
 protected string SettingsShortKey { get; private set; }
 ```
 
 ## *ShowIndicator*
-Описание
+> Описание
 
 ```csharp
 public bool ShowIndicator { get; set; }
 ```
 
 ## *ShowIndicatorLabels*
-Описание
+> Описание
 
 ```csharp
 public virtual bool ShowIndicatorLabels { get; set; }
 ```
 
 ## *ShowIndicatorLabelsParam*
-Описание
+> Описание
 
 ```csharp
 public bool? ShowIndicatorLabelsParam { get; set; }
 ```
 
 ## *ShowIndicatorParam*
-Описание
+> Описание
 
 ```csharp
 public bool? ShowIndicatorParam { get; set; }
 ```
 
 ## *ShowIndicatorTitle*
-Описание
+> Описание
 
 ```csharp
 public virtual bool ShowIndicatorTitle { get; set; }
 ```
 
 ## *ShowIndicatorTitleParam*
-Описание
+> Описание
 
 ```csharp
 public bool? ShowIndicatorTitleParam { get; set; }
 ```
 
 ## *ShowIndicatorValues*
-Описание
+> Описание
 
 ```csharp
 public virtual bool ShowIndicatorValues { get; set; }
 ```
 
 ## *ShowIndicatorValuesParam*
-Описание
+> Описание
 
 ```csharp
 public bool? ShowIndicatorValuesParam { get; set; }
 ```
 
 ## *Title*
-Описание
+> Описание
 
 ```csharp
 public string Title { get; }

@@ -141,98 +141,98 @@ public PriceRangeObject()
 # Свойства
 
 ## *Alert*
-Описание
+> Описание
 
 ```csharp
 public ChartAlertSettings Alert { get; set; }
 ```
 
 ## *ByT3bF65jIi;*
-Описание
+> Описание
 
 ```csharp
 public Point ByT3bF65jIi; {}
 ```
 
 ## *Center;*
-Описание
+> Описание
 
 ```csharp
 public Point Center; {}
 ```
 
 ## *FontSize*
-Описание
+> Описание
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
 ## *PhT3bdqjeim;*
-Описание
+> Описание
 
 ```csharp
 public Point PhT3bdqjeim; {}
 ```
 
 ## *Price1*
-Описание
+> Описание
 
 ```csharp
 public Decimal Price1 { get; set; }
 ```
 
 ## *Price2*
-Описание
+> Описание
 
 ```csharp
 public Decimal Price2 { get; set; }
 ```
 
 ## *Text*
-Описание
+> Описание
 
 ```csharp
 public string Text { get; set; }
 ```
 
 ## *TextAlignment*
-Описание
+> Описание
 
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
 ```
 
 ## *VML3bztEtWe;*
-Описание
+> Описание
 
 ```csharp
 public Rect VML3bztEtWe; {}
 ```
 
 ## *cjH3RyrD3YP;*
-Описание
+> Описание
 
 ```csharp
 public double cjH3RyrD3YP; {}
 ```
 
 ## *jjL3RqnWW1s;*
-Описание
+> Описание
 
 ```csharp
 public double jjL3RqnWW1s; {}
 ```
 
 ## *vcu3bCSJvax;*
-Описание
+> Описание
 
 ```csharp
 public Rect vcu3bCSJvax; {}
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

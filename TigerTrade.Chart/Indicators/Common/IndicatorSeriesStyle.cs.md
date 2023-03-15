@@ -118,112 +118,112 @@ public void Set(ChartLine line)
 # Свойства
 
 ## *Color2;*
-Описание
+> Описание
 
 ```csharp
 public XColor Color2; {}
 ```
 
 ## *Color;*
-Описание
+> Описание
 
 ```csharp
 public XColor Color; {}
 ```
 
 ## *ColorSplit;*
-Описание
+> Описание
 
 ```csharp
 public ChartSeriesColorSplit ColorSplit; {}
 ```
 
 ## *DisableLabel;*
-Описание
+> Описание
 
 ```csharp
 public bool DisableLabel; {}
 ```
 
 ## *DisableMinMax;*
-Описание
+> Описание
 
 ```csharp
 public bool DisableMinMax; {}
 ```
 
 ## *DisableSelect;*
-Описание
+> Описание
 
 ```csharp
 public bool DisableSelect; {}
 ```
 
 ## *DisableValue;*
-Описание
+> Описание
 
 ```csharp
 public bool DisableValue; {}
 ```
 
 ## *DotType;*
-Описание
+> Описание
 
 ```csharp
 public ChartSeriesDotStyle DotType; {}
 ```
 
 ## *HighPercent;*
-Описание
+> Описание
 
 ```csharp
 public double HighPercent; {}
 ```
 
 ## *LineStyle;*
-Описание
+> Описание
 
 ```csharp
 public XDashStyle LineStyle; {}
 ```
 
 ## *LineWidth;*
-Описание
+> Описание
 
 ```csharp
 public int LineWidth; {}
 ```
 
 ## *LowPercent;*
-Описание
+> Описание
 
 ```csharp
 public double LowPercent; {}
 ```
 
 ## *Name;*
-Описание
+> Описание
 
 ```csharp
 public string Name; {}
 ```
 
 ## *RenderType;*
-Описание
+> Описание
 
 ```csharp
 public ChartSeriesType RenderType; {}
 ```
 
 ## *StraightLine;*
-Описание
+> Описание
 
 ```csharp
 public bool StraightLine; {}
 ```
 
 ## *Visible;*
-Описание
+> Описание
 
 ```csharp
 public bool Visible; {}

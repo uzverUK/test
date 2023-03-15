@@ -96,7 +96,7 @@ public void Update(string type, bool isChecked, bool checkRange, int min, int ma
 # Свойства
 
 ## *Periods*
-Описание
+> Описание
 
 ```csharp
 public Dictionary<string, ObjectPeriodItem> Periods { get; set; }

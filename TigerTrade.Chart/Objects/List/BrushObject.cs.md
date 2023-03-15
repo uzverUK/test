@@ -117,14 +117,14 @@ protected override bool InObject(int x, int y)
 # Свойства
 
 ## *Points*
-Описание
+> Описание
 
 ```csharp
 public System.Collections.Generic.List<ObjectPoint> Points { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

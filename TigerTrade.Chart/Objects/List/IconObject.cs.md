@@ -99,35 +99,35 @@ protected override bool InObject(int x, int y)
 # Свойства
 
 ## *Brush*
-Описание
+> Описание
 
 ```csharp
 protected XBrush Brush { get; private set; }
 ```
 
 ## *Color*
-Описание
+> Описание
 
 ```csharp
 public XColor Color { get; set; }
 ```
 
 ## *Icon*
-Описание
+> Описание
 
 ```csharp
 public string Icon { get; set; }
 ```
 
 ## *Size*
-Описание
+> Описание
 
 ```csharp
 public int Size { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

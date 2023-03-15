@@ -50,35 +50,35 @@ public IndicatorAttribute(string id, string name, bool overlay)
 # Свойства
 
 ## *Category*
-Описание
+> Описание
 
 ```csharp
 public string Category { get; set; }
 ```
 
 ## *ID*
-Описание
+> Описание
 
 ```csharp
 public string ID { get; }
 ```
 
 ## *Name*
-Описание
+> Описание
 
 ```csharp
 public string Name { get; }
 ```
 
 ## *Overlay*
-Описание
+> Описание
 
 ```csharp
 public bool Overlay { get; }
 ```
 
 ## *Type*
-Описание
+> Описание
 
 ```csharp
 public Type Type { get; set; }

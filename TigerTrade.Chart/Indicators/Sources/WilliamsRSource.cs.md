@@ -82,7 +82,7 @@ public WilliamsRSource()
 # Свойства
 
 ## *Period*
-Описание
+> Описание
 
 ```csharp
 public int Period { get; set; }

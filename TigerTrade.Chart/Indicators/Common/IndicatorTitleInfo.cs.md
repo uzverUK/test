@@ -63,14 +63,14 @@ public IndicatorTitleInfo(string title, XColor color)
 # Свойства
 
 ## *Brush*
-Описание
+> Описание
 
 ```csharp
 public XBrush Brush { get; }
 ```
 
 ## *Title*
-Описание
+> Описание
 
 ```csharp
 public string Title { get; }

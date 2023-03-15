@@ -84,21 +84,21 @@ public UltimateOscillatorSource()
 # Свойства
 
 ## *Period1*
-Описание
+> Описание
 
 ```csharp
 public int Period1 { get; set; }
 ```
 
 ## *Period2*
-Описание
+> Описание
 
 ```csharp
 public int Period2 { get; set; }
 ```
 
 ## *Period3*
-Описание
+> Описание
 
 ```csharp
 public int Period3 { get; set; }

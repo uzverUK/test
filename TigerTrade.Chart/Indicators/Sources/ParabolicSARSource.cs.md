@@ -87,14 +87,14 @@ public override string ToString()
 # Свойства
 
 ## *Max*
-Описание
+> Описание
 
 ```csharp
 public Decimal Max { get; set; }
 ```
 
 ## *Step*
-Описание
+> Описание
 
 ```csharp
 public Decimal Step { get; set; }

@@ -44,168 +44,168 @@ public interface IChartSecurity
             # Свойства
 
 ## *AskPrice*
-Описание
+> Описание
 
 ```csharp
 Decimal AskPrice { get; }
 ```
 
 ## *AskSize*
-Описание
+> Описание
 
 ```csharp
 Decimal AskSize { get; }
 ```
 
 ## *AskTime*
-Описание
+> Описание
 
 ```csharp
 DateTime AskTime { get; }
 ```
 
 ## *BidDepthT*
-Описание
+> Описание
 
 ```csharp
 long BidDepthT { get; }
 ```
 
 ## *BidPrice*
-Описание
+> Описание
 
 ```csharp
 Decimal BidPrice { get; }
 ```
 
 ## *BidSize*
-Описание
+> Описание
 
 ```csharp
 Decimal BidSize { get; }
 ```
 
 ## *BidTime*
-Описание
+> Описание
 
 ```csharp
 DateTime BidTime { get; }
 ```
 
 ## *ClosePrice*
-Описание
+> Описание
 
 ```csharp
 Decimal ClosePrice { get; }
 ```
 
 ## *HighPrice*
-Описание
+> Описание
 
 ```csharp
 Decimal HighPrice { get; }
 ```
 
 ## *LastPrice*
-Описание
+> Описание
 
 ```csharp
 Decimal LastPrice { get; }
 ```
 
 ## *LastSize*
-Описание
+> Описание
 
 ```csharp
 Decimal LastSize { get; }
 ```
 
 ## *LastTime*
-Описание
+> Описание
 
 ```csharp
 DateTime LastTime { get; }
 ```
 
 ## *LowPrice*
-Описание
+> Описание
 
 ```csharp
 Decimal LowPrice { get; }
 ```
 
 ## *MarginBuy*
-Описание
+> Описание
 
 ```csharp
 Decimal MarginBuy { get; }
 ```
 
 ## *MarginSell*
-Описание
+> Описание
 
 ```csharp
 Decimal MarginSell { get; }
 ```
 
 ## *NumBids*
-Описание
+> Описание
 
 ```csharp
 long NumBids { get; }
 ```
 
 ## *NumOffers*
-Описание
+> Описание
 
 ```csharp
 long NumOffers { get; }
 ```
 
 ## *OfferDepthT*
-Описание
+> Описание
 
 ```csharp
 long OfferDepthT { get; }
 ```
 
 ## *OpenInt*
-Описание
+> Описание
 
 ```csharp
 long OpenInt { get; }
 ```
 
 ## *OpenPrice*
-Описание
+> Описание
 
 ```csharp
 Decimal OpenPrice { get; }
 ```
 
 ## *PriceMax*
-Описание
+> Описание
 
 ```csharp
 Decimal PriceMax { get; }
 ```
 
 ## *PriceMin*
-Описание
+> Описание
 
 ```csharp
 Decimal PriceMin { get; }
 ```
 
 ## *Trades*
-Описание
+> Описание
 
 ```csharp
 long Trades { get; }
 ```
 
 ## *Volume*
-Описание
+> Описание
 
 ```csharp
 long Volume { get; }

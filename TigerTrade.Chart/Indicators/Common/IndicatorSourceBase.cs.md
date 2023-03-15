@@ -116,14 +116,14 @@ public override string ToString()
 # Свойства
 
 ## *Name*
-Описание
+> Описание
 
 ```csharp
 public string Name { get; }
 ```
 
 ## *SelectedSeries*
-Описание
+> Описание
 
 ```csharp
 public string SelectedSeries { get; set; }

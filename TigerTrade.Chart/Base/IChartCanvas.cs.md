@@ -236,105 +236,105 @@ DateTime IndexToDate(int i)
 # Свойства
 
 ## *AfterBars*
-Описание
+> Описание
 
 ```csharp
 int AfterBars { get; }
 ```
 
 ## *ChartFont*
-Описание
+> Описание
 
 ```csharp
 XFont ChartFont { get; }
 ```
 
 ## *ChartFontBold*
-Описание
+> Описание
 
 ```csharp
 XFont ChartFontBold { get; }
 ```
 
 ## *ColumnPercent*
-Описание
+> Описание
 
 ```csharp
 double ColumnPercent { get; }
 ```
 
 ## *ColumnWidth*
-Описание
+> Описание
 
 ```csharp
 double ColumnWidth { get; }
 ```
 
 ## *Count*
-Описание
+> Описание
 
 ```csharp
 int Count { get; }
 ```
 
 ## *IsStock*
-Описание
+> Описание
 
 ```csharp
 bool IsStock { get; }
 ```
 
 ## *MaxY*
-Описание
+> Описание
 
 ```csharp
 double MaxY { get; }
 ```
 
 ## *MinY*
-Описание
+> Описание
 
 ```csharp
 double MinY { get; }
 ```
 
 ## *Rect*
-Описание
+> Описание
 
 ```csharp
 Rect Rect { get; }
 ```
 
 ## *Start*
-Описание
+> Описание
 
 ```csharp
 int Start { get; }
 ```
 
 ## *StepHeight*
-Описание
+> Описание
 
 ```csharp
 double StepHeight { get; }
 ```
 
 ## *StockType*
-Описание
+> Описание
 
 ```csharp
 ChartStockType StockType { get; }
 ```
 
 ## *Stop*
-Описание
+> Описание
 
 ```csharp
 int Stop { get; }
 ```
 
 ## *Theme*
-Описание
+> Описание
 
 ```csharp
 IChartTheme Theme { get; }

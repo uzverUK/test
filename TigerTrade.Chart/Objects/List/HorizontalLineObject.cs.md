@@ -130,56 +130,56 @@ protected override bool IsObjectOnChart()
 # Свойства
 
 ## *Alert*
-Описание
+> Описание
 
 ```csharp
 public ChartAlertSettings Alert { get; set; }
 ```
 
 ## *AlertMinDistance*
-Описание
+> Описание
 
 ```csharp
 public int AlertMinDistance { get; set; }
 ```
 
 ## *FontSize*
-Описание
+> Описание
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
 ## *LineRect;*
-Описание
+> Описание
 
 ```csharp
 protected Rect LineRect; {}
 ```
 
 ## *Price*
-Описание
+> Описание
 
 ```csharp
 public Decimal Price { get; set; }
 ```
 
 ## *Text*
-Описание
+> Описание
 
 ```csharp
 public string Text { get; set; }
 ```
 
 ## *TextAlignment*
-Описание
+> Описание
 
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

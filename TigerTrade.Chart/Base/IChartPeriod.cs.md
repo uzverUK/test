@@ -75,14 +75,14 @@ int GetSequence(ChartPeriodType type, int interval, double dateTime, double time
 # Свойства
 
 ## *Interval*
-Описание
+> Описание
 
 ```csharp
 int Interval { get; }
 ```
 
 ## *Type*
-Описание
+> Описание
 
 ```csharp
 ChartPeriodType Type { get; }

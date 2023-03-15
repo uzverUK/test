@@ -25,35 +25,35 @@ public interface IRawMarketDepth
             # Свойства
 
 ## *MaxAskPrice*
-Описание
+> Описание
 
 ```csharp
 long MaxAskPrice { get; }
 ```
 
 ## *MaxBidPrice*
-Описание
+> Описание
 
 ```csharp
 long MaxBidPrice { get; }
 ```
 
 ## *MaxSize*
-Описание
+> Описание
 
 ```csharp
 long MaxSize { get; }
 ```
 
 ## *MinAskPrice*
-Описание
+> Описание
 
 ```csharp
 long MinAskPrice { get; }
 ```
 
 ## *MinBidPrice*
-Описание
+> Описание
 
 ```csharp
 long MinBidPrice { get; }

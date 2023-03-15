@@ -86,28 +86,28 @@ public override string ToString()
 # Свойства
 
 ## *Factor*
-Описание
+> Описание
 
 ```csharp
 public int Factor { get; set; }
 ```
 
 ## *MaType*
-Описание
+> Описание
 
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
 
 ## *Period*
-Описание
+> Описание
 
 ```csharp
 public int Period { get; set; }
 ```
 
 ## *Source*
-Описание
+> Описание
 
 ```csharp
 public IndicatorSourceBase Source { get; set; }

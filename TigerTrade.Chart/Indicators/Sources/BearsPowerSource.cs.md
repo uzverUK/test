@@ -82,7 +82,7 @@ public override string ToString()
 # Свойства
 
 ## *Period*
-Описание
+> Описание
 
 ```csharp
 public int Period { get; set; }

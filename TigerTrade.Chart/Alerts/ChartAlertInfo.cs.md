@@ -49,49 +49,49 @@ public ChartAlertInfo(ChartAlertSettings settings, string message)
 # Свойства
 
 ## *Duration*
-Описание
+> Описание
 
 ```csharp
 public int Duration { get; }
 ```
 
 ## *Log*
-Описание
+> Описание
 
 ```csharp
 public bool Log { get; }
 ```
 
 ## *Message*
-Описание
+> Описание
 
 ```csharp
 public string Message { get; }
 ```
 
 ## *SendEmail*
-Описание
+> Описание
 
 ```csharp
 public bool SendEmail { get; }
 ```
 
 ## *SendTelegram*
-Описание
+> Описание
 
 ```csharp
 public bool SendTelegram { get; }
 ```
 
 ## *ShowPopup*
-Описание
+> Описание
 
 ```csharp
 public bool ShowPopup { get; }
 ```
 
 ## *Signal*
-Описание
+> Описание
 
 ```csharp
 public string Signal { get; }

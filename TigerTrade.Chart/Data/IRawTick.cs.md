@@ -25,35 +25,35 @@ public interface IRawTick
             # Свойства
 
 ## *IsBuy*
-Описание
+> Описание
 
 ```csharp
 bool IsBuy { get; }
 ```
 
 ## *OpenInterest*
-Описание
+> Описание
 
 ```csharp
 long OpenInterest { get; }
 ```
 
 ## *Price*
-Описание
+> Описание
 
 ```csharp
 long Price { get; }
 ```
 
 ## *Size*
-Описание
+> Описание
 
 ```csharp
 long Size { get; }
 ```
 
 ## *Time*
-Описание
+> Описание
 
 ```csharp
 DateTime Time { get; }

@@ -62,14 +62,14 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 # Свойства
 
 ## *MiddleLine*
-Описание
+> Описание
 
 ```csharp
 public bool MiddleLine { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

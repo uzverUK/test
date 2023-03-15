@@ -109,7 +109,7 @@ public IndicatorSeries()
 # Свойства
 
 ## *Count*
-Описание
+> Описание
 
 ```csharp
 public int Count { get; }

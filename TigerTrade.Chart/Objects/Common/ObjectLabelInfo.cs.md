@@ -70,42 +70,42 @@ public ObjectLabelInfo(double value, double y1, double y2, XColor color)
 # Свойства
 
 ## *Color*
-Описание
+> Описание
 
 ```csharp
 public XColor Color { get; }
 ```
 
 ## *Extanded*
-Описание
+> Описание
 
 ```csharp
 public bool Extanded { get; }
 ```
 
 ## *Position*
-Описание
+> Описание
 
 ```csharp
 public double? Position { get; }
 ```
 
 ## *Value*
-Описание
+> Описание
 
 ```csharp
 public double Value { get; }
 ```
 
 ## *Y1*
-Описание
+> Описание
 
 ```csharp
 public double Y1 { get; }
 ```
 
 ## *Y2*
-Описание
+> Описание
 
 ```csharp
 public double Y2 { get; }

@@ -29,63 +29,63 @@ public interface IRawClusterMaxValues
             # Свойства
 
 ## *MaxAsk*
-Описание
+> Описание
 
 ```csharp
 long MaxAsk { get; }
 ```
 
 ## *MaxBid*
-Описание
+> Описание
 
 ```csharp
 long MaxBid { get; }
 ```
 
 ## *MaxDelta*
-Описание
+> Описание
 
 ```csharp
 long MaxDelta { get; }
 ```
 
 ## *MaxOpenPos*
-Описание
+> Описание
 
 ```csharp
 long MaxOpenPos { get; }
 ```
 
 ## *MaxTrades*
-Описание
+> Описание
 
 ```csharp
 int MaxTrades { get; }
 ```
 
 ## *MaxVolume*
-Описание
+> Описание
 
 ```csharp
 long MaxVolume { get; }
 ```
 
 ## *MinDelta*
-Описание
+> Описание
 
 ```csharp
 long MinDelta { get; }
 ```
 
 ## *MinOpenPos*
-Описание
+> Описание
 
 ```csharp
 long MinOpenPos { get; }
 ```
 
 ## *Poc*
-Описание
+> Описание
 
 ```csharp
 long Poc { get; }

@@ -117,84 +117,84 @@ public RulerObject()
 # Свойства
 
 ## *ShowInfoAsk*
-Описание
+> Описание
 
 ```csharp
 public bool ShowInfoAsk { get; set; }
 ```
 
 ## *ShowInfoBars*
-Описание
+> Описание
 
 ```csharp
 public bool ShowInfoBars { get; set; }
 ```
 
 ## *ShowInfoBid*
-Описание
+> Описание
 
 ```csharp
 public bool ShowInfoBid { get; set; }
 ```
 
 ## *ShowInfoChange*
-Описание
+> Описание
 
 ```csharp
 public bool ShowInfoChange { get; set; }
 ```
 
 ## *ShowInfoDelta*
-Описание
+> Описание
 
 ```csharp
 public bool ShowInfoDelta { get; set; }
 ```
 
 ## *ShowInfoPrice*
-Описание
+> Описание
 
 ```csharp
 public bool ShowInfoPrice { get; set; }
 ```
 
 ## *ShowInfoTicks*
-Описание
+> Описание
 
 ```csharp
 public bool ShowInfoTicks { get; set; }
 ```
 
 ## *ShowInfoTime*
-Описание
+> Описание
 
 ```csharp
 public bool ShowInfoTime { get; set; }
 ```
 
 ## *ShowInfoTrades*
-Описание
+> Описание
 
 ```csharp
 public bool ShowInfoTrades { get; set; }
 ```
 
 ## *ShowInfoVolume*
-Описание
+> Описание
 
 ```csharp
 public bool ShowInfoVolume { get; set; }
 ```
 
 ## *TextColor*
-Описание
+> Описание
 
 ```csharp
 public XColor TextColor { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

@@ -97,21 +97,21 @@ protected override bool InObject(int x, int y)
 # Свойства
 
 ## *CustomLevels*
-Описание
+> Описание
 
 ```csharp
 public bool CustomLevels { get; set; }
 ```
 
 ## *Levels*
-Описание
+> Описание
 
 ```csharp
 public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

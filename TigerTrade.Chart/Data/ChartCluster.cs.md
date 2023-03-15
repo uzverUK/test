@@ -125,182 +125,182 @@ public void UpdateData()
 # Свойства
 
 ## *Ask*
-Описание
+> Описание
 
 ```csharp
 public Decimal Ask { get; private set; }
 ```
 
 ## *AskTrades*
-Описание
+> Описание
 
 ```csharp
 public int AskTrades { get; private set; }
 ```
 
 ## *Bid*
-Описание
+> Описание
 
 ```csharp
 public Decimal Bid { get; private set; }
 ```
 
 ## *BidTrades*
-Описание
+> Описание
 
 ```csharp
 public int BidTrades { get; private set; }
 ```
 
 ## *Close*
-Описание
+> Описание
 
 ```csharp
 public Decimal Close { get; set; }
 ```
 
 ## *CloseTime*
-Описание
+> Описание
 
 ```csharp
 public DateTime CloseTime { get; private set; }
 ```
 
 ## *Delta*
-Описание
+> Описание
 
 ```csharp
 public Decimal Delta { get; }
 ```
 
 ## *DeltaHigh*
-Описание
+> Описание
 
 ```csharp
 public Decimal DeltaHigh { get; private set; }
 ```
 
 ## *DeltaLow*
-Описание
+> Описание
 
 ```csharp
 public Decimal DeltaLow { get; private set; }
 ```
 
 ## *High*
-Описание
+> Описание
 
 ```csharp
 public Decimal High { get; set; }
 ```
 
 ## *IsUp*
-Описание
+> Описание
 
 ```csharp
 public bool IsUp { get; set; }
 ```
 
 ## *Items*
-Описание
+> Описание
 
 ```csharp
 public List<IChartClusterItem> Items { get; }
 ```
 
 ## *Low*
-Описание
+> Описание
 
 ```csharp
 public Decimal Low { get; set; }
 ```
 
 ## *MaxValues*
-Описание
+> Описание
 
 ```csharp
 public IChartClusterMaxValues MaxValues { get; }
 ```
 
 ## *Open*
-Описание
+> Описание
 
 ```csharp
 public Decimal Open { get; set; }
 ```
 
 ## *OpenPos*
-Описание
+> Описание
 
 ```csharp
 public long OpenPos { get; private set; }
 ```
 
 ## *OpenPosAskChg*
-Описание
+> Описание
 
 ```csharp
 public long OpenPosAskChg { get; private set; }
 ```
 
 ## *OpenPosBidChg*
-Описание
+> Описание
 
 ```csharp
 public long OpenPosBidChg { get; private set; }
 ```
 
 ## *OpenPosChg*
-Описание
+> Описание
 
 ```csharp
 public long OpenPosChg { get; }
 ```
 
 ## *OpenPosHigh*
-Описание
+> Описание
 
 ```csharp
 public long OpenPosHigh { get; private set; }
 ```
 
 ## *OpenPosLow*
-Описание
+> Описание
 
 ```csharp
 public long OpenPosLow { get; private set; }
 ```
 
 ## *OpenTime*
-Описание
+> Описание
 
 ```csharp
 public DateTime OpenTime { get; private set; }
 ```
 
 ## *Step*
-Описание
+> Описание
 
 ```csharp
 public Decimal Step { get; }
 ```
 
 ## *Time*
-Описание
+> Описание
 
 ```csharp
 public DateTime Time { get; }
 ```
 
 ## *Trades*
-Описание
+> Описание
 
 ```csharp
 public int Trades { get; }
 ```
 
 ## *Volume*
-Описание
+> Описание
 
 ```csharp
 public Decimal Volume { get; }

@@ -41,14 +41,14 @@ public IndicatorSourceAttribute(string name)
 # Свойства
 
 ## *Name*
-Описание
+> Описание
 
 ```csharp
 public string Name { get; }
 ```
 
 ## *Type*
-Описание
+> Описание
 
 ```csharp
 public Type Type { get; set; }

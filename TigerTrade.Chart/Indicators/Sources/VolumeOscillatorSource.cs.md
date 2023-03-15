@@ -84,21 +84,21 @@ public VolumeOscillatorSource()
 # Свойства
 
 ## *LongPeriod*
-Описание
+> Описание
 
 ```csharp
 public int LongPeriod { get; set; }
 ```
 
 ## *MaType*
-Описание
+> Описание
 
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
 
 ## *ShortPeriod*
-Описание
+> Описание
 
 ```csharp
 public int ShortPeriod { get; set; }

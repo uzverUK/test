@@ -97,21 +97,21 @@ protected override bool InObject(int x, int y)
 # Свойства
 
 ## *Degree*
-Описание
+> Описание
 
 ```csharp
 public ElliottWaveDegree Degree { get; set; }
 ```
 
 ## *ShowWave*
-Описание
+> Описание
 
 ```csharp
 public bool ShowWave { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

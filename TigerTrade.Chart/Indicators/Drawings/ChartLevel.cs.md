@@ -84,49 +84,49 @@ public override string ToString()
 # Свойства
 
 ## *Color*
-Описание
+> Описание
 
 ```csharp
 public XColor Color { get; set; }
 ```
 
 ## *Level*
-Описание
+> Описание
 
 ```csharp
 public Decimal Level { get; set; }
 ```
 
 ## *LineBrush*
-Описание
+> Описание
 
 ```csharp
 public XBrush LineBrush { get; private set; }
 ```
 
 ## *LinePen*
-Описание
+> Описание
 
 ```csharp
 public XPen LinePen { get; private set; }
 ```
 
 ## *Style*
-Описание
+> Описание
 
 ```csharp
 public XDashStyle Style { get; set; }
 ```
 
 ## *Visible*
-Описание
+> Описание
 
 ```csharp
 public bool Visible { get; set; }
 ```
 
 ## *Width*
-Описание
+> Описание
 
 ```csharp
 public int Width { get; set; }

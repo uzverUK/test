@@ -63,168 +63,168 @@ IChartClusterItem GetItem(Decimal price)
 # Свойства
 
 ## *Ask*
-Описание
+> Описание
 
 ```csharp
 Decimal Ask { get; }
 ```
 
 ## *AskTrades*
-Описание
+> Описание
 
 ```csharp
 int AskTrades { get; }
 ```
 
 ## *Bid*
-Описание
+> Описание
 
 ```csharp
 Decimal Bid { get; }
 ```
 
 ## *BidTrades*
-Описание
+> Описание
 
 ```csharp
 int BidTrades { get; }
 ```
 
 ## *Close*
-Описание
+> Описание
 
 ```csharp
 Decimal Close { get; }
 ```
 
 ## *CloseTime*
-Описание
+> Описание
 
 ```csharp
 DateTime CloseTime { get; }
 ```
 
 ## *Delta*
-Описание
+> Описание
 
 ```csharp
 Decimal Delta { get; }
 ```
 
 ## *DeltaHigh*
-Описание
+> Описание
 
 ```csharp
 Decimal DeltaHigh { get; }
 ```
 
 ## *DeltaLow*
-Описание
+> Описание
 
 ```csharp
 Decimal DeltaLow { get; }
 ```
 
 ## *High*
-Описание
+> Описание
 
 ```csharp
 Decimal High { get; }
 ```
 
 ## *IsUp*
-Описание
+> Описание
 
 ```csharp
 bool IsUp { get; }
 ```
 
 ## *Low*
-Описание
+> Описание
 
 ```csharp
 Decimal Low { get; }
 ```
 
 ## *MaxValues*
-Описание
+> Описание
 
 ```csharp
 IChartClusterMaxValues MaxValues { get; }
 ```
 
 ## *Open*
-Описание
+> Описание
 
 ```csharp
 Decimal Open { get; }
 ```
 
 ## *OpenPos*
-Описание
+> Описание
 
 ```csharp
 long OpenPos { get; }
 ```
 
 ## *OpenPosAskChg*
-Описание
+> Описание
 
 ```csharp
 long OpenPosAskChg { get; }
 ```
 
 ## *OpenPosBidChg*
-Описание
+> Описание
 
 ```csharp
 long OpenPosBidChg { get; }
 ```
 
 ## *OpenPosChg*
-Описание
+> Описание
 
 ```csharp
 long OpenPosChg { get; }
 ```
 
 ## *OpenPosHigh*
-Описание
+> Описание
 
 ```csharp
 long OpenPosHigh { get; }
 ```
 
 ## *OpenPosLow*
-Описание
+> Описание
 
 ```csharp
 long OpenPosLow { get; }
 ```
 
 ## *OpenTime*
-Описание
+> Описание
 
 ```csharp
 DateTime OpenTime { get; }
 ```
 
 ## *Time*
-Описание
+> Описание
 
 ```csharp
 DateTime Time { get; }
 ```
 
 ## *Trades*
-Описание
+> Описание
 
 ```csharp
 int Trades { get; }
 ```
 
 ## *Volume*
-Описание
+> Описание
 
 ```csharp
 Decimal Volume { get; }

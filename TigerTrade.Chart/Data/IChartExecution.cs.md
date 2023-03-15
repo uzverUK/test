@@ -24,28 +24,28 @@ public interface IChartExecution
             # Свойства
 
 ## *IsBuy*
-Описание
+> Описание
 
 ```csharp
 bool IsBuy { get; }
 ```
 
 ## *Price*
-Описание
+> Описание
 
 ```csharp
 double Price { get; }
 ```
 
 ## *Quantity*
-Описание
+> Описание
 
 ```csharp
 long Quantity { get; }
 ```
 
 ## *Time*
-Описание
+> Описание
 
 ```csharp
 DateTime Time { get; }

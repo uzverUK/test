@@ -31,42 +31,42 @@ public sealed class IndicatorSettingsSlider : INotifyPropertyChanged
             # Свойства
 
 ## *LargeChange*
-Описание
+> Описание
 
 ```csharp
 public double LargeChange { get; set; }
 ```
 
 ## *Maximum*
-Описание
+> Описание
 
 ```csharp
 public double Maximum { get; }
 ```
 
 ## *Minimum*
-Описание
+> Описание
 
 ```csharp
 public double Minimum { get; }
 ```
 
 ## *SmallChange*
-Описание
+> Описание
 
 ```csharp
 public double SmallChange { get; set; }
 ```
 
 ## *TickFrequency*
-Описание
+> Описание
 
 ```csharp
 public double TickFrequency { get; set; }
 ```
 
 ## *Value*
-Описание
+> Описание
 
 ```csharp
 public double Value { get; set; }

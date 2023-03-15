@@ -177,28 +177,28 @@ public double MinValue(int start, int count)
 # Свойства
 
 ## *Data*
-Описание
+> Описание
 
 ```csharp
 public double[] Data { get; }
 ```
 
 ## *Length*
-Описание
+> Описание
 
 ```csharp
 public int Length { get; }
 ```
 
 ## *Style*
-Описание
+> Описание
 
 ```csharp
 public IndicatorSeriesStyle Style { get; }
 ```
 
 ## *UserData*
-Описание
+> Описание
 
 ```csharp
 public Hashtable UserData { get; }

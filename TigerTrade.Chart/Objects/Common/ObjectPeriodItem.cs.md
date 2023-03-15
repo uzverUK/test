@@ -63,21 +63,21 @@ public ObjectPeriodItem()
 # Свойства
 
 ## *CheckRange*
-Описание
+> Описание
 
 ```csharp
 public bool CheckRange { get; set; }
 ```
 
 ## *Max*
-Описание
+> Описание
 
 ```csharp
 public int Max { get; set; }
 ```
 
 ## *Min*
-Описание
+> Описание
 
 ```csharp
 public int Min { get; set; }

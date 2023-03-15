@@ -85,28 +85,28 @@ public override string ToString()
 # Свойства
 
 ## *Fast*
-Описание
+> Описание
 
 ```csharp
 public int Fast { get; set; }
 ```
 
 ## *Signal*
-Описание
+> Описание
 
 ```csharp
 public int Signal { get; set; }
 ```
 
 ## *Slow*
-Описание
+> Описание
 
 ```csharp
 public int Slow { get; set; }
 ```
 
 ## *Source*
-Описание
+> Описание
 
 ```csharp
 public IndicatorSourceBase Source { get; set; }

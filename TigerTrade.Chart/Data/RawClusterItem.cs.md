@@ -77,77 +77,77 @@ public RawClusterItem(IRawClusterItem item)
 # Свойства
 
 ## *Ask*
-Описание
+> Описание
 
 ```csharp
 public long Ask { get; set; }
 ```
 
 ## *AskTrades*
-Описание
+> Описание
 
 ```csharp
 public int AskTrades { get; set; }
 ```
 
 ## *Bid*
-Описание
+> Описание
 
 ```csharp
 public long Bid { get; set; }
 ```
 
 ## *BidTrades*
-Описание
+> Описание
 
 ```csharp
 public int BidTrades { get; set; }
 ```
 
 ## *Delta*
-Описание
+> Описание
 
 ```csharp
 public long Delta { get; }
 ```
 
 ## *OpenPos*
-Описание
+> Описание
 
 ```csharp
 public long OpenPos { get; }
 ```
 
 ## *OpenPosAsk*
-Описание
+> Описание
 
 ```csharp
 public long OpenPosAsk { get; set; }
 ```
 
 ## *OpenPosBid*
-Описание
+> Описание
 
 ```csharp
 public long OpenPosBid { get; set; }
 ```
 
 ## *Price*
-Описание
+> Описание
 
 ```csharp
 public long Price { get; set; }
 ```
 
 ## *Trades*
-Описание
+> Описание
 
 ```csharp
 public int Trades { get; }
 ```
 
 ## *Volume*
-Описание
+> Описание
 
 ```csharp
 public long Volume { get; }

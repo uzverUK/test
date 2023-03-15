@@ -475,140 +475,140 @@ public override string ToString()
 # Свойства
 
 ## *Canvas*
-Описание
+> Описание
 
 ```csharp
 protected IChartCanvas Canvas { get; private set; }
 ```
 
 ## *ChartDataType*
-Описание
+> Описание
 
 ```csharp
 public virtual xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
 
 ## *ControlPointNum*
-Описание
+> Описание
 
 ```csharp
 public int ControlPointNum { get; }
 ```
 
 ## *ControlPoints*
-Описание
+> Описание
 
 ```csharp
 public ObjectPoint[] ControlPoints { get; set; }
 ```
 
 ## *ControlPointsList*
-Описание
+> Описание
 
 ```csharp
 public ObjectPointInfo[] ControlPointsList { get; }
 ```
 
 ## *DataProvider*
-Описание
+> Описание
 
 ```csharp
 protected IChartDataProvider DataProvider { get; private set; }
 ```
 
 ## *ID*
-Описание
+> Описание
 
 ```csharp
 public string ID { get; }
 ```
 
 ## *InMove;*
-Описание
+> Описание
 
 ```csharp
 public bool InMove; {}
 ```
 
 ## *InSetup;*
-Описание
+> Описание
 
 ```csharp
 public bool InSetup; {}
 ```
 
 ## *Lock*
-Описание
+> Описание
 
 ```csharp
 public bool Lock { get; set; }
 ```
 
 ## *Name*
-Описание
+> Описание
 
 ```csharp
 public string Name { get; }
 ```
 
 ## *ObjectID*
-Описание
+> Описание
 
 ```csharp
 public string ObjectID { get; set; }
 ```
 
 ## *PenWidth*
-Описание
+> Описание
 
 ```csharp
 protected virtual int PenWidth { get; }
 ```
 
 ## *Periods*
-Описание
+> Описание
 
 ```csharp
 public ObjectPeriods Periods { get; set; }
 ```
 
 ## *Position*
-Описание
+> Описание
 
 ```csharp
 public ObjectPosition Position { get; set; }
 ```
 
 ## *Settings*
-Описание
+> Описание
 
 ```csharp
 protected IChartSettings Settings { get; private set; }
 ```
 
 ## *SnapGrid*
-Описание
+> Описание
 
 ```csharp
 public virtual bool SnapGrid { get; }
 ```
 
 ## *SymbolID*
-Описание
+> Описание
 
 ```csharp
 public string SymbolID { get; set; }
 ```
 
 ## *Theme*
-Описание
+> Описание
 
 ```csharp
 protected IChartTheme Theme { get; private set; }
 ```
 
 ## *Title*
-Описание
+> Описание
 
 ```csharp
 public string Title { get; }

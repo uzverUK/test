@@ -100,42 +100,42 @@ public ey9wOk3RwAcjmml8vF1J()
 # Свойства
 
 ## *Center;*
-Описание
+> Описание
 
 ```csharp
 public Point Center; {}
 ```
 
 ## *Dhq3RBLC45X;*
-Описание
+> Описание
 
 ```csharp
 public Rect Dhq3RBLC45X; {}
 ```
 
 ## *IkF3RsY9b11;*
-Описание
+> Описание
 
 ```csharp
 public Point IkF3RsY9b11; {}
 ```
 
 ## *m0E3R3eeWT4;*
-Описание
+> Описание
 
 ```csharp
 public Point m0E3R3eeWT4; {}
 ```
 
 ## *qsf3RUZXhNl;*
-Описание
+> Описание
 
 ```csharp
 public Rect qsf3RUZXhNl; {}
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

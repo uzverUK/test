@@ -89,28 +89,28 @@ public override string ToString()
 # Свойства
 
 ## *LongPeriod*
-Описание
+> Описание
 
 ```csharp
 public int LongPeriod { get; set; }
 ```
 
 ## *MaType*
-Описание
+> Описание
 
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
 
 ## *ShortPeriod*
-Описание
+> Описание
 
 ```csharp
 public int ShortPeriod { get; set; }
 ```
 
 ## *Source*
-Описание
+> Описание
 
 ```csharp
 public IndicatorSourceBase Source { get; set; }

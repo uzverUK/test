@@ -83,14 +83,14 @@ public override string ToString()
 # Свойства
 
 ## *MaType*
-Описание
+> Описание
 
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
 
 ## *Period*
-Описание
+> Описание
 
 ```csharp
 public int Period { get; set; }

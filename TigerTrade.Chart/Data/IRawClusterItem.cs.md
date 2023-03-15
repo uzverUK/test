@@ -31,77 +31,77 @@ public interface IRawClusterItem
             # Свойства
 
 ## *Ask*
-Описание
+> Описание
 
 ```csharp
 long Ask { get; }
 ```
 
 ## *AskTrades*
-Описание
+> Описание
 
 ```csharp
 int AskTrades { get; }
 ```
 
 ## *Bid*
-Описание
+> Описание
 
 ```csharp
 long Bid { get; }
 ```
 
 ## *BidTrades*
-Описание
+> Описание
 
 ```csharp
 int BidTrades { get; }
 ```
 
 ## *Delta*
-Описание
+> Описание
 
 ```csharp
 long Delta { get; }
 ```
 
 ## *OpenPos*
-Описание
+> Описание
 
 ```csharp
 long OpenPos { get; }
 ```
 
 ## *OpenPosAsk*
-Описание
+> Описание
 
 ```csharp
 long OpenPosAsk { get; }
 ```
 
 ## *OpenPosBid*
-Описание
+> Описание
 
 ```csharp
 long OpenPosBid { get; }
 ```
 
 ## *Price*
-Описание
+> Описание
 
 ```csharp
 long Price { get; }
 ```
 
 ## *Trades*
-Описание
+> Описание
 
 ```csharp
 int Trades { get; }
 ```
 
 ## *Volume*
-Описание
+> Описание
 
 ```csharp
 long Volume { get; }

@@ -668,119 +668,119 @@ public double[] ZIGZAG(int depth, int deviation, int backstep, bool reg = true)
 # Свойства
 
 ## *Ask*
-Описание
+> Описание
 
 ```csharp
 public double[] Ask { get; }
 ```
 
 ## *Bid*
-Описание
+> Описание
 
 ```csharp
 public double[] Bid { get; }
 ```
 
 ## *Close*
-Описание
+> Описание
 
 ```csharp
 public double[] Close { get; }
 ```
 
 ## *Count*
-Описание
+> Описание
 
 ```csharp
 public int Count { get; }
 ```
 
 ## *DataProvider*
-Описание
+> Описание
 
 ```csharp
 public IChartDataProvider DataProvider { get; private set; }
 ```
 
 ## *Date*
-Описание
+> Описание
 
 ```csharp
 public double[] Date { get; }
 ```
 
 ## *Delta*
-Описание
+> Описание
 
 ```csharp
 public double[] Delta { get; }
 ```
 
 ## *High*
-Описание
+> Описание
 
 ```csharp
 public double[] High { get; }
 ```
 
 ## *Low*
-Описание
+> Описание
 
 ```csharp
 public double[] Low { get; }
 ```
 
 ## *Open*
-Описание
+> Описание
 
 ```csharp
 public double[] Open { get; }
 ```
 
 ## *OpenPos*
-Описание
+> Описание
 
 ```csharp
 public double[] OpenPos { get; }
 ```
 
 ## *OpenPosAskChg*
-Описание
+> Описание
 
 ```csharp
 public double[] OpenPosAskChg { get; }
 ```
 
 ## *OpenPosBidChg*
-Описание
+> Описание
 
 ```csharp
 public double[] OpenPosBidChg { get; }
 ```
 
 ## *OpenPosChg*
-Описание
+> Описание
 
 ```csharp
 public double[] OpenPosChg { get; }
 ```
 
 ## *Poc*
-Описание
+> Описание
 
 ```csharp
 public double[] Poc { get; }
 ```
 
 ## *Trades*
-Описание
+> Описание
 
 ```csharp
 public double[] Trades { get; }
 ```
 
 ## *Volume*
-Описание
+> Описание
 
 ```csharp
 public double[] Volume { get; }

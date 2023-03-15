@@ -98,14 +98,14 @@ public override string ToString()
 # Свойства
 
 ## *PatternType*
-Описание
+> Описание
 
 ```csharp
 public CandlePatternSourcePatternType PatternType { get; set; }
 ```
 
 ## *Penetration*
-Описание
+> Описание
 
 ```csharp
 public double Penetration { get; set; }

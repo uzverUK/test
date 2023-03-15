@@ -285,35 +285,35 @@ Decimal GetSize(long rawSize)
 # Свойства
 
 ## *Code*
-Описание
+> Описание
 
 ```csharp
 string Code { get; }
 ```
 
 ## *Decimals*
-Описание
+> Описание
 
 ```csharp
 int Decimals { get; }
 ```
 
 ## *Exchange*
-Описание
+> Описание
 
 ```csharp
 string Exchange { get; }
 ```
 
 ## *Name*
-Описание
+> Описание
 
 ```csharp
 string Name { get; }
 ```
 
 ## *StepPrice*
-Описание
+> Описание
 
 ```csharp
 Decimal StepPrice { get; }

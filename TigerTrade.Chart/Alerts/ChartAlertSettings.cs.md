@@ -89,84 +89,84 @@ public override int GetHashCode()
 # Свойства
 
 ## *Active*
-Описание
+> Описание
 
 ```csharp
 public bool Active { get; set; }
 ```
 
 ## *Duration*
-Описание
+> Описание
 
 ```csharp
 public ChartAlertPlayDuration Duration { get; set; }
 ```
 
 ## *Execution*
-Описание
+> Описание
 
 ```csharp
 public ChartAlertExecution Execution { get; set; }
 ```
 
 ## *Expiration*
-Описание
+> Описание
 
 ```csharp
 public DateTime? Expiration { get; set; }
 ```
 
 ## *IsActive*
-Описание
+> Описание
 
 ```csharp
 public bool IsActive { get; }
 ```
 
 ## *Log*
-Описание
+> Описание
 
 ```csharp
 public bool Log { get; set; }
 ```
 
 ## *Message*
-Описание
+> Описание
 
 ```csharp
 public string Message { get; set; }
 ```
 
 ## *PlaySound*
-Описание
+> Описание
 
 ```csharp
 public bool PlaySound { get; set; }
 ```
 
 ## *SendEmail*
-Описание
+> Описание
 
 ```csharp
 public bool SendEmail { get; set; }
 ```
 
 ## *SendTelegram*
-Описание
+> Описание
 
 ```csharp
 public bool SendTelegram { get; set; }
 ```
 
 ## *ShowPopup*
-Описание
+> Описание
 
 ```csharp
 public bool ShowPopup { get; set; }
 ```
 
 ## *Signal*
-Описание
+> Описание
 
 ```csharp
 public string Signal { get; set; }

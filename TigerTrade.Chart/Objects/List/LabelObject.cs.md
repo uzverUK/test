@@ -97,28 +97,28 @@ public LabelObject()
 # Свойства
 
 ## *FontSize*
-Описание
+> Описание
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
 ## *LabelColor*
-Описание
+> Описание
 
 ```csharp
 public XColor LabelColor { get; set; }
 ```
 
 ## *LabelText*
-Описание
+> Описание
 
 ```csharp
 public string LabelText { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

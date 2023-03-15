@@ -69,14 +69,14 @@ protected void OpenStartEnd(bool openStart, bool openEnd)
 # Свойства
 
 ## *OpenEnd*
-Описание
+> Описание
 
 ```csharp
 public bool OpenEnd { get; set; }
 ```
 
 ## *OpenStart*
-Описание
+> Описание
 
 ```csharp
 public bool OpenStart { get; set; }

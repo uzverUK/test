@@ -82,49 +82,49 @@ public LinearRegressionObject()
 # Свойства
 
 ## *CenterLine*
-Описание
+> Описание
 
 ```csharp
 public bool CenterLine { get; set; }
 ```
 
 ## *DownLine*
-Описание
+> Описание
 
 ```csharp
 public bool DownLine { get; set; }
 ```
 
 ## *Percentage*
-Описание
+> Описание
 
 ```csharp
 public double Percentage { get; set; }
 ```
 
 ## *RegressionType*
-Описание
+> Описание
 
 ```csharp
 public RegressionType RegressionType { get; set; }
 ```
 
 ## *ShowAuxLine*
-Описание
+> Описание
 
 ```csharp
 public bool ShowAuxLine { get; set; }
 ```
 
 ## *UpLine*
-Описание
+> Описание
 
 ```csharp
 public bool UpLine { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

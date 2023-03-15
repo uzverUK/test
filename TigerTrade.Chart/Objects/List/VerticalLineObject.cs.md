@@ -102,14 +102,14 @@ public VerticalLineObject()
 # Свойства
 
 ## *Alert*
-Описание
+> Описание
 
 ```csharp
 public ChartAlertSettings Alert { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

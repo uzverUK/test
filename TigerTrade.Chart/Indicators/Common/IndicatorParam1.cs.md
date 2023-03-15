@@ -103,14 +103,14 @@ protected bool Set(string key, T value)
 # Свойства
 
 ## *Value*
-Описание
+> Описание
 
 ```csharp
 public T Value { get; set; }
 ```
 
 ## *Values*
-Описание
+> Описание
 
 ```csharp
 public Dictionary<string, T> Values { get; set; }

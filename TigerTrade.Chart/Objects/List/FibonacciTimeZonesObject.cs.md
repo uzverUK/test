@@ -78,21 +78,21 @@ public FibonacciTimeZonesObject()
 # Свойства
 
 ## *MaxLines*
-Описание
+> Описание
 
 ```csharp
 public int MaxLines { get; set; }
 ```
 
 ## *TextAlignment*
-Описание
+> Описание
 
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

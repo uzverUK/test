@@ -22,14 +22,14 @@ public interface IChartSettings
             # Свойства
 
 ## *TransformHorLines*
-Описание
+> Описание
 
 ```csharp
 bool TransformHorLines { get; }
 ```
 
 ## *TransformVertLines*
-Описание
+> Описание
 
 ```csharp
 bool TransformVertLines { get; }

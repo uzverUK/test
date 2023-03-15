@@ -45,21 +45,21 @@ public IndicatorLabelInfo(double value, XColor color, double? position = null)
 # Свойства
 
 ## *Color*
-Описание
+> Описание
 
 ```csharp
 public XColor Color { get; }
 ```
 
 ## *Position*
-Описание
+> Описание
 
 ```csharp
 public double? Position { get; }
 ```
 
 ## *Value*
-Описание
+> Описание
 
 ```csharp
 public double Value { get; }

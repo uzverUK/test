@@ -52,7 +52,7 @@ public HorizontalRayObject()
 # Свойства
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

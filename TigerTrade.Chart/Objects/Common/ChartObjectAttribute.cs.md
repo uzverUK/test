@@ -49,28 +49,28 @@ public ChartObjectAttribute(string id, string name, int points)
 # Свойства
 
 ## *ID*
-Описание
+> Описание
 
 ```csharp
 public string ID { get; }
 ```
 
 ## *Name*
-Описание
+> Описание
 
 ```csharp
 public string Name { get; }
 ```
 
 ## *Points*
-Описание
+> Описание
 
 ```csharp
 public int Points { get; }
 ```
 
 ## *Type*
-Описание
+> Описание
 
 ```csharp
 public Type Type { get; set; }

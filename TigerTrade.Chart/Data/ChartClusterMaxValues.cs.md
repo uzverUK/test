@@ -53,63 +53,63 @@ public void Update(Dictionary<Decimal, ChartClusterItem> items)
 # Свойства
 
 ## *MaxAsk*
-Описание
+> Описание
 
 ```csharp
 public Decimal MaxAsk { get; private set; }
 ```
 
 ## *MaxBid*
-Описание
+> Описание
 
 ```csharp
 public Decimal MaxBid { get; private set; }
 ```
 
 ## *MaxDelta*
-Описание
+> Описание
 
 ```csharp
 public Decimal MaxDelta { get; private set; }
 ```
 
 ## *MaxOpenPos*
-Описание
+> Описание
 
 ```csharp
 public long MaxOpenPos { get; private set; }
 ```
 
 ## *MaxTrades*
-Описание
+> Описание
 
 ```csharp
 public int MaxTrades { get; private set; }
 ```
 
 ## *MaxVolume*
-Описание
+> Описание
 
 ```csharp
 public Decimal MaxVolume { get; private set; }
 ```
 
 ## *MinDelta*
-Описание
+> Описание
 
 ```csharp
 public Decimal MinDelta { get; private set; }
 ```
 
 ## *MinOpenPos*
-Описание
+> Описание
 
 ```csharp
 public long MinOpenPos { get; private set; }
 ```
 
 ## *Poc*
-Описание
+> Описание
 
 ```csharp
 public Decimal Poc { get; private set; }

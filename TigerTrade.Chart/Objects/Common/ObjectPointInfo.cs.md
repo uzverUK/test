@@ -55,14 +55,14 @@ public override string ToString()
 # Свойства
 
 ## *Price*
-Описание
+> Описание
 
 ```csharp
 public double Price { get; set; }
 ```
 
 ## *Time*
-Описание
+> Описание
 
 ```csharp
 public DateTime Time { get; set; }

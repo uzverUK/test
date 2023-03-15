@@ -44,168 +44,168 @@ public interface IRawSecurity
             # Свойства
 
 ## *AskPrice*
-Описание
+> Описание
 
 ```csharp
 long AskPrice { get; }
 ```
 
 ## *AskSize*
-Описание
+> Описание
 
 ```csharp
 long AskSize { get; }
 ```
 
 ## *AskTime*
-Описание
+> Описание
 
 ```csharp
 DateTime AskTime { get; }
 ```
 
 ## *BidDepthT*
-Описание
+> Описание
 
 ```csharp
 long BidDepthT { get; }
 ```
 
 ## *BidPrice*
-Описание
+> Описание
 
 ```csharp
 long BidPrice { get; }
 ```
 
 ## *BidSize*
-Описание
+> Описание
 
 ```csharp
 long BidSize { get; }
 ```
 
 ## *BidTime*
-Описание
+> Описание
 
 ```csharp
 DateTime BidTime { get; }
 ```
 
 ## *ClosePrice*
-Описание
+> Описание
 
 ```csharp
 double ClosePrice { get; }
 ```
 
 ## *HighPrice*
-Описание
+> Описание
 
 ```csharp
 double HighPrice { get; }
 ```
 
 ## *LastPrice*
-Описание
+> Описание
 
 ```csharp
 long LastPrice { get; }
 ```
 
 ## *LastSize*
-Описание
+> Описание
 
 ```csharp
 long LastSize { get; }
 ```
 
 ## *LastTime*
-Описание
+> Описание
 
 ```csharp
 DateTime LastTime { get; }
 ```
 
 ## *LowPrice*
-Описание
+> Описание
 
 ```csharp
 double LowPrice { get; }
 ```
 
 ## *MarginBuy*
-Описание
+> Описание
 
 ```csharp
 double MarginBuy { get; }
 ```
 
 ## *MarginSell*
-Описание
+> Описание
 
 ```csharp
 double MarginSell { get; }
 ```
 
 ## *NumBids*
-Описание
+> Описание
 
 ```csharp
 long NumBids { get; }
 ```
 
 ## *NumOffers*
-Описание
+> Описание
 
 ```csharp
 long NumOffers { get; }
 ```
 
 ## *OfferDepthT*
-Описание
+> Описание
 
 ```csharp
 long OfferDepthT { get; }
 ```
 
 ## *OpenInt*
-Описание
+> Описание
 
 ```csharp
 long OpenInt { get; }
 ```
 
 ## *OpenPrice*
-Описание
+> Описание
 
 ```csharp
 double OpenPrice { get; }
 ```
 
 ## *PriceMax*
-Описание
+> Описание
 
 ```csharp
 double PriceMax { get; }
 ```
 
 ## *PriceMin*
-Описание
+> Описание
 
 ```csharp
 double PriceMin { get; }
 ```
 
 ## *Trades*
-Описание
+> Описание
 
 ```csharp
 long Trades { get; }
 ```
 
 ## *Volume*
-Описание
+> Описание
 
 ```csharp
 long Volume { get; }

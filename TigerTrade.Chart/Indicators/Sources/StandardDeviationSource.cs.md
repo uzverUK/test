@@ -83,14 +83,14 @@ public override string ToString()
 # Свойства
 
 ## *Period*
-Описание
+> Описание
 
 ```csharp
 public int Period { get; set; }
 ```
 
 ## *Source*
-Описание
+> Описание
 
 ```csharp
 public IndicatorSourceBase Source { get; set; }

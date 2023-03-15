@@ -104,70 +104,70 @@ protected override bool InObject(int x, int y)
 # Свойства
 
 ## *CustomLevels*
-Описание
+> Описание
 
 ```csharp
 public bool CustomLevels { get; set; }
 ```
 
 ## *Levels*
-Описание
+> Описание
 
 ```csharp
 public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
 ```
 
 ## *LevelsLineColor*
-Описание
+> Описание
 
 ```csharp
 public XColor LevelsLineColor { get; set; }
 ```
 
 ## *LevelsLineStyle*
-Описание
+> Описание
 
 ```csharp
 public XDashStyle LevelsLineStyle { get; set; }
 ```
 
 ## *LevelsLineWidth*
-Описание
+> Описание
 
 ```csharp
 public int LevelsLineWidth { get; set; }
 ```
 
 ## *LevelsWidth*
-Описание
+> Описание
 
 ```csharp
 public int LevelsWidth { get; set; }
 ```
 
 ## *OpenEnd*
-Описание
+> Описание
 
 ```csharp
 public bool OpenEnd { get; set; }
 ```
 
 ## *OpenStart*
-Описание
+> Описание
 
 ```csharp
 public bool OpenStart { get; set; }
 ```
 
 ## *TextAlignment*
-Описание
+> Описание
 
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

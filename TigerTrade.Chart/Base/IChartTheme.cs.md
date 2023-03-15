@@ -90,385 +90,385 @@ XColor GetNextColor()
 # Свойства
 
 ## *BarDownBarColor*
-Описание
+> Описание
 
 ```csharp
 XColor BarDownBarColor { get; }
 ```
 
 ## *BarUpBarColor*
-Описание
+> Описание
 
 ```csharp
 XColor BarUpBarColor { get; }
 ```
 
 ## *CandleDownBackColor*
-Описание
+> Описание
 
 ```csharp
 XColor CandleDownBackColor { get; }
 ```
 
 ## *CandleDownBorderColor*
-Описание
+> Описание
 
 ```csharp
 XColor CandleDownBorderColor { get; }
 ```
 
 ## *CandleDownWickColor*
-Описание
+> Описание
 
 ```csharp
 XColor CandleDownWickColor { get; }
 ```
 
 ## *CandleUpBackColor*
-Описание
+> Описание
 
 ```csharp
 XColor CandleUpBackColor { get; }
 ```
 
 ## *CandleUpBorderColor*
-Описание
+> Описание
 
 ```csharp
 XColor CandleUpBorderColor { get; }
 ```
 
 ## *CandleUpWickColor*
-Описание
+> Описание
 
 ```csharp
 XColor CandleUpWickColor { get; }
 ```
 
 ## *ChartAxisColor*
-Описание
+> Описание
 
 ```csharp
 XColor ChartAxisColor { get; }
 ```
 
 ## *ChartBackBrush*
-Описание
+> Описание
 
 ```csharp
 XBrush ChartBackBrush { get; }
 ```
 
 ## *ChartBackColor*
-Описание
+> Описание
 
 ```csharp
 XColor ChartBackColor { get; }
 ```
 
 ## *ChartCpFillBrush*
-Описание
+> Описание
 
 ```csharp
 XBrush ChartCpFillBrush { get; }
 ```
 
 ## *ChartCpFillColor*
-Описание
+> Описание
 
 ```csharp
 XColor ChartCpFillColor { get; }
 ```
 
 ## *ChartCpLineColor*
-Описание
+> Описание
 
 ```csharp
 XColor ChartCpLineColor { get; }
 ```
 
 ## *ChartCpLinePen*
-Описание
+> Описание
 
 ```csharp
 XPen ChartCpLinePen { get; }
 ```
 
 ## *ChartFontBrush*
-Описание
+> Описание
 
 ```csharp
 XBrush ChartFontBrush { get; }
 ```
 
 ## *ChartFontColor*
-Описание
+> Описание
 
 ```csharp
 XColor ChartFontColor { get; }
 ```
 
 ## *ChartGridColor*
-Описание
+> Описание
 
 ```csharp
 XColor ChartGridColor { get; }
 ```
 
 ## *ChartObjectFillColor*
-Описание
+> Описание
 
 ```csharp
 XColor ChartObjectFillColor { get; }
 ```
 
 ## *ChartObjectLineColor*
-Описание
+> Описание
 
 ```csharp
 XColor ChartObjectLineColor { get; }
 ```
 
 ## *ClusterAskColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterAskColor { get; }
 ```
 
 ## *ClusterBidColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterBidColor { get; }
 ```
 
 ## *ClusterBorderColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterBorderColor { get; }
 ```
 
 ## *ClusterCellBorderColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterCellBorderColor { get; }
 ```
 
 ## *ClusterCellBorderMaxColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterCellBorderMaxColor { get; }
 ```
 
 ## *ClusterDeltaMinusColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterDeltaMinusColor { get; }
 ```
 
 ## *ClusterDeltaPlusColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterDeltaPlusColor { get; }
 ```
 
 ## *ClusterDownBarColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterDownBarColor { get; }
 ```
 
 ## *ClusterNeutralBidAskColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterNeutralBidAskColor { get; }
 ```
 
 ## *ClusterOpenIntMinusColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterOpenIntMinusColor { get; }
 ```
 
 ## *ClusterOpenIntPlusColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterOpenIntPlusColor { get; }
 ```
 
 ## *ClusterStrongAskColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterStrongAskColor { get; }
 ```
 
 ## *ClusterStrongBidColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterStrongBidColor { get; }
 ```
 
 ## *ClusterTextColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterTextColor { get; }
 ```
 
 ## *ClusterTradesColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterTradesColor { get; }
 ```
 
 ## *ClusterUpBarColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterUpBarColor { get; }
 ```
 
 ## *ClusterValueAreaColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterValueAreaColor { get; }
 ```
 
 ## *ClusterVolumeColor*
-Описание
+> Описание
 
 ```csharp
 XColor ClusterVolumeColor { get; }
 ```
 
 ## *HistogramAskColor*
-Описание
+> Описание
 
 ```csharp
 XColor HistogramAskColor { get; }
 ```
 
 ## *HistogramBidColor*
-Описание
+> Описание
 
 ```csharp
 XColor HistogramBidColor { get; }
 ```
 
 ## *HistogramCellBorderColor*
-Описание
+> Описание
 
 ```csharp
 XColor HistogramCellBorderColor { get; }
 ```
 
 ## *HistogramDeltaMinusColor*
-Описание
+> Описание
 
 ```csharp
 XColor HistogramDeltaMinusColor { get; }
 ```
 
 ## *HistogramDeltaPlusColor*
-Описание
+> Описание
 
 ```csharp
 XColor HistogramDeltaPlusColor { get; }
 ```
 
 ## *HistogramMaximumColor*
-Описание
+> Описание
 
 ```csharp
 XColor HistogramMaximumColor { get; }
 ```
 
 ## *HistogramTextColor*
-Описание
+> Описание
 
 ```csharp
 XColor HistogramTextColor { get; }
 ```
 
 ## *HistogramTradesColor*
-Описание
+> Описание
 
 ```csharp
 XColor HistogramTradesColor { get; }
 ```
 
 ## *HistogramValueAreaColor*
-Описание
+> Описание
 
 ```csharp
 XColor HistogramValueAreaColor { get; }
 ```
 
 ## *HistogramVolumeColor*
-Описание
+> Описание
 
 ```csharp
 XColor HistogramVolumeColor { get; }
 ```
 
 ## *PaletteColor1*
-Описание
+> Описание
 
 ```csharp
 XColor PaletteColor1 { get; }
 ```
 
 ## *PaletteColor2*
-Описание
+> Описание
 
 ```csharp
 XColor PaletteColor2 { get; }
 ```
 
 ## *PaletteColor3*
-Описание
+> Описание
 
 ```csharp
 XColor PaletteColor3 { get; }
 ```
 
 ## *PaletteColor4*
-Описание
+> Описание
 
 ```csharp
 XColor PaletteColor4 { get; }
 ```
 
 ## *PaletteColor5*
-Описание
+> Описание
 
 ```csharp
 XColor PaletteColor5 { get; }
 ```
 
 ## *PaletteColor6*
-Описание
+> Описание
 
 ```csharp
 XColor PaletteColor6 { get; }
 ```
 
 ## *PaletteColor7*
-Описание
+> Описание
 
 ```csharp
 XColor PaletteColor7 { get; }

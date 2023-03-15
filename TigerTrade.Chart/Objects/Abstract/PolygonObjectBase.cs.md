@@ -73,70 +73,70 @@ protected PolygonObjectBase()
 # Свойства
 
 ## *BackBrush*
-Описание
+> Описание
 
 ```csharp
 protected XBrush BackBrush { get; private set; }
 ```
 
 ## *BackColor*
-Описание
+> Описание
 
 ```csharp
 public XColor BackColor { get; set; }
 ```
 
 ## *DrawBack*
-Описание
+> Описание
 
 ```csharp
 public bool DrawBack { get; set; }
 ```
 
 ## *DrawBorder*
-Описание
+> Описание
 
 ```csharp
 public bool DrawBorder { get; set; }
 ```
 
 ## *LineBrush*
-Описание
+> Описание
 
 ```csharp
 protected XBrush LineBrush { get; private set; }
 ```
 
 ## *LineColor*
-Описание
+> Описание
 
 ```csharp
 public XColor LineColor { get; set; }
 ```
 
 ## *LinePen*
-Описание
+> Описание
 
 ```csharp
 protected XPen LinePen { get; private set; }
 ```
 
 ## *LineStyle*
-Описание
+> Описание
 
 ```csharp
 public XDashStyle LineStyle { get; set; }
 ```
 
 ## *LineWidth*
-Описание
+> Описание
 
 ```csharp
 public int LineWidth { get; set; }
 ```
 
 ## *int*
-Описание
+> Описание
 
 ```csharp
 protected override int PenWidth { get; }

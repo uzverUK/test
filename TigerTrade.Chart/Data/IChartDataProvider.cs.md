@@ -93,35 +93,35 @@ IChartSecurity GetSecurity()
 # Свойства
 
 ## *Count*
-Описание
+> Описание
 
 ```csharp
 int Count { get; }
 ```
 
 ## *Period*
-Описание
+> Описание
 
 ```csharp
 IChartPeriod Period { get; }
 ```
 
 ## *Scale*
-Описание
+> Описание
 
 ```csharp
 int Scale { get; }
 ```
 
 ## *Step*
-Описание
+> Описание
 
 ```csharp
 double Step { get; }
 ```
 
 ## *Symbol*
-Описание
+> Описание
 
 ```csharp
 IChartSymbol Symbol { get; }

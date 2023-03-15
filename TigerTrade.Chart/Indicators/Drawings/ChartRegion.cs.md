@@ -76,14 +76,14 @@ public override string ToString()
 # Свойства
 
 ## *Color*
-Описание
+> Описание
 
 ```csharp
 public XColor Color { get; set; }
 ```
 
 ## *Visible*
-Описание
+> Описание
 
 ```csharp
 public bool Visible { get; set; }

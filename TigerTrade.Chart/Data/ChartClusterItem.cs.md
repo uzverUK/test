@@ -77,77 +77,77 @@ public ChartClusterItem(IChartClusterItem item)
 # Свойства
 
 ## *Ask*
-Описание
+> Описание
 
 ```csharp
 public Decimal Ask { get; set; }
 ```
 
 ## *AskTrades*
-Описание
+> Описание
 
 ```csharp
 public int AskTrades { get; set; }
 ```
 
 ## *Bid*
-Описание
+> Описание
 
 ```csharp
 public Decimal Bid { get; set; }
 ```
 
 ## *BidTrades*
-Описание
+> Описание
 
 ```csharp
 public int BidTrades { get; set; }
 ```
 
 ## *Delta*
-Описание
+> Описание
 
 ```csharp
 public Decimal Delta { get; }
 ```
 
 ## *OpenPos*
-Описание
+> Описание
 
 ```csharp
 public long OpenPos { get; }
 ```
 
 ## *OpenPosAsk*
-Описание
+> Описание
 
 ```csharp
 public long OpenPosAsk { get; set; }
 ```
 
 ## *OpenPosBid*
-Описание
+> Описание
 
 ```csharp
 public long OpenPosBid { get; set; }
 ```
 
 ## *Price*
-Описание
+> Описание
 
 ```csharp
 public Decimal Price { get; set; }
 ```
 
 ## *Trades*
-Описание
+> Описание
 
 ```csharp
 public int Trades { get; }
 ```
 
 ## *Volume*
-Описание
+> Описание
 
 ```csharp
 public Decimal Volume { get; }

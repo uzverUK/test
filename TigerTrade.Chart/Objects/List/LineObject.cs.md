@@ -96,42 +96,42 @@ public LineObject()
 # Свойства
 
 ## *Alert*
-Описание
+> Описание
 
 ```csharp
 public ChartAlertSettings Alert { get; set; }
 ```
 
 ## *AlertMinDistance*
-Описание
+> Описание
 
 ```csharp
 public int AlertMinDistance { get; set; }
 ```
 
 ## *OpenEnd*
-Описание
+> Описание
 
 ```csharp
 public bool OpenEnd { get; set; }
 ```
 
 ## *OpenStart*
-Описание
+> Описание
 
 ```csharp
 public bool OpenStart { get; set; }
 ```
 
 ## *RefPoint*
-Описание
+> Описание
 
 ```csharp
 public ObjectPoint? RefPoint { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

@@ -150,70 +150,70 @@ public override string ToString()
 # Свойства
 
 ## *AllColors*
-Описание
+> Описание
 
 ```csharp
 public XColor AllColors {set; }
 ```
 
 ## *Color*
-Описание
+> Описание
 
 ```csharp
 public XColor Color { get; set; }
 ```
 
 ## *Color2*
-Описание
+> Описание
 
 ```csharp
 public XColor Color2 { get; set; }
 ```
 
 ## *ColorSplit*
-Описание
+> Описание
 
 ```csharp
 public ChartSeriesColorSplit ColorSplit { get; set; }
 ```
 
 ## *DotStyle*
-Описание
+> Описание
 
 ```csharp
 public ChartSeriesDotStyle DotStyle { get; set; }
 ```
 
 ## *ShowMarker*
-Описание
+> Описание
 
 ```csharp
 public bool ShowMarker { get; set; }
 ```
 
 ## *Style*
-Описание
+> Описание
 
 ```csharp
 public XDashStyle Style { get; set; }
 ```
 
 ## *Type*
-Описание
+> Описание
 
 ```csharp
 public ChartSeriesType Type { get; set; }
 ```
 
 ## *Visible*
-Описание
+> Описание
 
 ```csharp
 public bool Visible { get; set; }
 ```
 
 ## *Width*
-Описание
+> Описание
 
 ```csharp
 public int Width { get; set; }

@@ -77,14 +77,14 @@ protected LineGroupObjectBase()
 # Свойства
 
 ## *EndPoints;*
-Описание
+> Описание
 
 ```csharp
 protected Point[] EndPoints; {}
 ```
 
 ## *StartPoints;*
-Описание
+> Описание
 
 ```csharp
 protected Point[] StartPoints; {}

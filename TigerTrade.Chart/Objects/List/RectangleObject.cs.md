@@ -159,49 +159,49 @@ public x9Yyrp3RfkGdCbNTXU4b()
 # Свойства
 
 ## *RectInfo*
-Описание
+> Описание
 
 ```csharp
 public RectangleObject.x9Yyrp3RfkGdCbNTXU4b RectInfo { get; private set; }
 ```
 
 ## *Rectangle;*
-Описание
+> Описание
 
 ```csharp
 public Rect Rectangle; {}
 ```
 
 ## *cTQ3RQ5sOeg;*
-Описание
+> Описание
 
 ```csharp
 public Point cTQ3RQ5sOeg; {}
 ```
 
 ## *mrI3RMYxIFC;*
-Описание
+> Описание
 
 ```csharp
 public Point mrI3RMYxIFC; {}
 ```
 
 ## *mtO3Rj6ZJ6t;*
-Описание
+> Описание
 
 ```csharp
 public Point mtO3Rj6ZJ6t; {}
 ```
 
 ## *qX73RVVvfB0;*
-Описание
+> Описание
 
 ```csharp
 public Point qX73RVVvfB0; {}
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-Описание
+> Описание
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

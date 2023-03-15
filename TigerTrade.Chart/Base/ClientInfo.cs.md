@@ -21,7 +21,7 @@ public static class ClientInfo
             # Свойства
 
 ## *LicenseID*
-Описание
+> Описание
 
 ```csharp
 public static string LicenseID { get; set; }
