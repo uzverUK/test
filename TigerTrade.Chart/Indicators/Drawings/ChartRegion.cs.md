@@ -88,7 +88,7 @@ public XColor Color { get; set; }
 ```csharp
 public bool Visible { get; set; }
 ```
-# <font color="Purple">События</font>
+# <font color="Purple">Событияs</font>
 
 ## *PropertyChanged*
 Описание

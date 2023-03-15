@@ -71,7 +71,7 @@ public double TickFrequency { get; set; }
 ```csharp
 public double Value { get; set; }
 ```
-# <font color="Purple">События</font>
+# <font color="Purple">Событияs</font>
 
 ## *PropertyChanged*
 Описание

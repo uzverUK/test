@@ -131,7 +131,7 @@ public bool Visible { get; set; }
 ```csharp
 public int Width { get; set; }
 ```
-# <font color="Purple">События</font>
+# <font color="Purple">Событияs</font>
 
 ## *PropertyChanged*
 Описание

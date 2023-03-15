@@ -67,7 +67,7 @@ public double Price { get; set; }
 ```csharp
 public DateTime Time { get; set; }
 ```
-# <font color="Purple">События</font>
+# <font color="Purple">Событияs</font>
 
 ## *PropertyChanged*
 Описание

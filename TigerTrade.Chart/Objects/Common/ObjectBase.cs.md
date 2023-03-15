@@ -613,7 +613,7 @@ protected IChartTheme Theme { get; private set; }
 ```csharp
 public string Title { get; }
 ```
-# <font color="Purple">События</font>
+# <font color="Purple">Событияs</font>
 
 ## *PropertyChanged*
 Описание
