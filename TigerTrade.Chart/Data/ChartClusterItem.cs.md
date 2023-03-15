@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class ChartClusterItem : IChartClusterItem
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`Add`](./ChartClusterItem.cs/Методы/Add.md) | *Описание* |
@@ -34,4 +34,141 @@ public sealed class ChartClusterItem : IChartClusterItem
 | [`Volume`](./ChartClusterItem.cs/Свойства/Volume.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## Add
+Описание
+
+```csharp
+public void Add(IChartClusterItem item)
+```
+
+<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ChartClusterItem
+Описание
+
+```csharp
+public ChartClusterItem(Decimal price)
+```
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ChartClusterItem
+Описание
+
+```csharp
+public ChartClusterItem(Decimal price)
+public ChartClusterItem(IChartClusterItem item)
+```
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
+ *Описание*  
+
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Ask
+Описание
+
+```csharp
+public Decimal Ask { get; set; }
+```
+***
+
+## AskTrades
+Описание
+
+```csharp
+public int AskTrades { get; set; }
+```
+***
+
+## Bid
+Описание
+
+```csharp
+public Decimal Bid { get; set; }
+```
+***
+
+## BidTrades
+Описание
+
+```csharp
+public int BidTrades { get; set; }
+```
+***
+
+## Delta
+Описание
+
+```csharp
+public Decimal Delta { get; }
+```
+***
+
+## OpenPos
+Описание
+
+```csharp
+public long OpenPos { get; }
+```
+***
+
+## OpenPosAsk
+Описание
+
+```csharp
+public long OpenPosAsk { get; set; }
+```
+***
+
+## OpenPosBid
+Описание
+
+```csharp
+public long OpenPosBid { get; set; }
+```
+***
+
+## Price
+Описание
+
+```csharp
+public Decimal Price { get; set; }
+```
+***
+
+## Trades
+Описание
+
+```csharp
+public int Trades { get; }
+```
+***
+
+## Volume
+Описание
+
+```csharp
+public Decimal Volume { get; }
+```
+***
 

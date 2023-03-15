@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -21,4 +21,41 @@ public interface IChartExecution
 | [`Time`](./IChartExecution.cs/Свойства/Time.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## IsBuy
+Описание
+
+```csharp
+bool IsBuy { get; }
+```
+***
+
+## Price
+Описание
+
+```csharp
+double Price { get; }
+```
+***
+
+## Quantity
+Описание
+
+```csharp
+long Quantity { get; }
+```
+***
+
+## Time
+Описание
+
+```csharp
+DateTime Time { get; }
+```
+***
 

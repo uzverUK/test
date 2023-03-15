@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CloneSource`](./IndicatorSourceBase.cs/Методы/CloneSource.md) | *Описание* |
@@ -36,4 +36,122 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 | [`PropertyChanged`](./IndicatorSourceBase.cs/События/PropertyChanged.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## CloneSource
+Описание
+
+```csharp
+public IndicatorSourceBase CloneSource()
+```
+
+***                
+
+## CopySettings
+Описание
+
+```csharp
+public abstract void CopySettings(IndicatorSourceBase source)
+```
+
+<mark style="color:yellow;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeries
+Описание
+
+```csharp
+public abstract double[] GetSeries(IndicatorsHelper helper)
+```
+<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeriesList
+Описание
+
+```csharp
+public abstract IEnumerable<string> GetSeriesList()
+```
+
+***                
+
+## IndicatorSourceBase
+Описание
+
+```csharp
+protected IndicatorSourceBase()
+```
+
+***                
+
+## OnPropertyChanged
+Описание
+
+```csharp
+protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
+```
+
+<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+
+
+***                
+
+## SetSources
+Описание
+
+```csharp
+public static void SetSources(List<Type> sources)
+```
+
+***                
+
+## ToString
+Описание
+
+```csharp
+public override string ToString()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Name
+Описание
+
+```csharp
+public string Name { get; }
+```
+***
+
+## SelectedSeries
+Описание
+
+```csharp
+public string SelectedSeries { get; set; }
+```
+***
+***
+  ***
+  # События
+
+## PropertyChanged
+Описание
+
+```csharp
+public event PropertyChangedEventHandler PropertyChanged
+```
+***
 

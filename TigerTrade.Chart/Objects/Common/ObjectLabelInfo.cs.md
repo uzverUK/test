@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class ObjectLabelInfo
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ObjectLabelInfo`](./ObjectLabelInfo.cs/Методы/ObjectLabelInfo.md) | *Описание* |
@@ -28,4 +28,99 @@ public sealed class ObjectLabelInfo
 | [`Y2`](./ObjectLabelInfo.cs/Свойства/Y2.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## ObjectLabelInfo
+Описание
+
+```csharp
+public ObjectLabelInfo(double value, XColor color, double? position = null)
+```
+
+<mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`double`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ObjectLabelInfo
+Описание
+
+```csharp
+public ObjectLabelInfo(double value, XColor color, double? position = null)
+public ObjectLabelInfo(double value, double y1, double y2, XColor color)
+```
+
+<mark style="color:yellow;">`value`</mark> <mark style="color:red;">*`double`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`y1`</mark> <mark style="color:red;">*`double`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`y2`</mark> <mark style="color:red;">*`double`*</mark>  
+ *Описание*  
+
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Color
+Описание
+
+```csharp
+public XColor Color { get; }
+```
+***
+
+## Extanded
+Описание
+
+```csharp
+public bool Extanded { get; }
+```
+***
+
+## Position
+Описание
+
+```csharp
+public double? Position { get; }
+```
+***
+
+## Value
+Описание
+
+```csharp
+public double Value { get; }
+```
+***
+
+## Y1
+Описание
+
+```csharp
+public double Y1 { get; }
+```
+***
+
+## Y2
+Описание
+
+```csharp
+public double Y2 { get; }
+```
+***
 

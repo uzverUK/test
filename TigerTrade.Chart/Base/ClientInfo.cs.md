@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -18,4 +18,17 @@ public static class ClientInfo
 | [`LicenseID`](./ClientInfo.cs/Свойства/LicenseID.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## LicenseID
+Описание
+
+```csharp
+public static string LicenseID { get; set; }
+```
+***
 

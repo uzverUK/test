@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class ChartAlertInfo
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChartAlertInfo`](./ChartAlertInfo.cs/Методы/ChartAlertInfo.md) | *Описание* |
@@ -29,4 +29,84 @@ public sealed class ChartAlertInfo
 | [`Signal`](./ChartAlertInfo.cs/Свойства/Signal.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## ChartAlertInfo
+Описание
+
+```csharp
+public ChartAlertInfo(ChartAlertSettings settings, string message)
+```
+
+<mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Duration
+Описание
+
+```csharp
+public int Duration { get; }
+```
+***
+
+## Log
+Описание
+
+```csharp
+public bool Log { get; }
+```
+***
+
+## Message
+Описание
+
+```csharp
+public string Message { get; }
+```
+***
+
+## SendEmail
+Описание
+
+```csharp
+public bool SendEmail { get; }
+```
+***
+
+## SendTelegram
+Описание
+
+```csharp
+public bool SendTelegram { get; }
+```
+***
+
+## ShowPopup
+Описание
+
+```csharp
+public bool ShowPopup { get; }
+```
+***
+
+## Signal
+Описание
+
+```csharp
+public string Signal { get; }
+```
+***
 

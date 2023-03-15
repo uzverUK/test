@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CalcPoint`](./LinearRegressionObject.cs/Методы/CalcPoint.md) | *Описание* |
@@ -32,4 +32,117 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 | [`xsuJlZ3bylFkXacpNF53`](./LinearRegressionObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## CalcPoint
+Описание
+
+```csharp
+protected override void CalcPoint()
+```
+
+***                
+
+## CopyTemplate
+Описание
+
+```csharp
+public override void CopyTemplate(ObjectBase objectBase, bool style)
+```
+
+<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Draw
+Описание
+
+```csharp
+protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
+```
+<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
+ *Описание*  
+
+
+***                
+
+## LinearRegressionObject
+Описание
+
+```csharp
+public LinearRegressionObject()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## CenterLine
+Описание
+
+```csharp
+public bool CenterLine { get; set; }
+```
+***
+
+## DownLine
+Описание
+
+```csharp
+public bool DownLine { get; set; }
+```
+***
+
+## Percentage
+Описание
+
+```csharp
+public double Percentage { get; set; }
+```
+***
+
+## RegressionType
+Описание
+
+```csharp
+public RegressionType RegressionType { get; set; }
+```
+***
+
+## ShowAuxLine
+Описание
+
+```csharp
+public bool ShowAuxLine { get; set; }
+```
+***
+
+## UpLine
+Описание
+
+```csharp
+public bool UpLine { get; set; }
+```
+***
+
+## xsuJlZ3bylFkXacpNF53
+Описание
+
+```csharp
+public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
+```
+***
 

@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -41,4 +41,201 @@ public interface IRawSecurity
 | [`Volume`](./IRawSecurity.cs/Свойства/Volume.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## AskPrice
+Описание
+
+```csharp
+long AskPrice { get; }
+```
+***
+
+## AskSize
+Описание
+
+```csharp
+long AskSize { get; }
+```
+***
+
+## AskTime
+Описание
+
+```csharp
+DateTime AskTime { get; }
+```
+***
+
+## BidDepthT
+Описание
+
+```csharp
+long BidDepthT { get; }
+```
+***
+
+## BidPrice
+Описание
+
+```csharp
+long BidPrice { get; }
+```
+***
+
+## BidSize
+Описание
+
+```csharp
+long BidSize { get; }
+```
+***
+
+## BidTime
+Описание
+
+```csharp
+DateTime BidTime { get; }
+```
+***
+
+## ClosePrice
+Описание
+
+```csharp
+double ClosePrice { get; }
+```
+***
+
+## HighPrice
+Описание
+
+```csharp
+double HighPrice { get; }
+```
+***
+
+## LastPrice
+Описание
+
+```csharp
+long LastPrice { get; }
+```
+***
+
+## LastSize
+Описание
+
+```csharp
+long LastSize { get; }
+```
+***
+
+## LastTime
+Описание
+
+```csharp
+DateTime LastTime { get; }
+```
+***
+
+## LowPrice
+Описание
+
+```csharp
+double LowPrice { get; }
+```
+***
+
+## MarginBuy
+Описание
+
+```csharp
+double MarginBuy { get; }
+```
+***
+
+## MarginSell
+Описание
+
+```csharp
+double MarginSell { get; }
+```
+***
+
+## NumBids
+Описание
+
+```csharp
+long NumBids { get; }
+```
+***
+
+## NumOffers
+Описание
+
+```csharp
+long NumOffers { get; }
+```
+***
+
+## OfferDepthT
+Описание
+
+```csharp
+long OfferDepthT { get; }
+```
+***
+
+## OpenInt
+Описание
+
+```csharp
+long OpenInt { get; }
+```
+***
+
+## OpenPrice
+Описание
+
+```csharp
+double OpenPrice { get; }
+```
+***
+
+## PriceMax
+Описание
+
+```csharp
+double PriceMax { get; }
+```
+***
+
+## PriceMin
+Описание
+
+```csharp
+double PriceMin { get; }
+```
+***
+
+## Trades
+Описание
+
+```csharp
+long Trades { get; }
+```
+***
+
+## Volume
+Описание
+
+```csharp
+long Volume { get; }
+```
+***
 

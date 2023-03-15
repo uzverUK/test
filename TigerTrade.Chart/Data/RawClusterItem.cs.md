@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class RawClusterItem : IRawClusterItem
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`Add`](./RawClusterItem.cs/Методы/Add.md) | *Описание* |
@@ -34,4 +34,141 @@ public sealed class RawClusterItem : IRawClusterItem
 | [`Volume`](./RawClusterItem.cs/Свойства/Volume.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## Add
+Описание
+
+```csharp
+public void Add(IRawClusterItem item)
+```
+
+<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
+ *Описание*  
+
+
+***                
+
+## RawClusterItem
+Описание
+
+```csharp
+public RawClusterItem(long price)
+```
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+ *Описание*  
+
+
+***                
+
+## RawClusterItem
+Описание
+
+```csharp
+public RawClusterItem(long price)
+public RawClusterItem(IRawClusterItem item)
+```
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
+ *Описание*  
+
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Ask
+Описание
+
+```csharp
+public long Ask { get; set; }
+```
+***
+
+## AskTrades
+Описание
+
+```csharp
+public int AskTrades { get; set; }
+```
+***
+
+## Bid
+Описание
+
+```csharp
+public long Bid { get; set; }
+```
+***
+
+## BidTrades
+Описание
+
+```csharp
+public int BidTrades { get; set; }
+```
+***
+
+## Delta
+Описание
+
+```csharp
+public long Delta { get; }
+```
+***
+
+## OpenPos
+Описание
+
+```csharp
+public long OpenPos { get; }
+```
+***
+
+## OpenPosAsk
+Описание
+
+```csharp
+public long OpenPosAsk { get; set; }
+```
+***
+
+## OpenPosBid
+Описание
+
+```csharp
+public long OpenPosBid { get; set; }
+```
+***
+
+## Price
+Описание
+
+```csharp
+public long Price { get; set; }
+```
+***
+
+## Trades
+Описание
+
+```csharp
+public int Trades { get; }
+```
+***
+
+## Volume
+Описание
+
+```csharp
+public long Volume { get; }
+```
+***
 

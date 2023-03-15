@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,10 +12,34 @@ public interface IContainsSelection
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`GetSelection`](./IContainsSelection.cs/Методы/GetSelection.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## GetSelection
+Описание
+
+```csharp
+XBrush GetSelection(int index, long price, int type)
+```
+
+<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
 

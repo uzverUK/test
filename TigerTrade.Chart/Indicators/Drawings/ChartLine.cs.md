@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class ChartLine : INotifyPropertyChanged
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChartLine`](./ChartLine.cs/Методы/ChartLine.md) | *Описание* |
@@ -34,4 +34,94 @@ public sealed class ChartLine : INotifyPropertyChanged
 | [`PropertyChanged`](./ChartLine.cs/События/PropertyChanged.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## ChartLine
+Описание
+
+```csharp
+public ChartLine()
+```
+
+***                
+
+## CopyTheme
+Описание
+
+```csharp
+public void CopyTheme(ChartLine chartLine)
+```
+
+<mark style="color:yellow;">`chartLine`</mark> <mark style="color:red;">*`ChartLine`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ToString
+Описание
+
+```csharp
+public override string ToString()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Color
+Описание
+
+```csharp
+public XColor Color { get; set; }
+```
+***
+
+## ShowMarker
+Описание
+
+```csharp
+public bool ShowMarker { get; set; }
+```
+***
+
+## Style
+Описание
+
+```csharp
+public XDashStyle Style { get; set; }
+```
+***
+
+## Visible
+Описание
+
+```csharp
+public bool Visible { get; set; }
+```
+***
+
+## Width
+Описание
+
+```csharp
+public int Width { get; set; }
+```
+***
+***
+  ***
+  # События
+
+## PropertyChanged
+Описание
+
+```csharp
+public event PropertyChangedEventHandler PropertyChanged
+```
+***
 

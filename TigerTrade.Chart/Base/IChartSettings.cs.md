@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -19,4 +19,25 @@ public interface IChartSettings
 | [`TransformVertLines`](./IChartSettings.cs/Свойства/TransformVertLines.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## TransformHorLines
+Описание
+
+```csharp
+bool TransformHorLines { get; }
+```
+***
+
+## TransformVertLines
+Описание
+
+```csharp
+bool TransformVertLines { get; }
+```
+***
 

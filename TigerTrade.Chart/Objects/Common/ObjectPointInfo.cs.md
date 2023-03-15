@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ObjectPointInfo`](./ObjectPointInfo.cs/Методы/ObjectPointInfo.md) | *Описание* |
@@ -30,4 +30,61 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 | [`PropertyChanged`](./ObjectPointInfo.cs/События/PropertyChanged.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## ObjectPointInfo
+Описание
+
+```csharp
+public ObjectPointInfo(ObjectPoint[] points, int index)
+```
+
+<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ToString
+Описание
+
+```csharp
+public override string ToString()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Price
+Описание
+
+```csharp
+public double Price { get; set; }
+```
+***
+
+## Time
+Описание
+
+```csharp
+public DateTime Time { get; set; }
+```
+***
+***
+  ***
+  # События
+
+## PropertyChanged
+Описание
+
+```csharp
+public event PropertyChangedEventHandler PropertyChanged
+```
+***
 

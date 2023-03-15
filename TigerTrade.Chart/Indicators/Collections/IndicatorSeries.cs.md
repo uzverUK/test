@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`Add`](./IndicatorSeries.cs/Методы/Add.md) | *Описание* |
@@ -26,4 +26,104 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 | [`Count`](./IndicatorSeries.cs/Свойства/Count.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## Add
+Описание
+
+```csharp
+public void Add(IndicatorSeriesData series)
+```
+
+<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Add
+Описание
+
+```csharp
+public void Add(IndicatorSeriesData series)
+public void Add(IndicatorSeriesData series1, IndicatorSeriesData series2)
+```
+
+<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`series1`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`series2`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Add
+Описание
+
+```csharp
+public void Add(IndicatorSeriesData series)
+public void Add(IndicatorSeriesData series1, IndicatorSeriesData series2)
+public void Add(params IndicatorSeriesData[] series)
+```
+
+<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`series1`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`series2`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`IndicatorSeriesData`</mark> <mark style="color:red;">*`params`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Clear
+Описание
+
+```csharp
+public void Clear()
+```
+
+***                
+
+## GetEnumerator
+Описание
+
+```csharp
+public IEnumerator<IndicatorSeriesData> GetEnumerator()
+```
+
+***                
+
+## IndicatorSeries
+Описание
+
+```csharp
+public IndicatorSeries()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Count
+Описание
+
+```csharp
+public int Count { get; }
+```
+***
 

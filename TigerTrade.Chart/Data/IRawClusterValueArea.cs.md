@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -19,4 +19,25 @@ public interface IRawClusterValueArea
 | [`Val`](./IRawClusterValueArea.cs/Свойства/Val.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## Vah
+Описание
+
+```csharp
+long Vah { get; }
+```
+***
+
+## Val
+Описание
+
+```csharp
+long Val { get; }
+```
+***
 

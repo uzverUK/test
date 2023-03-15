@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChartAlertSettings`](./ChartAlertSettings.cs/Методы/ChartAlertSettings.md) | *Описание* |
@@ -42,4 +42,165 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 | [`PropertyChanged`](./ChartAlertSettings.cs/События/PropertyChanged.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## ChartAlertSettings
+Описание
+
+```csharp
+public ChartAlertSettings()
+```
+
+***                
+
+## Copy
+Описание
+
+```csharp
+public void Copy(ChartAlertSettings alert, bool copyActive = false)
+```
+
+<mark style="color:yellow;">`alert`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`copyActive`</mark> <mark style="color:red;">*`bool`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Equals
+Описание
+
+```csharp
+public bool Equals(ChartAlertSettings other)
+```
+<mark style="color:yellow;">`other`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetHashCode
+Описание
+
+```csharp
+public override int GetHashCode()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Active
+Описание
+
+```csharp
+public bool Active { get; set; }
+```
+***
+
+## Duration
+Описание
+
+```csharp
+public ChartAlertPlayDuration Duration { get; set; }
+```
+***
+
+## Execution
+Описание
+
+```csharp
+public ChartAlertExecution Execution { get; set; }
+```
+***
+
+## Expiration
+Описание
+
+```csharp
+public DateTime? Expiration { get; set; }
+```
+***
+
+## IsActive
+Описание
+
+```csharp
+public bool IsActive { get; }
+```
+***
+
+## Log
+Описание
+
+```csharp
+public bool Log { get; set; }
+```
+***
+
+## Message
+Описание
+
+```csharp
+public string Message { get; set; }
+```
+***
+
+## PlaySound
+Описание
+
+```csharp
+public bool PlaySound { get; set; }
+```
+***
+
+## SendEmail
+Описание
+
+```csharp
+public bool SendEmail { get; set; }
+```
+***
+
+## SendTelegram
+Описание
+
+```csharp
+public bool SendTelegram { get; set; }
+```
+***
+
+## ShowPopup
+Описание
+
+```csharp
+public bool ShowPopup { get; set; }
+```
+***
+
+## Signal
+Описание
+
+```csharp
+public string Signal { get; set; }
+```
+***
+***
+  ***
+  # События
+
+## PropertyChanged
+Описание
+
+```csharp
+public event PropertyChangedEventHandler PropertyChanged
+```
+***
 

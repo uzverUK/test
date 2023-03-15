@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class ATRSource : IndicatorSourceBase
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ATRSource`](./ATRSource.cs/Методы/ATRSource.md) | *Описание* |
@@ -27,4 +27,75 @@ public sealed class ATRSource : IndicatorSourceBase
 | [`Period`](./ATRSource.cs/Свойства/Period.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## ATRSource
+Описание
+
+```csharp
+public ATRSource()
+```
+
+***                
+
+## CopySettings
+Описание
+
+```csharp
+public override void CopySettings(IndicatorSourceBase source)
+```
+
+<mark style="color:yellow;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeries
+Описание
+
+```csharp
+public override double[] GetSeries(IndicatorsHelper helper)
+```
+<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeriesList
+Описание
+
+```csharp
+public override IEnumerable<string> GetSeriesList()
+```
+<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ToString
+Описание
+
+```csharp
+public override string ToString()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Period
+Описание
+
+```csharp
+public int Period { get; set; }
+```
+***
 

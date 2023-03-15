@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class RawCluster : IRawCluster
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`AddCluster`](./RawCluster.cs/Методы/AddCluster.md) | *Описание* |
@@ -53,4 +53,297 @@ public sealed class RawCluster : IRawCluster
 | [`Volume`](./RawCluster.cs/Свойства/Volume.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## AddCluster
+Описание
+
+```csharp
+public void AddCluster(IRawCluster cluster)
+```
+
+<mark style="color:yellow;">`cluster`</mark> <mark style="color:red;">*`IRawCluster`*</mark>  
+ *Описание*  
+
+
+***                
+
+## AddItem
+Описание
+
+```csharp
+public void AddItem(IRawClusterItem item)
+```
+<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
+ *Описание*  
+
+
+***                
+
+## AddTick
+Описание
+
+```csharp
+public void AddTick(IRawTick tick, int scale)
+```
+<mark style="color:yellow;">`tick`</mark> <mark style="color:red;">*`IRawTick`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`scale`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetItem
+Описание
+
+```csharp
+public IRawClusterItem GetItem(long price)
+```
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetValueArea
+Описание
+
+```csharp
+public IRawClusterValueArea GetValueArea(int valueArea)
+```
+<mark style="color:yellow;">`valueArea`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## RawCluster
+Описание
+
+```csharp
+public RawCluster(DateTime time)
+```
+<mark style="color:yellow;">`time`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+ *Описание*  
+
+
+***                
+
+## UpdateData
+Описание
+
+```csharp
+public void UpdateData()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Ask
+Описание
+
+```csharp
+public long Ask { get; private set; }
+```
+***
+
+## AskTrades
+Описание
+
+```csharp
+public int AskTrades { get; private set; }
+```
+***
+
+## Bid
+Описание
+
+```csharp
+public long Bid { get; private set; }
+```
+***
+
+## BidTrades
+Описание
+
+```csharp
+public int BidTrades { get; private set; }
+```
+***
+
+## Close
+Описание
+
+```csharp
+public long Close { get; set; }
+```
+***
+
+## CloseTime
+Описание
+
+```csharp
+public DateTime CloseTime { get; private set; }
+```
+***
+
+## Delta
+Описание
+
+```csharp
+public long Delta { get; }
+```
+***
+
+## DeltaHigh
+Описание
+
+```csharp
+public long DeltaHigh { get; private set; }
+```
+***
+
+## DeltaLow
+Описание
+
+```csharp
+public long DeltaLow { get; private set; }
+```
+***
+
+## High
+Описание
+
+```csharp
+public long High { get; set; }
+```
+***
+
+## IsUp
+Описание
+
+```csharp
+public bool IsUp { get; set; }
+```
+***
+
+## Items
+Описание
+
+```csharp
+public List<IRawClusterItem> Items { get; }
+```
+***
+
+## Low
+Описание
+
+```csharp
+public long Low { get; set; }
+```
+***
+
+## MaxValues
+Описание
+
+```csharp
+public IRawClusterMaxValues MaxValues { get; }
+```
+***
+
+## Open
+Описание
+
+```csharp
+public long Open { get; set; }
+```
+***
+
+## OpenPos
+Описание
+
+```csharp
+public long OpenPos { get; private set; }
+```
+***
+
+## OpenPosAskChg
+Описание
+
+```csharp
+public long OpenPosAskChg { get; private set; }
+```
+***
+
+## OpenPosBidChg
+Описание
+
+```csharp
+public long OpenPosBidChg { get; private set; }
+```
+***
+
+## OpenPosChg
+Описание
+
+```csharp
+public long OpenPosChg { get; }
+```
+***
+
+## OpenPosHigh
+Описание
+
+```csharp
+public long OpenPosHigh { get; private set; }
+```
+***
+
+## OpenPosLow
+Описание
+
+```csharp
+public long OpenPosLow { get; private set; }
+```
+***
+
+## OpenTime
+Описание
+
+```csharp
+public DateTime OpenTime { get; private set; }
+```
+***
+
+## Time
+Описание
+
+```csharp
+public DateTime Time { get; }
+```
+***
+
+## Trades
+Описание
+
+```csharp
+public int Trades { get; }
+```
+***
+
+## Volume
+Описание
+
+```csharp
+public long Volume { get; }
+```
+***
 

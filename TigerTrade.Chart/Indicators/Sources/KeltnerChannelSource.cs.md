@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class KeltnerChannelSource : IndicatorSourceBase
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./KeltnerChannelSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -30,4 +30,99 @@ public sealed class KeltnerChannelSource : IndicatorSourceBase
 | [`Source`](./KeltnerChannelSource.cs/Свойства/Source.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## CopySettings
+Описание
+
+```csharp
+public override void CopySettings(IndicatorSourceBase source)
+```
+
+<mark style="color:yellow;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeries
+Описание
+
+```csharp
+public override double[] GetSeries(IndicatorsHelper helper)
+```
+<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeriesList
+Описание
+
+```csharp
+public override IEnumerable<string> GetSeriesList()
+```
+<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
+ *Описание*  
+
+
+***                
+
+## KeltnerChannelSource
+Описание
+
+```csharp
+public KeltnerChannelSource()
+```
+
+***                
+
+## ToString
+Описание
+
+```csharp
+public override string ToString()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Factor
+Описание
+
+```csharp
+public int Factor { get; set; }
+```
+***
+
+## MaType
+Описание
+
+```csharp
+public IndicatorMaType MaType { get; set; }
+```
+***
+
+## Period
+Описание
+
+```csharp
+public int Period { get; set; }
+```
+***
+
+## Source
+Описание
+
+```csharp
+public IndicatorSourceBase Source { get; set; }
+```
+***
 

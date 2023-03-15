@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class PriceRangeObject : PolygonObjectBase
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CQTqeP3bJqxWKjH4hGUt`](./PriceRangeObject.cs/Методы/CQTqeP3bJqxWKjH4hGUt.md) | *Описание* |
@@ -44,4 +44,225 @@ public sealed class PriceRangeObject : PolygonObjectBase
 | [`xsuJlZ3bylFkXacpNF53`](./PriceRangeObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## CQTqeP3bJqxWKjH4hGUt
+Описание
+
+```csharp
+public CQTqeP3bJqxWKjH4hGUt()
+```
+
+***                
+
+## CheckAlert
+Описание
+
+```csharp
+public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> indicators)
+```
+
+***                
+
+## CopyTemplate
+Описание
+
+```csharp
+public override void CopyTemplate(ObjectBase objectBase, bool style)
+```
+
+<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Draw
+Описание
+
+```csharp
+protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
+```
+<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
+ *Описание*  
+
+
+***                
+
+## DrawControlPoints
+Описание
+
+```csharp
+public override void DrawControlPoints(DxVisualQueue visual)
+```
+
+***                
+
+## GetControlPoint
+Описание
+
+```csharp
+public override int GetControlPoint(int x, int y)
+```
+
+<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## InObject
+Описание
+
+```csharp
+protected override bool InObject(int x, int y)
+```
+
+***                
+
+## IsObjectOnChart
+Описание
+
+```csharp
+protected override bool IsObjectOnChart()
+```
+
+***                
+
+## PriceRangeObject
+Описание
+
+```csharp
+public PriceRangeObject()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Alert
+Описание
+
+```csharp
+public ChartAlertSettings Alert { get; set; }
+```
+***
+
+## ByT3bF65jIi;
+Описание
+
+```csharp
+public Point ByT3bF65jIi; {}
+```
+***
+
+## Center;
+Описание
+
+```csharp
+public Point Center; {}
+```
+***
+
+## FontSize
+Описание
+
+```csharp
+public int FontSize { get; set; }
+```
+***
+
+## PhT3bdqjeim;
+Описание
+
+```csharp
+public Point PhT3bdqjeim; {}
+```
+***
+
+## Price1
+Описание
+
+```csharp
+public Decimal Price1 { get; set; }
+```
+***
+
+## Price2
+Описание
+
+```csharp
+public Decimal Price2 { get; set; }
+```
+***
+
+## Text
+Описание
+
+```csharp
+public string Text { get; set; }
+```
+***
+
+## TextAlignment
+Описание
+
+```csharp
+public ObjectTextAlignment TextAlignment { get; set; }
+```
+***
+
+## VML3bztEtWe;
+Описание
+
+```csharp
+public Rect VML3bztEtWe; {}
+```
+***
+
+## cjH3RyrD3YP;
+Описание
+
+```csharp
+public double cjH3RyrD3YP; {}
+```
+***
+
+## jjL3RqnWW1s;
+Описание
+
+```csharp
+public double jjL3RqnWW1s; {}
+```
+***
+
+## vcu3bCSJvax;
+Описание
+
+```csharp
+public Rect vcu3bCSJvax; {}
+```
+***
+
+## xsuJlZ3bylFkXacpNF53
+Описание
+
+```csharp
+public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
+```
+***
 

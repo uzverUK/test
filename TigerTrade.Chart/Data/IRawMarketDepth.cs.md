@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -22,4 +22,49 @@ public interface IRawMarketDepth
 | [`MinBidPrice`](./IRawMarketDepth.cs/Свойства/MinBidPrice.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## MaxAskPrice
+Описание
+
+```csharp
+long MaxAskPrice { get; }
+```
+***
+
+## MaxBidPrice
+Описание
+
+```csharp
+long MaxBidPrice { get; }
+```
+***
+
+## MaxSize
+Описание
+
+```csharp
+long MaxSize { get; }
+```
+***
+
+## MinAskPrice
+Описание
+
+```csharp
+long MinAskPrice { get; }
+```
+***
+
+## MinBidPrice
+Описание
+
+```csharp
+long MinBidPrice { get; }
+```
+***
 

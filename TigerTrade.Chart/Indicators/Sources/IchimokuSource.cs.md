@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class IchimokuSource : IndicatorSourceBase
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./IchimokuSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -31,4 +31,107 @@ public sealed class IchimokuSource : IndicatorSourceBase
 | [`Period5`](./IchimokuSource.cs/Свойства/Period5.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## CopySettings
+Описание
+
+```csharp
+public override void CopySettings(IndicatorSourceBase source)
+```
+
+<mark style="color:yellow;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeries
+Описание
+
+```csharp
+public override double[] GetSeries(IndicatorsHelper helper)
+```
+<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeriesList
+Описание
+
+```csharp
+public override IEnumerable<string> GetSeriesList()
+```
+<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
+ *Описание*  
+
+
+***                
+
+## IchimokuSource
+Описание
+
+```csharp
+public IchimokuSource()
+```
+
+***                
+
+## ToString
+Описание
+
+```csharp
+public override string ToString()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Period1
+Описание
+
+```csharp
+public int Period1 { get; set; }
+```
+***
+
+## Period2
+Описание
+
+```csharp
+public int Period2 { get; set; }
+```
+***
+
+## Period3
+Описание
+
+```csharp
+public int Period3 { get; set; }
+```
+***
+
+## Period4
+Описание
+
+```csharp
+public int Period4 { get; set; }
+```
+***
+
+## Period5
+Описание
+
+```csharp
+public int Period5 { get; set; }
+```
+***
 

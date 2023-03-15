@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -28,4 +28,97 @@ public interface IRawClusterItem
 | [`Volume`](./IRawClusterItem.cs/Свойства/Volume.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## Ask
+Описание
+
+```csharp
+long Ask { get; }
+```
+***
+
+## AskTrades
+Описание
+
+```csharp
+int AskTrades { get; }
+```
+***
+
+## Bid
+Описание
+
+```csharp
+long Bid { get; }
+```
+***
+
+## BidTrades
+Описание
+
+```csharp
+int BidTrades { get; }
+```
+***
+
+## Delta
+Описание
+
+```csharp
+long Delta { get; }
+```
+***
+
+## OpenPos
+Описание
+
+```csharp
+long OpenPos { get; }
+```
+***
+
+## OpenPosAsk
+Описание
+
+```csharp
+long OpenPosAsk { get; }
+```
+***
+
+## OpenPosBid
+Описание
+
+```csharp
+long OpenPosBid { get; }
+```
+***
+
+## Price
+Описание
+
+```csharp
+long Price { get; }
+```
+***
+
+## Trades
+Описание
+
+```csharp
+int Trades { get; }
+```
+***
+
+## Volume
+Описание
+
+```csharp
+long Volume { get; }
+```
+***
 

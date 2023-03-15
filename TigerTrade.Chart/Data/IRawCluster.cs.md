@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public interface IRawCluster
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`GetItem`](./IRawCluster.cs/Методы/GetItem.md) | *Описание* |
@@ -47,4 +47,229 @@ public interface IRawCluster
 | [`Volume`](./IRawCluster.cs/Свойства/Volume.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## GetItem
+Описание
+
+```csharp
+IRawClusterItem GetItem(long price)
+```
+
+<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetValueArea
+Описание
+
+```csharp
+IRawClusterValueArea GetValueArea(int valueArea)
+```
+<mark style="color:yellow;">`valueArea`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Ask
+Описание
+
+```csharp
+long Ask { get; }
+```
+***
+
+## AskTrades
+Описание
+
+```csharp
+int AskTrades { get; }
+```
+***
+
+## Bid
+Описание
+
+```csharp
+long Bid { get; }
+```
+***
+
+## BidTrades
+Описание
+
+```csharp
+int BidTrades { get; }
+```
+***
+
+## Close
+Описание
+
+```csharp
+long Close { get; }
+```
+***
+
+## CloseTime
+Описание
+
+```csharp
+DateTime CloseTime { get; }
+```
+***
+
+## Delta
+Описание
+
+```csharp
+long Delta { get; }
+```
+***
+
+## DeltaHigh
+Описание
+
+```csharp
+long DeltaHigh { get; }
+```
+***
+
+## DeltaLow
+Описание
+
+```csharp
+long DeltaLow { get; }
+```
+***
+
+## High
+Описание
+
+```csharp
+long High { get; }
+```
+***
+
+## IsUp
+Описание
+
+```csharp
+bool IsUp { get; }
+```
+***
+
+## Low
+Описание
+
+```csharp
+long Low { get; }
+```
+***
+
+## MaxValues
+Описание
+
+```csharp
+IRawClusterMaxValues MaxValues { get; }
+```
+***
+
+## Open
+Описание
+
+```csharp
+long Open { get; }
+```
+***
+
+## OpenPos
+Описание
+
+```csharp
+long OpenPos { get; }
+```
+***
+
+## OpenPosAskChg
+Описание
+
+```csharp
+long OpenPosAskChg { get; }
+```
+***
+
+## OpenPosBidChg
+Описание
+
+```csharp
+long OpenPosBidChg { get; }
+```
+***
+
+## OpenPosChg
+Описание
+
+```csharp
+long OpenPosChg { get; }
+```
+***
+
+## OpenPosHigh
+Описание
+
+```csharp
+long OpenPosHigh { get; }
+```
+***
+
+## OpenPosLow
+Описание
+
+```csharp
+long OpenPosLow { get; }
+```
+***
+
+## OpenTime
+Описание
+
+```csharp
+DateTime OpenTime { get; }
+```
+***
+
+## Time
+Описание
+
+```csharp
+DateTime Time { get; }
+```
+***
+
+## Trades
+Описание
+
+```csharp
+int Trades { get; }
+```
+***
+
+## Volume
+Описание
+
+```csharp
+long Volume { get; }
+```
+***
 

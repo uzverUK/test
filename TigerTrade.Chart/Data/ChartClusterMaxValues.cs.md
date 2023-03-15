@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class ChartClusterMaxValues : IChartClusterMaxValues
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChartClusterMaxValues`](./ChartClusterMaxValues.cs/Методы/ChartClusterMaxValues.md) | *Описание* |
@@ -32,4 +32,102 @@ public sealed class ChartClusterMaxValues : IChartClusterMaxValues
 | [`Poc`](./ChartClusterMaxValues.cs/Свойства/Poc.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## ChartClusterMaxValues
+Описание
+
+```csharp
+public ChartClusterMaxValues()
+```
+
+***                
+
+## Update
+Описание
+
+```csharp
+public void Update(Dictionary<Decimal, ChartClusterItem> items)
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## MaxAsk
+Описание
+
+```csharp
+public Decimal MaxAsk { get; private set; }
+```
+***
+
+## MaxBid
+Описание
+
+```csharp
+public Decimal MaxBid { get; private set; }
+```
+***
+
+## MaxDelta
+Описание
+
+```csharp
+public Decimal MaxDelta { get; private set; }
+```
+***
+
+## MaxOpenPos
+Описание
+
+```csharp
+public long MaxOpenPos { get; private set; }
+```
+***
+
+## MaxTrades
+Описание
+
+```csharp
+public int MaxTrades { get; private set; }
+```
+***
+
+## MaxVolume
+Описание
+
+```csharp
+public Decimal MaxVolume { get; private set; }
+```
+***
+
+## MinDelta
+Описание
+
+```csharp
+public Decimal MinDelta { get; private set; }
+```
+***
+
+## MinOpenPos
+Описание
+
+```csharp
+public long MinOpenPos { get; private set; }
+```
+***
+
+## Poc
+Описание
+
+```csharp
+public Decimal Poc { get; private set; }
+```
+***
 

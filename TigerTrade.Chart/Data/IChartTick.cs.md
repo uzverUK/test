@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -22,4 +22,49 @@ public interface IChartTick
 | [`Time`](./IChartTick.cs/Свойства/Time.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## IsBuy
+Описание
+
+```csharp
+bool IsBuy { get; }
+```
+***
+
+## OpenInterest
+Описание
+
+```csharp
+long OpenInterest { get; }
+```
+***
+
+## Price
+Описание
+
+```csharp
+Decimal Price { get; }
+```
+***
+
+## Size
+Описание
+
+```csharp
+Decimal Size { get; }
+```
+***
+
+## Time
+Описание
+
+```csharp
+DateTime Time { get; }
+```
+***
 

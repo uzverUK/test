@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -22,4 +22,49 @@ public interface IChartMarketDepth
 | [`MinBidPrice`](./IChartMarketDepth.cs/Свойства/MinBidPrice.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## MaxAskPrice
+Описание
+
+```csharp
+Decimal MaxAskPrice { get; }
+```
+***
+
+## MaxBidPrice
+Описание
+
+```csharp
+Decimal MaxBidPrice { get; }
+```
+***
+
+## MaxSize
+Описание
+
+```csharp
+Decimal MaxSize { get; }
+```
+***
+
+## MinAskPrice
+Описание
+
+```csharp
+Decimal MinAskPrice { get; }
+```
+***
+
+## MinBidPrice
+Описание
+
+```csharp
+Decimal MinBidPrice { get; }
+```
+***
 

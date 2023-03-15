@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -26,4 +26,81 @@ public interface IRawClusterMaxValues
 | [`Poc`](./IRawClusterMaxValues.cs/Свойства/Poc.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## MaxAsk
+Описание
+
+```csharp
+long MaxAsk { get; }
+```
+***
+
+## MaxBid
+Описание
+
+```csharp
+long MaxBid { get; }
+```
+***
+
+## MaxDelta
+Описание
+
+```csharp
+long MaxDelta { get; }
+```
+***
+
+## MaxOpenPos
+Описание
+
+```csharp
+long MaxOpenPos { get; }
+```
+***
+
+## MaxTrades
+Описание
+
+```csharp
+int MaxTrades { get; }
+```
+***
+
+## MaxVolume
+Описание
+
+```csharp
+long MaxVolume { get; }
+```
+***
+
+## MinDelta
+Описание
+
+```csharp
+long MinDelta { get; }
+```
+***
+
+## MinOpenPos
+Описание
+
+```csharp
+long MinOpenPos { get; }
+```
+***
+
+## Poc
+Описание
+
+```csharp
+long Poc { get; }
+```
+***
 

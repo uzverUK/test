@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -26,4 +26,81 @@ public interface IChartClusterMaxValues
 | [`Poc`](./IChartClusterMaxValues.cs/Свойства/Poc.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## MaxAsk
+Описание
+
+```csharp
+Decimal MaxAsk { get; }
+```
+***
+
+## MaxBid
+Описание
+
+```csharp
+Decimal MaxBid { get; }
+```
+***
+
+## MaxDelta
+Описание
+
+```csharp
+Decimal MaxDelta { get; }
+```
+***
+
+## MaxOpenPos
+Описание
+
+```csharp
+long MaxOpenPos { get; }
+```
+***
+
+## MaxTrades
+Описание
+
+```csharp
+int MaxTrades { get; }
+```
+***
+
+## MaxVolume
+Описание
+
+```csharp
+Decimal MaxVolume { get; }
+```
+***
+
+## MinDelta
+Описание
+
+```csharp
+Decimal MinDelta { get; }
+```
+***
+
+## MinOpenPos
+Описание
+
+```csharp
+long MinOpenPos { get; }
+```
+***
+
+## Poc
+Описание
+
+```csharp
+Decimal Poc { get; }
+```
+***
 

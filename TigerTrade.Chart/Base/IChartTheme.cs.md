@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public interface IChartTheme
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`GetNextColor`](./IChartTheme.cs/Методы/GetNextColor.md) | *Описание* |
@@ -77,4 +77,461 @@ public interface IChartTheme
 | [`PaletteColor7`](./IChartTheme.cs/Свойства/PaletteColor7.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## GetNextColor
+Описание
+
+```csharp
+XColor GetNextColor()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## BarDownBarColor
+Описание
+
+```csharp
+XColor BarDownBarColor { get; }
+```
+***
+
+## BarUpBarColor
+Описание
+
+```csharp
+XColor BarUpBarColor { get; }
+```
+***
+
+## CandleDownBackColor
+Описание
+
+```csharp
+XColor CandleDownBackColor { get; }
+```
+***
+
+## CandleDownBorderColor
+Описание
+
+```csharp
+XColor CandleDownBorderColor { get; }
+```
+***
+
+## CandleDownWickColor
+Описание
+
+```csharp
+XColor CandleDownWickColor { get; }
+```
+***
+
+## CandleUpBackColor
+Описание
+
+```csharp
+XColor CandleUpBackColor { get; }
+```
+***
+
+## CandleUpBorderColor
+Описание
+
+```csharp
+XColor CandleUpBorderColor { get; }
+```
+***
+
+## CandleUpWickColor
+Описание
+
+```csharp
+XColor CandleUpWickColor { get; }
+```
+***
+
+## ChartAxisColor
+Описание
+
+```csharp
+XColor ChartAxisColor { get; }
+```
+***
+
+## ChartBackBrush
+Описание
+
+```csharp
+XBrush ChartBackBrush { get; }
+```
+***
+
+## ChartBackColor
+Описание
+
+```csharp
+XColor ChartBackColor { get; }
+```
+***
+
+## ChartCpFillBrush
+Описание
+
+```csharp
+XBrush ChartCpFillBrush { get; }
+```
+***
+
+## ChartCpFillColor
+Описание
+
+```csharp
+XColor ChartCpFillColor { get; }
+```
+***
+
+## ChartCpLineColor
+Описание
+
+```csharp
+XColor ChartCpLineColor { get; }
+```
+***
+
+## ChartCpLinePen
+Описание
+
+```csharp
+XPen ChartCpLinePen { get; }
+```
+***
+
+## ChartFontBrush
+Описание
+
+```csharp
+XBrush ChartFontBrush { get; }
+```
+***
+
+## ChartFontColor
+Описание
+
+```csharp
+XColor ChartFontColor { get; }
+```
+***
+
+## ChartGridColor
+Описание
+
+```csharp
+XColor ChartGridColor { get; }
+```
+***
+
+## ChartObjectFillColor
+Описание
+
+```csharp
+XColor ChartObjectFillColor { get; }
+```
+***
+
+## ChartObjectLineColor
+Описание
+
+```csharp
+XColor ChartObjectLineColor { get; }
+```
+***
+
+## ClusterAskColor
+Описание
+
+```csharp
+XColor ClusterAskColor { get; }
+```
+***
+
+## ClusterBidColor
+Описание
+
+```csharp
+XColor ClusterBidColor { get; }
+```
+***
+
+## ClusterBorderColor
+Описание
+
+```csharp
+XColor ClusterBorderColor { get; }
+```
+***
+
+## ClusterCellBorderColor
+Описание
+
+```csharp
+XColor ClusterCellBorderColor { get; }
+```
+***
+
+## ClusterCellBorderMaxColor
+Описание
+
+```csharp
+XColor ClusterCellBorderMaxColor { get; }
+```
+***
+
+## ClusterDeltaMinusColor
+Описание
+
+```csharp
+XColor ClusterDeltaMinusColor { get; }
+```
+***
+
+## ClusterDeltaPlusColor
+Описание
+
+```csharp
+XColor ClusterDeltaPlusColor { get; }
+```
+***
+
+## ClusterDownBarColor
+Описание
+
+```csharp
+XColor ClusterDownBarColor { get; }
+```
+***
+
+## ClusterNeutralBidAskColor
+Описание
+
+```csharp
+XColor ClusterNeutralBidAskColor { get; }
+```
+***
+
+## ClusterOpenIntMinusColor
+Описание
+
+```csharp
+XColor ClusterOpenIntMinusColor { get; }
+```
+***
+
+## ClusterOpenIntPlusColor
+Описание
+
+```csharp
+XColor ClusterOpenIntPlusColor { get; }
+```
+***
+
+## ClusterStrongAskColor
+Описание
+
+```csharp
+XColor ClusterStrongAskColor { get; }
+```
+***
+
+## ClusterStrongBidColor
+Описание
+
+```csharp
+XColor ClusterStrongBidColor { get; }
+```
+***
+
+## ClusterTextColor
+Описание
+
+```csharp
+XColor ClusterTextColor { get; }
+```
+***
+
+## ClusterTradesColor
+Описание
+
+```csharp
+XColor ClusterTradesColor { get; }
+```
+***
+
+## ClusterUpBarColor
+Описание
+
+```csharp
+XColor ClusterUpBarColor { get; }
+```
+***
+
+## ClusterValueAreaColor
+Описание
+
+```csharp
+XColor ClusterValueAreaColor { get; }
+```
+***
+
+## ClusterVolumeColor
+Описание
+
+```csharp
+XColor ClusterVolumeColor { get; }
+```
+***
+
+## HistogramAskColor
+Описание
+
+```csharp
+XColor HistogramAskColor { get; }
+```
+***
+
+## HistogramBidColor
+Описание
+
+```csharp
+XColor HistogramBidColor { get; }
+```
+***
+
+## HistogramCellBorderColor
+Описание
+
+```csharp
+XColor HistogramCellBorderColor { get; }
+```
+***
+
+## HistogramDeltaMinusColor
+Описание
+
+```csharp
+XColor HistogramDeltaMinusColor { get; }
+```
+***
+
+## HistogramDeltaPlusColor
+Описание
+
+```csharp
+XColor HistogramDeltaPlusColor { get; }
+```
+***
+
+## HistogramMaximumColor
+Описание
+
+```csharp
+XColor HistogramMaximumColor { get; }
+```
+***
+
+## HistogramTextColor
+Описание
+
+```csharp
+XColor HistogramTextColor { get; }
+```
+***
+
+## HistogramTradesColor
+Описание
+
+```csharp
+XColor HistogramTradesColor { get; }
+```
+***
+
+## HistogramValueAreaColor
+Описание
+
+```csharp
+XColor HistogramValueAreaColor { get; }
+```
+***
+
+## HistogramVolumeColor
+Описание
+
+```csharp
+XColor HistogramVolumeColor { get; }
+```
+***
+
+## PaletteColor1
+Описание
+
+```csharp
+XColor PaletteColor1 { get; }
+```
+***
+
+## PaletteColor2
+Описание
+
+```csharp
+XColor PaletteColor2 { get; }
+```
+***
+
+## PaletteColor3
+Описание
+
+```csharp
+XColor PaletteColor3 { get; }
+```
+***
+
+## PaletteColor4
+Описание
+
+```csharp
+XColor PaletteColor4 { get; }
+```
+***
+
+## PaletteColor5
+Описание
+
+```csharp
+XColor PaletteColor5 { get; }
+```
+***
+
+## PaletteColor6
+Описание
+
+```csharp
+XColor PaletteColor6 { get; }
+```
+***
+
+## PaletteColor7
+Описание
+
+```csharp
+XColor PaletteColor7 { get; }
+```
+***
 

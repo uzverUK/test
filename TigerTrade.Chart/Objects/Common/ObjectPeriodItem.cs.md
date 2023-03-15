@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class ObjectPeriodItem
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CheckInterval`](./ObjectPeriodItem.cs/Методы/CheckInterval.md) | *Описание* |
@@ -27,4 +27,70 @@ public sealed class ObjectPeriodItem
 | [`Min`](./ObjectPeriodItem.cs/Свойства/Min.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## CheckInterval
+Описание
+
+```csharp
+public bool CheckInterval(int interval)
+```
+
+<mark style="color:yellow;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Equals
+Описание
+
+```csharp
+public override bool Equals(object obj)
+```
+<mark style="color:yellow;">`obj`</mark> <mark style="color:red;">*`object`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ObjectPeriodItem
+Описание
+
+```csharp
+public ObjectPeriodItem()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## CheckRange
+Описание
+
+```csharp
+public bool CheckRange { get; set; }
+```
+***
+
+## Max
+Описание
+
+```csharp
+public int Max { get; set; }
+```
+***
+
+## Min
+Описание
+
+```csharp
+public int Min { get; set; }
+```
+***
 

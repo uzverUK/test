@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class IndicatorSeriesStyle
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`DisableAll`](./IndicatorSeriesStyle.cs/Методы/DisableAll.md) | *Описание* |
@@ -40,4 +40,218 @@ public sealed class IndicatorSeriesStyle
 | [`Visible;`](./IndicatorSeriesStyle.cs/Свойства/Visible;.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## DisableAll
+Описание
+
+```csharp
+public void DisableAll()
+```
+
+***                
+
+## IndicatorSeriesStyle
+Описание
+
+```csharp
+public IndicatorSeriesStyle()
+```
+
+***                
+
+## Set
+Описание
+
+```csharp
+public void Set(ChartSeries series, string name = "")
+```
+
+<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Set
+Описание
+
+```csharp
+public void Set(ChartSeries series, string name = "")
+public void Set(ChartRegion region)
+```
+
+<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`region`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Set
+Описание
+
+```csharp
+public void Set(ChartSeries series, string name = "")
+public void Set(ChartRegion region)
+public void Set(ChartLine line)
+```
+
+<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`region`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`line`</mark> <mark style="color:red;">*`ChartLine`*</mark>  
+ *Описание*  
+
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Color2;
+Описание
+
+```csharp
+public XColor Color2; {}
+```
+***
+
+## Color;
+Описание
+
+```csharp
+public XColor Color; {}
+```
+***
+
+## ColorSplit;
+Описание
+
+```csharp
+public ChartSeriesColorSplit ColorSplit; {}
+```
+***
+
+## DisableLabel;
+Описание
+
+```csharp
+public bool DisableLabel; {}
+```
+***
+
+## DisableMinMax;
+Описание
+
+```csharp
+public bool DisableMinMax; {}
+```
+***
+
+## DisableSelect;
+Описание
+
+```csharp
+public bool DisableSelect; {}
+```
+***
+
+## DisableValue;
+Описание
+
+```csharp
+public bool DisableValue; {}
+```
+***
+
+## DotType;
+Описание
+
+```csharp
+public ChartSeriesDotStyle DotType; {}
+```
+***
+
+## HighPercent;
+Описание
+
+```csharp
+public double HighPercent; {}
+```
+***
+
+## LineStyle;
+Описание
+
+```csharp
+public XDashStyle LineStyle; {}
+```
+***
+
+## LineWidth;
+Описание
+
+```csharp
+public int LineWidth; {}
+```
+***
+
+## LowPercent;
+Описание
+
+```csharp
+public double LowPercent; {}
+```
+***
+
+## Name;
+Описание
+
+```csharp
+public string Name; {}
+```
+***
+
+## RenderType;
+Описание
+
+```csharp
+public ChartSeriesType RenderType; {}
+```
+***
+
+## StraightLine;
+Описание
+
+```csharp
+public bool StraightLine; {}
+```
+***
+
+## Visible;
+Описание
+
+```csharp
+public bool Visible; {}
+```
+***
 

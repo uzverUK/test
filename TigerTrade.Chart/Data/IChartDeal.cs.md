@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -25,4 +25,73 @@ public interface IChartDeal
 | [`Quantity`](./IChartDeal.cs/Свойства/Quantity.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## ClosePrice
+Описание
+
+```csharp
+double ClosePrice { get; }
+```
+***
+
+## CloseTime
+Описание
+
+```csharp
+DateTime CloseTime { get; }
+```
+***
+
+## IsBuy
+Описание
+
+```csharp
+bool IsBuy { get; }
+```
+***
+
+## OpenPrice
+Описание
+
+```csharp
+double OpenPrice { get; }
+```
+***
+
+## OpenTime
+Описание
+
+```csharp
+DateTime OpenTime { get; }
+```
+***
+
+## Points
+Описание
+
+```csharp
+double Points { get; }
+```
+***
+
+## Profit
+Описание
+
+```csharp
+double Profit { get; }
+```
+***
+
+## Quantity
+Описание
+
+```csharp
+double Quantity { get; }
+```
+***
 

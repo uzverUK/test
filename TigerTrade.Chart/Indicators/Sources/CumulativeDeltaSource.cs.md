@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class CumulativeDeltaSource : IndicatorSourceBase
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./CumulativeDeltaSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -22,4 +22,65 @@ public sealed class CumulativeDeltaSource : IndicatorSourceBase
 | [`ToString`](./CumulativeDeltaSource.cs/Методы/ToString.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## CopySettings
+Описание
+
+```csharp
+public override void CopySettings(IndicatorSourceBase source)
+```
+
+<mark style="color:yellow;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
+ *Описание*  
+
+
+***                
+
+## CumulativeDeltaSource
+Описание
+
+```csharp
+public CumulativeDeltaSource()
+```
+
+***                
+
+## GetSeries
+Описание
+
+```csharp
+public override double[] GetSeries(IndicatorsHelper helper)
+```
+
+<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeriesList
+Описание
+
+```csharp
+public override IEnumerable<string> GetSeriesList()
+```
+<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ToString
+Описание
+
+```csharp
+public override string ToString()
+```
+
+***                
 

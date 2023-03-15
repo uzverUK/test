@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -41,4 +41,201 @@ public interface IChartSecurity
 | [`Volume`](./IChartSecurity.cs/Свойства/Volume.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## AskPrice
+Описание
+
+```csharp
+Decimal AskPrice { get; }
+```
+***
+
+## AskSize
+Описание
+
+```csharp
+Decimal AskSize { get; }
+```
+***
+
+## AskTime
+Описание
+
+```csharp
+DateTime AskTime { get; }
+```
+***
+
+## BidDepthT
+Описание
+
+```csharp
+long BidDepthT { get; }
+```
+***
+
+## BidPrice
+Описание
+
+```csharp
+Decimal BidPrice { get; }
+```
+***
+
+## BidSize
+Описание
+
+```csharp
+Decimal BidSize { get; }
+```
+***
+
+## BidTime
+Описание
+
+```csharp
+DateTime BidTime { get; }
+```
+***
+
+## ClosePrice
+Описание
+
+```csharp
+Decimal ClosePrice { get; }
+```
+***
+
+## HighPrice
+Описание
+
+```csharp
+Decimal HighPrice { get; }
+```
+***
+
+## LastPrice
+Описание
+
+```csharp
+Decimal LastPrice { get; }
+```
+***
+
+## LastSize
+Описание
+
+```csharp
+Decimal LastSize { get; }
+```
+***
+
+## LastTime
+Описание
+
+```csharp
+DateTime LastTime { get; }
+```
+***
+
+## LowPrice
+Описание
+
+```csharp
+Decimal LowPrice { get; }
+```
+***
+
+## MarginBuy
+Описание
+
+```csharp
+Decimal MarginBuy { get; }
+```
+***
+
+## MarginSell
+Описание
+
+```csharp
+Decimal MarginSell { get; }
+```
+***
+
+## NumBids
+Описание
+
+```csharp
+long NumBids { get; }
+```
+***
+
+## NumOffers
+Описание
+
+```csharp
+long NumOffers { get; }
+```
+***
+
+## OfferDepthT
+Описание
+
+```csharp
+long OfferDepthT { get; }
+```
+***
+
+## OpenInt
+Описание
+
+```csharp
+long OpenInt { get; }
+```
+***
+
+## OpenPrice
+Описание
+
+```csharp
+Decimal OpenPrice { get; }
+```
+***
+
+## PriceMax
+Описание
+
+```csharp
+Decimal PriceMax { get; }
+```
+***
+
+## PriceMin
+Описание
+
+```csharp
+Decimal PriceMin { get; }
+```
+***
+
+## Trades
+Описание
+
+```csharp
+long Trades { get; }
+```
+***
+
+## Volume
+Описание
+
+```csharp
+long Volume { get; }
+```
+***
 

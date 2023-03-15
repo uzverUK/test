@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -28,4 +28,68 @@ public sealed class IndicatorSettingsSlider : INotifyPropertyChanged
 | [`PropertyChanged`](./IndicatorSettingsSlider.cs/События/PropertyChanged.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Свойства
+
+## LargeChange
+Описание
+
+```csharp
+public double LargeChange { get; set; }
+```
+***
+
+## Maximum
+Описание
+
+```csharp
+public double Maximum { get; }
+```
+***
+
+## Minimum
+Описание
+
+```csharp
+public double Minimum { get; }
+```
+***
+
+## SmallChange
+Описание
+
+```csharp
+public double SmallChange { get; set; }
+```
+***
+
+## TickFrequency
+Описание
+
+```csharp
+public double TickFrequency { get; set; }
+```
+***
+
+## Value
+Описание
+
+```csharp
+public double Value { get; set; }
+```
+***
+***
+  ***
+  # События
+
+## PropertyChanged
+Описание
+
+```csharp
+public event PropertyChangedEventHandler PropertyChanged
+```
+***
 

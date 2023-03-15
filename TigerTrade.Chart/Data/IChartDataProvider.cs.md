@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public interface IChartDataProvider
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`GetCluster`](./IChartDataProvider.cs/Методы/GetCluster.md) | *Описание* |
@@ -32,4 +32,114 @@ public interface IChartDataProvider
 | [`Symbol`](./IChartDataProvider.cs/Свойства/Symbol.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## GetCluster
+Описание
+
+```csharp
+IChartCluster GetCluster(int i)
+```
+
+<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetMarketDepth
+Описание
+
+```csharp
+IChartMarketDepth GetMarketDepth()
+```
+
+***                
+
+## GetRawCluster
+Описание
+
+```csharp
+IRawCluster GetRawCluster(int i)
+```
+
+<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetRawMarketDepth
+Описание
+
+```csharp
+IRawMarketDepth GetRawMarketDepth()
+```
+
+***                
+
+## GetRawSecurity
+Описание
+
+```csharp
+IRawSecurity GetRawSecurity()
+```
+
+***                
+
+## GetSecurity
+Описание
+
+```csharp
+IChartSecurity GetSecurity()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Count
+Описание
+
+```csharp
+int Count { get; }
+```
+***
+
+## Period
+Описание
+
+```csharp
+IChartPeriod Period { get; }
+```
+***
+
+## Scale
+Описание
+
+```csharp
+int Scale { get; }
+```
+***
+
+## Step
+Описание
+
+```csharp
+double Step { get; }
+```
+***
+
+## Symbol
+Описание
+
+```csharp
+IChartSymbol Symbol { get; }
+```
+***
 

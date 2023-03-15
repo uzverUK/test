@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public class IndicatorSourceAttribute : Attribute
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`IndicatorSourceAttribute`](./IndicatorSourceAttribute.cs/Методы/IndicatorSourceAttribute.md) | *Описание* |
@@ -24,4 +24,41 @@ public class IndicatorSourceAttribute : Attribute
 | [`Type`](./IndicatorSourceAttribute.cs/Свойства/Type.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## IndicatorSourceAttribute
+Описание
+
+```csharp
+public IndicatorSourceAttribute(string name)
+```
+
+<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Name
+Описание
+
+```csharp
+public string Name { get; }
+```
+***
+
+## Type
+Описание
+
+```csharp
+public Type Type { get; set; }
+```
+***
 

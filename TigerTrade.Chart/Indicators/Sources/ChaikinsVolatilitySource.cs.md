@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChaikinsVolatilitySource`](./ChaikinsVolatilitySource.cs/Методы/ChaikinsVolatilitySource.md) | *Описание* |
@@ -28,4 +28,83 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 | [`Period`](./ChaikinsVolatilitySource.cs/Свойства/Period.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## ChaikinsVolatilitySource
+Описание
+
+```csharp
+public ChaikinsVolatilitySource()
+```
+
+***                
+
+## CopySettings
+Описание
+
+```csharp
+public override void CopySettings(IndicatorSourceBase source)
+```
+
+<mark style="color:yellow;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeries
+Описание
+
+```csharp
+public override double[] GetSeries(IndicatorsHelper helper)
+```
+<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetSeriesList
+Описание
+
+```csharp
+public override IEnumerable<string> GetSeriesList()
+```
+<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ToString
+Описание
+
+```csharp
+public override string ToString()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## MaType
+Описание
+
+```csharp
+public IndicatorMaType MaType { get; set; }
+```
+***
+
+## Period
+Описание
+
+```csharp
+public int Period { get; set; }
+```
+***
 

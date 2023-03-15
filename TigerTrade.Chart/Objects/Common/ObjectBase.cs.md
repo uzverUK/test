@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`AddAlert`](./ObjectBase.cs/Методы/AddAlert.md) | *Описание* |
@@ -82,4 +82,607 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 | [`PropertyChanged`](./ObjectBase.cs/События/PropertyChanged.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## AddAlert
+Описание
+
+```csharp
+protected void AddAlert(ChartAlertSettings settings, string message)
+```
+
+<mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ApplyTheme
+Описание
+
+```csharp
+public virtual void ApplyTheme(IChartTheme theme)
+```
+<mark style="color:yellow;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
+ *Описание*  
+
+
+***                
+
+## BeginDrag
+Описание
+
+```csharp
+public virtual void BeginDrag()
+```
+
+***                
+
+## CheckAlert
+Описание
+
+```csharp
+public virtual void CheckAlert(List<IndicatorBase> indicators)
+```
+
+***                
+
+## ControlPointEditing
+Описание
+
+```csharp
+public virtual void ControlPointEditing(int index)
+```
+
+<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ControlPointsChanged
+Описание
+
+```csharp
+public virtual void ControlPointsChanged()
+```
+
+***                
+
+## CopyTemplate
+Описание
+
+```csharp
+public virtual void CopyTemplate(ObjectBase objectBase, bool style)
+```
+
+<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+ *Описание*  
+
+
+***                
+
+## DragObject
+Описание
+
+```csharp
+public virtual void DragObject(double dx, double dy)
+```
+<mark style="color:yellow;">`dx`</mark> <mark style="color:red;">*`double`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`dy`</mark> <mark style="color:red;">*`double`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Draw
+Описание
+
+```csharp
+protected abstract void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
+```
+<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
+ *Описание*  
+
+
+***                
+
+## DrawControlPoint
+Описание
+
+```csharp
+protected void DrawControlPoint(DxVisualQueue visual, Point point)
+```
+<mark style="color:yellow;">`point`</mark> <mark style="color:red;">*`Point`*</mark>  
+ *Описание*  
+
+
+***                
+
+## DrawControlPoints
+Описание
+
+```csharp
+public virtual void DrawControlPoints(DxVisualQueue visual)
+```
+<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+ *Описание*  
+
+
+***                
+
+## DrawObject
+Описание
+
+```csharp
+public void DrawObject(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
+```
+<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ExtraPointChanged
+Описание
+
+```csharp
+public virtual void ExtraPointChanged(int index, ObjectPoint op)
+```
+<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetAlerts
+Описание
+
+```csharp
+public List<ChartAlertInfo> GetAlerts()
+```
+
+***                
+
+## GetControlPoint
+Описание
+
+```csharp
+public virtual int GetControlPoint(int x, int y)
+```
+
+<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetExtraPoint
+Описание
+
+```csharp
+public virtual int GetExtraPoint(int x, int y)
+```
+
+***                
+
+## GetMinDist
+Описание
+
+```csharp
+protected virtual int GetMinDist(int x, int y)
+```
+
+<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetMinDistance
+Описание
+
+```csharp
+public int GetMinDistance(int x, int y)
+```
+
+***                
+
+## GetPropertyHasStandardValues
+Описание
+
+```csharp
+public virtual bool GetPropertyHasStandardValues(string propertyName)
+```
+
+<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetPropertyReadOnly
+Описание
+
+```csharp
+public virtual bool GetPropertyReadOnly(string propertyName)
+```
+
+***                
+
+## GetPropertyStandardValues
+Описание
+
+```csharp
+public virtual IEnumerable<object> GetPropertyStandardValues(string propertyName)
+```
+
+<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetPropertyVisibility
+Описание
+
+```csharp
+public virtual bool GetPropertyVisibility(string propertyName)
+```
+
+***                
+
+## GetX
+Описание
+
+```csharp
+protected double GetX(int i)
+```
+
+<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## GetY
+Описание
+
+```csharp
+protected double GetY(double d)
+```
+<mark style="color:yellow;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
+ *Описание*  
+
+
+***                
+
+## InObject
+Описание
+
+```csharp
+protected virtual bool InObject(int x, int y)
+```
+<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+ *Описание*  
+
+
+***                
+
+## IsObjectInArea
+Описание
+
+```csharp
+protected virtual bool IsObjectInArea()
+```
+
+***                
+
+## IsObjectOnChart
+Описание
+
+```csharp
+protected virtual bool IsObjectOnChart()
+```
+
+***                
+
+## ObjectBase
+Описание
+
+```csharp
+protected ObjectBase()
+```
+
+***                
+
+## OnPropertyChanged
+Описание
+
+```csharp
+protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
+```
+
+<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+ *Описание*  
+
+
+***                
+
+## Prepare
+Описание
+
+```csharp
+protected virtual void Prepare()
+```
+
+***                
+
+## SetCanvas
+Описание
+
+```csharp
+public void SetCanvas(IChartCanvas canvas)
+```
+
+<mark style="color:yellow;">`canvas`</mark> <mark style="color:red;">*`IChartCanvas`*</mark>  
+ *Описание*  
+
+
+***                
+
+## SetDataProvider
+Описание
+
+```csharp
+public void SetDataProvider(IChartDataProvider dp)
+```
+<mark style="color:yellow;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
+ *Описание*  
+
+
+***                
+
+## SetSettings
+Описание
+
+```csharp
+public void SetSettings(IChartSettings settings)
+```
+<mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`IChartSettings`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ToPoint
+Описание
+
+```csharp
+public Point ToPoint(ObjectPoint op)
+```
+<mark style="color:yellow;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
+ *Описание*  
+
+
+***                
+
+## ToPoints
+Описание
+
+```csharp
+protected Point[] ToPoints(ObjectPoint[] ops)
+```
+
+***                
+
+## ToString
+Описание
+
+```csharp
+public override string ToString()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## Canvas
+Описание
+
+```csharp
+protected IChartCanvas Canvas { get; private set; }
+```
+***
+
+## ChartDataType
+Описание
+
+```csharp
+public virtual xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
+```
+***
+
+## ControlPointNum
+Описание
+
+```csharp
+public int ControlPointNum { get; }
+```
+***
+
+## ControlPoints
+Описание
+
+```csharp
+public ObjectPoint[] ControlPoints { get; set; }
+```
+***
+
+## ControlPointsList
+Описание
+
+```csharp
+public ObjectPointInfo[] ControlPointsList { get; }
+```
+***
+
+## DataProvider
+Описание
+
+```csharp
+protected IChartDataProvider DataProvider { get; private set; }
+```
+***
+
+## ID
+Описание
+
+```csharp
+public string ID { get; }
+```
+***
+
+## InMove;
+Описание
+
+```csharp
+public bool InMove; {}
+```
+***
+
+## InSetup;
+Описание
+
+```csharp
+public bool InSetup; {}
+```
+***
+
+## Lock
+Описание
+
+```csharp
+public bool Lock { get; set; }
+```
+***
+
+## Name
+Описание
+
+```csharp
+public string Name { get; }
+```
+***
+
+## ObjectID
+Описание
+
+```csharp
+public string ObjectID { get; set; }
+```
+***
+
+## PenWidth
+Описание
+
+```csharp
+protected virtual int PenWidth { get; }
+```
+***
+
+## Periods
+Описание
+
+```csharp
+public ObjectPeriods Periods { get; set; }
+```
+***
+
+## Position
+Описание
+
+```csharp
+public ObjectPosition Position { get; set; }
+```
+***
+
+## Settings
+Описание
+
+```csharp
+protected IChartSettings Settings { get; private set; }
+```
+***
+
+## SnapGrid
+Описание
+
+```csharp
+public virtual bool SnapGrid { get; }
+```
+***
+
+## SymbolID
+Описание
+
+```csharp
+public string SymbolID { get; set; }
+```
+***
+
+## Theme
+Описание
+
+```csharp
+protected IChartTheme Theme { get; private set; }
+```
+***
+
+## Title
+Описание
+
+```csharp
+public string Title { get; }
+```
+***
+***
+  ***
+  # События
+
+## PropertyChanged
+Описание
+
+```csharp
+public event PropertyChangedEventHandler PropertyChanged
+```
+***
 

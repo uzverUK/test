@@ -4,7 +4,7 @@
 
 
 
-Описание
+Описаниеt
 
 ### Синтаксис
 ```csharp
@@ -12,7 +12,7 @@ public abstract class LineObjectBase : ObjectBase
 ```
 
 
-### Методы
+### Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ApplyTheme`](./LineObjectBase.cs/Методы/ApplyTheme.md) | *Описание* |
@@ -30,4 +30,97 @@ public abstract class LineObjectBase : ObjectBase
 | [`int`](./LineObjectBase.cs/Свойства/int.md) | *Описание* |
 
 
+
+
+            ***
+  ***
+  # Методы
+
+## ApplyTheme
+Описание
+
+```csharp
+public override void ApplyTheme(IChartTheme theme)
+```
+
+<mark style="color:yellow;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
+ *Описание*  
+
+
+***                
+
+## CopyTemplate
+Описание
+
+```csharp
+public override void CopyTemplate(ObjectBase objectBase, bool style)
+```
+<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+ *Описание*  
+
+<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+ *Описание*  
+
+
+***                
+
+## LineObjectBase
+Описание
+
+```csharp
+protected LineObjectBase()
+```
+
+***                
+                ***
+  ***
+  # Свойства
+
+## LineBrush
+Описание
+
+```csharp
+protected XBrush LineBrush { get; private set; }
+```
+***
+
+## LineColor
+Описание
+
+```csharp
+public XColor LineColor { get; set; }
+```
+***
+
+## LinePen
+Описание
+
+```csharp
+public XPen LinePen { get; private set; }
+```
+***
+
+## LineStyle
+Описание
+
+```csharp
+public XDashStyle LineStyle { get; set; }
+```
+***
+
+## LineWidth
+Описание
+
+```csharp
+public int LineWidth { get; set; }
+```
+***
+
+## int
+Описание
+
+```csharp
+protected override int PenWidth { get; }
+```
+***
 
