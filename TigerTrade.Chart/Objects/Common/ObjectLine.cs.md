@@ -139,7 +139,7 @@ public bool ShowLine { get; set; }
 ```csharp
 public double Value { get; set; }
 ```
-# События
+# <font color="Purple">События</font>
 
 ## *PropertyChanged*
 Описание

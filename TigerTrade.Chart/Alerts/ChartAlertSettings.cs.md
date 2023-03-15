@@ -171,7 +171,7 @@ public bool ShowPopup { get; set; }
 ```csharp
 public string Signal { get; set; }
 ```
-# События
+# <font color="Purple">События</font>
 
 ## *PropertyChanged*
 Описание

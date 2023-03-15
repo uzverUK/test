@@ -570,7 +570,7 @@ public bool? ShowIndicatorValuesParam { get; set; }
 ```csharp
 public string Title { get; }
 ```
-# События
+# <font color="Purple">События</font>
 
 ## *PropertyChanged*
 Описание

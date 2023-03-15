@@ -128,7 +128,7 @@ public string Name { get; }
 ```csharp
 public string SelectedSeries { get; set; }
 ```
-# События
+# <font color="Purple">События</font>
 
 ## *PropertyChanged*
 Описание
