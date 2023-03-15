@@ -10,14 +10,14 @@ public sealed class ChartLevel : INotifyPropertyChanged
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChartLevel`](./ChartLevel.cs/Методы/ChartLevel.md) | *Описание* |
 | [`CopyTheme`](./ChartLevel.cs/Методы/CopyTheme.md) | *Описание* |
 | [`ToString`](./ChartLevel.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Color`](./ChartLevel.cs/Свойства/Color.md) | *Описание* |
@@ -28,7 +28,7 @@ public sealed class ChartLevel : INotifyPropertyChanged
 | [`Visible`](./ChartLevel.cs/Свойства/Visible.md) | *Описание* |
 | [`Width`](./ChartLevel.cs/Свойства/Width.md) | *Описание* |
 
-## Таблица событий
+# Таблица событий
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ChartLevel.cs/События/PropertyChanged.md) | *Описание* |

@@ -10,7 +10,7 @@ public abstract class IndicatorParam<T>
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`Clear`](./IndicatorParam1.cs/Методы/Clear.md) | *Описание* |
@@ -19,7 +19,7 @@ public abstract class IndicatorParam<T>
 | [`IndicatorParam`](./IndicatorParam1.cs/Методы/IndicatorParam.md) | *Описание* |
 | [`Set`](./IndicatorParam1.cs/Методы/Set.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Value`](./IndicatorParam1.cs/Свойства/Value.md) | *Описание* |

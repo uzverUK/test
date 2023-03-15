@@ -10,7 +10,7 @@ public interface IChartExecution
 ```
 
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`IsBuy`](./IChartExecution.cs/Свойства/IsBuy.md) | *Описание* |

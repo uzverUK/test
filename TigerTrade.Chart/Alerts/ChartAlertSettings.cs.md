@@ -10,7 +10,7 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChartAlertSettings`](./ChartAlertSettings.cs/Методы/ChartAlertSettings.md) | *Описание* |
@@ -18,7 +18,7 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 | [`Equals`](./ChartAlertSettings.cs/Методы/Equals.md) | *Описание* |
 | [`GetHashCode`](./ChartAlertSettings.cs/Методы/GetHashCode.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Active`](./ChartAlertSettings.cs/Свойства/Active.md) | *Описание* |
@@ -34,7 +34,7 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 | [`ShowPopup`](./ChartAlertSettings.cs/Свойства/ShowPopup.md) | *Описание* |
 | [`Signal`](./ChartAlertSettings.cs/Свойства/Signal.md) | *Описание* |
 
-## Таблица событий
+# Таблица событий
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ChartAlertSettings.cs/События/PropertyChanged.md) | *Описание* |

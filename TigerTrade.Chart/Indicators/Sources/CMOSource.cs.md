@@ -10,7 +10,7 @@ public sealed class CMOSource : IndicatorSourceBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CMOSource`](./CMOSource.cs/Методы/CMOSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class CMOSource : IndicatorSourceBase
 | [`GetSeriesList`](./CMOSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./CMOSource.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./CMOSource.cs/Свойства/Period.md) | *Описание* |

@@ -10,7 +10,7 @@ public sealed class MoneyFlowIndexSource : IndicatorSourceBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./MoneyFlowIndexSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class MoneyFlowIndexSource : IndicatorSourceBase
 | [`MoneyFlowIndexSource`](./MoneyFlowIndexSource.cs/Методы/MoneyFlowIndexSource.md) | *Описание* |
 | [`ToString`](./MoneyFlowIndexSource.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./MoneyFlowIndexSource.cs/Свойства/Period.md) | *Описание* |

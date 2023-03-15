@@ -10,7 +10,7 @@ public sealed class EnvelopesSource : IndicatorSourceBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./EnvelopesSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class EnvelopesSource : IndicatorSourceBase
 | [`GetSeriesList`](./EnvelopesSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./EnvelopesSource.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Factor`](./EnvelopesSource.cs/Свойства/Factor.md) | *Описание* |

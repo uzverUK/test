@@ -10,7 +10,7 @@ public sealed class EllipseObject : PolygonObjectBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`Draw`](./EllipseObject.cs/Методы/Draw.md) | *Описание* |
@@ -18,7 +18,7 @@ public sealed class EllipseObject : PolygonObjectBase
 | [`GetMinDist`](./EllipseObject.cs/Методы/GetMinDist.md) | *Описание* |
 | [`InObject`](./EllipseObject.cs/Методы/InObject.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./EllipseObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

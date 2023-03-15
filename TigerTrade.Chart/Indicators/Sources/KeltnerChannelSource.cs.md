@@ -10,7 +10,7 @@ public sealed class KeltnerChannelSource : IndicatorSourceBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./KeltnerChannelSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class KeltnerChannelSource : IndicatorSourceBase
 | [`KeltnerChannelSource`](./KeltnerChannelSource.cs/Методы/KeltnerChannelSource.md) | *Описание* |
 | [`ToString`](./KeltnerChannelSource.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Factor`](./KeltnerChannelSource.cs/Свойства/Factor.md) | *Описание* |

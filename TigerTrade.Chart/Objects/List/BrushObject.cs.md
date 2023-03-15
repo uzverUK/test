@@ -10,7 +10,7 @@ public sealed class BrushObject : LineObjectBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`AddPoint`](./BrushObject.cs/Методы/AddPoint.md) | *Описание* |
@@ -21,7 +21,7 @@ public sealed class BrushObject : LineObjectBase
 | [`GetMinDist`](./BrushObject.cs/Методы/GetMinDist.md) | *Описание* |
 | [`InObject`](./BrushObject.cs/Методы/InObject.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Points`](./BrushObject.cs/Свойства/Points.md) | *Описание* |

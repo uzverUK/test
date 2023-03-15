@@ -10,13 +10,13 @@ public sealed class HorizontalRayObject : HorizontalLineObject
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`Draw`](./HorizontalRayObject.cs/Методы/Draw.md) | *Описание* |
 | [`HorizontalRayObject`](./HorizontalRayObject.cs/Методы/HorizontalRayObject.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./HorizontalRayObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

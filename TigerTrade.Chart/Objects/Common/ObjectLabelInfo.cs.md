@@ -10,12 +10,12 @@ public sealed class ObjectLabelInfo
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ObjectLabelInfo`](./ObjectLabelInfo.cs/Методы/ObjectLabelInfo.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Color`](./ObjectLabelInfo.cs/Свойства/Color.md) | *Описание* |

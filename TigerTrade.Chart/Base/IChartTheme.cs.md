@@ -10,12 +10,12 @@ public interface IChartTheme
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`GetNextColor`](./IChartTheme.cs/Методы/GetNextColor.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`BarDownBarColor`](./IChartTheme.cs/Свойства/BarDownBarColor.md) | *Описание* |

@@ -10,7 +10,7 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChaikinsVolatilitySource`](./ChaikinsVolatilitySource.cs/Методы/ChaikinsVolatilitySource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 | [`GetSeriesList`](./ChaikinsVolatilitySource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./ChaikinsVolatilitySource.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`MaType`](./ChaikinsVolatilitySource.cs/Свойства/MaType.md) | *Описание* |

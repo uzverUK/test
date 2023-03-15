@@ -10,7 +10,7 @@ public interface IChartTick
 ```
 
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`IsBuy`](./IChartTick.cs/Свойства/IsBuy.md) | *Описание* |

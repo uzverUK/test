@@ -10,7 +10,7 @@ public sealed class ACSource : IndicatorSourceBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ACSource`](./ACSource.cs/Методы/ACSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class ACSource : IndicatorSourceBase
 | [`GetSeriesList`](./ACSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./ACSource.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`LongPeriod`](./ACSource.cs/Свойства/LongPeriod.md) | *Описание* |

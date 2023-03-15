@@ -10,7 +10,7 @@ public sealed class BullsPowerSource : IndicatorSourceBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`BullsPowerSource`](./BullsPowerSource.cs/Методы/BullsPowerSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class BullsPowerSource : IndicatorSourceBase
 | [`GetSeriesList`](./BullsPowerSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./BullsPowerSource.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./BullsPowerSource.cs/Свойства/Period.md) | *Описание* |

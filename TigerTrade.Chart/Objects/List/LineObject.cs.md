@@ -10,7 +10,7 @@ public sealed class LineObject : LineObjectBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CheckAlert`](./LineObject.cs/Методы/CheckAlert.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class LineObject : LineObjectBase
 | [`InObject`](./LineObject.cs/Методы/InObject.md) | *Описание* |
 | [`LineObject`](./LineObject.cs/Методы/LineObject.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Alert`](./LineObject.cs/Свойства/Alert.md) | *Описание* |

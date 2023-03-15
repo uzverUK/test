@@ -10,7 +10,7 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`AddAlert`](./ObjectBase.cs/Методы/AddAlert.md) | *Описание* |
@@ -50,7 +50,7 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 | [`ToPoints`](./ObjectBase.cs/Методы/ToPoints.md) | *Описание* |
 | [`ToString`](./ObjectBase.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Canvas`](./ObjectBase.cs/Свойства/Canvas.md) | *Описание* |
@@ -74,7 +74,7 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 | [`Theme`](./ObjectBase.cs/Свойства/Theme.md) | *Описание* |
 | [`Title`](./ObjectBase.cs/Свойства/Title.md) | *Описание* |
 
-## Таблица событий
+# Таблица событий
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ObjectBase.cs/События/PropertyChanged.md) | *Описание* |

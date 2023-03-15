@@ -10,7 +10,7 @@ public sealed class LabelObject : PolygonObjectBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ApplyTheme`](./LabelObject.cs/Методы/ApplyTheme.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class LabelObject : PolygonObjectBase
 | [`InObject`](./LabelObject.cs/Методы/InObject.md) | *Описание* |
 | [`LabelObject`](./LabelObject.cs/Методы/LabelObject.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`FontSize`](./LabelObject.cs/Свойства/FontSize.md) | *Описание* |

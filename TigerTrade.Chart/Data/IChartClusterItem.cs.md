@@ -10,7 +10,7 @@ public interface IChartClusterItem
 ```
 
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Ask`](./IChartClusterItem.cs/Свойства/Ask.md) | *Описание* |

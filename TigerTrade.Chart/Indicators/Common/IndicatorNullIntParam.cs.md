@@ -10,7 +10,7 @@ public sealed class IndicatorNullIntParam : IndicatorParam<int?>
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`IndicatorNullIntParam`](./IndicatorNullIntParam.cs/Методы/IndicatorNullIntParam.md) | *Описание* |

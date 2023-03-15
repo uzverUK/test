@@ -10,7 +10,7 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CalcPoint`](./LinearRegressionObject.cs/Методы/CalcPoint.md) | *Описание* |
@@ -18,7 +18,7 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 | [`Draw`](./LinearRegressionObject.cs/Методы/Draw.md) | *Описание* |
 | [`LinearRegressionObject`](./LinearRegressionObject.cs/Методы/LinearRegressionObject.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`CenterLine`](./LinearRegressionObject.cs/Свойства/CenterLine.md) | *Описание* |

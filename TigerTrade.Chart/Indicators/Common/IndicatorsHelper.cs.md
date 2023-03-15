@@ -10,7 +10,7 @@ public sealed class IndicatorsHelper
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`AC`](./IndicatorsHelper.cs/Методы/AC.md) | *Описание* |
@@ -62,7 +62,7 @@ public sealed class IndicatorsHelper
 | [`WilliamsR`](./IndicatorsHelper.cs/Методы/WilliamsR.md) | *Описание* |
 | [`ZIGZAG`](./IndicatorsHelper.cs/Методы/ZIGZAG.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Ask`](./IndicatorsHelper.cs/Свойства/Ask.md) | *Описание* |

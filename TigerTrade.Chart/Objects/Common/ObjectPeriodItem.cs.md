@@ -10,14 +10,14 @@ public sealed class ObjectPeriodItem
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CheckInterval`](./ObjectPeriodItem.cs/Методы/CheckInterval.md) | *Описание* |
 | [`Equals`](./ObjectPeriodItem.cs/Методы/Equals.md) | *Описание* |
 | [`ObjectPeriodItem`](./ObjectPeriodItem.cs/Методы/ObjectPeriodItem.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`CheckRange`](./ObjectPeriodItem.cs/Свойства/CheckRange.md) | *Описание* |

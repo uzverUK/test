@@ -10,7 +10,7 @@ public sealed class IchimokuSource : IndicatorSourceBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./IchimokuSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class IchimokuSource : IndicatorSourceBase
 | [`IchimokuSource`](./IchimokuSource.cs/Методы/IchimokuSource.md) | *Описание* |
 | [`ToString`](./IchimokuSource.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period1`](./IchimokuSource.cs/Свойства/Period1.md) | *Описание* |

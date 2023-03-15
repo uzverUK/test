@@ -10,7 +10,7 @@ public sealed class RulerObject : LineObjectBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ApplyTheme`](./RulerObject.cs/Методы/ApplyTheme.md) | *Описание* |
@@ -20,7 +20,7 @@ public sealed class RulerObject : LineObjectBase
 | [`PrettyFormatTimeSpan`](./RulerObject.cs/Методы/PrettyFormatTimeSpan.md) | *Описание* |
 | [`RulerObject`](./RulerObject.cs/Методы/RulerObject.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`ShowInfoAsk`](./RulerObject.cs/Свойства/ShowInfoAsk.md) | *Описание* |

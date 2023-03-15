@@ -10,7 +10,7 @@ public sealed class RSISource : IndicatorSourceBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./RSISource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class RSISource : IndicatorSourceBase
 | [`RSISource`](./RSISource.cs/Методы/RSISource.md) | *Описание* |
 | [`ToString`](./RSISource.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./RSISource.cs/Свойства/Period.md) | *Описание* |

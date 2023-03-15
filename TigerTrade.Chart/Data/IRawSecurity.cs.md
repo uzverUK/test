@@ -10,7 +10,7 @@ public interface IRawSecurity
 ```
 
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`AskPrice`](./IRawSecurity.cs/Свойства/AskPrice.md) | *Описание* |

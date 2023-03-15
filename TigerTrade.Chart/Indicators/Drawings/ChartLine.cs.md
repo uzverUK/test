@@ -10,14 +10,14 @@ public sealed class ChartLine : INotifyPropertyChanged
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChartLine`](./ChartLine.cs/Методы/ChartLine.md) | *Описание* |
 | [`CopyTheme`](./ChartLine.cs/Методы/CopyTheme.md) | *Описание* |
 | [`ToString`](./ChartLine.cs/Методы/ToString.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Color`](./ChartLine.cs/Свойства/Color.md) | *Описание* |
@@ -26,7 +26,7 @@ public sealed class ChartLine : INotifyPropertyChanged
 | [`Visible`](./ChartLine.cs/Свойства/Visible.md) | *Описание* |
 | [`Width`](./ChartLine.cs/Свойства/Width.md) | *Описание* |
 
-## Таблица событий
+# Таблица событий
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ChartLine.cs/События/PropertyChanged.md) | *Описание* |

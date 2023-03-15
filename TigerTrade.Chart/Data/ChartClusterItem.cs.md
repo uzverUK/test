@@ -10,13 +10,13 @@ public sealed class ChartClusterItem : IChartClusterItem
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`Add`](./ChartClusterItem.cs/Методы/Add.md) | *Описание* |
 | [`ChartClusterItem`](./ChartClusterItem.cs/Методы/ChartClusterItem.md) | *Описание* |
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Ask`](./ChartClusterItem.cs/Свойства/Ask.md) | *Описание* |

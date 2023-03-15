@@ -10,7 +10,7 @@ public interface IChartMarketDepth
 ```
 
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`MaxAskPrice`](./IChartMarketDepth.cs/Свойства/MaxAskPrice.md) | *Описание* |

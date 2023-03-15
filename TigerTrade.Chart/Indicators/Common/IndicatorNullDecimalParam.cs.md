@@ -10,7 +10,7 @@ public sealed class IndicatorNullDecimalParam : IndicatorParam<Decimal?>
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`IndicatorNullDecimalParam`](./IndicatorNullDecimalParam.cs/Методы/IndicatorNullDecimalParam.md) | *Описание* |

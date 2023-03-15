@@ -10,7 +10,7 @@ public sealed class WilliamsADSource : IndicatorSourceBase
 ```
 
 
-## Таблица методов
+# Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./WilliamsADSource.cs/Методы/CopySettings.md) | *Описание* |

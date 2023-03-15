@@ -10,7 +10,7 @@ public interface IRawClusterValueArea
 ```
 
 
-## Таблица свойств
+# Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Vah`](./IRawClusterValueArea.cs/Свойства/Vah.md) | *Описание* |
