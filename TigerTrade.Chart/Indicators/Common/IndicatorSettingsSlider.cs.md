@@ -90,4 +90,6 @@ public double Value { get; set; }
 public event PropertyChangedEventHandler PropertyChanged
 ```
 ***
+___
+---
 

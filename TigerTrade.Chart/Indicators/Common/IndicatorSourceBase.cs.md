@@ -153,4 +153,6 @@ public string SelectedSeries { get; set; }
 public event PropertyChangedEventHandler PropertyChanged
 ```
 ***
+___
+---
 
