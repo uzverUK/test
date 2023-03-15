@@ -1,10 +1,8 @@
 
-# IRawMarketDepth
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Data](../../TigerTrade.Chart/Data.md)
 
 
-
-Описаниеt
+Описание
 
 ### Синтаксис
 ```csharp

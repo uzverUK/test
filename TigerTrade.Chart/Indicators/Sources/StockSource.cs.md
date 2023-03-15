@@ -1,10 +1,8 @@
 
-# StockSource
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)
 
 
-
-Описаниеt
+Описание
 
 ### Синтаксис
 ```csharp

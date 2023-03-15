@@ -1,10 +1,8 @@
 
-# IChartPeriod
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Base](../../TigerTrade.Chart/Base.md)
 
 
-
-Описаниеt
+Описание
 
 ### Синтаксис
 ```csharp

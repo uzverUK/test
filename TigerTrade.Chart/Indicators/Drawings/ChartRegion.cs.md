@@ -1,10 +1,8 @@
 
-# ChartRegion
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Drawings](../../../TigerTrade.Chart/Indicators/Drawings.md)
 
 
-
-Описаниеt
+Описание
 
 ### Синтаксис
 ```csharp

@@ -1,10 +1,8 @@
 
-# ChartAlertInfo
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Alerts](../../TigerTrade.Chart/Alerts.md)
 
 
-
-Описаниеt
+Описание
 
 ### Синтаксис
 ```csharp
