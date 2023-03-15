@@ -25,7 +25,7 @@ public sealed class CumulativeDeltaSource : IndicatorSourceBase
 
 # Методы
 
-## *CopySettings*
+## `CopySettings`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -37,7 +37,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 
 
-## *CumulativeDeltaSource*
+## `CumulativeDeltaSource`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public CumulativeDeltaSource()
 ```
 
 
-## *GetSeries*
+## `GetSeries`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 
 
-## *GetSeriesList*
+## `GetSeriesList`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public override IEnumerable<string> GetSeriesList()
 
 
 
-## *ToString*
+## `ToString`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

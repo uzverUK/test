@@ -32,7 +32,7 @@ public sealed class CandlePatternSource : IndicatorSourceBase
 
 # Методы
 
-## *CandlePatternSource*
+## `CandlePatternSource`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ public CandlePatternSource()
 ```
 
 
-## *CopySettings*
+## `CopySettings`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 
 
-## *GetSeries*
+## `GetSeries`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 
 
-## *GetSeriesList*
+## `GetSeriesList`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public override IEnumerable<string> GetSeriesList()
 
 
 
-## *SearchPattern*
+## `SearchPattern`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ public double[] SearchPattern(IndicatorsHelper helper, CandlePatternSourcePatter
 
 
 
-## *ToString*
+## `ToString`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,14 +97,14 @@ public override string ToString()
 
 # Свойства
 
-## *PatternType*
+## `PatternType`
 > Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public CandlePatternSourcePatternType PatternType { get; set; }
 ```
 
-## *Penetration*
+## `Penetration`
 > Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

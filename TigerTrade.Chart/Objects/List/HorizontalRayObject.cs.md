@@ -27,7 +27,7 @@ public sealed class HorizontalRayObject : HorizontalLineObject
 
 # Методы
 
-## *Draw*
+## `Draw`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -42,7 +42,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 
 
-## *HorizontalRayObject*
+## `HorizontalRayObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ public HorizontalRayObject()
 
 # Свойства
 
-## *xsuJlZ3bylFkXacpNF53*
+## `xsuJlZ3bylFkXacpNF53`
 > Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

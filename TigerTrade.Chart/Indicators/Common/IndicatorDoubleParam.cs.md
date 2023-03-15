@@ -22,7 +22,7 @@ public sealed class IndicatorDoubleParam : IndicatorParam<double>
 
 # Методы
 
-## *IndicatorDoubleParam*
+## `IndicatorDoubleParam`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -30,7 +30,7 @@ public IndicatorDoubleParam()
 ```
 
 
-## *IndicatorDoubleParam*
+## `IndicatorDoubleParam`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public IndicatorDoubleParam(double value)
 
 
 
-## *Set*
+## `Set`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

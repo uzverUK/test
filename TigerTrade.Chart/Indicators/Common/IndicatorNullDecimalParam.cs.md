@@ -22,7 +22,7 @@ public sealed class IndicatorNullDecimalParam : IndicatorParam<Decimal?>
 
 # Методы
 
-## *IndicatorNullDecimalParam*
+## `IndicatorNullDecimalParam`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -30,7 +30,7 @@ public IndicatorNullDecimalParam()
 ```
 
 
-## *IndicatorNullDecimalParam*
+## `IndicatorNullDecimalParam`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -39,7 +39,7 @@ public IndicatorNullDecimalParam(Decimal? value)
 ```
 
 
-## *Set*
+## `Set`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -32,7 +32,7 @@ public sealed class VerticalLineObject : LineObjectBase
 
 # Методы
 
-## *CheckAlert*
+## `CheckAlert`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> i
 ```
 
 
-## *CopyTemplate*
+## `CopyTemplate`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -55,7 +55,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 
 
-## *Draw*
+## `Draw`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 
 
-## *DrawControlPoints*
+## `DrawControlPoints`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 ```
 
 
-## *InObject*
+## `InObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -92,7 +92,7 @@ protected override bool InObject(int x, int y)
 
 
 
-## *VerticalLineObject*
+## `VerticalLineObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,14 +101,14 @@ public VerticalLineObject()
 
 # Свойства
 
-## *Alert*
+## `Alert`
 > Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public ChartAlertSettings Alert { get; set; }
 ```
 
-## *xsuJlZ3bylFkXacpNF53*
+## `xsuJlZ3bylFkXacpNF53`
 > Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

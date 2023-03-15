@@ -31,7 +31,7 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 
 # Методы
 
-## *CalcPoint*
+## `CalcPoint`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -39,7 +39,7 @@ protected override void CalcPoint()
 ```
 
 
-## *CopyTemplate*
+## `CopyTemplate`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 
 
-## *Draw*
+## `Draw`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 
 
-## *FibonacciTimeZonesObject*
+## `FibonacciTimeZonesObject`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,21 +77,21 @@ public FibonacciTimeZonesObject()
 
 # Свойства
 
-## *MaxLines*
+## `MaxLines`
 > Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int MaxLines { get; set; }
 ```
 
-## *TextAlignment*
+## `TextAlignment`
 > Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
 ```
 
-## *xsuJlZ3bylFkXacpNF53*
+## `xsuJlZ3bylFkXacpNF53`
 > Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

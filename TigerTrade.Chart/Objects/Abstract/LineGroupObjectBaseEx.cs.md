@@ -29,7 +29,7 @@ public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
 
 # Методы
 
-## *CopyTemplate*
+## `CopyTemplate`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -44,7 +44,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 
 
-## *LineGroupObjectBaseEx*
+## `LineGroupObjectBaseEx`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ protected LineGroupObjectBaseEx()
 ```
 
 
-## *OpenStartEnd*
+## `OpenStartEnd`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,14 +68,14 @@ protected void OpenStartEnd(bool openStart, bool openEnd)
 
 # Свойства
 
-## *OpenEnd*
+## `OpenEnd`
 > Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool OpenEnd { get; set; }
 ```
 
-## *OpenStart*
+## `OpenStart`
 > Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
