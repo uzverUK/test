@@ -31,7 +31,7 @@ public sealed class BullsPowerSource : IndicatorSourceBase
 # Методы
 
 ## *BullsPowerSource*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public BullsPowerSource()
@@ -39,7 +39,7 @@ public BullsPowerSource()
 
 
 ## *CopySettings*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void CopySettings(IndicatorSourceBase source)
@@ -51,7 +51,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 
 ## *GetSeries*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override double[] GetSeries(IndicatorsHelper helper)
@@ -62,7 +62,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 
 ## *GetSeriesList*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override IEnumerable<string> GetSeriesList()
@@ -73,7 +73,7 @@ public override IEnumerable<string> GetSeriesList()
 
 
 ## *ToString*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override string ToString()
@@ -82,7 +82,7 @@ public override string ToString()
 # Свойства
 
 ## *Period*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int Period { get; set; }

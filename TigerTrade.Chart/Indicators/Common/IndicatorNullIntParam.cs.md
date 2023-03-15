@@ -23,7 +23,7 @@ public sealed class IndicatorNullIntParam : IndicatorParam<int?>
 # Методы
 
 ## *IndicatorNullIntParam*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public IndicatorNullIntParam()
@@ -31,7 +31,7 @@ public IndicatorNullIntParam()
 
 
 ## *IndicatorNullIntParam*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public IndicatorNullIntParam()
@@ -40,7 +40,7 @@ public IndicatorNullIntParam(int? value)
 
 
 ## *Set*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool Set(string key, int? value, int minValue = -2147483648, int maxValue = 2147483647)

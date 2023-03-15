@@ -32,7 +32,7 @@ public sealed class RSISource : IndicatorSourceBase
 # Методы
 
 ## *CopySettings*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void CopySettings(IndicatorSourceBase source)
@@ -44,7 +44,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 
 ## *GetSeries*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override double[] GetSeries(IndicatorsHelper helper)
@@ -55,7 +55,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 
 ## *GetSeriesList*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override IEnumerable<string> GetSeriesList()
@@ -66,7 +66,7 @@ public override IEnumerable<string> GetSeriesList()
 
 
 ## *RSISource*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public RSISource()
@@ -74,7 +74,7 @@ public RSISource()
 
 
 ## *ToString*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override string ToString()
@@ -83,14 +83,14 @@ public override string ToString()
 # Свойства
 
 ## *Period*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int Period { get; set; }
 ```
 
 ## *Source*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public IndicatorSourceBase Source { get; set; }

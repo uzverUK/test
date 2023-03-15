@@ -33,7 +33,7 @@ public sealed class FibonacciFanObject : LineObjectBase
 # Методы
 
 ## *ApplyTheme*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void ApplyTheme(IChartTheme theme)
@@ -45,7 +45,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 
 ## *CopyTemplate*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void CopyTemplate(ObjectBase objectBase, bool style)
@@ -59,7 +59,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 
 ## *Draw*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
@@ -73,7 +73,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 
 ## *FibonacciFanObject*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public FibonacciFanObject()
@@ -81,7 +81,7 @@ public FibonacciFanObject()
 
 
 ## *InObject*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 protected override bool InObject(int x, int y)
@@ -97,21 +97,21 @@ protected override bool InObject(int x, int y)
 # Свойства
 
 ## *CustomLevels*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool CustomLevels { get; set; }
 ```
 
 ## *Levels*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

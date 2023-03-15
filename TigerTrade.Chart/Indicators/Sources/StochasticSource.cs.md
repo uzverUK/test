@@ -34,7 +34,7 @@ public sealed class StochasticSource : IndicatorSourceBase
 # Методы
 
 ## *CopySettings*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void CopySettings(IndicatorSourceBase source)
@@ -46,7 +46,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 
 ## *GetSeries*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override double[] GetSeries(IndicatorsHelper helper)
@@ -57,7 +57,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 
 ## *GetSeriesList*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override IEnumerable<string> GetSeriesList()
@@ -68,7 +68,7 @@ public override IEnumerable<string> GetSeriesList()
 
 
 ## *StochasticSource*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public StochasticSource()
@@ -76,7 +76,7 @@ public StochasticSource()
 
 
 ## *ToString*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override string ToString()
@@ -85,28 +85,28 @@ public override string ToString()
 # Свойства
 
 ## *FastK*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int FastK { get; set; }
 ```
 
 ## *SlowD*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int SlowD { get; set; }
 ```
 
 ## *SlowDMaType*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public IndicatorMaType SlowDMaType { get; set; }
 ```
 
 ## *Smooth*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int Smooth { get; set; }

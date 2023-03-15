@@ -33,7 +33,7 @@ public sealed class ChaikinOscillatorSource : IndicatorSourceBase
 # Методы
 
 ## *ChaikinOscillatorSource*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public ChaikinOscillatorSource()
@@ -41,7 +41,7 @@ public ChaikinOscillatorSource()
 
 
 ## *CopySettings*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void CopySettings(IndicatorSourceBase source)
@@ -53,7 +53,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 
 ## *GetSeries*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override double[] GetSeries(IndicatorsHelper helper)
@@ -64,7 +64,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 
 ## *GetSeriesList*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override IEnumerable<string> GetSeriesList()
@@ -75,7 +75,7 @@ public override IEnumerable<string> GetSeriesList()
 
 
 ## *ToString*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override string ToString()
@@ -84,21 +84,21 @@ public override string ToString()
 # Свойства
 
 ## *LongPeriod*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int LongPeriod { get; set; }
 ```
 
 ## *MaType*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
 
 ## *ShortPeriod*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int ShortPeriod { get; set; }

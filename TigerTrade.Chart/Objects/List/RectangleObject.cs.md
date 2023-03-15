@@ -43,7 +43,7 @@ public class RectangleObject : PolygonObjectBase
 # Методы
 
 ## *Draw*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
@@ -58,7 +58,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 
 ## *DrawControlPoints*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void DrawControlPoints(DxVisualQueue visual)
@@ -66,7 +66,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 
 ## *ExtraPointChanged*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void ExtraPointChanged(int index, ObjectPoint op)
@@ -81,7 +81,7 @@ public override void ExtraPointChanged(int index, ObjectPoint op)
 
 
 ## *GetControlPoint*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override int GetControlPoint(int x, int y)
@@ -95,7 +95,7 @@ public override int GetControlPoint(int x, int y)
 
 
 ## *GetExtraPoint*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override int GetExtraPoint(int x, int y)
@@ -103,7 +103,7 @@ public override int GetExtraPoint(int x, int y)
 
 
 ## *GetMinDist*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 protected override int GetMinDist(int x, int y)
@@ -118,7 +118,7 @@ protected override int GetMinDist(int x, int y)
 
 
 ## *InObject*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 protected override bool InObject(int x, int y)
@@ -126,7 +126,7 @@ protected override bool InObject(int x, int y)
 
 
 ## *IsObjectInArea*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 protected override bool IsObjectInArea()
@@ -134,7 +134,7 @@ protected override bool IsObjectInArea()
 
 
 ## *Prepare*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 protected override void Prepare()
@@ -142,7 +142,7 @@ protected override void Prepare()
 
 
 ## *RectangleObject*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public RectangleObject()
@@ -150,7 +150,7 @@ public RectangleObject()
 
 
 ## *x9Yyrp3RfkGdCbNTXU4b*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public x9Yyrp3RfkGdCbNTXU4b()
@@ -159,49 +159,49 @@ public x9Yyrp3RfkGdCbNTXU4b()
 # Свойства
 
 ## *RectInfo*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public RectangleObject.x9Yyrp3RfkGdCbNTXU4b RectInfo { get; private set; }
 ```
 
 ## *Rectangle;*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public Rect Rectangle; {}
 ```
 
 ## *cTQ3RQ5sOeg;*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public Point cTQ3RQ5sOeg; {}
 ```
 
 ## *mrI3RMYxIFC;*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public Point mrI3RMYxIFC; {}
 ```
 
 ## *mtO3Rj6ZJ6t;*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public Point mtO3Rj6ZJ6t; {}
 ```
 
 ## *qX73RVVvfB0;*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public Point qX73RVVvfB0; {}
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

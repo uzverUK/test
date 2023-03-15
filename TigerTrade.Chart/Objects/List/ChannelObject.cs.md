@@ -30,7 +30,7 @@ public sealed class ChannelObject : LineGroupObjectBaseEx
 # Методы
 
 ## *CalcPoint*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 protected override void CalcPoint()
@@ -38,7 +38,7 @@ protected override void CalcPoint()
 
 
 ## *ChannelObject*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public ChannelObject()
@@ -46,7 +46,7 @@ public ChannelObject()
 
 
 ## *CopyTemplate*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void CopyTemplate(ObjectBase objectBase, bool style)
@@ -62,14 +62,14 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 # Свойства
 
 ## *MiddleLine*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool MiddleLine { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

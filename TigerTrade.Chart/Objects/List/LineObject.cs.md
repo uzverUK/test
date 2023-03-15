@@ -36,7 +36,7 @@ public sealed class LineObject : LineObjectBase
 # Методы
 
 ## *CheckAlert*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> indicators)
@@ -44,7 +44,7 @@ public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> i
 
 
 ## *CopyTemplate*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override void CopyTemplate(ObjectBase objectBase, bool style)
@@ -59,7 +59,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 
 ## *Draw*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
@@ -73,7 +73,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 
 ## *InObject*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 protected override bool InObject(int x, int y)
@@ -87,7 +87,7 @@ protected override bool InObject(int x, int y)
 
 
 ## *LineObject*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public LineObject()
@@ -96,42 +96,42 @@ public LineObject()
 # Свойства
 
 ## *Alert*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public ChartAlertSettings Alert { get; set; }
 ```
 
 ## *AlertMinDistance*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public int AlertMinDistance { get; set; }
 ```
 
 ## *OpenEnd*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool OpenEnd { get; set; }
 ```
 
 ## *OpenStart*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool OpenStart { get; set; }
 ```
 
 ## *RefPoint*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public ObjectPoint? RefPoint { get; set; }
 ```
 
 ## *xsuJlZ3bylFkXacpNF53*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }

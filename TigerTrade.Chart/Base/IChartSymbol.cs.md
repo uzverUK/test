@@ -45,7 +45,7 @@ public interface IChartSymbol
 # Методы
 
 ## *ConvertTimeFromLocal*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 DateTime ConvertTimeFromLocal(DateTime dt)
@@ -57,7 +57,7 @@ DateTime ConvertTimeFromLocal(DateTime dt)
 
 
 ## *ConvertTimeToLocal*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 DateTime ConvertTimeToLocal(DateTime dt)
@@ -65,7 +65,7 @@ DateTime ConvertTimeToLocal(DateTime dt)
 
 
 ## *CorrectSizeFilter*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 long CorrectSizeFilter(double filter)
@@ -77,7 +77,7 @@ long CorrectSizeFilter(double filter)
 
 
 ## *CorrectSizeFilter*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 long CorrectSizeFilter(double filter)
@@ -90,7 +90,7 @@ long? CorrectSizeFilter(double? filter)
 
 
 ## *FormatPrice*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatPrice(Decimal price, bool shortDecimals = false)
@@ -104,7 +104,7 @@ string FormatPrice(Decimal price, bool shortDecimals = false)
 
 
 ## *FormatRawPrice*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatRawPrice(long price, bool shortDecimals = false)
@@ -115,7 +115,7 @@ string FormatRawPrice(long price, bool shortDecimals = false)
 
 
 ## *FormatRawSize*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatRawSize(long size, int round = 2)
@@ -129,7 +129,7 @@ string FormatRawSize(long size, int round = 2)
 
 
 ## *FormatRawSize*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatRawSize(long size, int round = 2)
@@ -147,7 +147,7 @@ string FormatRawSize(long size, int round, bool minimize)
 
 
 ## *FormatRawSizeFull*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatRawSizeFull(long size)
@@ -155,7 +155,7 @@ string FormatRawSizeFull(long size)
 
 
 ## *FormatRawSizeShort*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatRawSizeShort(long size)
@@ -167,7 +167,7 @@ string FormatRawSizeShort(long size)
 
 
 ## *FormatSize*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatSize(Decimal size, int round = 2)
@@ -181,7 +181,7 @@ string FormatSize(Decimal size, int round = 2)
 
 
 ## *FormatSize*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatSize(Decimal size, int round = 2)
@@ -199,7 +199,7 @@ string FormatSize(Decimal size, int round, bool minimize)
 
 
 ## *FormatSizeFull*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatSizeFull(Decimal size)
@@ -207,7 +207,7 @@ string FormatSizeFull(Decimal size)
 
 
 ## *FormatSizeShort*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatSizeShort(Decimal size)
@@ -219,7 +219,7 @@ string FormatSizeShort(Decimal size)
 
 
 ## *FormatTime*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatTime(DateTime dt, string format)
@@ -233,7 +233,7 @@ string FormatTime(DateTime dt, string format)
 
 
 ## *FormatTrades*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatTrades(long trades)
@@ -244,7 +244,7 @@ string FormatTrades(long trades)
 
 
 ## *FormatTrades*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string FormatTrades(long trades)
@@ -262,7 +262,7 @@ string FormatTrades(long trades, int round, bool minimize)
 
 
 ## *GetPrice*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 Decimal GetPrice(long rawPrice)
@@ -273,7 +273,7 @@ Decimal GetPrice(long rawPrice)
 
 
 ## *GetSize*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 Decimal GetSize(long rawSize)
@@ -285,35 +285,35 @@ Decimal GetSize(long rawSize)
 # Свойства
 
 ## *Code*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string Code { get; }
 ```
 
 ## *Decimals*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 int Decimals { get; }
 ```
 
 ## *Exchange*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string Exchange { get; }
 ```
 
 ## *Name*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 string Name { get; }
 ```
 
 ## *StepPrice*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 Decimal StepPrice { get; }

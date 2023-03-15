@@ -28,7 +28,7 @@ public sealed class IndicatorValueInfo
 # Методы
 
 ## *IndicatorValueInfo*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public IndicatorValueInfo(string value, XBrush brush)
@@ -43,7 +43,7 @@ public IndicatorValueInfo(string value, XBrush brush)
 
 
 ## *IndicatorValueInfo*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public IndicatorValueInfo(string value, XBrush brush)
@@ -63,14 +63,14 @@ public IndicatorValueInfo(string value, XColor color)
 # Свойства
 
 ## *Brush*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public XBrush Brush { get; }
 ```
 
 ## *Value*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public string Value { get; }

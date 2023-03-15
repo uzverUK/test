@@ -23,7 +23,7 @@ public sealed class IndicatorNullDoubleParam : IndicatorParam<double?>
 # Методы
 
 ## *IndicatorNullDoubleParam*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public IndicatorNullDoubleParam()
@@ -31,7 +31,7 @@ public IndicatorNullDoubleParam()
 
 
 ## *IndicatorNullDoubleParam*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public IndicatorNullDoubleParam()
@@ -40,7 +40,7 @@ public IndicatorNullDoubleParam(double? value)
 
 
 ## *Set*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool Set(string key, double? value, double minValue = -1.7976931348623157E+308, double maxValue = 1.7976931348623157E+308)

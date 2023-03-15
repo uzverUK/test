@@ -31,7 +31,7 @@ public sealed class ObjectPeriods
 # Методы
 
 ## *CheckPeriod*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public bool CheckPeriod(IChartPeriod dc)
@@ -43,7 +43,7 @@ public bool CheckPeriod(IChartPeriod dc)
 
 
 ## *Copy*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public ObjectPeriods Copy()
@@ -51,7 +51,7 @@ public ObjectPeriods Copy()
 
 
 ## *Equals*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public override bool Equals(object obj)
@@ -63,7 +63,7 @@ public override bool Equals(object obj)
 
 
 ## *ObjectPeriods*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public ObjectPeriods()
@@ -71,7 +71,7 @@ public ObjectPeriods()
 
 
 ## *Update*
-Описание
+Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public void Update(string type, bool isChecked, bool checkRange, int min, int max)
@@ -96,7 +96,7 @@ public void Update(string type, bool isChecked, bool checkRange, int min, int ma
 # Свойства
 
 ## *Periods*
-> Описание
+> Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
 public Dictionary<string, ObjectPeriodItem> Periods { get; set; }
