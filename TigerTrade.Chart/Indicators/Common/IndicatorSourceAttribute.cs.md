@@ -10,12 +10,12 @@ public class IndicatorSourceAttribute : Attribute
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`IndicatorSourceAttribute`](./IndicatorSourceAttribute.cs/Методы/IndicatorSourceAttribute.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Name`](./IndicatorSourceAttribute.cs/Свойства/Name.md) | *Описание* |

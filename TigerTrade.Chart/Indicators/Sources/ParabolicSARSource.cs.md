@@ -10,7 +10,7 @@ public sealed class ParabolicSARSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./ParabolicSARSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class ParabolicSARSource : IndicatorSourceBase
 | [`ParabolicSARSource`](./ParabolicSARSource.cs/Методы/ParabolicSARSource.md) | *Описание* |
 | [`ToString`](./ParabolicSARSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Max`](./ParabolicSARSource.cs/Свойства/Max.md) | *Описание* |

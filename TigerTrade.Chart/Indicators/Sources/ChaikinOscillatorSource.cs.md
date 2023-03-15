@@ -10,7 +10,7 @@ public sealed class ChaikinOscillatorSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChaikinOscillatorSource`](./ChaikinOscillatorSource.cs/Методы/ChaikinOscillatorSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class ChaikinOscillatorSource : IndicatorSourceBase
 | [`GetSeriesList`](./ChaikinOscillatorSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./ChaikinOscillatorSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`LongPeriod`](./ChaikinOscillatorSource.cs/Свойства/LongPeriod.md) | *Описание* |

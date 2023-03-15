@@ -10,7 +10,7 @@ public sealed class ChaikinMoneyFlowSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ChaikinMoneyFlowSource`](./ChaikinMoneyFlowSource.cs/Методы/ChaikinMoneyFlowSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class ChaikinMoneyFlowSource : IndicatorSourceBase
 | [`GetSeriesList`](./ChaikinMoneyFlowSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./ChaikinMoneyFlowSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./ChaikinMoneyFlowSource.cs/Свойства/Period.md) | *Описание* |

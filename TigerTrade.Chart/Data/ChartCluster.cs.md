@@ -10,7 +10,7 @@ public sealed class ChartCluster : IChartCluster
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`AddCluster`](./ChartCluster.cs/Методы/AddCluster.md) | *Описание* |
@@ -20,7 +20,7 @@ public sealed class ChartCluster : IChartCluster
 | [`GetItem`](./ChartCluster.cs/Методы/GetItem.md) | *Описание* |
 | [`UpdateData`](./ChartCluster.cs/Методы/UpdateData.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Ask`](./ChartCluster.cs/Свойства/Ask.md) | *Описание* |

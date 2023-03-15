@@ -10,7 +10,7 @@ public sealed class UltimateOscillatorSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./UltimateOscillatorSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class UltimateOscillatorSource : IndicatorSourceBase
 | [`ToString`](./UltimateOscillatorSource.cs/Методы/ToString.md) | *Описание* |
 | [`UltimateOscillatorSource`](./UltimateOscillatorSource.cs/Методы/UltimateOscillatorSource.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period1`](./UltimateOscillatorSource.cs/Свойства/Period1.md) | *Описание* |

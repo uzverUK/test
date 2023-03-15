@@ -10,7 +10,7 @@ public sealed class IndicatorNullDoubleParam : IndicatorParam<double?>
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`IndicatorNullDoubleParam`](./IndicatorNullDoubleParam.cs/Методы/IndicatorNullDoubleParam.md) | *Описание* |

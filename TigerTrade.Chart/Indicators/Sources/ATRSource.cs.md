@@ -10,7 +10,7 @@ public sealed class ATRSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ATRSource`](./ATRSource.cs/Методы/ATRSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class ATRSource : IndicatorSourceBase
 | [`GetSeriesList`](./ATRSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./ATRSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./ATRSource.cs/Свойства/Period.md) | *Описание* |

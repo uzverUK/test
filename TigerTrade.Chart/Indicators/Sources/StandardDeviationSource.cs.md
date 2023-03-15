@@ -10,7 +10,7 @@ public sealed class StandardDeviationSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./StandardDeviationSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class StandardDeviationSource : IndicatorSourceBase
 | [`StandardDeviationSource`](./StandardDeviationSource.cs/Методы/StandardDeviationSource.md) | *Описание* |
 | [`ToString`](./StandardDeviationSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./StandardDeviationSource.cs/Свойства/Period.md) | *Описание* |

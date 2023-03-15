@@ -10,7 +10,7 @@ public sealed class LinearRegressionSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./LinearRegressionSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class LinearRegressionSource : IndicatorSourceBase
 | [`LinearRegressionSource`](./LinearRegressionSource.cs/Методы/LinearRegressionSource.md) | *Описание* |
 | [`ToString`](./LinearRegressionSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./LinearRegressionSource.cs/Свойства/Period.md) | *Описание* |

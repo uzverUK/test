@@ -10,7 +10,7 @@ public sealed class ADXSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ADXSource`](./ADXSource.cs/Методы/ADXSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class ADXSource : IndicatorSourceBase
 | [`GetSeriesList`](./ADXSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./ADXSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./ADXSource.cs/Свойства/Period.md) | *Описание* |

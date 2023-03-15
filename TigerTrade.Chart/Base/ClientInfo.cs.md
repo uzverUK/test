@@ -10,7 +10,7 @@ public static class ClientInfo
 ```
 
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`LicenseID`](./ClientInfo.cs/Свойства/LicenseID.md) | *Описание* |

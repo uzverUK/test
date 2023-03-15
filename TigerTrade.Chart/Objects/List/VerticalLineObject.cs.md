@@ -10,7 +10,7 @@ public sealed class VerticalLineObject : LineObjectBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CheckAlert`](./VerticalLineObject.cs/Методы/CheckAlert.md) | *Описание* |
@@ -20,7 +20,7 @@ public sealed class VerticalLineObject : LineObjectBase
 | [`InObject`](./VerticalLineObject.cs/Методы/InObject.md) | *Описание* |
 | [`VerticalLineObject`](./VerticalLineObject.cs/Методы/VerticalLineObject.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Alert`](./VerticalLineObject.cs/Свойства/Alert.md) | *Описание* |

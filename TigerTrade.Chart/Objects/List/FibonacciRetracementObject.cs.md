@@ -10,7 +10,7 @@ public sealed class FibonacciRetracementObject : LineObjectBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ApplyTheme`](./FibonacciRetracementObject.cs/Методы/ApplyTheme.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class FibonacciRetracementObject : LineObjectBase
 | [`FibonacciRetracementObject`](./FibonacciRetracementObject.cs/Методы/FibonacciRetracementObject.md) | *Описание* |
 | [`InObject`](./FibonacciRetracementObject.cs/Методы/InObject.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`CustomLevels`](./FibonacciRetracementObject.cs/Свойства/CustomLevels.md) | *Описание* |

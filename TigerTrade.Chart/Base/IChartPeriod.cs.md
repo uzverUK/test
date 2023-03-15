@@ -10,12 +10,12 @@ public interface IChartPeriod
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`GetSequence`](./IChartPeriod.cs/Методы/GetSequence.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Interval`](./IChartPeriod.cs/Свойства/Interval.md) | *Описание* |

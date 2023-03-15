@@ -10,7 +10,7 @@ public sealed class RateOfChangeSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./RateOfChangeSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class RateOfChangeSource : IndicatorSourceBase
 | [`RateOfChangeSource`](./RateOfChangeSource.cs/Методы/RateOfChangeSource.md) | *Описание* |
 | [`ToString`](./RateOfChangeSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./RateOfChangeSource.cs/Свойства/Period.md) | *Описание* |

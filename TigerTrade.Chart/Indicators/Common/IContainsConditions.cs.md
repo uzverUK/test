@@ -10,7 +10,7 @@ public interface IContainsConditions
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`GetBrush`](./IContainsConditions.cs/Методы/GetBrush.md) | *Описание* |

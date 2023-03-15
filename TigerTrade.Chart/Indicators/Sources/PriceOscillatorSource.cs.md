@@ -10,7 +10,7 @@ public sealed class PriceOscillatorSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./PriceOscillatorSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class PriceOscillatorSource : IndicatorSourceBase
 | [`PriceOscillatorSource`](./PriceOscillatorSource.cs/Методы/PriceOscillatorSource.md) | *Описание* |
 | [`ToString`](./PriceOscillatorSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`LongPeriod`](./PriceOscillatorSource.cs/Свойства/LongPeriod.md) | *Описание* |

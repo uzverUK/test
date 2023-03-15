@@ -10,7 +10,7 @@ public sealed class TRIXSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./TRIXSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class TRIXSource : IndicatorSourceBase
 | [`TRIXSource`](./TRIXSource.cs/Методы/TRIXSource.md) | *Описание* |
 | [`ToString`](./TRIXSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./TRIXSource.cs/Свойства/Period.md) | *Описание* |

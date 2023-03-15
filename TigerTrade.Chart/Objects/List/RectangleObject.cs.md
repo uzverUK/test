@@ -10,7 +10,7 @@ public class RectangleObject : PolygonObjectBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`Draw`](./RectangleObject.cs/Методы/Draw.md) | *Описание* |
@@ -25,7 +25,7 @@ public class RectangleObject : PolygonObjectBase
 | [`RectangleObject`](./RectangleObject.cs/Методы/RectangleObject.md) | *Описание* |
 | [`x9Yyrp3RfkGdCbNTXU4b`](./RectangleObject.cs/Методы/x9Yyrp3RfkGdCbNTXU4b.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`RectInfo`](./RectangleObject.cs/Свойства/RectInfo.md) | *Описание* |

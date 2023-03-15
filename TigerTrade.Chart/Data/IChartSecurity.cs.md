@@ -10,7 +10,7 @@ public interface IChartSecurity
 ```
 
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`AskPrice`](./IChartSecurity.cs/Свойства/AskPrice.md) | *Описание* |

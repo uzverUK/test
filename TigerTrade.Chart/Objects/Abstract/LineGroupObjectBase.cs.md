@@ -10,7 +10,7 @@ public abstract class LineGroupObjectBase : LineObjectBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`CalcPoint`](./LineGroupObjectBase.cs/Методы/CalcPoint.md) | *Описание* |
@@ -18,7 +18,7 @@ public abstract class LineGroupObjectBase : LineObjectBase
 | [`InObject`](./LineGroupObjectBase.cs/Методы/InObject.md) | *Описание* |
 | [`LineGroupObjectBase`](./LineGroupObjectBase.cs/Методы/LineGroupObjectBase.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`EndPoints;`](./LineGroupObjectBase.cs/Свойства/EndPoints;.md) | *Описание* |

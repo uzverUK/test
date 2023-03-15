@@ -10,14 +10,14 @@ public abstract class LineObjectBase : ObjectBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`ApplyTheme`](./LineObjectBase.cs/Методы/ApplyTheme.md) | *Описание* |
 | [`CopyTemplate`](./LineObjectBase.cs/Методы/CopyTemplate.md) | *Описание* |
 | [`LineObjectBase`](./LineObjectBase.cs/Методы/LineObjectBase.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`LineBrush`](./LineObjectBase.cs/Свойства/LineBrush.md) | *Описание* |

@@ -10,7 +10,7 @@ public sealed class AroonSource : IndicatorSourceBase
 ```
 
 
-### Таблица методов
+## Таблица методов
 | Название | Описание |
 | --- | --- |
 | [`AroonSource`](./AroonSource.cs/Методы/AroonSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class AroonSource : IndicatorSourceBase
 | [`GetSeriesList`](./AroonSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./AroonSource.cs/Методы/ToString.md) | *Описание* |
 
-### Свойства
+## Таблица свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./AroonSource.cs/Свойства/Period.md) | *Описание* |
