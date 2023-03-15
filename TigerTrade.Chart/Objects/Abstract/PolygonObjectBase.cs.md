@@ -35,8 +35,6 @@ public abstract class PolygonObjectBase : ObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *ApplyTheme*
@@ -50,7 +48,6 @@ public override void ApplyTheme(IChartTheme theme)
  *Описание*  
 
 
-***                
 
 ## *CopyTemplate*
 Описание
@@ -65,7 +62,6 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
-***                
 
 ## *PolygonObjectBase*
 Описание
@@ -74,10 +70,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 protected PolygonObjectBase()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *BackBrush*
 Описание
@@ -85,7 +78,6 @@ protected PolygonObjectBase()
 ```csharp
 protected XBrush BackBrush { get; private set; }
 ```
-***
 
 ## *BackColor*
 Описание
@@ -93,7 +85,6 @@ protected XBrush BackBrush { get; private set; }
 ```csharp
 public XColor BackColor { get; set; }
 ```
-***
 
 ## *DrawBack*
 Описание
@@ -101,7 +92,6 @@ public XColor BackColor { get; set; }
 ```csharp
 public bool DrawBack { get; set; }
 ```
-***
 
 ## *DrawBorder*
 Описание
@@ -109,7 +99,6 @@ public bool DrawBack { get; set; }
 ```csharp
 public bool DrawBorder { get; set; }
 ```
-***
 
 ## *LineBrush*
 Описание
@@ -117,7 +106,6 @@ public bool DrawBorder { get; set; }
 ```csharp
 protected XBrush LineBrush { get; private set; }
 ```
-***
 
 ## *LineColor*
 Описание
@@ -125,7 +113,6 @@ protected XBrush LineBrush { get; private set; }
 ```csharp
 public XColor LineColor { get; set; }
 ```
-***
 
 ## *LinePen*
 Описание
@@ -133,7 +120,6 @@ public XColor LineColor { get; set; }
 ```csharp
 protected XPen LinePen { get; private set; }
 ```
-***
 
 ## *LineStyle*
 Описание
@@ -141,7 +127,6 @@ protected XPen LinePen { get; private set; }
 ```csharp
 public XDashStyle LineStyle { get; set; }
 ```
-***
 
 ## *LineWidth*
 Описание
@@ -149,7 +134,6 @@ public XDashStyle LineStyle { get; set; }
 ```csharp
 public int LineWidth { get; set; }
 ```
-***
 
 ## *int*
 Описание
@@ -157,5 +141,4 @@ public int LineWidth { get; set; }
 ```csharp
 protected override int PenWidth { get; }
 ```
-***
 

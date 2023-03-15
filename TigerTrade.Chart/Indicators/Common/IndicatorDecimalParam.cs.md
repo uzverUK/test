@@ -20,8 +20,6 @@ public sealed class IndicatorDecimalParam : IndicatorParam<Decimal>
 
 
 
-***  
-***  
 # Методы
 
 ## *IndicatorDecimalParam*
@@ -31,7 +29,6 @@ public sealed class IndicatorDecimalParam : IndicatorParam<Decimal>
 public IndicatorDecimalParam()
 ```
 
-***                
 
 ## *IndicatorDecimalParam*
 Описание
@@ -45,7 +42,6 @@ public IndicatorDecimalParam(Decimal value)
  *Описание*  
 
 
-***                
 
 ## *Set*
 Описание
@@ -63,5 +59,4 @@ public bool Set(string key, Decimal value, Decimal minValue = -79228162514264337
  *Описание*  
 
 
-***                
 

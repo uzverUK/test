@@ -28,8 +28,6 @@ public sealed class WilliamsRSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CopySettings*
@@ -43,7 +41,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -55,7 +52,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -67,7 +63,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -76,7 +71,6 @@ public override IEnumerable<string> GetSeriesList()
 public override string ToString()
 ```
 
-***                
 
 ## *WilliamsRSource*
 Описание
@@ -85,10 +79,7 @@ public override string ToString()
 public WilliamsRSource()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Period*
 Описание
@@ -96,5 +87,4 @@ public WilliamsRSource()
 ```csharp
 public int Period { get; set; }
 ```
-***
 

@@ -27,8 +27,6 @@ public sealed class ChannelObject : LineGroupObjectBaseEx
 
 
 
-***  
-***  
 # Методы
 
 ## *CalcPoint*
@@ -38,7 +36,6 @@ public sealed class ChannelObject : LineGroupObjectBaseEx
 protected override void CalcPoint()
 ```
 
-***                
 
 ## *ChannelObject*
 Описание
@@ -47,7 +44,6 @@ protected override void CalcPoint()
 public ChannelObject()
 ```
 
-***                
 
 ## *CopyTemplate*
 Описание
@@ -63,10 +59,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *MiddleLine*
 Описание
@@ -74,7 +67,6 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```csharp
 public bool MiddleLine { get; set; }
 ```
-***
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -82,5 +74,4 @@ public bool MiddleLine { get; set; }
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

@@ -27,8 +27,6 @@ public sealed class CircleObject : PolygonObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CircleObject*
@@ -38,7 +36,6 @@ public sealed class CircleObject : PolygonObjectBase
 public CircleObject()
 ```
 
-***                
 
 ## *Draw*
 Описание
@@ -54,7 +51,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *GetMinDist*
 Описание
@@ -69,7 +65,6 @@ protected override int GetMinDist(int x, int y)
  *Описание*  
 
 
-***                
 
 ## *InObject*
 Описание
@@ -78,10 +73,7 @@ protected override int GetMinDist(int x, int y)
 protected override bool InObject(int x, int y)
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -89,5 +81,4 @@ protected override bool InObject(int x, int y)
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

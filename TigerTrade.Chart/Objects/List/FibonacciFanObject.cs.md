@@ -30,8 +30,6 @@ public sealed class FibonacciFanObject : LineObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *ApplyTheme*
@@ -45,7 +43,6 @@ public override void ApplyTheme(IChartTheme theme)
  *Описание*  
 
 
-***                
 
 ## *CopyTemplate*
 Описание
@@ -60,7 +57,6 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
-***                
 
 ## *Draw*
 Описание
@@ -75,7 +71,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *FibonacciFanObject*
 Описание
@@ -84,7 +79,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 public FibonacciFanObject()
 ```
 
-***                
 
 ## *InObject*
 Описание
@@ -100,10 +94,7 @@ protected override bool InObject(int x, int y)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *CustomLevels*
 Описание
@@ -111,7 +102,6 @@ protected override bool InObject(int x, int y)
 ```csharp
 public bool CustomLevels { get; set; }
 ```
-***
 
 ## *Levels*
 Описание
@@ -119,7 +109,6 @@ public bool CustomLevels { get; set; }
 ```csharp
 public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
 ```
-***
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -127,5 +116,4 @@ public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

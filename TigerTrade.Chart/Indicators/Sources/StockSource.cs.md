@@ -23,8 +23,6 @@ public sealed class StockSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CopySettings*
@@ -38,7 +36,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -50,7 +47,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -62,7 +58,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *StockSource*
 Описание
@@ -71,7 +66,6 @@ public override IEnumerable<string> GetSeriesList()
 public StockSource()
 ```
 
-***                
 
 ## *ToString*
 Описание
@@ -80,5 +74,4 @@ public StockSource()
 public override string ToString()
 ```
 
-***                
 

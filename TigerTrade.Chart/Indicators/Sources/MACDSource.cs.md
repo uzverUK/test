@@ -31,8 +31,6 @@ public sealed class MACDSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CopySettings*
@@ -46,7 +44,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -58,7 +55,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -70,7 +66,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *MACDSource*
 Описание
@@ -79,7 +74,6 @@ public override IEnumerable<string> GetSeriesList()
 public MACDSource()
 ```
 
-***                
 
 ## *ToString*
 Описание
@@ -88,10 +82,7 @@ public MACDSource()
 public override string ToString()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Fast*
 Описание
@@ -99,7 +90,6 @@ public override string ToString()
 ```csharp
 public int Fast { get; set; }
 ```
-***
 
 ## *Signal*
 Описание
@@ -107,7 +97,6 @@ public int Fast { get; set; }
 ```csharp
 public int Signal { get; set; }
 ```
-***
 
 ## *Slow*
 Описание
@@ -115,7 +104,6 @@ public int Signal { get; set; }
 ```csharp
 public int Slow { get; set; }
 ```
-***
 
 ## *Source*
 Описание
@@ -123,5 +111,4 @@ public int Slow { get; set; }
 ```csharp
 public IndicatorSourceBase Source { get; set; }
 ```
-***
 

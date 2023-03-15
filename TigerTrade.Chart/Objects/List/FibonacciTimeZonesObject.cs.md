@@ -29,8 +29,6 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CalcPoint*
@@ -40,7 +38,6 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 protected override void CalcPoint()
 ```
 
-***                
 
 ## *CopyTemplate*
 Описание
@@ -56,7 +53,6 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
-***                
 
 ## *Draw*
 Описание
@@ -71,7 +67,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *FibonacciTimeZonesObject*
 Описание
@@ -80,10 +75,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 public FibonacciTimeZonesObject()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *MaxLines*
 Описание
@@ -91,7 +83,6 @@ public FibonacciTimeZonesObject()
 ```csharp
 public int MaxLines { get; set; }
 ```
-***
 
 ## *TextAlignment*
 Описание
@@ -99,7 +90,6 @@ public int MaxLines { get; set; }
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
 ```
-***
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -107,5 +97,4 @@ public ObjectTextAlignment TextAlignment { get; set; }
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

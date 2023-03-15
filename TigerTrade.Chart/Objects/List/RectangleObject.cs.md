@@ -40,8 +40,6 @@ public class RectangleObject : PolygonObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *Draw*
@@ -58,7 +56,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *DrawControlPoints*
 Описание
@@ -67,7 +64,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 public override void DrawControlPoints(DxVisualQueue visual)
 ```
 
-***                
 
 ## *ExtraPointChanged*
 Описание
@@ -83,7 +79,6 @@ public override void ExtraPointChanged(int index, ObjectPoint op)
  *Описание*  
 
 
-***                
 
 ## *GetControlPoint*
 Описание
@@ -98,7 +93,6 @@ public override int GetControlPoint(int x, int y)
  *Описание*  
 
 
-***                
 
 ## *GetExtraPoint*
 Описание
@@ -107,7 +101,6 @@ public override int GetControlPoint(int x, int y)
 public override int GetExtraPoint(int x, int y)
 ```
 
-***                
 
 ## *GetMinDist*
 Описание
@@ -123,7 +116,6 @@ protected override int GetMinDist(int x, int y)
  *Описание*  
 
 
-***                
 
 ## *InObject*
 Описание
@@ -132,7 +124,6 @@ protected override int GetMinDist(int x, int y)
 protected override bool InObject(int x, int y)
 ```
 
-***                
 
 ## *IsObjectInArea*
 Описание
@@ -141,7 +132,6 @@ protected override bool InObject(int x, int y)
 protected override bool IsObjectInArea()
 ```
 
-***                
 
 ## *Prepare*
 Описание
@@ -150,7 +140,6 @@ protected override bool IsObjectInArea()
 protected override void Prepare()
 ```
 
-***                
 
 ## *RectangleObject*
 Описание
@@ -159,7 +148,6 @@ protected override void Prepare()
 public RectangleObject()
 ```
 
-***                
 
 ## *x9Yyrp3RfkGdCbNTXU4b*
 Описание
@@ -168,10 +156,7 @@ public RectangleObject()
 public x9Yyrp3RfkGdCbNTXU4b()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *RectInfo*
 Описание
@@ -179,7 +164,6 @@ public x9Yyrp3RfkGdCbNTXU4b()
 ```csharp
 public RectangleObject.x9Yyrp3RfkGdCbNTXU4b RectInfo { get; private set; }
 ```
-***
 
 ## *Rectangle;*
 Описание
@@ -187,7 +171,6 @@ public RectangleObject.x9Yyrp3RfkGdCbNTXU4b RectInfo { get; private set; }
 ```csharp
 public Rect Rectangle; {}
 ```
-***
 
 ## *cTQ3RQ5sOeg;*
 Описание
@@ -195,7 +178,6 @@ public Rect Rectangle; {}
 ```csharp
 public Point cTQ3RQ5sOeg; {}
 ```
-***
 
 ## *mrI3RMYxIFC;*
 Описание
@@ -203,7 +185,6 @@ public Point cTQ3RQ5sOeg; {}
 ```csharp
 public Point mrI3RMYxIFC; {}
 ```
-***
 
 ## *mtO3Rj6ZJ6t;*
 Описание
@@ -211,7 +192,6 @@ public Point mrI3RMYxIFC; {}
 ```csharp
 public Point mtO3Rj6ZJ6t; {}
 ```
-***
 
 ## *qX73RVVvfB0;*
 Описание
@@ -219,7 +199,6 @@ public Point mtO3Rj6ZJ6t; {}
 ```csharp
 public Point qX73RVVvfB0; {}
 ```
-***
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -227,5 +206,4 @@ public Point qX73RVVvfB0; {}
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

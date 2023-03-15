@@ -28,8 +28,6 @@ public abstract class LineGroupObjectBase : LineObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CalcPoint*
@@ -39,7 +37,6 @@ public abstract class LineGroupObjectBase : LineObjectBase
 protected virtual void CalcPoint()
 ```
 
-***                
 
 ## *Draw*
 Описание
@@ -55,7 +52,6 @@ protected override void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> lab
  *Описание*  
 
 
-***                
 
 ## *InObject*
 Описание
@@ -70,7 +66,6 @@ protected override bool InObject(int x, int y)
  *Описание*  
 
 
-***                
 
 ## *LineGroupObjectBase*
 Описание
@@ -79,10 +74,7 @@ protected override bool InObject(int x, int y)
 protected LineGroupObjectBase()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *EndPoints;*
 Описание
@@ -90,7 +82,6 @@ protected LineGroupObjectBase()
 ```csharp
 protected Point[] EndPoints; {}
 ```
-***
 
 ## *StartPoints;*
 Описание
@@ -98,5 +89,4 @@ protected Point[] EndPoints; {}
 ```csharp
 protected Point[] StartPoints; {}
 ```
-***
 

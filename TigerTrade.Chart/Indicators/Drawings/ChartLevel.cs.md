@@ -37,8 +37,6 @@ public sealed class ChartLevel : INotifyPropertyChanged
 
 
 
-***  
-***  
 # Методы
 
 ## *ChartLevel*
@@ -48,7 +46,6 @@ public sealed class ChartLevel : INotifyPropertyChanged
 public ChartLevel()
 ```
 
-***                
 
 ## *ChartLevel*
 Описание
@@ -65,7 +62,6 @@ public ChartLevel(Decimal level, XColor color)
  *Описание*  
 
 
-***                
 
 ## *CopyTheme*
 Описание
@@ -77,7 +73,6 @@ public void CopyTheme(ChartLevel chartLevel)
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -86,10 +81,7 @@ public void CopyTheme(ChartLevel chartLevel)
 public override string ToString()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Color*
 Описание
@@ -97,7 +89,6 @@ public override string ToString()
 ```csharp
 public XColor Color { get; set; }
 ```
-***
 
 ## *Level*
 Описание
@@ -105,7 +96,6 @@ public XColor Color { get; set; }
 ```csharp
 public Decimal Level { get; set; }
 ```
-***
 
 ## *LineBrush*
 Описание
@@ -113,7 +103,6 @@ public Decimal Level { get; set; }
 ```csharp
 public XBrush LineBrush { get; private set; }
 ```
-***
 
 ## *LinePen*
 Описание
@@ -121,7 +110,6 @@ public XBrush LineBrush { get; private set; }
 ```csharp
 public XPen LinePen { get; private set; }
 ```
-***
 
 ## *Style*
 Описание
@@ -129,7 +117,6 @@ public XPen LinePen { get; private set; }
 ```csharp
 public XDashStyle Style { get; set; }
 ```
-***
 
 ## *Visible*
 Описание
@@ -137,7 +124,6 @@ public XDashStyle Style { get; set; }
 ```csharp
 public bool Visible { get; set; }
 ```
-***
 
 ## *Width*
 Описание
@@ -145,10 +131,7 @@ public bool Visible { get; set; }
 ```csharp
 public int Width { get; set; }
 ```
-***
-***
-  ***
-  # События
+# События
 
 ## *PropertyChanged*
 Описание
@@ -156,7 +139,4 @@ public int Width { get; set; }
 ```csharp
 public event PropertyChangedEventHandler PropertyChanged
 ```
-***
-___
----
 

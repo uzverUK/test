@@ -18,9 +18,7 @@ public static class ClientInfo
 
 
 
-            ***
-  ***
-  # Свойства
+            # Свойства
 
 ## *LicenseID*
 Описание
@@ -28,5 +26,4 @@ public static class ClientInfo
 ```csharp
 public static string LicenseID { get; set; }
 ```
-***
 

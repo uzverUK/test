@@ -32,8 +32,6 @@ public class IconObject : ObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *ApplyTheme*
@@ -47,7 +45,6 @@ public override void ApplyTheme(IChartTheme theme)
  *Описание*  
 
 
-***                
 
 ## *CopyTemplate*
 Описание
@@ -62,7 +59,6 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
-***                
 
 ## *Draw*
 Описание
@@ -77,7 +73,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *IconObject*
 Описание
@@ -86,7 +81,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 public IconObject()
 ```
 
-***                
 
 ## *InObject*
 Описание
@@ -102,10 +96,7 @@ protected override bool InObject(int x, int y)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Brush*
 Описание
@@ -113,7 +104,6 @@ protected override bool InObject(int x, int y)
 ```csharp
 protected XBrush Brush { get; private set; }
 ```
-***
 
 ## *Color*
 Описание
@@ -121,7 +111,6 @@ protected XBrush Brush { get; private set; }
 ```csharp
 public XColor Color { get; set; }
 ```
-***
 
 ## *Icon*
 Описание
@@ -129,7 +118,6 @@ public XColor Color { get; set; }
 ```csharp
 public string Icon { get; set; }
 ```
-***
 
 ## *Size*
 Описание
@@ -137,7 +125,6 @@ public string Icon { get; set; }
 ```csharp
 public int Size { get; set; }
 ```
-***
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -145,5 +132,4 @@ public int Size { get; set; }
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

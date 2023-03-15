@@ -31,8 +31,6 @@ public sealed class StochasticSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CopySettings*
@@ -46,7 +44,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -58,7 +55,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -70,7 +66,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *StochasticSource*
 Описание
@@ -79,7 +74,6 @@ public override IEnumerable<string> GetSeriesList()
 public StochasticSource()
 ```
 
-***                
 
 ## *ToString*
 Описание
@@ -88,10 +82,7 @@ public StochasticSource()
 public override string ToString()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *FastK*
 Описание
@@ -99,7 +90,6 @@ public override string ToString()
 ```csharp
 public int FastK { get; set; }
 ```
-***
 
 ## *SlowD*
 Описание
@@ -107,7 +97,6 @@ public int FastK { get; set; }
 ```csharp
 public int SlowD { get; set; }
 ```
-***
 
 ## *SlowDMaType*
 Описание
@@ -115,7 +104,6 @@ public int SlowD { get; set; }
 ```csharp
 public IndicatorMaType SlowDMaType { get; set; }
 ```
-***
 
 ## *Smooth*
 Описание
@@ -123,5 +111,4 @@ public IndicatorMaType SlowDMaType { get; set; }
 ```csharp
 public int Smooth { get; set; }
 ```
-***
 

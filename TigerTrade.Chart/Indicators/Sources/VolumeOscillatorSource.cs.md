@@ -30,8 +30,6 @@ public sealed class VolumeOscillatorSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CopySettings*
@@ -45,7 +43,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -57,7 +54,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -69,7 +65,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -78,7 +73,6 @@ public override IEnumerable<string> GetSeriesList()
 public override string ToString()
 ```
 
-***                
 
 ## *VolumeOscillatorSource*
 Описание
@@ -87,10 +81,7 @@ public override string ToString()
 public VolumeOscillatorSource()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *LongPeriod*
 Описание
@@ -98,7 +89,6 @@ public VolumeOscillatorSource()
 ```csharp
 public int LongPeriod { get; set; }
 ```
-***
 
 ## *MaType*
 Описание
@@ -106,7 +96,6 @@ public int LongPeriod { get; set; }
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
-***
 
 ## *ShortPeriod*
 Описание
@@ -114,5 +103,4 @@ public IndicatorMaType MaType { get; set; }
 ```csharp
 public int ShortPeriod { get; set; }
 ```
-***
 

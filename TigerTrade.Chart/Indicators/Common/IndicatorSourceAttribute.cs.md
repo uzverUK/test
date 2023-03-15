@@ -25,8 +25,6 @@ public class IndicatorSourceAttribute : Attribute
 
 
 
-***  
-***  
 # Методы
 
 ## *IndicatorSourceAttribute*
@@ -40,10 +38,7 @@ public IndicatorSourceAttribute(string name)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Name*
 Описание
@@ -51,7 +46,6 @@ public IndicatorSourceAttribute(string name)
 ```csharp
 public string Name { get; }
 ```
-***
 
 ## *Type*
 Описание
@@ -59,5 +53,4 @@ public string Name { get; }
 ```csharp
 public Type Type { get; set; }
 ```
-***
 

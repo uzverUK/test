@@ -25,8 +25,6 @@ public sealed class IndicatorValueInfo
 
 
 
-***  
-***  
 # Методы
 
 ## *IndicatorValueInfo*
@@ -43,7 +41,6 @@ public IndicatorValueInfo(string value, XBrush brush)
  *Описание*  
 
 
-***                
 
 ## *IndicatorValueInfo*
 Описание
@@ -63,10 +60,7 @@ public IndicatorValueInfo(string value, XColor color)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Brush*
 Описание
@@ -74,7 +68,6 @@ public IndicatorValueInfo(string value, XColor color)
 ```csharp
 public XBrush Brush { get; }
 ```
-***
 
 ## *Value*
 Описание
@@ -82,5 +75,4 @@ public XBrush Brush { get; }
 ```csharp
 public string Value { get; }
 ```
-***
 

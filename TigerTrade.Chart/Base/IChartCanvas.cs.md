@@ -50,8 +50,6 @@ public interface IChartCanvas
 
 
 
-***  
-***  
 # Методы
 
 ## *ConvertTimeFromLocal*
@@ -65,7 +63,6 @@ DateTime ConvertTimeFromLocal(DateTime dt)
  *Описание*  
 
 
-***                
 
 ## *ConvertTimeToLocal*
 Описание
@@ -74,7 +71,6 @@ DateTime ConvertTimeFromLocal(DateTime dt)
 DateTime ConvertTimeToLocal(DateTime dt)
 ```
 
-***                
 
 ## *DateToIndex*
 Описание
@@ -90,7 +86,6 @@ int DateToIndex(DateTime dt, int dir)
  *Описание*  
 
 
-***                
 
 ## *DateToIndex*
 Описание
@@ -110,7 +105,6 @@ int DateToIndex(double dt, int dir)
  *Описание*  
 
 
-***                
 
 ## *FormatTime*
 Описание
@@ -122,7 +116,6 @@ string FormatTime(DateTime dt, string format)
  *Описание*  
 
 
-***                
 
 ## *FormatValue*
 Описание
@@ -134,7 +127,6 @@ string FormatValue(double d)
  *Описание*  
 
 
-***                
 
 ## *GetIndex*
 Описание
@@ -146,7 +138,6 @@ int GetIndex(int i)
  *Описание*  
 
 
-***                
 
 ## *GetValue*
 Описание
@@ -158,7 +149,6 @@ double GetValue(double y)
  *Описание*  
 
 
-***                
 
 ## *GetValueFromPos*
 Описание
@@ -170,7 +160,6 @@ Point GetValueFromPos(double x, double y)
  *Описание*  
 
 
-***                
 
 ## *GetValueFromPos*
 Описание
@@ -189,7 +178,6 @@ Point GetValueFromPos(double x, double y, bool snapToGrid)
  *Описание*  
 
 
-***                
 
 ## *GetX*
 Описание
@@ -201,7 +189,6 @@ double GetX(int i)
  *Описание*  
 
 
-***                
 
 ## *GetXScreen*
 Описание
@@ -213,7 +200,6 @@ double GetXScreen(double x)
  *Описание*  
 
 
-***                
 
 ## *GetXX*
 Описание
@@ -225,7 +211,6 @@ double GetXX(int i)
  *Описание*  
 
 
-***                
 
 ## *GetY*
 Описание
@@ -237,7 +222,6 @@ double GetY(double d)
  *Описание*  
 
 
-***                
 
 ## *IndexToDate*
 Описание
@@ -249,10 +233,7 @@ DateTime IndexToDate(int i)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *AfterBars*
 Описание
@@ -260,7 +241,6 @@ DateTime IndexToDate(int i)
 ```csharp
 int AfterBars { get; }
 ```
-***
 
 ## *ChartFont*
 Описание
@@ -268,7 +248,6 @@ int AfterBars { get; }
 ```csharp
 XFont ChartFont { get; }
 ```
-***
 
 ## *ChartFontBold*
 Описание
@@ -276,7 +255,6 @@ XFont ChartFont { get; }
 ```csharp
 XFont ChartFontBold { get; }
 ```
-***
 
 ## *ColumnPercent*
 Описание
@@ -284,7 +262,6 @@ XFont ChartFontBold { get; }
 ```csharp
 double ColumnPercent { get; }
 ```
-***
 
 ## *ColumnWidth*
 Описание
@@ -292,7 +269,6 @@ double ColumnPercent { get; }
 ```csharp
 double ColumnWidth { get; }
 ```
-***
 
 ## *Count*
 Описание
@@ -300,7 +276,6 @@ double ColumnWidth { get; }
 ```csharp
 int Count { get; }
 ```
-***
 
 ## *IsStock*
 Описание
@@ -308,7 +283,6 @@ int Count { get; }
 ```csharp
 bool IsStock { get; }
 ```
-***
 
 ## *MaxY*
 Описание
@@ -316,7 +290,6 @@ bool IsStock { get; }
 ```csharp
 double MaxY { get; }
 ```
-***
 
 ## *MinY*
 Описание
@@ -324,7 +297,6 @@ double MaxY { get; }
 ```csharp
 double MinY { get; }
 ```
-***
 
 ## *Rect*
 Описание
@@ -332,7 +304,6 @@ double MinY { get; }
 ```csharp
 Rect Rect { get; }
 ```
-***
 
 ## *Start*
 Описание
@@ -340,7 +311,6 @@ Rect Rect { get; }
 ```csharp
 int Start { get; }
 ```
-***
 
 ## *StepHeight*
 Описание
@@ -348,7 +318,6 @@ int Start { get; }
 ```csharp
 double StepHeight { get; }
 ```
-***
 
 ## *StockType*
 Описание
@@ -356,7 +325,6 @@ double StepHeight { get; }
 ```csharp
 ChartStockType StockType { get; }
 ```
-***
 
 ## *Stop*
 Описание
@@ -364,7 +332,6 @@ ChartStockType StockType { get; }
 ```csharp
 int Stop { get; }
 ```
-***
 
 ## *Theme*
 Описание
@@ -372,5 +339,4 @@ int Stop { get; }
 ```csharp
 IChartTheme Theme { get; }
 ```
-***
 

@@ -31,8 +31,6 @@ public sealed class IndicatorSeriesData
 
 
 
-***  
-***  
 # Методы
 
 ## *CachePoints*
@@ -46,7 +44,6 @@ public void CachePoints(Point[] points, string pointsName)
  *Описание*  
 
 
-***                
 
 ## *GetDistance*
 Описание
@@ -61,7 +58,6 @@ public double GetDistance(double x, double y)
  *Описание*  
 
 
-***                
 
 ## *IndicatorSeriesData*
 Описание
@@ -70,7 +66,6 @@ public double GetDistance(double x, double y)
 public IndicatorSeriesData(double[] data)
 ```
 
-***                
 
 ## *IndicatorSeriesData*
 Описание
@@ -87,7 +82,6 @@ public IndicatorSeriesData(double[] data, ChartSeries style, string name = "")
  *Описание*  
 
 
-***                
 
 ## *IndicatorSeriesData*
 Описание
@@ -108,7 +102,6 @@ public IndicatorSeriesData(double[] data, ChartRegion style)
  *Описание*  
 
 
-***                
 
 ## *IndicatorSeriesData*
 Описание
@@ -133,7 +126,6 @@ public IndicatorSeriesData(double[] data, ChartLine style)
  *Описание*  
 
 
-***                
 
 ## *MaxValue*
 Описание
@@ -142,7 +134,6 @@ public IndicatorSeriesData(double[] data, ChartLine style)
 public double MaxValue()
 ```
 
-***                
 
 ## *MaxValue*
 Описание
@@ -159,7 +150,6 @@ public double MaxValue(int start, int count)
  *Описание*  
 
 
-***                
 
 ## *MinValue*
 Описание
@@ -168,7 +158,6 @@ public double MaxValue(int start, int count)
 public double MinValue()
 ```
 
-***                
 
 ## *MinValue*
 Описание
@@ -185,10 +174,7 @@ public double MinValue(int start, int count)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Data*
 Описание
@@ -196,7 +182,6 @@ public double MinValue(int start, int count)
 ```csharp
 public double[] Data { get; }
 ```
-***
 
 ## *Length*
 Описание
@@ -204,7 +189,6 @@ public double[] Data { get; }
 ```csharp
 public int Length { get; }
 ```
-***
 
 ## *Style*
 Описание
@@ -212,7 +196,6 @@ public int Length { get; }
 ```csharp
 public IndicatorSeriesStyle Style { get; }
 ```
-***
 
 ## *UserData*
 Описание
@@ -220,5 +203,4 @@ public IndicatorSeriesStyle Style { get; }
 ```csharp
 public Hashtable UserData { get; }
 ```
-***
 

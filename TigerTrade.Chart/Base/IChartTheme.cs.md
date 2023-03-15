@@ -78,8 +78,6 @@ public interface IChartTheme
 
 
 
-***  
-***  
 # Методы
 
 ## *GetNextColor*
@@ -89,10 +87,7 @@ public interface IChartTheme
 XColor GetNextColor()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *BarDownBarColor*
 Описание
@@ -100,7 +95,6 @@ XColor GetNextColor()
 ```csharp
 XColor BarDownBarColor { get; }
 ```
-***
 
 ## *BarUpBarColor*
 Описание
@@ -108,7 +102,6 @@ XColor BarDownBarColor { get; }
 ```csharp
 XColor BarUpBarColor { get; }
 ```
-***
 
 ## *CandleDownBackColor*
 Описание
@@ -116,7 +109,6 @@ XColor BarUpBarColor { get; }
 ```csharp
 XColor CandleDownBackColor { get; }
 ```
-***
 
 ## *CandleDownBorderColor*
 Описание
@@ -124,7 +116,6 @@ XColor CandleDownBackColor { get; }
 ```csharp
 XColor CandleDownBorderColor { get; }
 ```
-***
 
 ## *CandleDownWickColor*
 Описание
@@ -132,7 +123,6 @@ XColor CandleDownBorderColor { get; }
 ```csharp
 XColor CandleDownWickColor { get; }
 ```
-***
 
 ## *CandleUpBackColor*
 Описание
@@ -140,7 +130,6 @@ XColor CandleDownWickColor { get; }
 ```csharp
 XColor CandleUpBackColor { get; }
 ```
-***
 
 ## *CandleUpBorderColor*
 Описание
@@ -148,7 +137,6 @@ XColor CandleUpBackColor { get; }
 ```csharp
 XColor CandleUpBorderColor { get; }
 ```
-***
 
 ## *CandleUpWickColor*
 Описание
@@ -156,7 +144,6 @@ XColor CandleUpBorderColor { get; }
 ```csharp
 XColor CandleUpWickColor { get; }
 ```
-***
 
 ## *ChartAxisColor*
 Описание
@@ -164,7 +151,6 @@ XColor CandleUpWickColor { get; }
 ```csharp
 XColor ChartAxisColor { get; }
 ```
-***
 
 ## *ChartBackBrush*
 Описание
@@ -172,7 +158,6 @@ XColor ChartAxisColor { get; }
 ```csharp
 XBrush ChartBackBrush { get; }
 ```
-***
 
 ## *ChartBackColor*
 Описание
@@ -180,7 +165,6 @@ XBrush ChartBackBrush { get; }
 ```csharp
 XColor ChartBackColor { get; }
 ```
-***
 
 ## *ChartCpFillBrush*
 Описание
@@ -188,7 +172,6 @@ XColor ChartBackColor { get; }
 ```csharp
 XBrush ChartCpFillBrush { get; }
 ```
-***
 
 ## *ChartCpFillColor*
 Описание
@@ -196,7 +179,6 @@ XBrush ChartCpFillBrush { get; }
 ```csharp
 XColor ChartCpFillColor { get; }
 ```
-***
 
 ## *ChartCpLineColor*
 Описание
@@ -204,7 +186,6 @@ XColor ChartCpFillColor { get; }
 ```csharp
 XColor ChartCpLineColor { get; }
 ```
-***
 
 ## *ChartCpLinePen*
 Описание
@@ -212,7 +193,6 @@ XColor ChartCpLineColor { get; }
 ```csharp
 XPen ChartCpLinePen { get; }
 ```
-***
 
 ## *ChartFontBrush*
 Описание
@@ -220,7 +200,6 @@ XPen ChartCpLinePen { get; }
 ```csharp
 XBrush ChartFontBrush { get; }
 ```
-***
 
 ## *ChartFontColor*
 Описание
@@ -228,7 +207,6 @@ XBrush ChartFontBrush { get; }
 ```csharp
 XColor ChartFontColor { get; }
 ```
-***
 
 ## *ChartGridColor*
 Описание
@@ -236,7 +214,6 @@ XColor ChartFontColor { get; }
 ```csharp
 XColor ChartGridColor { get; }
 ```
-***
 
 ## *ChartObjectFillColor*
 Описание
@@ -244,7 +221,6 @@ XColor ChartGridColor { get; }
 ```csharp
 XColor ChartObjectFillColor { get; }
 ```
-***
 
 ## *ChartObjectLineColor*
 Описание
@@ -252,7 +228,6 @@ XColor ChartObjectFillColor { get; }
 ```csharp
 XColor ChartObjectLineColor { get; }
 ```
-***
 
 ## *ClusterAskColor*
 Описание
@@ -260,7 +235,6 @@ XColor ChartObjectLineColor { get; }
 ```csharp
 XColor ClusterAskColor { get; }
 ```
-***
 
 ## *ClusterBidColor*
 Описание
@@ -268,7 +242,6 @@ XColor ClusterAskColor { get; }
 ```csharp
 XColor ClusterBidColor { get; }
 ```
-***
 
 ## *ClusterBorderColor*
 Описание
@@ -276,7 +249,6 @@ XColor ClusterBidColor { get; }
 ```csharp
 XColor ClusterBorderColor { get; }
 ```
-***
 
 ## *ClusterCellBorderColor*
 Описание
@@ -284,7 +256,6 @@ XColor ClusterBorderColor { get; }
 ```csharp
 XColor ClusterCellBorderColor { get; }
 ```
-***
 
 ## *ClusterCellBorderMaxColor*
 Описание
@@ -292,7 +263,6 @@ XColor ClusterCellBorderColor { get; }
 ```csharp
 XColor ClusterCellBorderMaxColor { get; }
 ```
-***
 
 ## *ClusterDeltaMinusColor*
 Описание
@@ -300,7 +270,6 @@ XColor ClusterCellBorderMaxColor { get; }
 ```csharp
 XColor ClusterDeltaMinusColor { get; }
 ```
-***
 
 ## *ClusterDeltaPlusColor*
 Описание
@@ -308,7 +277,6 @@ XColor ClusterDeltaMinusColor { get; }
 ```csharp
 XColor ClusterDeltaPlusColor { get; }
 ```
-***
 
 ## *ClusterDownBarColor*
 Описание
@@ -316,7 +284,6 @@ XColor ClusterDeltaPlusColor { get; }
 ```csharp
 XColor ClusterDownBarColor { get; }
 ```
-***
 
 ## *ClusterNeutralBidAskColor*
 Описание
@@ -324,7 +291,6 @@ XColor ClusterDownBarColor { get; }
 ```csharp
 XColor ClusterNeutralBidAskColor { get; }
 ```
-***
 
 ## *ClusterOpenIntMinusColor*
 Описание
@@ -332,7 +298,6 @@ XColor ClusterNeutralBidAskColor { get; }
 ```csharp
 XColor ClusterOpenIntMinusColor { get; }
 ```
-***
 
 ## *ClusterOpenIntPlusColor*
 Описание
@@ -340,7 +305,6 @@ XColor ClusterOpenIntMinusColor { get; }
 ```csharp
 XColor ClusterOpenIntPlusColor { get; }
 ```
-***
 
 ## *ClusterStrongAskColor*
 Описание
@@ -348,7 +312,6 @@ XColor ClusterOpenIntPlusColor { get; }
 ```csharp
 XColor ClusterStrongAskColor { get; }
 ```
-***
 
 ## *ClusterStrongBidColor*
 Описание
@@ -356,7 +319,6 @@ XColor ClusterStrongAskColor { get; }
 ```csharp
 XColor ClusterStrongBidColor { get; }
 ```
-***
 
 ## *ClusterTextColor*
 Описание
@@ -364,7 +326,6 @@ XColor ClusterStrongBidColor { get; }
 ```csharp
 XColor ClusterTextColor { get; }
 ```
-***
 
 ## *ClusterTradesColor*
 Описание
@@ -372,7 +333,6 @@ XColor ClusterTextColor { get; }
 ```csharp
 XColor ClusterTradesColor { get; }
 ```
-***
 
 ## *ClusterUpBarColor*
 Описание
@@ -380,7 +340,6 @@ XColor ClusterTradesColor { get; }
 ```csharp
 XColor ClusterUpBarColor { get; }
 ```
-***
 
 ## *ClusterValueAreaColor*
 Описание
@@ -388,7 +347,6 @@ XColor ClusterUpBarColor { get; }
 ```csharp
 XColor ClusterValueAreaColor { get; }
 ```
-***
 
 ## *ClusterVolumeColor*
 Описание
@@ -396,7 +354,6 @@ XColor ClusterValueAreaColor { get; }
 ```csharp
 XColor ClusterVolumeColor { get; }
 ```
-***
 
 ## *HistogramAskColor*
 Описание
@@ -404,7 +361,6 @@ XColor ClusterVolumeColor { get; }
 ```csharp
 XColor HistogramAskColor { get; }
 ```
-***
 
 ## *HistogramBidColor*
 Описание
@@ -412,7 +368,6 @@ XColor HistogramAskColor { get; }
 ```csharp
 XColor HistogramBidColor { get; }
 ```
-***
 
 ## *HistogramCellBorderColor*
 Описание
@@ -420,7 +375,6 @@ XColor HistogramBidColor { get; }
 ```csharp
 XColor HistogramCellBorderColor { get; }
 ```
-***
 
 ## *HistogramDeltaMinusColor*
 Описание
@@ -428,7 +382,6 @@ XColor HistogramCellBorderColor { get; }
 ```csharp
 XColor HistogramDeltaMinusColor { get; }
 ```
-***
 
 ## *HistogramDeltaPlusColor*
 Описание
@@ -436,7 +389,6 @@ XColor HistogramDeltaMinusColor { get; }
 ```csharp
 XColor HistogramDeltaPlusColor { get; }
 ```
-***
 
 ## *HistogramMaximumColor*
 Описание
@@ -444,7 +396,6 @@ XColor HistogramDeltaPlusColor { get; }
 ```csharp
 XColor HistogramMaximumColor { get; }
 ```
-***
 
 ## *HistogramTextColor*
 Описание
@@ -452,7 +403,6 @@ XColor HistogramMaximumColor { get; }
 ```csharp
 XColor HistogramTextColor { get; }
 ```
-***
 
 ## *HistogramTradesColor*
 Описание
@@ -460,7 +410,6 @@ XColor HistogramTextColor { get; }
 ```csharp
 XColor HistogramTradesColor { get; }
 ```
-***
 
 ## *HistogramValueAreaColor*
 Описание
@@ -468,7 +417,6 @@ XColor HistogramTradesColor { get; }
 ```csharp
 XColor HistogramValueAreaColor { get; }
 ```
-***
 
 ## *HistogramVolumeColor*
 Описание
@@ -476,7 +424,6 @@ XColor HistogramValueAreaColor { get; }
 ```csharp
 XColor HistogramVolumeColor { get; }
 ```
-***
 
 ## *PaletteColor1*
 Описание
@@ -484,7 +431,6 @@ XColor HistogramVolumeColor { get; }
 ```csharp
 XColor PaletteColor1 { get; }
 ```
-***
 
 ## *PaletteColor2*
 Описание
@@ -492,7 +438,6 @@ XColor PaletteColor1 { get; }
 ```csharp
 XColor PaletteColor2 { get; }
 ```
-***
 
 ## *PaletteColor3*
 Описание
@@ -500,7 +445,6 @@ XColor PaletteColor2 { get; }
 ```csharp
 XColor PaletteColor3 { get; }
 ```
-***
 
 ## *PaletteColor4*
 Описание
@@ -508,7 +452,6 @@ XColor PaletteColor3 { get; }
 ```csharp
 XColor PaletteColor4 { get; }
 ```
-***
 
 ## *PaletteColor5*
 Описание
@@ -516,7 +459,6 @@ XColor PaletteColor4 { get; }
 ```csharp
 XColor PaletteColor5 { get; }
 ```
-***
 
 ## *PaletteColor6*
 Описание
@@ -524,7 +466,6 @@ XColor PaletteColor5 { get; }
 ```csharp
 XColor PaletteColor6 { get; }
 ```
-***
 
 ## *PaletteColor7*
 Описание
@@ -532,5 +473,4 @@ XColor PaletteColor6 { get; }
 ```csharp
 XColor PaletteColor7 { get; }
 ```
-***
 

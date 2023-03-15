@@ -29,8 +29,6 @@ public sealed class ObjectLabelInfo
 
 
 
-***  
-***  
 # Методы
 
 ## *ObjectLabelInfo*
@@ -47,7 +45,6 @@ public ObjectLabelInfo(double value, XColor color, double? position = null)
  *Описание*  
 
 
-***                
 
 ## *ObjectLabelInfo*
 Описание
@@ -70,10 +67,7 @@ public ObjectLabelInfo(double value, double y1, double y2, XColor color)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Color*
 Описание
@@ -81,7 +75,6 @@ public ObjectLabelInfo(double value, double y1, double y2, XColor color)
 ```csharp
 public XColor Color { get; }
 ```
-***
 
 ## *Extanded*
 Описание
@@ -89,7 +82,6 @@ public XColor Color { get; }
 ```csharp
 public bool Extanded { get; }
 ```
-***
 
 ## *Position*
 Описание
@@ -97,7 +89,6 @@ public bool Extanded { get; }
 ```csharp
 public double? Position { get; }
 ```
-***
 
 ## *Value*
 Описание
@@ -105,7 +96,6 @@ public double? Position { get; }
 ```csharp
 public double Value { get; }
 ```
-***
 
 ## *Y1*
 Описание
@@ -113,7 +103,6 @@ public double Value { get; }
 ```csharp
 public double Y1 { get; }
 ```
-***
 
 ## *Y2*
 Описание
@@ -121,5 +110,4 @@ public double Y1 { get; }
 ```csharp
 public double Y2 { get; }
 ```
-***
 

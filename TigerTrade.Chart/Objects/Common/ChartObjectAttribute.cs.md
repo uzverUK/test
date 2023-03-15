@@ -27,8 +27,6 @@ public class ChartObjectAttribute : Attribute
 
 
 
-***  
-***  
 # Методы
 
 ## *ChartObjectAttribute*
@@ -48,10 +46,7 @@ public ChartObjectAttribute(string id, string name, int points)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *ID*
 Описание
@@ -59,7 +54,6 @@ public ChartObjectAttribute(string id, string name, int points)
 ```csharp
 public string ID { get; }
 ```
-***
 
 ## *Name*
 Описание
@@ -67,7 +61,6 @@ public string ID { get; }
 ```csharp
 public string Name { get; }
 ```
-***
 
 ## *Points*
 Описание
@@ -75,7 +68,6 @@ public string Name { get; }
 ```csharp
 public int Points { get; }
 ```
-***
 
 ## *Type*
 Описание
@@ -83,5 +75,4 @@ public int Points { get; }
 ```csharp
 public Type Type { get; set; }
 ```
-***
 

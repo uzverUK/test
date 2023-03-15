@@ -30,8 +30,6 @@ public sealed class ChartAlertInfo
 
 
 
-***  
-***  
 # Методы
 
 ## *ChartAlertInfo*
@@ -48,10 +46,7 @@ public ChartAlertInfo(ChartAlertSettings settings, string message)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Duration*
 Описание
@@ -59,7 +54,6 @@ public ChartAlertInfo(ChartAlertSettings settings, string message)
 ```csharp
 public int Duration { get; }
 ```
-***
 
 ## *Log*
 Описание
@@ -67,7 +61,6 @@ public int Duration { get; }
 ```csharp
 public bool Log { get; }
 ```
-***
 
 ## *Message*
 Описание
@@ -75,7 +68,6 @@ public bool Log { get; }
 ```csharp
 public string Message { get; }
 ```
-***
 
 ## *SendEmail*
 Описание
@@ -83,7 +75,6 @@ public string Message { get; }
 ```csharp
 public bool SendEmail { get; }
 ```
-***
 
 ## *SendTelegram*
 Описание
@@ -91,7 +82,6 @@ public bool SendEmail { get; }
 ```csharp
 public bool SendTelegram { get; }
 ```
-***
 
 ## *ShowPopup*
 Описание
@@ -99,7 +89,6 @@ public bool SendTelegram { get; }
 ```csharp
 public bool ShowPopup { get; }
 ```
-***
 
 ## *Signal*
 Описание
@@ -107,5 +96,4 @@ public bool ShowPopup { get; }
 ```csharp
 public string Signal { get; }
 ```
-***
 

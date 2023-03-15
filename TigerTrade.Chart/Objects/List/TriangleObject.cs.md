@@ -27,8 +27,6 @@ public sealed class TriangleObject : PolygonObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *Draw*
@@ -45,7 +43,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *GetMinDist*
 Описание
@@ -60,7 +57,6 @@ protected override int GetMinDist(int x, int y)
  *Описание*  
 
 
-***                
 
 ## *InObject*
 Описание
@@ -69,7 +65,6 @@ protected override int GetMinDist(int x, int y)
 protected override bool InObject(int x, int y)
 ```
 
-***                
 
 ## *TriangleObject*
 Описание
@@ -78,10 +73,7 @@ protected override bool InObject(int x, int y)
 public TriangleObject()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -89,5 +81,4 @@ public TriangleObject()
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

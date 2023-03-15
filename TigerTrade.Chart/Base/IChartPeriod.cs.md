@@ -25,8 +25,6 @@ public interface IChartPeriod
 
 
 
-***  
-***  
 # Методы
 
 ## *GetSequence*
@@ -49,7 +47,6 @@ int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double ti
  *Описание*  
 
 
-***                
 
 ## *GetSequence*
 Описание
@@ -75,10 +72,7 @@ int GetSequence(ChartPeriodType type, int interval, double dateTime, double time
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Interval*
 Описание
@@ -86,7 +80,6 @@ int GetSequence(ChartPeriodType type, int interval, double dateTime, double time
 ```csharp
 int Interval { get; }
 ```
-***
 
 ## *Type*
 Описание
@@ -94,5 +87,4 @@ int Interval { get; }
 ```csharp
 ChartPeriodType Type { get; }
 ```
-***
 

@@ -35,8 +35,6 @@ public sealed class RawClusterItem : IRawClusterItem
 
 
 
-***  
-***  
 # Методы
 
 ## *Add*
@@ -50,7 +48,6 @@ public void Add(IRawClusterItem item)
  *Описание*  
 
 
-***                
 
 ## *RawClusterItem*
 Описание
@@ -62,7 +59,6 @@ public RawClusterItem(long price)
  *Описание*  
 
 
-***                
 
 ## *RawClusterItem*
 Описание
@@ -78,10 +74,7 @@ public RawClusterItem(IRawClusterItem item)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Ask*
 Описание
@@ -89,7 +82,6 @@ public RawClusterItem(IRawClusterItem item)
 ```csharp
 public long Ask { get; set; }
 ```
-***
 
 ## *AskTrades*
 Описание
@@ -97,7 +89,6 @@ public long Ask { get; set; }
 ```csharp
 public int AskTrades { get; set; }
 ```
-***
 
 ## *Bid*
 Описание
@@ -105,7 +96,6 @@ public int AskTrades { get; set; }
 ```csharp
 public long Bid { get; set; }
 ```
-***
 
 ## *BidTrades*
 Описание
@@ -113,7 +103,6 @@ public long Bid { get; set; }
 ```csharp
 public int BidTrades { get; set; }
 ```
-***
 
 ## *Delta*
 Описание
@@ -121,7 +110,6 @@ public int BidTrades { get; set; }
 ```csharp
 public long Delta { get; }
 ```
-***
 
 ## *OpenPos*
 Описание
@@ -129,7 +117,6 @@ public long Delta { get; }
 ```csharp
 public long OpenPos { get; }
 ```
-***
 
 ## *OpenPosAsk*
 Описание
@@ -137,7 +124,6 @@ public long OpenPos { get; }
 ```csharp
 public long OpenPosAsk { get; set; }
 ```
-***
 
 ## *OpenPosBid*
 Описание
@@ -145,7 +131,6 @@ public long OpenPosAsk { get; set; }
 ```csharp
 public long OpenPosBid { get; set; }
 ```
-***
 
 ## *Price*
 Описание
@@ -153,7 +138,6 @@ public long OpenPosBid { get; set; }
 ```csharp
 public long Price { get; set; }
 ```
-***
 
 ## *Trades*
 Описание
@@ -161,7 +145,6 @@ public long Price { get; set; }
 ```csharp
 public int Trades { get; }
 ```
-***
 
 ## *Volume*
 Описание
@@ -169,5 +152,4 @@ public int Trades { get; }
 ```csharp
 public long Volume { get; }
 ```
-***
 

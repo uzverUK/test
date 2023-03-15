@@ -26,9 +26,7 @@ public interface IChartClusterMaxValues
 
 
 
-            ***
-  ***
-  # Свойства
+            # Свойства
 
 ## *MaxAsk*
 Описание
@@ -36,7 +34,6 @@ public interface IChartClusterMaxValues
 ```csharp
 Decimal MaxAsk { get; }
 ```
-***
 
 ## *MaxBid*
 Описание
@@ -44,7 +41,6 @@ Decimal MaxAsk { get; }
 ```csharp
 Decimal MaxBid { get; }
 ```
-***
 
 ## *MaxDelta*
 Описание
@@ -52,7 +48,6 @@ Decimal MaxBid { get; }
 ```csharp
 Decimal MaxDelta { get; }
 ```
-***
 
 ## *MaxOpenPos*
 Описание
@@ -60,7 +55,6 @@ Decimal MaxDelta { get; }
 ```csharp
 long MaxOpenPos { get; }
 ```
-***
 
 ## *MaxTrades*
 Описание
@@ -68,7 +62,6 @@ long MaxOpenPos { get; }
 ```csharp
 int MaxTrades { get; }
 ```
-***
 
 ## *MaxVolume*
 Описание
@@ -76,7 +69,6 @@ int MaxTrades { get; }
 ```csharp
 Decimal MaxVolume { get; }
 ```
-***
 
 ## *MinDelta*
 Описание
@@ -84,7 +76,6 @@ Decimal MaxVolume { get; }
 ```csharp
 Decimal MinDelta { get; }
 ```
-***
 
 ## *MinOpenPos*
 Описание
@@ -92,7 +83,6 @@ Decimal MinDelta { get; }
 ```csharp
 long MinOpenPos { get; }
 ```
-***
 
 ## *Poc*
 Описание
@@ -100,5 +90,4 @@ long MinOpenPos { get; }
 ```csharp
 Decimal Poc { get; }
 ```
-***
 

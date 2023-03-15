@@ -41,9 +41,7 @@ public interface IRawSecurity
 
 
 
-            ***
-  ***
-  # Свойства
+            # Свойства
 
 ## *AskPrice*
 Описание
@@ -51,7 +49,6 @@ public interface IRawSecurity
 ```csharp
 long AskPrice { get; }
 ```
-***
 
 ## *AskSize*
 Описание
@@ -59,7 +56,6 @@ long AskPrice { get; }
 ```csharp
 long AskSize { get; }
 ```
-***
 
 ## *AskTime*
 Описание
@@ -67,7 +63,6 @@ long AskSize { get; }
 ```csharp
 DateTime AskTime { get; }
 ```
-***
 
 ## *BidDepthT*
 Описание
@@ -75,7 +70,6 @@ DateTime AskTime { get; }
 ```csharp
 long BidDepthT { get; }
 ```
-***
 
 ## *BidPrice*
 Описание
@@ -83,7 +77,6 @@ long BidDepthT { get; }
 ```csharp
 long BidPrice { get; }
 ```
-***
 
 ## *BidSize*
 Описание
@@ -91,7 +84,6 @@ long BidPrice { get; }
 ```csharp
 long BidSize { get; }
 ```
-***
 
 ## *BidTime*
 Описание
@@ -99,7 +91,6 @@ long BidSize { get; }
 ```csharp
 DateTime BidTime { get; }
 ```
-***
 
 ## *ClosePrice*
 Описание
@@ -107,7 +98,6 @@ DateTime BidTime { get; }
 ```csharp
 double ClosePrice { get; }
 ```
-***
 
 ## *HighPrice*
 Описание
@@ -115,7 +105,6 @@ double ClosePrice { get; }
 ```csharp
 double HighPrice { get; }
 ```
-***
 
 ## *LastPrice*
 Описание
@@ -123,7 +112,6 @@ double HighPrice { get; }
 ```csharp
 long LastPrice { get; }
 ```
-***
 
 ## *LastSize*
 Описание
@@ -131,7 +119,6 @@ long LastPrice { get; }
 ```csharp
 long LastSize { get; }
 ```
-***
 
 ## *LastTime*
 Описание
@@ -139,7 +126,6 @@ long LastSize { get; }
 ```csharp
 DateTime LastTime { get; }
 ```
-***
 
 ## *LowPrice*
 Описание
@@ -147,7 +133,6 @@ DateTime LastTime { get; }
 ```csharp
 double LowPrice { get; }
 ```
-***
 
 ## *MarginBuy*
 Описание
@@ -155,7 +140,6 @@ double LowPrice { get; }
 ```csharp
 double MarginBuy { get; }
 ```
-***
 
 ## *MarginSell*
 Описание
@@ -163,7 +147,6 @@ double MarginBuy { get; }
 ```csharp
 double MarginSell { get; }
 ```
-***
 
 ## *NumBids*
 Описание
@@ -171,7 +154,6 @@ double MarginSell { get; }
 ```csharp
 long NumBids { get; }
 ```
-***
 
 ## *NumOffers*
 Описание
@@ -179,7 +161,6 @@ long NumBids { get; }
 ```csharp
 long NumOffers { get; }
 ```
-***
 
 ## *OfferDepthT*
 Описание
@@ -187,7 +168,6 @@ long NumOffers { get; }
 ```csharp
 long OfferDepthT { get; }
 ```
-***
 
 ## *OpenInt*
 Описание
@@ -195,7 +175,6 @@ long OfferDepthT { get; }
 ```csharp
 long OpenInt { get; }
 ```
-***
 
 ## *OpenPrice*
 Описание
@@ -203,7 +182,6 @@ long OpenInt { get; }
 ```csharp
 double OpenPrice { get; }
 ```
-***
 
 ## *PriceMax*
 Описание
@@ -211,7 +189,6 @@ double OpenPrice { get; }
 ```csharp
 double PriceMax { get; }
 ```
-***
 
 ## *PriceMin*
 Описание
@@ -219,7 +196,6 @@ double PriceMax { get; }
 ```csharp
 double PriceMin { get; }
 ```
-***
 
 ## *Trades*
 Описание
@@ -227,7 +203,6 @@ double PriceMin { get; }
 ```csharp
 long Trades { get; }
 ```
-***
 
 ## *Volume*
 Описание
@@ -235,5 +210,4 @@ long Trades { get; }
 ```csharp
 long Volume { get; }
 ```
-***
 

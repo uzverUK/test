@@ -45,8 +45,6 @@ public sealed class PriceRangeObject : PolygonObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CQTqeP3bJqxWKjH4hGUt*
@@ -56,7 +54,6 @@ public sealed class PriceRangeObject : PolygonObjectBase
 public CQTqeP3bJqxWKjH4hGUt()
 ```
 
-***                
 
 ## *CheckAlert*
 Описание
@@ -65,7 +62,6 @@ public CQTqeP3bJqxWKjH4hGUt()
 public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> indicators)
 ```
 
-***                
 
 ## *CopyTemplate*
 Описание
@@ -81,7 +77,6 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
-***                
 
 ## *Draw*
 Описание
@@ -96,7 +91,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *DrawControlPoints*
 Описание
@@ -105,7 +99,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 public override void DrawControlPoints(DxVisualQueue visual)
 ```
 
-***                
 
 ## *GetControlPoint*
 Описание
@@ -121,7 +114,6 @@ public override int GetControlPoint(int x, int y)
  *Описание*  
 
 
-***                
 
 ## *InObject*
 Описание
@@ -130,7 +122,6 @@ public override int GetControlPoint(int x, int y)
 protected override bool InObject(int x, int y)
 ```
 
-***                
 
 ## *IsObjectOnChart*
 Описание
@@ -139,7 +130,6 @@ protected override bool InObject(int x, int y)
 protected override bool IsObjectOnChart()
 ```
 
-***                
 
 ## *PriceRangeObject*
 Описание
@@ -148,10 +138,7 @@ protected override bool IsObjectOnChart()
 public PriceRangeObject()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Alert*
 Описание
@@ -159,7 +146,6 @@ public PriceRangeObject()
 ```csharp
 public ChartAlertSettings Alert { get; set; }
 ```
-***
 
 ## *ByT3bF65jIi;*
 Описание
@@ -167,7 +153,6 @@ public ChartAlertSettings Alert { get; set; }
 ```csharp
 public Point ByT3bF65jIi; {}
 ```
-***
 
 ## *Center;*
 Описание
@@ -175,7 +160,6 @@ public Point ByT3bF65jIi; {}
 ```csharp
 public Point Center; {}
 ```
-***
 
 ## *FontSize*
 Описание
@@ -183,7 +167,6 @@ public Point Center; {}
 ```csharp
 public int FontSize { get; set; }
 ```
-***
 
 ## *PhT3bdqjeim;*
 Описание
@@ -191,7 +174,6 @@ public int FontSize { get; set; }
 ```csharp
 public Point PhT3bdqjeim; {}
 ```
-***
 
 ## *Price1*
 Описание
@@ -199,7 +181,6 @@ public Point PhT3bdqjeim; {}
 ```csharp
 public Decimal Price1 { get; set; }
 ```
-***
 
 ## *Price2*
 Описание
@@ -207,7 +188,6 @@ public Decimal Price1 { get; set; }
 ```csharp
 public Decimal Price2 { get; set; }
 ```
-***
 
 ## *Text*
 Описание
@@ -215,7 +195,6 @@ public Decimal Price2 { get; set; }
 ```csharp
 public string Text { get; set; }
 ```
-***
 
 ## *TextAlignment*
 Описание
@@ -223,7 +202,6 @@ public string Text { get; set; }
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
 ```
-***
 
 ## *VML3bztEtWe;*
 Описание
@@ -231,7 +209,6 @@ public ObjectTextAlignment TextAlignment { get; set; }
 ```csharp
 public Rect VML3bztEtWe; {}
 ```
-***
 
 ## *cjH3RyrD3YP;*
 Описание
@@ -239,7 +216,6 @@ public Rect VML3bztEtWe; {}
 ```csharp
 public double cjH3RyrD3YP; {}
 ```
-***
 
 ## *jjL3RqnWW1s;*
 Описание
@@ -247,7 +223,6 @@ public double cjH3RyrD3YP; {}
 ```csharp
 public double jjL3RqnWW1s; {}
 ```
-***
 
 ## *vcu3bCSJvax;*
 Описание
@@ -255,7 +230,6 @@ public double jjL3RqnWW1s; {}
 ```csharp
 public Rect vcu3bCSJvax; {}
 ```
-***
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -263,5 +237,4 @@ public Rect vcu3bCSJvax; {}
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

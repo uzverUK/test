@@ -25,8 +25,6 @@ public sealed class IndicatorTitleInfo
 
 
 
-***  
-***  
 # Методы
 
 ## *IndicatorTitleInfo*
@@ -43,7 +41,6 @@ public IndicatorTitleInfo(string title, XBrush brush)
  *Описание*  
 
 
-***                
 
 ## *IndicatorTitleInfo*
 Описание
@@ -63,10 +60,7 @@ public IndicatorTitleInfo(string title, XColor color)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Brush*
 Описание
@@ -74,7 +68,6 @@ public IndicatorTitleInfo(string title, XColor color)
 ```csharp
 public XBrush Brush { get; }
 ```
-***
 
 ## *Title*
 Описание
@@ -82,5 +75,4 @@ public XBrush Brush { get; }
 ```csharp
 public string Title { get; }
 ```
-***
 

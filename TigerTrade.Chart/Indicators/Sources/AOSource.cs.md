@@ -30,8 +30,6 @@ public sealed class AOSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *AOSource*
@@ -41,7 +39,6 @@ public sealed class AOSource : IndicatorSourceBase
 public AOSource()
 ```
 
-***                
 
 ## *CopySettings*
 Описание
@@ -54,7 +51,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -66,7 +62,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -78,7 +73,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -87,10 +81,7 @@ public override IEnumerable<string> GetSeriesList()
 public override string ToString()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *LongPeriod*
 Описание
@@ -98,7 +89,6 @@ public override string ToString()
 ```csharp
 public int LongPeriod { get; set; }
 ```
-***
 
 ## *MaType*
 Описание
@@ -106,7 +96,6 @@ public int LongPeriod { get; set; }
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
-***
 
 ## *ShortPeriod*
 Описание
@@ -114,5 +103,4 @@ public IndicatorMaType MaType { get; set; }
 ```csharp
 public int ShortPeriod { get; set; }
 ```
-***
 

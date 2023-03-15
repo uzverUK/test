@@ -28,9 +28,7 @@ public interface IRawClusterItem
 
 
 
-            ***
-  ***
-  # Свойства
+            # Свойства
 
 ## *Ask*
 Описание
@@ -38,7 +36,6 @@ public interface IRawClusterItem
 ```csharp
 long Ask { get; }
 ```
-***
 
 ## *AskTrades*
 Описание
@@ -46,7 +43,6 @@ long Ask { get; }
 ```csharp
 int AskTrades { get; }
 ```
-***
 
 ## *Bid*
 Описание
@@ -54,7 +50,6 @@ int AskTrades { get; }
 ```csharp
 long Bid { get; }
 ```
-***
 
 ## *BidTrades*
 Описание
@@ -62,7 +57,6 @@ long Bid { get; }
 ```csharp
 int BidTrades { get; }
 ```
-***
 
 ## *Delta*
 Описание
@@ -70,7 +64,6 @@ int BidTrades { get; }
 ```csharp
 long Delta { get; }
 ```
-***
 
 ## *OpenPos*
 Описание
@@ -78,7 +71,6 @@ long Delta { get; }
 ```csharp
 long OpenPos { get; }
 ```
-***
 
 ## *OpenPosAsk*
 Описание
@@ -86,7 +78,6 @@ long OpenPos { get; }
 ```csharp
 long OpenPosAsk { get; }
 ```
-***
 
 ## *OpenPosBid*
 Описание
@@ -94,7 +85,6 @@ long OpenPosAsk { get; }
 ```csharp
 long OpenPosBid { get; }
 ```
-***
 
 ## *Price*
 Описание
@@ -102,7 +92,6 @@ long OpenPosBid { get; }
 ```csharp
 long Price { get; }
 ```
-***
 
 ## *Trades*
 Описание
@@ -110,7 +99,6 @@ long Price { get; }
 ```csharp
 int Trades { get; }
 ```
-***
 
 ## *Volume*
 Описание
@@ -118,5 +106,4 @@ int Trades { get; }
 ```csharp
 long Volume { get; }
 ```
-***
 

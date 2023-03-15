@@ -40,8 +40,6 @@ public sealed class RulerObject : LineObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *ApplyTheme*
@@ -55,7 +53,6 @@ public override void ApplyTheme(IChartTheme theme)
  *Описание*  
 
 
-***                
 
 ## *CopyTemplate*
 Описание
@@ -70,7 +67,6 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
-***                
 
 ## *Draw*
 Описание
@@ -85,7 +81,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *InObject*
 Описание
@@ -100,7 +95,6 @@ protected override bool InObject(int x, int y)
  *Описание*  
 
 
-***                
 
 ## *PrettyFormatTimeSpan*
 Описание
@@ -112,7 +106,6 @@ public string PrettyFormatTimeSpan(TimeSpan span)
  *Описание*  
 
 
-***                
 
 ## *RulerObject*
 Описание
@@ -121,10 +114,7 @@ public string PrettyFormatTimeSpan(TimeSpan span)
 public RulerObject()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *ShowInfoAsk*
 Описание
@@ -132,7 +122,6 @@ public RulerObject()
 ```csharp
 public bool ShowInfoAsk { get; set; }
 ```
-***
 
 ## *ShowInfoBars*
 Описание
@@ -140,7 +129,6 @@ public bool ShowInfoAsk { get; set; }
 ```csharp
 public bool ShowInfoBars { get; set; }
 ```
-***
 
 ## *ShowInfoBid*
 Описание
@@ -148,7 +136,6 @@ public bool ShowInfoBars { get; set; }
 ```csharp
 public bool ShowInfoBid { get; set; }
 ```
-***
 
 ## *ShowInfoChange*
 Описание
@@ -156,7 +143,6 @@ public bool ShowInfoBid { get; set; }
 ```csharp
 public bool ShowInfoChange { get; set; }
 ```
-***
 
 ## *ShowInfoDelta*
 Описание
@@ -164,7 +150,6 @@ public bool ShowInfoChange { get; set; }
 ```csharp
 public bool ShowInfoDelta { get; set; }
 ```
-***
 
 ## *ShowInfoPrice*
 Описание
@@ -172,7 +157,6 @@ public bool ShowInfoDelta { get; set; }
 ```csharp
 public bool ShowInfoPrice { get; set; }
 ```
-***
 
 ## *ShowInfoTicks*
 Описание
@@ -180,7 +164,6 @@ public bool ShowInfoPrice { get; set; }
 ```csharp
 public bool ShowInfoTicks { get; set; }
 ```
-***
 
 ## *ShowInfoTime*
 Описание
@@ -188,7 +171,6 @@ public bool ShowInfoTicks { get; set; }
 ```csharp
 public bool ShowInfoTime { get; set; }
 ```
-***
 
 ## *ShowInfoTrades*
 Описание
@@ -196,7 +178,6 @@ public bool ShowInfoTime { get; set; }
 ```csharp
 public bool ShowInfoTrades { get; set; }
 ```
-***
 
 ## *ShowInfoVolume*
 Описание
@@ -204,7 +185,6 @@ public bool ShowInfoTrades { get; set; }
 ```csharp
 public bool ShowInfoVolume { get; set; }
 ```
-***
 
 ## *TextColor*
 Описание
@@ -212,7 +192,6 @@ public bool ShowInfoVolume { get; set; }
 ```csharp
 public XColor TextColor { get; set; }
 ```
-***
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -220,5 +199,4 @@ public XColor TextColor { get; set; }
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

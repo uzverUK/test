@@ -31,8 +31,6 @@ public sealed class PriceOscillatorSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CopySettings*
@@ -46,7 +44,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -58,7 +55,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -70,7 +66,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *PriceOscillatorSource*
 Описание
@@ -79,7 +74,6 @@ public override IEnumerable<string> GetSeriesList()
 public PriceOscillatorSource()
 ```
 
-***                
 
 ## *ToString*
 Описание
@@ -92,10 +86,7 @@ public override string ToString()
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *LongPeriod*
 Описание
@@ -103,7 +94,6 @@ public override string ToString()
 ```csharp
 public int LongPeriod { get; set; }
 ```
-***
 
 ## *MaType*
 Описание
@@ -111,7 +101,6 @@ public int LongPeriod { get; set; }
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
-***
 
 ## *ShortPeriod*
 Описание
@@ -119,7 +108,6 @@ public IndicatorMaType MaType { get; set; }
 ```csharp
 public int ShortPeriod { get; set; }
 ```
-***
 
 ## *Source*
 Описание
@@ -127,5 +115,4 @@ public int ShortPeriod { get; set; }
 ```csharp
 public IndicatorSourceBase Source { get; set; }
 ```
-***
 

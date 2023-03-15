@@ -31,8 +31,6 @@ public sealed class BrushObject : LineObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *AddPoint*
@@ -46,7 +44,6 @@ public void AddPoint(ObjectPoint op)
  *Описание*  
 
 
-***                
 
 ## *ApplyTheme*
 Описание
@@ -58,7 +55,6 @@ public override void ApplyTheme(IChartTheme theme)
  *Описание*  
 
 
-***                
 
 ## *BrushObject*
 Описание
@@ -67,7 +63,6 @@ public override void ApplyTheme(IChartTheme theme)
 public BrushObject()
 ```
 
-***                
 
 ## *CopyTemplate*
 Описание
@@ -83,7 +78,6 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
-***                
 
 ## *Draw*
 Описание
@@ -98,7 +92,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *GetMinDist*
 Описание
@@ -113,7 +106,6 @@ protected override int GetMinDist(int x, int y)
  *Описание*  
 
 
-***                
 
 ## *InObject*
 Описание
@@ -122,10 +114,7 @@ protected override int GetMinDist(int x, int y)
 protected override bool InObject(int x, int y)
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Points*
 Описание
@@ -133,7 +122,6 @@ protected override bool InObject(int x, int y)
 ```csharp
 public System.Collections.Generic.List<ObjectPoint> Points { get; set; }
 ```
-***
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -141,5 +129,4 @@ public System.Collections.Generic.List<ObjectPoint> Points { get; set; }
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

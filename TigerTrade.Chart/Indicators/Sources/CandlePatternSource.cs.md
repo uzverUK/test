@@ -30,8 +30,6 @@ public sealed class CandlePatternSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CandlePatternSource*
@@ -41,7 +39,6 @@ public sealed class CandlePatternSource : IndicatorSourceBase
 public CandlePatternSource()
 ```
 
-***                
 
 ## *CopySettings*
 Описание
@@ -54,7 +51,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -66,7 +62,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -78,7 +73,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *SearchPattern*
 Описание
@@ -93,7 +87,6 @@ public double[] SearchPattern(IndicatorsHelper helper, CandlePatternSourcePatter
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -102,10 +95,7 @@ public double[] SearchPattern(IndicatorsHelper helper, CandlePatternSourcePatter
 public override string ToString()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *PatternType*
 Описание
@@ -113,7 +103,6 @@ public override string ToString()
 ```csharp
 public CandlePatternSourcePatternType PatternType { get; set; }
 ```
-***
 
 ## *Penetration*
 Описание
@@ -121,5 +110,4 @@ public CandlePatternSourcePatternType PatternType { get; set; }
 ```csharp
 public double Penetration { get; set; }
 ```
-***
 

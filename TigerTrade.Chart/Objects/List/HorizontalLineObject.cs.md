@@ -38,8 +38,6 @@ public class HorizontalLineObject : LineObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CheckAlert*
@@ -49,7 +47,6 @@ public class HorizontalLineObject : LineObjectBase
 public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> indicators)
 ```
 
-***                
 
 ## *CopyTemplate*
 Описание
@@ -65,7 +62,6 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
-***                
 
 ## *Draw*
 Описание
@@ -80,7 +76,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *DrawControlPoints*
 Описание
@@ -89,7 +84,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 public override void DrawControlPoints(DxVisualQueue visual)
 ```
 
-***                
 
 ## *DrawText*
 Описание
@@ -102,7 +96,6 @@ protected void DrawText(DxVisualQueue visual)
  *Описание*  
 
 
-***                
 
 ## *HorizontalLineObject*
 Описание
@@ -111,7 +104,6 @@ protected void DrawText(DxVisualQueue visual)
 public HorizontalLineObject()
 ```
 
-***                
 
 ## *InObject*
 Описание
@@ -127,7 +119,6 @@ protected override bool InObject(int x, int y)
  *Описание*  
 
 
-***                
 
 ## *IsObjectOnChart*
 Описание
@@ -136,10 +127,7 @@ protected override bool InObject(int x, int y)
 protected override bool IsObjectOnChart()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Alert*
 Описание
@@ -147,7 +135,6 @@ protected override bool IsObjectOnChart()
 ```csharp
 public ChartAlertSettings Alert { get; set; }
 ```
-***
 
 ## *AlertMinDistance*
 Описание
@@ -155,7 +142,6 @@ public ChartAlertSettings Alert { get; set; }
 ```csharp
 public int AlertMinDistance { get; set; }
 ```
-***
 
 ## *FontSize*
 Описание
@@ -163,7 +149,6 @@ public int AlertMinDistance { get; set; }
 ```csharp
 public int FontSize { get; set; }
 ```
-***
 
 ## *LineRect;*
 Описание
@@ -171,7 +156,6 @@ public int FontSize { get; set; }
 ```csharp
 protected Rect LineRect; {}
 ```
-***
 
 ## *Price*
 Описание
@@ -179,7 +163,6 @@ protected Rect LineRect; {}
 ```csharp
 public Decimal Price { get; set; }
 ```
-***
 
 ## *Text*
 Описание
@@ -187,7 +170,6 @@ public Decimal Price { get; set; }
 ```csharp
 public string Text { get; set; }
 ```
-***
 
 ## *TextAlignment*
 Описание
@@ -195,7 +177,6 @@ public string Text { get; set; }
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
 ```
-***
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -203,5 +184,4 @@ public ObjectTextAlignment TextAlignment { get; set; }
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

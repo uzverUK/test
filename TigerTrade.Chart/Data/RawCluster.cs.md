@@ -54,8 +54,6 @@ public sealed class RawCluster : IRawCluster
 
 
 
-***  
-***  
 # Методы
 
 ## *AddCluster*
@@ -69,7 +67,6 @@ public void AddCluster(IRawCluster cluster)
  *Описание*  
 
 
-***                
 
 ## *AddItem*
 Описание
@@ -81,7 +78,6 @@ public void AddItem(IRawClusterItem item)
  *Описание*  
 
 
-***                
 
 ## *AddTick*
 Описание
@@ -96,7 +92,6 @@ public void AddTick(IRawTick tick, int scale)
  *Описание*  
 
 
-***                
 
 ## *GetItem*
 Описание
@@ -108,7 +103,6 @@ public IRawClusterItem GetItem(long price)
  *Описание*  
 
 
-***                
 
 ## *GetValueArea*
 Описание
@@ -120,7 +114,6 @@ public IRawClusterValueArea GetValueArea(int valueArea)
  *Описание*  
 
 
-***                
 
 ## *RawCluster*
 Описание
@@ -132,7 +125,6 @@ public RawCluster(DateTime time)
  *Описание*  
 
 
-***                
 
 ## *UpdateData*
 Описание
@@ -141,10 +133,7 @@ public RawCluster(DateTime time)
 public void UpdateData()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Ask*
 Описание
@@ -152,7 +141,6 @@ public void UpdateData()
 ```csharp
 public long Ask { get; private set; }
 ```
-***
 
 ## *AskTrades*
 Описание
@@ -160,7 +148,6 @@ public long Ask { get; private set; }
 ```csharp
 public int AskTrades { get; private set; }
 ```
-***
 
 ## *Bid*
 Описание
@@ -168,7 +155,6 @@ public int AskTrades { get; private set; }
 ```csharp
 public long Bid { get; private set; }
 ```
-***
 
 ## *BidTrades*
 Описание
@@ -176,7 +162,6 @@ public long Bid { get; private set; }
 ```csharp
 public int BidTrades { get; private set; }
 ```
-***
 
 ## *Close*
 Описание
@@ -184,7 +169,6 @@ public int BidTrades { get; private set; }
 ```csharp
 public long Close { get; set; }
 ```
-***
 
 ## *CloseTime*
 Описание
@@ -192,7 +176,6 @@ public long Close { get; set; }
 ```csharp
 public DateTime CloseTime { get; private set; }
 ```
-***
 
 ## *Delta*
 Описание
@@ -200,7 +183,6 @@ public DateTime CloseTime { get; private set; }
 ```csharp
 public long Delta { get; }
 ```
-***
 
 ## *DeltaHigh*
 Описание
@@ -208,7 +190,6 @@ public long Delta { get; }
 ```csharp
 public long DeltaHigh { get; private set; }
 ```
-***
 
 ## *DeltaLow*
 Описание
@@ -216,7 +197,6 @@ public long DeltaHigh { get; private set; }
 ```csharp
 public long DeltaLow { get; private set; }
 ```
-***
 
 ## *High*
 Описание
@@ -224,7 +204,6 @@ public long DeltaLow { get; private set; }
 ```csharp
 public long High { get; set; }
 ```
-***
 
 ## *IsUp*
 Описание
@@ -232,7 +211,6 @@ public long High { get; set; }
 ```csharp
 public bool IsUp { get; set; }
 ```
-***
 
 ## *Items*
 Описание
@@ -240,7 +218,6 @@ public bool IsUp { get; set; }
 ```csharp
 public List<IRawClusterItem> Items { get; }
 ```
-***
 
 ## *Low*
 Описание
@@ -248,7 +225,6 @@ public List<IRawClusterItem> Items { get; }
 ```csharp
 public long Low { get; set; }
 ```
-***
 
 ## *MaxValues*
 Описание
@@ -256,7 +232,6 @@ public long Low { get; set; }
 ```csharp
 public IRawClusterMaxValues MaxValues { get; }
 ```
-***
 
 ## *Open*
 Описание
@@ -264,7 +239,6 @@ public IRawClusterMaxValues MaxValues { get; }
 ```csharp
 public long Open { get; set; }
 ```
-***
 
 ## *OpenPos*
 Описание
@@ -272,7 +246,6 @@ public long Open { get; set; }
 ```csharp
 public long OpenPos { get; private set; }
 ```
-***
 
 ## *OpenPosAskChg*
 Описание
@@ -280,7 +253,6 @@ public long OpenPos { get; private set; }
 ```csharp
 public long OpenPosAskChg { get; private set; }
 ```
-***
 
 ## *OpenPosBidChg*
 Описание
@@ -288,7 +260,6 @@ public long OpenPosAskChg { get; private set; }
 ```csharp
 public long OpenPosBidChg { get; private set; }
 ```
-***
 
 ## *OpenPosChg*
 Описание
@@ -296,7 +267,6 @@ public long OpenPosBidChg { get; private set; }
 ```csharp
 public long OpenPosChg { get; }
 ```
-***
 
 ## *OpenPosHigh*
 Описание
@@ -304,7 +274,6 @@ public long OpenPosChg { get; }
 ```csharp
 public long OpenPosHigh { get; private set; }
 ```
-***
 
 ## *OpenPosLow*
 Описание
@@ -312,7 +281,6 @@ public long OpenPosHigh { get; private set; }
 ```csharp
 public long OpenPosLow { get; private set; }
 ```
-***
 
 ## *OpenTime*
 Описание
@@ -320,7 +288,6 @@ public long OpenPosLow { get; private set; }
 ```csharp
 public DateTime OpenTime { get; private set; }
 ```
-***
 
 ## *Time*
 Описание
@@ -328,7 +295,6 @@ public DateTime OpenTime { get; private set; }
 ```csharp
 public DateTime Time { get; }
 ```
-***
 
 ## *Trades*
 Описание
@@ -336,7 +302,6 @@ public DateTime Time { get; }
 ```csharp
 public int Trades { get; }
 ```
-***
 
 ## *Volume*
 Описание
@@ -344,5 +309,4 @@ public int Trades { get; }
 ```csharp
 public long Volume { get; }
 ```
-***
 

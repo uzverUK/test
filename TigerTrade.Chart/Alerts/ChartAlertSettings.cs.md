@@ -43,8 +43,6 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 
 
 
-***  
-***  
 # Методы
 
 ## *ChartAlertSettings*
@@ -54,7 +52,6 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 public ChartAlertSettings()
 ```
 
-***                
 
 ## *Copy*
 Описание
@@ -70,7 +67,6 @@ public void Copy(ChartAlertSettings alert, bool copyActive = false)
  *Описание*  
 
 
-***                
 
 ## *Equals*
 Описание
@@ -82,7 +78,6 @@ public bool Equals(ChartAlertSettings other)
  *Описание*  
 
 
-***                
 
 ## *GetHashCode*
 Описание
@@ -91,10 +86,7 @@ public bool Equals(ChartAlertSettings other)
 public override int GetHashCode()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Active*
 Описание
@@ -102,7 +94,6 @@ public override int GetHashCode()
 ```csharp
 public bool Active { get; set; }
 ```
-***
 
 ## *Duration*
 Описание
@@ -110,7 +101,6 @@ public bool Active { get; set; }
 ```csharp
 public ChartAlertPlayDuration Duration { get; set; }
 ```
-***
 
 ## *Execution*
 Описание
@@ -118,7 +108,6 @@ public ChartAlertPlayDuration Duration { get; set; }
 ```csharp
 public ChartAlertExecution Execution { get; set; }
 ```
-***
 
 ## *Expiration*
 Описание
@@ -126,7 +115,6 @@ public ChartAlertExecution Execution { get; set; }
 ```csharp
 public DateTime? Expiration { get; set; }
 ```
-***
 
 ## *IsActive*
 Описание
@@ -134,7 +122,6 @@ public DateTime? Expiration { get; set; }
 ```csharp
 public bool IsActive { get; }
 ```
-***
 
 ## *Log*
 Описание
@@ -142,7 +129,6 @@ public bool IsActive { get; }
 ```csharp
 public bool Log { get; set; }
 ```
-***
 
 ## *Message*
 Описание
@@ -150,7 +136,6 @@ public bool Log { get; set; }
 ```csharp
 public string Message { get; set; }
 ```
-***
 
 ## *PlaySound*
 Описание
@@ -158,7 +143,6 @@ public string Message { get; set; }
 ```csharp
 public bool PlaySound { get; set; }
 ```
-***
 
 ## *SendEmail*
 Описание
@@ -166,7 +150,6 @@ public bool PlaySound { get; set; }
 ```csharp
 public bool SendEmail { get; set; }
 ```
-***
 
 ## *SendTelegram*
 Описание
@@ -174,7 +157,6 @@ public bool SendEmail { get; set; }
 ```csharp
 public bool SendTelegram { get; set; }
 ```
-***
 
 ## *ShowPopup*
 Описание
@@ -182,7 +164,6 @@ public bool SendTelegram { get; set; }
 ```csharp
 public bool ShowPopup { get; set; }
 ```
-***
 
 ## *Signal*
 Описание
@@ -190,10 +171,7 @@ public bool ShowPopup { get; set; }
 ```csharp
 public string Signal { get; set; }
 ```
-***
-***
-  ***
-  # События
+# События
 
 ## *PropertyChanged*
 Описание
@@ -201,7 +179,4 @@ public string Signal { get; set; }
 ```csharp
 public event PropertyChangedEventHandler PropertyChanged
 ```
-***
-___
----
 

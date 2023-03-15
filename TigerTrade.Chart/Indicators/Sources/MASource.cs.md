@@ -30,8 +30,6 @@ public sealed class MASource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CopySettings*
@@ -45,7 +43,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -57,7 +54,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -69,7 +65,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *MASource*
 Описание
@@ -78,7 +73,6 @@ public override IEnumerable<string> GetSeriesList()
 public MASource()
 ```
 
-***                
 
 ## *ToString*
 Описание
@@ -87,10 +81,7 @@ public MASource()
 public override string ToString()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *MaType*
 Описание
@@ -98,7 +89,6 @@ public override string ToString()
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
-***
 
 ## *Period*
 Описание
@@ -106,7 +96,6 @@ public IndicatorMaType MaType { get; set; }
 ```csharp
 public int Period { get; set; }
 ```
-***
 
 ## *Source*
 Описание
@@ -114,5 +103,4 @@ public int Period { get; set; }
 ```csharp
 public IndicatorSourceBase Source { get; set; }
 ```
-***
 

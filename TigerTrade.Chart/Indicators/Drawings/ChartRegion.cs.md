@@ -32,8 +32,6 @@ public sealed class ChartRegion : INotifyPropertyChanged
 
 
 
-***  
-***  
 # Методы
 
 ## *ChartRegion*
@@ -43,7 +41,6 @@ public sealed class ChartRegion : INotifyPropertyChanged
 public ChartRegion()
 ```
 
-***                
 
 ## *ChartRegion*
 Описание
@@ -57,7 +54,6 @@ public ChartRegion(XColor color)
  *Описание*  
 
 
-***                
 
 ## *CopyTheme*
 Описание
@@ -69,7 +65,6 @@ public void CopyTheme(ChartRegion chartRegion)
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -78,10 +73,7 @@ public void CopyTheme(ChartRegion chartRegion)
 public override string ToString()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Color*
 Описание
@@ -89,7 +81,6 @@ public override string ToString()
 ```csharp
 public XColor Color { get; set; }
 ```
-***
 
 ## *Visible*
 Описание
@@ -97,10 +88,7 @@ public XColor Color { get; set; }
 ```csharp
 public bool Visible { get; set; }
 ```
-***
-***
-  ***
-  # События
+# События
 
 ## *PropertyChanged*
 Описание
@@ -108,7 +96,4 @@ public bool Visible { get; set; }
 ```csharp
 public event PropertyChangedEventHandler PropertyChanged
 ```
-***
-___
----
 

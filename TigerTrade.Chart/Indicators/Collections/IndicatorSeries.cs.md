@@ -27,8 +27,6 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 
 
 
-***  
-***  
 # Методы
 
 ## *Add*
@@ -42,7 +40,6 @@ public void Add(IndicatorSeriesData series)
  *Описание*  
 
 
-***                
 
 ## *Add*
 Описание
@@ -62,7 +59,6 @@ public void Add(IndicatorSeriesData series1, IndicatorSeriesData series2)
  *Описание*  
 
 
-***                
 
 ## *Add*
 Описание
@@ -86,7 +82,6 @@ public void Add(params IndicatorSeriesData[] series)
  *Описание*  
 
 
-***                
 
 ## *Clear*
 Описание
@@ -95,7 +90,6 @@ public void Add(params IndicatorSeriesData[] series)
 public void Clear()
 ```
 
-***                
 
 ## *GetEnumerator*
 Описание
@@ -104,7 +98,6 @@ public void Clear()
 public IEnumerator<IndicatorSeriesData> GetEnumerator()
 ```
 
-***                
 
 ## *IndicatorSeries*
 Описание
@@ -113,10 +106,7 @@ public IEnumerator<IndicatorSeriesData> GetEnumerator()
 public IndicatorSeries()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Count*
 Описание
@@ -124,5 +114,4 @@ public IndicatorSeries()
 ```csharp
 public int Count { get; }
 ```
-***
 

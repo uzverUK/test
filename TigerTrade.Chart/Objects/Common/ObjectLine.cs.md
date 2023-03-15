@@ -36,8 +36,6 @@ public sealed class ObjectLine : INotifyPropertyChanged
 
 
 
-***  
-***  
 # Методы
 
 ## *ObjectLine*
@@ -47,7 +45,6 @@ public sealed class ObjectLine : INotifyPropertyChanged
 public ObjectLine()
 ```
 
-***                
 
 ## *ObjectLine*
 Описание
@@ -64,7 +61,6 @@ public ObjectLine(double value, XColor color)
  *Описание*  
 
 
-***                
 
 ## *ObjectLine*
 Описание
@@ -85,7 +81,6 @@ public ObjectLine(ObjectLine line)
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -94,10 +89,7 @@ public ObjectLine(ObjectLine line)
 public override string ToString()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *LineBrush*
 Описание
@@ -105,7 +97,6 @@ public override string ToString()
 ```csharp
 public XBrush LineBrush { get; private set; }
 ```
-***
 
 ## *LineColor*
 Описание
@@ -113,7 +104,6 @@ public XBrush LineBrush { get; private set; }
 ```csharp
 public XColor LineColor { get; set; }
 ```
-***
 
 ## *LinePen*
 Описание
@@ -121,7 +111,6 @@ public XColor LineColor { get; set; }
 ```csharp
 public XPen LinePen { get; private set; }
 ```
-***
 
 ## *LineStyle*
 Описание
@@ -129,7 +118,6 @@ public XPen LinePen { get; private set; }
 ```csharp
 public XDashStyle LineStyle { get; set; }
 ```
-***
 
 ## *LineWidth*
 Описание
@@ -137,7 +125,6 @@ public XDashStyle LineStyle { get; set; }
 ```csharp
 public int LineWidth { get; set; }
 ```
-***
 
 ## *ShowLine*
 Описание
@@ -145,7 +132,6 @@ public int LineWidth { get; set; }
 ```csharp
 public bool ShowLine { get; set; }
 ```
-***
 
 ## *Value*
 Описание
@@ -153,10 +139,7 @@ public bool ShowLine { get; set; }
 ```csharp
 public double Value { get; set; }
 ```
-***
-***
-  ***
-  # События
+# События
 
 ## *PropertyChanged*
 Описание
@@ -164,7 +147,4 @@ public double Value { get; set; }
 ```csharp
 public event PropertyChangedEventHandler PropertyChanged
 ```
-***
-___
----
 

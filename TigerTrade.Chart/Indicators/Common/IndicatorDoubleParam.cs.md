@@ -20,8 +20,6 @@ public sealed class IndicatorDoubleParam : IndicatorParam<double>
 
 
 
-***  
-***  
 # Методы
 
 ## *IndicatorDoubleParam*
@@ -31,7 +29,6 @@ public sealed class IndicatorDoubleParam : IndicatorParam<double>
 public IndicatorDoubleParam()
 ```
 
-***                
 
 ## *IndicatorDoubleParam*
 Описание
@@ -45,7 +42,6 @@ public IndicatorDoubleParam(double value)
  *Описание*  
 
 
-***                
 
 ## *Set*
 Описание
@@ -63,5 +59,4 @@ public bool Set(string key, double value, double minValue = -1.7976931348623157E
  *Описание*  
 
 
-***                
 

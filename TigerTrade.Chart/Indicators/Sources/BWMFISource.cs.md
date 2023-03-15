@@ -23,8 +23,6 @@ public sealed class BWMFISource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *BWMFISource*
@@ -34,7 +32,6 @@ public sealed class BWMFISource : IndicatorSourceBase
 public BWMFISource()
 ```
 
-***                
 
 ## *CopySettings*
 Описание
@@ -47,7 +44,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -59,7 +55,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -71,7 +66,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -80,5 +74,4 @@ public override IEnumerable<string> GetSeriesList()
 public override string ToString()
 ```
 
-***                
 

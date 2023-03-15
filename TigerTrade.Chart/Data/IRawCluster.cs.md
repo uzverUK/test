@@ -48,8 +48,6 @@ public interface IRawCluster
 
 
 
-***  
-***  
 # Методы
 
 ## *GetItem*
@@ -63,7 +61,6 @@ IRawClusterItem GetItem(long price)
  *Описание*  
 
 
-***                
 
 ## *GetValueArea*
 Описание
@@ -75,10 +72,7 @@ IRawClusterValueArea GetValueArea(int valueArea)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Ask*
 Описание
@@ -86,7 +80,6 @@ IRawClusterValueArea GetValueArea(int valueArea)
 ```csharp
 long Ask { get; }
 ```
-***
 
 ## *AskTrades*
 Описание
@@ -94,7 +87,6 @@ long Ask { get; }
 ```csharp
 int AskTrades { get; }
 ```
-***
 
 ## *Bid*
 Описание
@@ -102,7 +94,6 @@ int AskTrades { get; }
 ```csharp
 long Bid { get; }
 ```
-***
 
 ## *BidTrades*
 Описание
@@ -110,7 +101,6 @@ long Bid { get; }
 ```csharp
 int BidTrades { get; }
 ```
-***
 
 ## *Close*
 Описание
@@ -118,7 +108,6 @@ int BidTrades { get; }
 ```csharp
 long Close { get; }
 ```
-***
 
 ## *CloseTime*
 Описание
@@ -126,7 +115,6 @@ long Close { get; }
 ```csharp
 DateTime CloseTime { get; }
 ```
-***
 
 ## *Delta*
 Описание
@@ -134,7 +122,6 @@ DateTime CloseTime { get; }
 ```csharp
 long Delta { get; }
 ```
-***
 
 ## *DeltaHigh*
 Описание
@@ -142,7 +129,6 @@ long Delta { get; }
 ```csharp
 long DeltaHigh { get; }
 ```
-***
 
 ## *DeltaLow*
 Описание
@@ -150,7 +136,6 @@ long DeltaHigh { get; }
 ```csharp
 long DeltaLow { get; }
 ```
-***
 
 ## *High*
 Описание
@@ -158,7 +143,6 @@ long DeltaLow { get; }
 ```csharp
 long High { get; }
 ```
-***
 
 ## *IsUp*
 Описание
@@ -166,7 +150,6 @@ long High { get; }
 ```csharp
 bool IsUp { get; }
 ```
-***
 
 ## *Low*
 Описание
@@ -174,7 +157,6 @@ bool IsUp { get; }
 ```csharp
 long Low { get; }
 ```
-***
 
 ## *MaxValues*
 Описание
@@ -182,7 +164,6 @@ long Low { get; }
 ```csharp
 IRawClusterMaxValues MaxValues { get; }
 ```
-***
 
 ## *Open*
 Описание
@@ -190,7 +171,6 @@ IRawClusterMaxValues MaxValues { get; }
 ```csharp
 long Open { get; }
 ```
-***
 
 ## *OpenPos*
 Описание
@@ -198,7 +178,6 @@ long Open { get; }
 ```csharp
 long OpenPos { get; }
 ```
-***
 
 ## *OpenPosAskChg*
 Описание
@@ -206,7 +185,6 @@ long OpenPos { get; }
 ```csharp
 long OpenPosAskChg { get; }
 ```
-***
 
 ## *OpenPosBidChg*
 Описание
@@ -214,7 +192,6 @@ long OpenPosAskChg { get; }
 ```csharp
 long OpenPosBidChg { get; }
 ```
-***
 
 ## *OpenPosChg*
 Описание
@@ -222,7 +199,6 @@ long OpenPosBidChg { get; }
 ```csharp
 long OpenPosChg { get; }
 ```
-***
 
 ## *OpenPosHigh*
 Описание
@@ -230,7 +206,6 @@ long OpenPosChg { get; }
 ```csharp
 long OpenPosHigh { get; }
 ```
-***
 
 ## *OpenPosLow*
 Описание
@@ -238,7 +213,6 @@ long OpenPosHigh { get; }
 ```csharp
 long OpenPosLow { get; }
 ```
-***
 
 ## *OpenTime*
 Описание
@@ -246,7 +220,6 @@ long OpenPosLow { get; }
 ```csharp
 DateTime OpenTime { get; }
 ```
-***
 
 ## *Time*
 Описание
@@ -254,7 +227,6 @@ DateTime OpenTime { get; }
 ```csharp
 DateTime Time { get; }
 ```
-***
 
 ## *Trades*
 Описание
@@ -262,7 +234,6 @@ DateTime Time { get; }
 ```csharp
 int Trades { get; }
 ```
-***
 
 ## *Volume*
 Описание
@@ -270,5 +241,4 @@ int Trades { get; }
 ```csharp
 long Volume { get; }
 ```
-***
 

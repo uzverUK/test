@@ -87,8 +87,6 @@ public sealed class IndicatorsHelper
 
 
 
-***  
-***  
 # Методы
 
 ## *AC*
@@ -108,7 +106,6 @@ public double[] AC(IndicatorMaType type, int shortN, int longN)
  *Описание*  
 
 
-***                
 
 ## *AD*
 Описание
@@ -117,7 +114,6 @@ public double[] AC(IndicatorMaType type, int shortN, int longN)
 public double[] AD()
 ```
 
-***                
 
 ## *ADX*
 Описание
@@ -130,7 +126,6 @@ public double[] ADX(int period)
  *Описание*  
 
 
-***                
 
 ## *AO*
 Описание
@@ -148,7 +143,6 @@ public double[] AO(IndicatorMaType type, int shortN, int longN)
  *Описание*  
 
 
-***                
 
 ## *ATR*
 Описание
@@ -160,7 +154,6 @@ public double[] ATR(int period)
  *Описание*  
 
 
-***                
 
 ## *Aroon*
 Описание
@@ -175,7 +168,6 @@ public void Aroon(int period, out double[] aroonUp, out double[] aroonDown)
  *Описание*  
 
 
-***                
 
 ## *BWMFI*
 Описание
@@ -187,7 +179,6 @@ public double[] BWMFI(IndicatorBWMFIType volumeType = IndicatorBWMFIType.Ticks)
  *Описание*  
 
 
-***                
 
 ## *BearsPower*
 Описание
@@ -199,7 +190,6 @@ public double[] BearsPower(int n)
  *Описание*  
 
 
-***                
 
 ## *BullsPower*
 Описание
@@ -208,7 +198,6 @@ public double[] BearsPower(int n)
 public double[] BullsPower(int n)
 ```
 
-***                
 
 ## *CCI*
 Описание
@@ -221,7 +210,6 @@ public double[] CCI(int period)
  *Описание*  
 
 
-***                
 
 ## *CMF*
 Описание
@@ -233,7 +221,6 @@ public double[] CMF(int n)
  *Описание*  
 
 
-***                
 
 ## *CMO*
 Описание
@@ -245,7 +232,6 @@ public double[] CMO(double[] d, int period)
  *Описание*  
 
 
-***                
 
 ## *CO*
 Описание
@@ -263,7 +249,6 @@ public double[] CO(IndicatorMaType maType, int shortPeriod, int longPeriod)
  *Описание*  
 
 
-***                
 
 ## *ChaikinsVolatility*
 Описание
@@ -278,7 +263,6 @@ public double[] ChaikinsVolatility(IndicatorMaType type, int n)
  *Описание*  
 
 
-***                
 
 ## *CumDelta*
 Описание
@@ -287,7 +271,6 @@ public double[] ChaikinsVolatility(IndicatorMaType type, int n)
 public double[] CumDelta()
 ```
 
-***                
 
 ## *EFI*
 Описание
@@ -303,7 +286,6 @@ public double[] EFI(double[] d, IndicatorMaType type, int n)
  *Описание*  
 
 
-***                
 
 ## *Fractal*
 Описание
@@ -318,7 +300,6 @@ public void Fractal(int n, out double[] up, out double[] down)
  *Описание*  
 
 
-***                
 
 ## *IndicatorsHelper*
 Описание
@@ -327,7 +308,6 @@ public void Fractal(int n, out double[] up, out double[] down)
 public IndicatorsHelper()
 ```
 
-***                
 
 ## *LinReg*
 Описание
@@ -340,7 +320,6 @@ public double[] LinReg(double[] d, int period)
  *Описание*  
 
 
-***                
 
 ## *MFI*
 Описание
@@ -349,7 +328,6 @@ public double[] LinReg(double[] d, int period)
 public double[] MFI(int period)
 ```
 
-***                
 
 ## *Max*
 Описание
@@ -362,7 +340,6 @@ public double[] Max(double[] d, int period)
  *Описание*  
 
 
-***                
 
 ## *MedianPrice*
 Описание
@@ -371,7 +348,6 @@ public double[] Max(double[] d, int period)
 public double[] MedianPrice()
 ```
 
-***                
 
 ## *Min*
 Описание
@@ -384,7 +360,6 @@ public double[] Min(double[] d, int period)
  *Описание*  
 
 
-***                
 
 ## *MinusDI*
 Описание
@@ -393,7 +368,6 @@ public double[] Min(double[] d, int period)
 public double[] MinusDI(int period)
 ```
 
-***                
 
 ## *Momentum*
 Описание
@@ -406,7 +380,6 @@ public double[] Momentum(double[] d, int period)
  *Описание*  
 
 
-***                
 
 ## *MovingAverage*
 Описание
@@ -418,7 +391,6 @@ public double[] MovingAverage(IndicatorMaType maType, double[] d, int period)
  *Описание*  
 
 
-***                
 
 ## *OBV*
 Описание
@@ -427,7 +399,6 @@ public double[] MovingAverage(IndicatorMaType maType, double[] d, int period)
 public double[] OBV()
 ```
 
-***                
 
 ## *PPO*
 Описание
@@ -446,7 +417,6 @@ public double[] PPO(IndicatorMaType maType, double[] d, int shortPeriod, int lon
  *Описание*  
 
 
-***                
 
 ## *PlusDI*
 Описание
@@ -458,7 +428,6 @@ public double[] PlusDI(int period)
  *Описание*  
 
 
-***                
 
 ## *Price*
 Описание
@@ -470,7 +439,6 @@ public double[] Price(IndicatorPriceType priceField)
  *Описание*  
 
 
-***                
 
 ## *PriceChannel*
 Описание
@@ -491,7 +459,6 @@ public void PriceChannel(int n, out double[] avg, out double[] upper, out double
  *Описание*  
 
 
-***                
 
 ## *ROC*
 Описание
@@ -503,7 +470,6 @@ public double[] ROC(double[] d, int period)
  *Описание*  
 
 
-***                
 
 ## *RSI*
 Описание
@@ -512,7 +478,6 @@ public double[] ROC(double[] d, int period)
 public double[] RSI(double[] d, int period)
 ```
 
-***                
 
 ## *SAR*
 Описание
@@ -528,7 +493,6 @@ public double[] SAR(double step, double maxp)
  *Описание*  
 
 
-***                
 
 ## *SMMA*
 Описание
@@ -540,7 +504,6 @@ public double[] SMMA(double[] d, int period)
  *Описание*  
 
 
-***                
 
 ## *SetDataProvider*
 Описание
@@ -552,7 +515,6 @@ public void SetDataProvider(IChartDataProvider dp)
  *Описание*  
 
 
-***                
 
 ## *ShiftData*
 Описание
@@ -564,7 +526,6 @@ public double[] ShiftData(double[] data, int shift)
  *Описание*  
 
 
-***                
 
 ## *StdDev*
 Описание
@@ -576,7 +537,6 @@ public double[] StdDev(double[] d, int period)
  *Описание*  
 
 
-***                
 
 ## *Subtraction*
 Описание
@@ -585,7 +545,6 @@ public double[] StdDev(double[] d, int period)
 public double[] Subtraction(double[] d1, double[] d2)
 ```
 
-***                
 
 ## *TRIX*
 Описание
@@ -598,7 +557,6 @@ public double[] TRIX(int period)
  *Описание*  
 
 
-***                
 
 ## *TypicalPrice*
 Описание
@@ -607,7 +565,6 @@ public double[] TRIX(int period)
 public double[] TypicalPrice()
 ```
 
-***                
 
 ## *UltOsc*
 Описание
@@ -626,7 +583,6 @@ public double[] UltOsc(int period1, int period2, int period3)
  *Описание*  
 
 
-***                
 
 ## *VHF*
 Описание
@@ -638,7 +594,6 @@ public double[] VHF(int n)
  *Описание*  
 
 
-***                
 
 ## *Variance*
 Описание
@@ -653,7 +608,6 @@ public double[] Variance(double[] d, int period, double dev)
  *Описание*  
 
 
-***                
 
 ## *VolumeOscillator*
 Описание
@@ -671,7 +625,6 @@ public double[] VolumeOscillator(IndicatorMaType type, int shortN, int longN)
  *Описание*  
 
 
-***                
 
 ## *WilliamsAD*
 Описание
@@ -680,7 +633,6 @@ public double[] VolumeOscillator(IndicatorMaType type, int shortN, int longN)
 public double[] WilliamsAD()
 ```
 
-***                
 
 ## *WilliamsR*
 Описание
@@ -693,7 +645,6 @@ public double[] WilliamsR(int period)
  *Описание*  
 
 
-***                
 
 ## *ZIGZAG*
 Описание
@@ -714,10 +665,7 @@ public double[] ZIGZAG(int depth, int deviation, int backstep, bool reg = true)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Ask*
 Описание
@@ -725,7 +673,6 @@ public double[] ZIGZAG(int depth, int deviation, int backstep, bool reg = true)
 ```csharp
 public double[] Ask { get; }
 ```
-***
 
 ## *Bid*
 Описание
@@ -733,7 +680,6 @@ public double[] Ask { get; }
 ```csharp
 public double[] Bid { get; }
 ```
-***
 
 ## *Close*
 Описание
@@ -741,7 +687,6 @@ public double[] Bid { get; }
 ```csharp
 public double[] Close { get; }
 ```
-***
 
 ## *Count*
 Описание
@@ -749,7 +694,6 @@ public double[] Close { get; }
 ```csharp
 public int Count { get; }
 ```
-***
 
 ## *DataProvider*
 Описание
@@ -757,7 +701,6 @@ public int Count { get; }
 ```csharp
 public IChartDataProvider DataProvider { get; private set; }
 ```
-***
 
 ## *Date*
 Описание
@@ -765,7 +708,6 @@ public IChartDataProvider DataProvider { get; private set; }
 ```csharp
 public double[] Date { get; }
 ```
-***
 
 ## *Delta*
 Описание
@@ -773,7 +715,6 @@ public double[] Date { get; }
 ```csharp
 public double[] Delta { get; }
 ```
-***
 
 ## *High*
 Описание
@@ -781,7 +722,6 @@ public double[] Delta { get; }
 ```csharp
 public double[] High { get; }
 ```
-***
 
 ## *Low*
 Описание
@@ -789,7 +729,6 @@ public double[] High { get; }
 ```csharp
 public double[] Low { get; }
 ```
-***
 
 ## *Open*
 Описание
@@ -797,7 +736,6 @@ public double[] Low { get; }
 ```csharp
 public double[] Open { get; }
 ```
-***
 
 ## *OpenPos*
 Описание
@@ -805,7 +743,6 @@ public double[] Open { get; }
 ```csharp
 public double[] OpenPos { get; }
 ```
-***
 
 ## *OpenPosAskChg*
 Описание
@@ -813,7 +750,6 @@ public double[] OpenPos { get; }
 ```csharp
 public double[] OpenPosAskChg { get; }
 ```
-***
 
 ## *OpenPosBidChg*
 Описание
@@ -821,7 +757,6 @@ public double[] OpenPosAskChg { get; }
 ```csharp
 public double[] OpenPosBidChg { get; }
 ```
-***
 
 ## *OpenPosChg*
 Описание
@@ -829,7 +764,6 @@ public double[] OpenPosBidChg { get; }
 ```csharp
 public double[] OpenPosChg { get; }
 ```
-***
 
 ## *Poc*
 Описание
@@ -837,7 +771,6 @@ public double[] OpenPosChg { get; }
 ```csharp
 public double[] Poc { get; }
 ```
-***
 
 ## *Trades*
 Описание
@@ -845,7 +778,6 @@ public double[] Poc { get; }
 ```csharp
 public double[] Trades { get; }
 ```
-***
 
 ## *Volume*
 Описание
@@ -853,5 +785,4 @@ public double[] Trades { get; }
 ```csharp
 public double[] Volume { get; }
 ```
-***
 

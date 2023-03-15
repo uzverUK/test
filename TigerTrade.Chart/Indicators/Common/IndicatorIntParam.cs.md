@@ -20,8 +20,6 @@ public sealed class IndicatorIntParam : IndicatorParam<int>
 
 
 
-***  
-***  
 # Методы
 
 ## *IndicatorIntParam*
@@ -31,7 +29,6 @@ public sealed class IndicatorIntParam : IndicatorParam<int>
 public IndicatorIntParam()
 ```
 
-***                
 
 ## *IndicatorIntParam*
 Описание
@@ -45,7 +42,6 @@ public IndicatorIntParam(int value)
  *Описание*  
 
 
-***                
 
 ## *Set*
 Описание
@@ -63,5 +59,4 @@ public bool Set(string key, int value, int minValue = -2147483648, int maxValue 
  *Описание*  
 
 
-***                
 

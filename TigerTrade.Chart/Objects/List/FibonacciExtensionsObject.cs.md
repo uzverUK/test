@@ -37,8 +37,6 @@ public sealed class FibonacciExtensionsObject : LineObjectBase
 
 
 
-***  
-***  
 # Методы
 
 ## *ApplyTheme*
@@ -52,7 +50,6 @@ public override void ApplyTheme(IChartTheme theme)
  *Описание*  
 
 
-***                
 
 ## *CopyTemplate*
 Описание
@@ -67,7 +64,6 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  *Описание*  
 
 
-***                
 
 ## *Draw*
 Описание
@@ -82,7 +78,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
  *Описание*  
 
 
-***                
 
 ## *FibonacciExtensionsObject*
 Описание
@@ -91,7 +86,6 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 public FibonacciExtensionsObject()
 ```
 
-***                
 
 ## *InObject*
 Описание
@@ -107,10 +101,7 @@ protected override bool InObject(int x, int y)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *CustomLevels*
 Описание
@@ -118,7 +109,6 @@ protected override bool InObject(int x, int y)
 ```csharp
 public bool CustomLevels { get; set; }
 ```
-***
 
 ## *Levels*
 Описание
@@ -126,7 +116,6 @@ public bool CustomLevels { get; set; }
 ```csharp
 public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
 ```
-***
 
 ## *LevelsLineColor*
 Описание
@@ -134,7 +123,6 @@ public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
 ```csharp
 public XColor LevelsLineColor { get; set; }
 ```
-***
 
 ## *LevelsLineStyle*
 Описание
@@ -142,7 +130,6 @@ public XColor LevelsLineColor { get; set; }
 ```csharp
 public XDashStyle LevelsLineStyle { get; set; }
 ```
-***
 
 ## *LevelsLineWidth*
 Описание
@@ -150,7 +137,6 @@ public XDashStyle LevelsLineStyle { get; set; }
 ```csharp
 public int LevelsLineWidth { get; set; }
 ```
-***
 
 ## *LevelsWidth*
 Описание
@@ -158,7 +144,6 @@ public int LevelsLineWidth { get; set; }
 ```csharp
 public int LevelsWidth { get; set; }
 ```
-***
 
 ## *OpenEnd*
 Описание
@@ -166,7 +151,6 @@ public int LevelsWidth { get; set; }
 ```csharp
 public bool OpenEnd { get; set; }
 ```
-***
 
 ## *OpenStart*
 Описание
@@ -174,7 +158,6 @@ public bool OpenEnd { get; set; }
 ```csharp
 public bool OpenStart { get; set; }
 ```
-***
 
 ## *TextAlignment*
 Описание
@@ -182,7 +165,6 @@ public bool OpenStart { get; set; }
 ```csharp
 public ObjectTextAlignment TextAlignment { get; set; }
 ```
-***
 
 ## *xsuJlZ3bylFkXacpNF53*
 Описание
@@ -190,5 +172,4 @@ public ObjectTextAlignment TextAlignment { get; set; }
 ```csharp
 public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
-***
 

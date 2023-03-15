@@ -19,9 +19,7 @@ public interface IChartSettings
 
 
 
-            ***
-  ***
-  # Свойства
+            # Свойства
 
 ## *TransformHorLines*
 Описание
@@ -29,7 +27,6 @@ public interface IChartSettings
 ```csharp
 bool TransformHorLines { get; }
 ```
-***
 
 ## *TransformVertLines*
 Описание
@@ -37,5 +34,4 @@ bool TransformHorLines { get; }
 ```csharp
 bool TransformVertLines { get; }
 ```
-***
 

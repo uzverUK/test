@@ -28,9 +28,7 @@ public interface IChartClusterItem
 
 
 
-            ***
-  ***
-  # Свойства
+            # Свойства
 
 ## *Ask*
 Описание
@@ -38,7 +36,6 @@ public interface IChartClusterItem
 ```csharp
 Decimal Ask { get; }
 ```
-***
 
 ## *AskTrades*
 Описание
@@ -46,7 +43,6 @@ Decimal Ask { get; }
 ```csharp
 int AskTrades { get; }
 ```
-***
 
 ## *Bid*
 Описание
@@ -54,7 +50,6 @@ int AskTrades { get; }
 ```csharp
 Decimal Bid { get; }
 ```
-***
 
 ## *BidTrades*
 Описание
@@ -62,7 +57,6 @@ Decimal Bid { get; }
 ```csharp
 int BidTrades { get; }
 ```
-***
 
 ## *Delta*
 Описание
@@ -70,7 +64,6 @@ int BidTrades { get; }
 ```csharp
 Decimal Delta { get; }
 ```
-***
 
 ## *OpenPos*
 Описание
@@ -78,7 +71,6 @@ Decimal Delta { get; }
 ```csharp
 long OpenPos { get; }
 ```
-***
 
 ## *OpenPosAsk*
 Описание
@@ -86,7 +78,6 @@ long OpenPos { get; }
 ```csharp
 long OpenPosAsk { get; }
 ```
-***
 
 ## *OpenPosBid*
 Описание
@@ -94,7 +85,6 @@ long OpenPosAsk { get; }
 ```csharp
 long OpenPosBid { get; }
 ```
-***
 
 ## *Price*
 Описание
@@ -102,7 +92,6 @@ long OpenPosBid { get; }
 ```csharp
 Decimal Price { get; }
 ```
-***
 
 ## *Trades*
 Описание
@@ -110,7 +99,6 @@ Decimal Price { get; }
 ```csharp
 int Trades { get; }
 ```
-***
 
 ## *Volume*
 Описание
@@ -118,5 +106,4 @@ int Trades { get; }
 ```csharp
 Decimal Volume { get; }
 ```
-***
 

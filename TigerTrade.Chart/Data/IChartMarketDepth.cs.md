@@ -22,9 +22,7 @@ public interface IChartMarketDepth
 
 
 
-            ***
-  ***
-  # Свойства
+            # Свойства
 
 ## *MaxAskPrice*
 Описание
@@ -32,7 +30,6 @@ public interface IChartMarketDepth
 ```csharp
 Decimal MaxAskPrice { get; }
 ```
-***
 
 ## *MaxBidPrice*
 Описание
@@ -40,7 +37,6 @@ Decimal MaxAskPrice { get; }
 ```csharp
 Decimal MaxBidPrice { get; }
 ```
-***
 
 ## *MaxSize*
 Описание
@@ -48,7 +44,6 @@ Decimal MaxBidPrice { get; }
 ```csharp
 Decimal MaxSize { get; }
 ```
-***
 
 ## *MinAskPrice*
 Описание
@@ -56,7 +51,6 @@ Decimal MaxSize { get; }
 ```csharp
 Decimal MinAskPrice { get; }
 ```
-***
 
 ## *MinBidPrice*
 Описание
@@ -64,5 +58,4 @@ Decimal MinAskPrice { get; }
 ```csharp
 Decimal MinBidPrice { get; }
 ```
-***
 

@@ -23,8 +23,6 @@ public sealed class CumulativeDeltaSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CopySettings*
@@ -38,7 +36,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *CumulativeDeltaSource*
 Описание
@@ -47,7 +44,6 @@ public override void CopySettings(IndicatorSourceBase source)
 public CumulativeDeltaSource()
 ```
 
-***                
 
 ## *GetSeries*
 Описание
@@ -60,7 +56,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -72,7 +67,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -81,5 +75,4 @@ public override IEnumerable<string> GetSeriesList()
 public override string ToString()
 ```
 
-***                
 

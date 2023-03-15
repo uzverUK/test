@@ -23,8 +23,6 @@ public sealed class OBVSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *CopySettings*
@@ -38,7 +36,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -50,7 +47,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -62,7 +58,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *OBVSource*
 Описание
@@ -71,7 +66,6 @@ public override IEnumerable<string> GetSeriesList()
 public OBVSource()
 ```
 
-***                
 
 ## *ToString*
 Описание
@@ -80,5 +74,4 @@ public OBVSource()
 public override string ToString()
 ```
 
-***                
 

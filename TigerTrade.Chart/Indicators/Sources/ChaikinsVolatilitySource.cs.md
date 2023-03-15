@@ -29,8 +29,6 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *ChaikinsVolatilitySource*
@@ -40,7 +38,6 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 public ChaikinsVolatilitySource()
 ```
 
-***                
 
 ## *CopySettings*
 Описание
@@ -53,7 +50,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -65,7 +61,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -77,7 +72,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -86,10 +80,7 @@ public override IEnumerable<string> GetSeriesList()
 public override string ToString()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *MaType*
 Описание
@@ -97,7 +88,6 @@ public override string ToString()
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
-***
 
 ## *Period*
 Описание
@@ -105,5 +95,4 @@ public IndicatorMaType MaType { get; set; }
 ```csharp
 public int Period { get; set; }
 ```
-***
 

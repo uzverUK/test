@@ -28,8 +28,6 @@ public sealed class ObjectPeriodItem
 
 
 
-***  
-***  
 # Методы
 
 ## *CheckInterval*
@@ -43,7 +41,6 @@ public bool CheckInterval(int interval)
  *Описание*  
 
 
-***                
 
 ## *Equals*
 Описание
@@ -55,7 +52,6 @@ public override bool Equals(object obj)
  *Описание*  
 
 
-***                
 
 ## *ObjectPeriodItem*
 Описание
@@ -64,10 +60,7 @@ public override bool Equals(object obj)
 public ObjectPeriodItem()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *CheckRange*
 Описание
@@ -75,7 +68,6 @@ public ObjectPeriodItem()
 ```csharp
 public bool CheckRange { get; set; }
 ```
-***
 
 ## *Max*
 Описание
@@ -83,7 +75,6 @@ public bool CheckRange { get; set; }
 ```csharp
 public int Max { get; set; }
 ```
-***
 
 ## *Min*
 Описание
@@ -91,5 +82,4 @@ public int Max { get; set; }
 ```csharp
 public int Min { get; set; }
 ```
-***
 

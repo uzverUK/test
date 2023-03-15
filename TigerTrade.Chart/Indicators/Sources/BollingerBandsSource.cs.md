@@ -31,8 +31,6 @@ public sealed class BollingerBandsSource : IndicatorSourceBase
 
 
 
-***  
-***  
 # Методы
 
 ## *BollingerBandsSource*
@@ -42,7 +40,6 @@ public sealed class BollingerBandsSource : IndicatorSourceBase
 public BollingerBandsSource()
 ```
 
-***                
 
 ## *CopySettings*
 Описание
@@ -55,7 +52,6 @@ public override void CopySettings(IndicatorSourceBase source)
  *Описание*  
 
 
-***                
 
 ## *GetSeries*
 Описание
@@ -67,7 +63,6 @@ public override double[] GetSeries(IndicatorsHelper helper)
  *Описание*  
 
 
-***                
 
 ## *GetSeriesList*
 Описание
@@ -79,7 +74,6 @@ public override IEnumerable<string> GetSeriesList()
  *Описание*  
 
 
-***                
 
 ## *ToString*
 Описание
@@ -88,10 +82,7 @@ public override IEnumerable<string> GetSeriesList()
 public override string ToString()
 ```
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *MaType*
 Описание
@@ -99,7 +90,6 @@ public override string ToString()
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```
-***
 
 ## *Period*
 Описание
@@ -107,7 +97,6 @@ public IndicatorMaType MaType { get; set; }
 ```csharp
 public int Period { get; set; }
 ```
-***
 
 ## *Source*
 Описание
@@ -115,7 +104,6 @@ public int Period { get; set; }
 ```csharp
 public IndicatorSourceBase Source { get; set; }
 ```
-***
 
 ## *StdDev*
 Описание
@@ -123,5 +111,4 @@ public IndicatorSourceBase Source { get; set; }
 ```csharp
 public Decimal StdDev { get; set; }
 ```
-***
 

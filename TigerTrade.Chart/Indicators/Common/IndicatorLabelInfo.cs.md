@@ -26,8 +26,6 @@ public sealed class IndicatorLabelInfo
 
 
 
-***  
-***  
 # Методы
 
 ## *IndicatorLabelInfo*
@@ -44,10 +42,7 @@ public IndicatorLabelInfo(double value, XColor color, double? position = null)
  *Описание*  
 
 
-***                
-***
-  ***
-  # Свойства
+# Свойства
 
 ## *Color*
 Описание
@@ -55,7 +50,6 @@ public IndicatorLabelInfo(double value, XColor color, double? position = null)
 ```csharp
 public XColor Color { get; }
 ```
-***
 
 ## *Position*
 Описание
@@ -63,7 +57,6 @@ public XColor Color { get; }
 ```csharp
 public double? Position { get; }
 ```
-***
 
 ## *Value*
 Описание
@@ -71,5 +64,4 @@ public double? Position { get; }
 ```csharp
 public double Value { get; }
 ```
-***
 
