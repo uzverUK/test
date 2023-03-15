@@ -41,7 +41,7 @@ public class IconObject : ObjectBase
 public override void ApplyTheme(IChartTheme theme)
 ```
 
-<mark style="color:purple;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
+`theme` <mark style="color:red;">*`IChartTheme`*</mark>  
  *Описание*  
 
 
@@ -52,10 +52,10 @@ public override void ApplyTheme(IChartTheme theme)
 ```csharp
 public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```
-<mark style="color:purple;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+`objectBase` <mark style="color:red;">*`ObjectBase`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+`style` <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -66,10 +66,10 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```csharp
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
 ```
-<mark style="color:purple;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+`visual` <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
+`System` <mark style="color:red;">*`ref`*</mark>  
  *Описание*  
 
 
@@ -89,10 +89,10 @@ public IconObject()
 protected override bool InObject(int x, int y)
 ```
 
-<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+`x` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+`y` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

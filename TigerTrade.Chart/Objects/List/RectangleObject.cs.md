@@ -49,10 +49,10 @@ public class RectangleObject : PolygonObjectBase
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
 ```
 
-<mark style="color:purple;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+`visual` <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
+`System` <mark style="color:red;">*`ref`*</mark>  
  *Описание*  
 
 
@@ -72,10 +72,10 @@ public override void DrawControlPoints(DxVisualQueue visual)
 public override void ExtraPointChanged(int index, ObjectPoint op)
 ```
 
-<mark style="color:purple;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+`index` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
+`op` <mark style="color:red;">*`ObjectPoint`*</mark>  
  *Описание*  
 
 
@@ -86,10 +86,10 @@ public override void ExtraPointChanged(int index, ObjectPoint op)
 ```csharp
 public override int GetControlPoint(int x, int y)
 ```
-<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+`x` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+`y` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -109,10 +109,10 @@ public override int GetExtraPoint(int x, int y)
 protected override int GetMinDist(int x, int y)
 ```
 
-<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+`x` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+`y` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

@@ -45,10 +45,10 @@ protected virtual void CalcPoint()
 protected override void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
 
-<mark style="color:purple;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+`visual` <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
+`List` <mark style="color:red;">*`ref`*</mark>  
  *Описание*  
 
 
@@ -59,10 +59,10 @@ protected override void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> lab
 ```csharp
 protected override bool InObject(int x, int y)
 ```
-<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+`x` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+`y` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

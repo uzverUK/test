@@ -63,7 +63,7 @@ public sealed class ChartCluster : IChartCluster
 public void AddCluster(IChartCluster cluster)
 ```
 
-<mark style="color:purple;">`cluster`</mark> <mark style="color:red;">*`IChartCluster`*</mark>  
+`cluster` <mark style="color:red;">*`IChartCluster`*</mark>  
  *Описание*  
 
 
@@ -74,7 +74,7 @@ public void AddCluster(IChartCluster cluster)
 ```csharp
 public void AddItem(IChartClusterItem item)
 ```
-<mark style="color:purple;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
+`item` <mark style="color:red;">*`IChartClusterItem`*</mark>  
  *Описание*  
 
 
@@ -85,7 +85,7 @@ public void AddItem(IChartClusterItem item)
 ```csharp
 public void AddTick(IChartTick tick)
 ```
-<mark style="color:purple;">`tick`</mark> <mark style="color:red;">*`IChartTick`*</mark>  
+`tick` <mark style="color:red;">*`IChartTick`*</mark>  
  *Описание*  
 
 
@@ -96,10 +96,10 @@ public void AddTick(IChartTick tick)
 ```csharp
 public ChartCluster(DateTime time, Decimal step)
 ```
-<mark style="color:purple;">`time`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+`time` <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`step`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+`step` <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
 
@@ -110,7 +110,7 @@ public ChartCluster(DateTime time, Decimal step)
 ```csharp
 public IChartClusterItem GetItem(Decimal price)
 ```
-<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+`price` <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
 

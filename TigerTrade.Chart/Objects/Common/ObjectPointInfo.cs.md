@@ -40,7 +40,7 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 public ObjectPointInfo(ObjectPoint[] points, int index)
 ```
 
-<mark style="color:purple;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+`index` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

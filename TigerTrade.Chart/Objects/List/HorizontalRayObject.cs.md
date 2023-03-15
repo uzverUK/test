@@ -34,10 +34,10 @@ public sealed class HorizontalRayObject : HorizontalLineObject
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
 ```
 
-<mark style="color:purple;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+`visual` <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
+`System` <mark style="color:red;">*`ref`*</mark>  
  *Описание*  
 
 

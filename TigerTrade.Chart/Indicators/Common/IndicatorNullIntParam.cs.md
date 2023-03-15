@@ -46,13 +46,13 @@ public IndicatorNullIntParam(int? value)
 public bool Set(string key, int? value, int minValue = -2147483648, int maxValue = 2147483647)
 ```
 
-<mark style="color:purple;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
+`key` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`minValue`</mark> <mark style="color:red;">*`int`*</mark>  
+`minValue` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`maxValue`</mark> <mark style="color:red;">*`int`*</mark>  
+`maxValue` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

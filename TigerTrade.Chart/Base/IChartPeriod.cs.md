@@ -34,16 +34,16 @@ public interface IChartPeriod
 int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double timeOffset)
 ```
 
-<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`ChartPeriodType`*</mark>  
+`type` <mark style="color:red;">*`ChartPeriodType`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
+`interval` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`dateTime`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+`dateTime` <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`timeOffset`</mark> <mark style="color:red;">*`double`*</mark>  
+`timeOffset` <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -56,19 +56,19 @@ int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double ti
 int GetSequence(ChartPeriodType type, int interval, double dateTime, double timeOffset)
 ```
 
-<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`ChartPeriodType`*</mark>  
+`type` <mark style="color:red;">*`ChartPeriodType`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
+`interval` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`dateTime`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+`dateTime` <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`timeOffset`</mark> <mark style="color:red;">*`double`*</mark>  
+`timeOffset` <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`dateTime`</mark> <mark style="color:red;">*`double`*</mark>  
+`dateTime` <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 

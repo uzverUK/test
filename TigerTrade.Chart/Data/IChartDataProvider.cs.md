@@ -42,7 +42,7 @@ public interface IChartDataProvider
 IChartCluster GetCluster(int i)
 ```
 
-<mark style="color:purple;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+`i` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -62,7 +62,7 @@ IChartMarketDepth GetMarketDepth()
 IRawCluster GetRawCluster(int i)
 ```
 
-<mark style="color:purple;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+`i` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

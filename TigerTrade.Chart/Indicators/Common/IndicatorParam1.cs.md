@@ -54,10 +54,10 @@ public void Copy(IndicatorParam<T> p)
 public T Get(string key, T defaultValue)
 ```
 
-<mark style="color:purple;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
+`key` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`defaultValue`</mark> <mark style="color:red;">*`T`*</mark>  
+`defaultValue` <mark style="color:red;">*`T`*</mark>  
  *Описание*  
 
 
@@ -70,10 +70,10 @@ public T Get(string key, T defaultValue)
 public T Get(string key)
 ```
 
-<mark style="color:purple;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
+`key` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`defaultValue`</mark> <mark style="color:red;">*`T`*</mark>  
+`defaultValue` <mark style="color:red;">*`T`*</mark>  
  *Описание*  
 
 
@@ -93,10 +93,10 @@ protected IndicatorParam()
 protected bool Set(string key, T value)
 ```
 
-<mark style="color:purple;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
+`key` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`value`</mark> <mark style="color:red;">*`T`*</mark>  
+`value` <mark style="color:red;">*`T`*</mark>  
  *Описание*  
 
 

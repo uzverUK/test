@@ -66,10 +66,10 @@ public IndicatorSeriesStyle()
 public void Set(ChartSeries series, string name = "")
 ```
 
-<mark style="color:purple;">`series`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+`series` <mark style="color:red;">*`ChartSeries`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+`name` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -82,13 +82,13 @@ public void Set(ChartSeries series, string name = "")
 public void Set(ChartRegion region)
 ```
 
-<mark style="color:purple;">`series`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+`series` <mark style="color:red;">*`ChartSeries`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+`name` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`region`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
+`region` <mark style="color:red;">*`ChartRegion`*</mark>  
  *Описание*  
 
 
@@ -102,16 +102,16 @@ public void Set(ChartRegion region)
 public void Set(ChartLine line)
 ```
 
-<mark style="color:purple;">`series`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+`series` <mark style="color:red;">*`ChartSeries`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+`name` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`region`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
+`region` <mark style="color:red;">*`ChartRegion`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`line`</mark> <mark style="color:red;">*`ChartLine`*</mark>  
+`line` <mark style="color:red;">*`ChartLine`*</mark>  
  *Описание*  
 
 

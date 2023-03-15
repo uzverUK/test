@@ -54,7 +54,7 @@ public IndicatorSourceBase CloneSource()
 public abstract void CopySettings(IndicatorSourceBase source)
 ```
 
-<mark style="color:purple;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
+`source` <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
  *Описание*  
 
 
@@ -65,7 +65,7 @@ public abstract void CopySettings(IndicatorSourceBase source)
 ```csharp
 public abstract double[] GetSeries(IndicatorsHelper helper)
 ```
-<mark style="color:purple;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
+`helper` <mark style="color:red;">*`IndicatorsHelper`*</mark>  
  *Описание*  
 
 
@@ -93,7 +93,7 @@ protected IndicatorSourceBase()
 protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
 ```
 
-<mark style="color:purple;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+`propertyName` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 

@@ -34,10 +34,10 @@ public sealed class IndicatorValueInfo
 public IndicatorValueInfo(string value, XBrush brush)
 ```
 
-<mark style="color:purple;">`value`</mark> <mark style="color:red;">*`string`*</mark>  
+`value` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`brush`</mark> <mark style="color:red;">*`XBrush`*</mark>  
+`brush` <mark style="color:red;">*`XBrush`*</mark>  
  *Описание*  
 
 
@@ -50,13 +50,13 @@ public IndicatorValueInfo(string value, XBrush brush)
 public IndicatorValueInfo(string value, XColor color)
 ```
 
-<mark style="color:purple;">`value`</mark> <mark style="color:red;">*`string`*</mark>  
+`value` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`brush`</mark> <mark style="color:red;">*`XBrush`*</mark>  
+`brush` <mark style="color:red;">*`XBrush`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+`color` <mark style="color:red;">*`XColor`*</mark>  
  *Описание*  
 
 

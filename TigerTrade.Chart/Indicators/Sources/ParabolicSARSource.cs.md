@@ -38,7 +38,7 @@ public sealed class ParabolicSARSource : IndicatorSourceBase
 public override void CopySettings(IndicatorSourceBase source)
 ```
 
-<mark style="color:purple;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
+`source` <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
  *Описание*  
 
 
@@ -49,7 +49,7 @@ public override void CopySettings(IndicatorSourceBase source)
 ```csharp
 public override double[] GetSeries(IndicatorsHelper helper)
 ```
-<mark style="color:purple;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
+`helper` <mark style="color:red;">*`IndicatorsHelper`*</mark>  
  *Описание*  
 
 
@@ -60,7 +60,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 ```csharp
 public override IEnumerable<string> GetSeriesList()
 ```
-<mark style="color:purple;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
+`List` <mark style="color:red;">*`new`*</mark>  
  *Описание*  
 
 
@@ -80,7 +80,7 @@ public ParabolicSARSource()
 public override string ToString()
 ```
 
-<mark style="color:purple;">`string`</mark> <mark style="color:red;">*`new`*</mark>  
+`string` <mark style="color:red;">*`new`*</mark>  
  *Описание*  
 
 

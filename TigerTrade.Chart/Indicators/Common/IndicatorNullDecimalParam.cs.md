@@ -46,13 +46,13 @@ public IndicatorNullDecimalParam(Decimal? value)
 public bool Set(string key, Decimal? value, Decimal minValue = -79228162514264337593543950335M, Decimal maxValue = 79228162514264337593543950335M)
 ```
 
-<mark style="color:purple;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
+`key` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`minValue`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+`minValue` <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`maxValue`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+`maxValue` <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
 

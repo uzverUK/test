@@ -37,7 +37,7 @@ public sealed class ObjectPeriods
 public bool CheckPeriod(IChartPeriod dc)
 ```
 
-<mark style="color:purple;">`dc`</mark> <mark style="color:red;">*`IChartPeriod`*</mark>  
+`dc` <mark style="color:red;">*`IChartPeriod`*</mark>  
  *Описание*  
 
 
@@ -57,7 +57,7 @@ public ObjectPeriods Copy()
 public override bool Equals(object obj)
 ```
 
-<mark style="color:purple;">`obj`</mark> <mark style="color:red;">*`object`*</mark>  
+`obj` <mark style="color:red;">*`object`*</mark>  
  *Описание*  
 
 
@@ -77,19 +77,19 @@ public ObjectPeriods()
 public void Update(string type, bool isChecked, bool checkRange, int min, int max)
 ```
 
-<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`string`*</mark>  
+`type` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`isChecked`</mark> <mark style="color:red;">*`bool`*</mark>  
+`isChecked` <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`checkRange`</mark> <mark style="color:red;">*`bool`*</mark>  
+`checkRange` <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`min`</mark> <mark style="color:red;">*`int`*</mark>  
+`min` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`max`</mark> <mark style="color:red;">*`int`*</mark>  
+`max` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

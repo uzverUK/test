@@ -56,7 +56,7 @@ public interface IChartCluster
 IChartClusterItem GetItem(Decimal price)
 ```
 
-<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+`price` <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
 

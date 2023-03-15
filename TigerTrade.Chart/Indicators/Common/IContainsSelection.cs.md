@@ -28,13 +28,13 @@ public interface IContainsSelection
 XBrush GetSelection(int index, long price, int type)
 ```
 
-<mark style="color:purple;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+`index` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+`price` <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`int`*</mark>  
+`type` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

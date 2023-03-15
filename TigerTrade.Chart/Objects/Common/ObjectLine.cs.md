@@ -54,10 +54,10 @@ public ObjectLine()
 public ObjectLine(double value, XColor color)
 ```
 
-<mark style="color:purple;">`value`</mark> <mark style="color:red;">*`double`*</mark>  
+`value` <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+`color` <mark style="color:red;">*`XColor`*</mark>  
  *Описание*  
 
 
@@ -71,13 +71,13 @@ public ObjectLine(double value, XColor color)
 public ObjectLine(ObjectLine line)
 ```
 
-<mark style="color:purple;">`value`</mark> <mark style="color:red;">*`double`*</mark>  
+`value` <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+`color` <mark style="color:red;">*`XColor`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`line`</mark> <mark style="color:red;">*`ObjectLine`*</mark>  
+`line` <mark style="color:red;">*`ObjectLine`*</mark>  
  *Описание*  
 
 

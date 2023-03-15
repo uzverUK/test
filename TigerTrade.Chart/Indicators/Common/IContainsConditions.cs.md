@@ -28,10 +28,10 @@ public interface IContainsConditions
 XBrush GetBrush(int index, bool isUp)
 ```
 
-<mark style="color:purple;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+`index` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`isUp`</mark> <mark style="color:red;">*`bool`*</mark>  
+`isUp` <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 

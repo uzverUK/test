@@ -51,7 +51,7 @@ public interface IChartSymbol
 DateTime ConvertTimeFromLocal(DateTime dt)
 ```
 
-<mark style="color:purple;">`dt`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+`dt` <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
 
 
@@ -71,7 +71,7 @@ DateTime ConvertTimeToLocal(DateTime dt)
 long CorrectSizeFilter(double filter)
 ```
 
-<mark style="color:purple;">`filter`</mark> <mark style="color:red;">*`double`*</mark>  
+`filter` <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -84,7 +84,7 @@ long CorrectSizeFilter(double filter)
 long? CorrectSizeFilter(double? filter)
 ```
 
-<mark style="color:purple;">`filter`</mark> <mark style="color:red;">*`double`*</mark>  
+`filter` <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -95,10 +95,10 @@ long? CorrectSizeFilter(double? filter)
 ```csharp
 string FormatPrice(Decimal price, bool shortDecimals = false)
 ```
-<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+`price` <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`shortDecimals`</mark> <mark style="color:red;">*`bool`*</mark>  
+`shortDecimals` <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -109,7 +109,7 @@ string FormatPrice(Decimal price, bool shortDecimals = false)
 ```csharp
 string FormatRawPrice(long price, bool shortDecimals = false)
 ```
-<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+`price` <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
 
@@ -120,10 +120,10 @@ string FormatRawPrice(long price, bool shortDecimals = false)
 ```csharp
 string FormatRawSize(long size, int round = 2)
 ```
-<mark style="color:purple;">`size`</mark> <mark style="color:red;">*`long`*</mark>  
+`size` <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`round`</mark> <mark style="color:red;">*`int`*</mark>  
+`round` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -135,13 +135,13 @@ string FormatRawSize(long size, int round = 2)
 string FormatRawSize(long size, int round = 2)
 string FormatRawSize(long size, int round, bool minimize)
 ```
-<mark style="color:purple;">`size`</mark> <mark style="color:red;">*`long`*</mark>  
+`size` <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`round`</mark> <mark style="color:red;">*`int`*</mark>  
+`round` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`minimize`</mark> <mark style="color:red;">*`bool`*</mark>  
+`minimize` <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -161,7 +161,7 @@ string FormatRawSizeFull(long size)
 string FormatRawSizeShort(long size)
 ```
 
-<mark style="color:purple;">`size`</mark> <mark style="color:red;">*`long`*</mark>  
+`size` <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
 
@@ -172,10 +172,10 @@ string FormatRawSizeShort(long size)
 ```csharp
 string FormatSize(Decimal size, int round = 2)
 ```
-<mark style="color:purple;">`size`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+`size` <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`round`</mark> <mark style="color:red;">*`int`*</mark>  
+`round` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -187,13 +187,13 @@ string FormatSize(Decimal size, int round = 2)
 string FormatSize(Decimal size, int round = 2)
 string FormatSize(Decimal size, int round, bool minimize)
 ```
-<mark style="color:purple;">`size`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+`size` <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`round`</mark> <mark style="color:red;">*`int`*</mark>  
+`round` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`minimize`</mark> <mark style="color:red;">*`bool`*</mark>  
+`minimize` <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -213,7 +213,7 @@ string FormatSizeFull(Decimal size)
 string FormatSizeShort(Decimal size)
 ```
 
-<mark style="color:purple;">`size`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+`size` <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
 
@@ -224,10 +224,10 @@ string FormatSizeShort(Decimal size)
 ```csharp
 string FormatTime(DateTime dt, string format)
 ```
-<mark style="color:purple;">`dt`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+`dt` <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`format`</mark> <mark style="color:red;">*`string`*</mark>  
+`format` <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -238,7 +238,7 @@ string FormatTime(DateTime dt, string format)
 ```csharp
 string FormatTrades(long trades)
 ```
-<mark style="color:purple;">`trades`</mark> <mark style="color:red;">*`long`*</mark>  
+`trades` <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
 
@@ -250,13 +250,13 @@ string FormatTrades(long trades)
 string FormatTrades(long trades)
 string FormatTrades(long trades, int round, bool minimize)
 ```
-<mark style="color:purple;">`trades`</mark> <mark style="color:red;">*`long`*</mark>  
+`trades` <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`round`</mark> <mark style="color:red;">*`int`*</mark>  
+`round` <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:purple;">`minimize`</mark> <mark style="color:red;">*`bool`*</mark>  
+`minimize` <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -267,7 +267,7 @@ string FormatTrades(long trades, int round, bool minimize)
 ```csharp
 Decimal GetPrice(long rawPrice)
 ```
-<mark style="color:purple;">`rawPrice`</mark> <mark style="color:red;">*`long`*</mark>  
+`rawPrice` <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
 
@@ -278,7 +278,7 @@ Decimal GetPrice(long rawPrice)
 ```csharp
 Decimal GetSize(long rawSize)
 ```
-<mark style="color:purple;">`rawSize`</mark> <mark style="color:red;">*`long`*</mark>  
+`rawSize` <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
 
