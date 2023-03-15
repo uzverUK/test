@@ -32,11 +32,12 @@ public sealed class FibonacciRetracementObject : LineObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## ApplyTheme
+***  
+***  
+# Методы
+
+## *ApplyTheme*
 Описание
 
 ```csharp
@@ -49,7 +50,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -64,7 +65,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## Draw
+## *Draw*
 Описание
 
 ```csharp
@@ -79,7 +80,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## FibonacciRetracementObject
+## *FibonacciRetracementObject*
 Описание
 
 ```csharp
@@ -88,7 +89,7 @@ public FibonacciRetracementObject()
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -103,11 +104,11 @@ protected override bool InObject(int x, int y)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## CustomLevels
+## *CustomLevels*
 Описание
 
 ```csharp
@@ -115,7 +116,7 @@ public bool CustomLevels { get; set; }
 ```
 ***
 
-## Levels
+## *Levels*
 Описание
 
 ```csharp
@@ -123,7 +124,7 @@ public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
 ```
 ***
 
-## OpenEnd
+## *OpenEnd*
 Описание
 
 ```csharp
@@ -131,7 +132,7 @@ public bool OpenEnd { get; set; }
 ```
 ***
 
-## OpenStart
+## *OpenStart*
 Описание
 
 ```csharp
@@ -139,7 +140,7 @@ public bool OpenStart { get; set; }
 ```
 ***
 
-## TextAlignment
+## *TextAlignment*
 Описание
 
 ```csharp
@@ -147,7 +148,7 @@ public ObjectTextAlignment TextAlignment { get; set; }
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

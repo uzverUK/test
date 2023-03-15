@@ -43,11 +43,12 @@ public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
 
 
 
-            ***
-  ***
-  # Методы
 
-## ChartSeries
+***  
+***  
+# Методы
+
+## *ChartSeries*
 Описание
 
 ```csharp
@@ -56,7 +57,7 @@ public ChartSeries()
 
 ***                
 
-## ChartSeries
+## *ChartSeries*
 Описание
 
 ```csharp
@@ -73,7 +74,7 @@ public ChartSeries(ChartSeriesType type, XColor color)
 
 ***                
 
-## ChartSeries
+## *ChartSeries*
 Описание
 
 ```csharp
@@ -94,7 +95,7 @@ public ChartSeries(ChartSeriesType type, XColor color, XDashStyle style)
 
 ***                
 
-## CopyTheme
+## *CopyTheme*
 Описание
 
 ```csharp
@@ -106,7 +107,7 @@ public void CopyTheme(ChartSeries chartSeries)
 
 ***                
 
-## GetPropertyHasStandardValues
+## *GetPropertyHasStandardValues*
 Описание
 
 ```csharp
@@ -118,7 +119,7 @@ public bool GetPropertyHasStandardValues(string propertyName)
 
 ***                
 
-## GetPropertyReadOnly
+## *GetPropertyReadOnly*
 Описание
 
 ```csharp
@@ -127,7 +128,7 @@ public bool GetPropertyReadOnly(string propertyName)
 
 ***                
 
-## GetPropertyStandardValues
+## *GetPropertyStandardValues*
 Описание
 
 ```csharp
@@ -140,7 +141,7 @@ public IEnumerable<object> GetPropertyStandardValues(string propertyName)
 
 ***                
 
-## GetPropertyVisibility
+## *GetPropertyVisibility*
 Описание
 
 ```csharp
@@ -149,7 +150,7 @@ public bool GetPropertyVisibility(string propertyName)
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -157,11 +158,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## AllColors
+## *AllColors*
 Описание
 
 ```csharp
@@ -169,7 +170,7 @@ public XColor AllColors {set; }
 ```
 ***
 
-## Color
+## *Color*
 Описание
 
 ```csharp
@@ -177,7 +178,7 @@ public XColor Color { get; set; }
 ```
 ***
 
-## Color2
+## *Color2*
 Описание
 
 ```csharp
@@ -185,7 +186,7 @@ public XColor Color2 { get; set; }
 ```
 ***
 
-## ColorSplit
+## *ColorSplit*
 Описание
 
 ```csharp
@@ -193,7 +194,7 @@ public ChartSeriesColorSplit ColorSplit { get; set; }
 ```
 ***
 
-## DotStyle
+## *DotStyle*
 Описание
 
 ```csharp
@@ -201,7 +202,7 @@ public ChartSeriesDotStyle DotStyle { get; set; }
 ```
 ***
 
-## ShowMarker
+## *ShowMarker*
 Описание
 
 ```csharp
@@ -209,7 +210,7 @@ public bool ShowMarker { get; set; }
 ```
 ***
 
-## Style
+## *Style*
 Описание
 
 ```csharp
@@ -217,7 +218,7 @@ public XDashStyle Style { get; set; }
 ```
 ***
 
-## Type
+## *Type*
 Описание
 
 ```csharp
@@ -225,7 +226,7 @@ public ChartSeriesType Type { get; set; }
 ```
 ***
 
-## Visible
+## *Visible*
 Описание
 
 ```csharp
@@ -233,7 +234,7 @@ public bool Visible { get; set; }
 ```
 ***
 
-## Width
+## *Width*
 Описание
 
 ```csharp
@@ -244,7 +245,7 @@ public int Width { get; set; }
   ***
   # События
 
-## PropertyChanged
+## *PropertyChanged*
 Описание
 
 ```csharp

@@ -29,11 +29,12 @@ public abstract class ElliottWaveObject : LineObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CopyTemplate
+***  
+***  
+# Методы
+
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -49,7 +50,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## Draw
+## *Draw*
 Описание
 
 ```csharp
@@ -64,7 +65,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## ElliottWaveObject
+## *ElliottWaveObject*
 Описание
 
 ```csharp
@@ -73,7 +74,7 @@ protected ElliottWaveObject()
 
 ***                
 
-## GetDegreeText
+## *GetDegreeText*
 Описание
 
 ```csharp
@@ -86,7 +87,7 @@ protected abstract string GetDegreeText(int num)
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -100,11 +101,11 @@ protected override bool InObject(int x, int y)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Degree
+## *Degree*
 Описание
 
 ```csharp
@@ -112,7 +113,7 @@ public ElliottWaveDegree Degree { get; set; }
 ```
 ***
 
-## ShowWave
+## *ShowWave*
 Описание
 
 ```csharp
@@ -120,7 +121,7 @@ public bool ShowWave { get; set; }
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

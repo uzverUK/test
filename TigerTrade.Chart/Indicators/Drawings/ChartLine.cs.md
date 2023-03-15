@@ -34,11 +34,12 @@ public sealed class ChartLine : INotifyPropertyChanged
 
 
 
-            ***
-  ***
-  # Методы
 
-## ChartLine
+***  
+***  
+# Методы
+
+## *ChartLine*
 Описание
 
 ```csharp
@@ -47,7 +48,7 @@ public ChartLine()
 
 ***                
 
-## CopyTheme
+## *CopyTheme*
 Описание
 
 ```csharp
@@ -60,7 +61,7 @@ public void CopyTheme(ChartLine chartLine)
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -68,11 +69,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Color
+## *Color*
 Описание
 
 ```csharp
@@ -80,7 +81,7 @@ public XColor Color { get; set; }
 ```
 ***
 
-## ShowMarker
+## *ShowMarker*
 Описание
 
 ```csharp
@@ -88,7 +89,7 @@ public bool ShowMarker { get; set; }
 ```
 ***
 
-## Style
+## *Style*
 Описание
 
 ```csharp
@@ -96,7 +97,7 @@ public XDashStyle Style { get; set; }
 ```
 ***
 
-## Visible
+## *Visible*
 Описание
 
 ```csharp
@@ -104,7 +105,7 @@ public bool Visible { get; set; }
 ```
 ***
 
-## Width
+## *Width*
 Описание
 
 ```csharp
@@ -115,7 +116,7 @@ public int Width { get; set; }
   ***
   # События
 
-## PropertyChanged
+## *PropertyChanged*
 Описание
 
 ```csharp

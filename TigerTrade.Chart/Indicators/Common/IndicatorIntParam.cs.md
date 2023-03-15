@@ -19,11 +19,12 @@ public sealed class IndicatorIntParam : IndicatorParam<int>
 
 
 
-            ***
-  ***
-  # Методы
 
-## IndicatorIntParam
+***  
+***  
+# Методы
+
+## *IndicatorIntParam*
 Описание
 
 ```csharp
@@ -32,7 +33,7 @@ public IndicatorIntParam()
 
 ***                
 
-## IndicatorIntParam
+## *IndicatorIntParam*
 Описание
 
 ```csharp
@@ -46,7 +47,7 @@ public IndicatorIntParam(int value)
 
 ***                
 
-## Set
+## *Set*
 Описание
 
 ```csharp

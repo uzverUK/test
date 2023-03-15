@@ -29,11 +29,12 @@ public sealed class ChaikinOscillatorSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## ChaikinOscillatorSource
+***  
+***  
+# Методы
+
+## *ChaikinOscillatorSource*
 Описание
 
 ```csharp
@@ -42,7 +43,7 @@ public ChaikinOscillatorSource()
 
 ***                
 
-## CopySettings
+## *CopySettings*
 Описание
 
 ```csharp
@@ -55,7 +56,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -67,7 +68,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -79,7 +80,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -87,11 +88,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## LongPeriod
+## *LongPeriod*
 Описание
 
 ```csharp
@@ -99,7 +100,7 @@ public int LongPeriod { get; set; }
 ```
 ***
 
-## MaType
+## *MaType*
 Описание
 
 ```csharp
@@ -107,7 +108,7 @@ public IndicatorMaType MaType { get; set; }
 ```
 ***
 
-## ShortPeriod
+## *ShortPeriod*
 Описание
 
 ```csharp

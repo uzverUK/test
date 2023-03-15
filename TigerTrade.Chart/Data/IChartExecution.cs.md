@@ -25,7 +25,7 @@ public interface IChartExecution
   ***
   # Свойства
 
-## IsBuy
+## *IsBuy*
 Описание
 
 ```csharp
@@ -33,7 +33,7 @@ bool IsBuy { get; }
 ```
 ***
 
-## Price
+## *Price*
 Описание
 
 ```csharp
@@ -41,7 +41,7 @@ double Price { get; }
 ```
 ***
 
-## Quantity
+## *Quantity*
 Описание
 
 ```csharp
@@ -49,7 +49,7 @@ long Quantity { get; }
 ```
 ***
 
-## Time
+## *Time*
 Описание
 
 ```csharp

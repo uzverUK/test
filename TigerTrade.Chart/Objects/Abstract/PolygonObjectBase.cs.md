@@ -34,11 +34,12 @@ public abstract class PolygonObjectBase : ObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## ApplyTheme
+***  
+***  
+# Методы
+
+## *ApplyTheme*
 Описание
 
 ```csharp
@@ -51,7 +52,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -66,7 +67,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## PolygonObjectBase
+## *PolygonObjectBase*
 Описание
 
 ```csharp
@@ -74,11 +75,11 @@ protected PolygonObjectBase()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## BackBrush
+## *BackBrush*
 Описание
 
 ```csharp
@@ -86,7 +87,7 @@ protected XBrush BackBrush { get; private set; }
 ```
 ***
 
-## BackColor
+## *BackColor*
 Описание
 
 ```csharp
@@ -94,7 +95,7 @@ public XColor BackColor { get; set; }
 ```
 ***
 
-## DrawBack
+## *DrawBack*
 Описание
 
 ```csharp
@@ -102,7 +103,7 @@ public bool DrawBack { get; set; }
 ```
 ***
 
-## DrawBorder
+## *DrawBorder*
 Описание
 
 ```csharp
@@ -110,7 +111,7 @@ public bool DrawBorder { get; set; }
 ```
 ***
 
-## LineBrush
+## *LineBrush*
 Описание
 
 ```csharp
@@ -118,7 +119,7 @@ protected XBrush LineBrush { get; private set; }
 ```
 ***
 
-## LineColor
+## *LineColor*
 Описание
 
 ```csharp
@@ -126,7 +127,7 @@ public XColor LineColor { get; set; }
 ```
 ***
 
-## LinePen
+## *LinePen*
 Описание
 
 ```csharp
@@ -134,7 +135,7 @@ protected XPen LinePen { get; private set; }
 ```
 ***
 
-## LineStyle
+## *LineStyle*
 Описание
 
 ```csharp
@@ -142,7 +143,7 @@ public XDashStyle LineStyle { get; set; }
 ```
 ***
 
-## LineWidth
+## *LineWidth*
 Описание
 
 ```csharp
@@ -150,7 +151,7 @@ public int LineWidth { get; set; }
 ```
 ***
 
-## int
+## *int*
 Описание
 
 ```csharp

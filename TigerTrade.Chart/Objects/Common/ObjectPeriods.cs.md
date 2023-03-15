@@ -27,11 +27,12 @@ public sealed class ObjectPeriods
 
 
 
-            ***
-  ***
-  # Методы
 
-## CheckPeriod
+***  
+***  
+# Методы
+
+## *CheckPeriod*
 Описание
 
 ```csharp
@@ -44,7 +45,7 @@ public bool CheckPeriod(IChartPeriod dc)
 
 ***                
 
-## Copy
+## *Copy*
 Описание
 
 ```csharp
@@ -53,7 +54,7 @@ public ObjectPeriods Copy()
 
 ***                
 
-## Equals
+## *Equals*
 Описание
 
 ```csharp
@@ -66,7 +67,7 @@ public override bool Equals(object obj)
 
 ***                
 
-## ObjectPeriods
+## *ObjectPeriods*
 Описание
 
 ```csharp
@@ -75,7 +76,7 @@ public ObjectPeriods()
 
 ***                
 
-## Update
+## *Update*
 Описание
 
 ```csharp
@@ -99,11 +100,11 @@ public void Update(string type, bool isChecked, bool checkRange, int min, int ma
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Periods
+## *Periods*
 Описание
 
 ```csharp

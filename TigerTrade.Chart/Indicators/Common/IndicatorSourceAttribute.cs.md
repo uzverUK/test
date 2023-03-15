@@ -24,11 +24,12 @@ public class IndicatorSourceAttribute : Attribute
 
 
 
-            ***
-  ***
-  # Методы
 
-## IndicatorSourceAttribute
+***  
+***  
+# Методы
+
+## *IndicatorSourceAttribute*
 Описание
 
 ```csharp
@@ -40,11 +41,11 @@ public IndicatorSourceAttribute(string name)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Name
+## *Name*
 Описание
 
 ```csharp
@@ -52,7 +53,7 @@ public string Name { get; }
 ```
 ***
 
-## Type
+## *Type*
 Описание
 
 ```csharp

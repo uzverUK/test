@@ -22,11 +22,12 @@ public sealed class ADSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## ADSource
+***  
+***  
+# Методы
+
+## *ADSource*
 Описание
 
 ```csharp
@@ -35,7 +36,7 @@ public ADSource()
 
 ***                
 
-## CopySettings
+## *CopySettings*
 Описание
 
 ```csharp
@@ -48,7 +49,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -60,7 +61,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -72,7 +73,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp

@@ -29,7 +29,7 @@ public interface IChartDeal
   ***
   # Свойства
 
-## ClosePrice
+## *ClosePrice*
 Описание
 
 ```csharp
@@ -37,7 +37,7 @@ double ClosePrice { get; }
 ```
 ***
 
-## CloseTime
+## *CloseTime*
 Описание
 
 ```csharp
@@ -45,7 +45,7 @@ DateTime CloseTime { get; }
 ```
 ***
 
-## IsBuy
+## *IsBuy*
 Описание
 
 ```csharp
@@ -53,7 +53,7 @@ bool IsBuy { get; }
 ```
 ***
 
-## OpenPrice
+## *OpenPrice*
 Описание
 
 ```csharp
@@ -61,7 +61,7 @@ double OpenPrice { get; }
 ```
 ***
 
-## OpenTime
+## *OpenTime*
 Описание
 
 ```csharp
@@ -69,7 +69,7 @@ DateTime OpenTime { get; }
 ```
 ***
 
-## Points
+## *Points*
 Описание
 
 ```csharp
@@ -77,7 +77,7 @@ double Points { get; }
 ```
 ***
 
-## Profit
+## *Profit*
 Описание
 
 ```csharp
@@ -85,7 +85,7 @@ double Profit { get; }
 ```
 ***
 
-## Quantity
+## *Quantity*
 Описание
 
 ```csharp

@@ -40,11 +40,12 @@ public sealed class IndicatorSeriesStyle
 
 
 
-            ***
-  ***
-  # Методы
 
-## DisableAll
+***  
+***  
+# Методы
+
+## *DisableAll*
 Описание
 
 ```csharp
@@ -53,7 +54,7 @@ public void DisableAll()
 
 ***                
 
-## IndicatorSeriesStyle
+## *IndicatorSeriesStyle*
 Описание
 
 ```csharp
@@ -62,7 +63,7 @@ public IndicatorSeriesStyle()
 
 ***                
 
-## Set
+## *Set*
 Описание
 
 ```csharp
@@ -78,7 +79,7 @@ public void Set(ChartSeries series, string name = "")
 
 ***                
 
-## Set
+## *Set*
 Описание
 
 ```csharp
@@ -98,7 +99,7 @@ public void Set(ChartRegion region)
 
 ***                
 
-## Set
+## *Set*
 Описание
 
 ```csharp
@@ -121,11 +122,11 @@ public void Set(ChartLine line)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Color2;
+## *Color2;*
 Описание
 
 ```csharp
@@ -133,7 +134,7 @@ public XColor Color2; {}
 ```
 ***
 
-## Color;
+## *Color;*
 Описание
 
 ```csharp
@@ -141,7 +142,7 @@ public XColor Color; {}
 ```
 ***
 
-## ColorSplit;
+## *ColorSplit;*
 Описание
 
 ```csharp
@@ -149,7 +150,7 @@ public ChartSeriesColorSplit ColorSplit; {}
 ```
 ***
 
-## DisableLabel;
+## *DisableLabel;*
 Описание
 
 ```csharp
@@ -157,7 +158,7 @@ public bool DisableLabel; {}
 ```
 ***
 
-## DisableMinMax;
+## *DisableMinMax;*
 Описание
 
 ```csharp
@@ -165,7 +166,7 @@ public bool DisableMinMax; {}
 ```
 ***
 
-## DisableSelect;
+## *DisableSelect;*
 Описание
 
 ```csharp
@@ -173,7 +174,7 @@ public bool DisableSelect; {}
 ```
 ***
 
-## DisableValue;
+## *DisableValue;*
 Описание
 
 ```csharp
@@ -181,7 +182,7 @@ public bool DisableValue; {}
 ```
 ***
 
-## DotType;
+## *DotType;*
 Описание
 
 ```csharp
@@ -189,7 +190,7 @@ public ChartSeriesDotStyle DotType; {}
 ```
 ***
 
-## HighPercent;
+## *HighPercent;*
 Описание
 
 ```csharp
@@ -197,7 +198,7 @@ public double HighPercent; {}
 ```
 ***
 
-## LineStyle;
+## *LineStyle;*
 Описание
 
 ```csharp
@@ -205,7 +206,7 @@ public XDashStyle LineStyle; {}
 ```
 ***
 
-## LineWidth;
+## *LineWidth;*
 Описание
 
 ```csharp
@@ -213,7 +214,7 @@ public int LineWidth; {}
 ```
 ***
 
-## LowPercent;
+## *LowPercent;*
 Описание
 
 ```csharp
@@ -221,7 +222,7 @@ public double LowPercent; {}
 ```
 ***
 
-## Name;
+## *Name;*
 Описание
 
 ```csharp
@@ -229,7 +230,7 @@ public string Name; {}
 ```
 ***
 
-## RenderType;
+## *RenderType;*
 Описание
 
 ```csharp
@@ -237,7 +238,7 @@ public ChartSeriesType RenderType; {}
 ```
 ***
 
-## StraightLine;
+## *StraightLine;*
 Описание
 
 ```csharp
@@ -245,7 +246,7 @@ public bool StraightLine; {}
 ```
 ***
 
-## Visible;
+## *Visible;*
 Описание
 
 ```csharp

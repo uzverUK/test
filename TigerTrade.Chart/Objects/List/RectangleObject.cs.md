@@ -39,11 +39,12 @@ public class RectangleObject : PolygonObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## Draw
+***  
+***  
+# Методы
+
+## *Draw*
 Описание
 
 ```csharp
@@ -59,7 +60,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## DrawControlPoints
+## *DrawControlPoints*
 Описание
 
 ```csharp
@@ -68,7 +69,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 ***                
 
-## ExtraPointChanged
+## *ExtraPointChanged*
 Описание
 
 ```csharp
@@ -84,7 +85,7 @@ public override void ExtraPointChanged(int index, ObjectPoint op)
 
 ***                
 
-## GetControlPoint
+## *GetControlPoint*
 Описание
 
 ```csharp
@@ -99,7 +100,7 @@ public override int GetControlPoint(int x, int y)
 
 ***                
 
-## GetExtraPoint
+## *GetExtraPoint*
 Описание
 
 ```csharp
@@ -108,7 +109,7 @@ public override int GetExtraPoint(int x, int y)
 
 ***                
 
-## GetMinDist
+## *GetMinDist*
 Описание
 
 ```csharp
@@ -124,7 +125,7 @@ protected override int GetMinDist(int x, int y)
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -133,7 +134,7 @@ protected override bool InObject(int x, int y)
 
 ***                
 
-## IsObjectInArea
+## *IsObjectInArea*
 Описание
 
 ```csharp
@@ -142,7 +143,7 @@ protected override bool IsObjectInArea()
 
 ***                
 
-## Prepare
+## *Prepare*
 Описание
 
 ```csharp
@@ -151,7 +152,7 @@ protected override void Prepare()
 
 ***                
 
-## RectangleObject
+## *RectangleObject*
 Описание
 
 ```csharp
@@ -160,7 +161,7 @@ public RectangleObject()
 
 ***                
 
-## x9Yyrp3RfkGdCbNTXU4b
+## *x9Yyrp3RfkGdCbNTXU4b*
 Описание
 
 ```csharp
@@ -168,11 +169,11 @@ public x9Yyrp3RfkGdCbNTXU4b()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## RectInfo
+## *RectInfo*
 Описание
 
 ```csharp
@@ -180,7 +181,7 @@ public RectangleObject.x9Yyrp3RfkGdCbNTXU4b RectInfo { get; private set; }
 ```
 ***
 
-## Rectangle;
+## *Rectangle;*
 Описание
 
 ```csharp
@@ -188,7 +189,7 @@ public Rect Rectangle; {}
 ```
 ***
 
-## cTQ3RQ5sOeg;
+## *cTQ3RQ5sOeg;*
 Описание
 
 ```csharp
@@ -196,7 +197,7 @@ public Point cTQ3RQ5sOeg; {}
 ```
 ***
 
-## mrI3RMYxIFC;
+## *mrI3RMYxIFC;*
 Описание
 
 ```csharp
@@ -204,7 +205,7 @@ public Point mrI3RMYxIFC; {}
 ```
 ***
 
-## mtO3Rj6ZJ6t;
+## *mtO3Rj6ZJ6t;*
 Описание
 
 ```csharp
@@ -212,7 +213,7 @@ public Point mtO3Rj6ZJ6t; {}
 ```
 ***
 
-## qX73RVVvfB0;
+## *qX73RVVvfB0;*
 Описание
 
 ```csharp
@@ -220,7 +221,7 @@ public Point qX73RVVvfB0; {}
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

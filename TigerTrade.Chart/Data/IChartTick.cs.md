@@ -26,7 +26,7 @@ public interface IChartTick
   ***
   # Свойства
 
-## IsBuy
+## *IsBuy*
 Описание
 
 ```csharp
@@ -34,7 +34,7 @@ bool IsBuy { get; }
 ```
 ***
 
-## OpenInterest
+## *OpenInterest*
 Описание
 
 ```csharp
@@ -42,7 +42,7 @@ long OpenInterest { get; }
 ```
 ***
 
-## Price
+## *Price*
 Описание
 
 ```csharp
@@ -50,7 +50,7 @@ Decimal Price { get; }
 ```
 ***
 
-## Size
+## *Size*
 Описание
 
 ```csharp
@@ -58,7 +58,7 @@ Decimal Size { get; }
 ```
 ***
 
-## Time
+## *Time*
 Описание
 
 ```csharp

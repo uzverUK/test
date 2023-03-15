@@ -30,11 +30,12 @@ public sealed class EnvelopesSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CopySettings
+***  
+***  
+# Методы
+
+## *CopySettings*
 Описание
 
 ```csharp
@@ -47,7 +48,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## EnvelopesSource
+## *EnvelopesSource*
 Описание
 
 ```csharp
@@ -56,7 +57,7 @@ public EnvelopesSource()
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -69,7 +70,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -81,7 +82,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -89,11 +90,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Factor
+## *Factor*
 Описание
 
 ```csharp
@@ -101,7 +102,7 @@ public int Factor { get; set; }
 ```
 ***
 
-## MaType
+## *MaType*
 Описание
 
 ```csharp
@@ -109,7 +110,7 @@ public IndicatorMaType MaType { get; set; }
 ```
 ***
 
-## Period
+## *Period*
 Описание
 
 ```csharp
@@ -117,7 +118,7 @@ public int Period { get; set; }
 ```
 ***
 
-## Source
+## *Source*
 Описание
 
 ```csharp

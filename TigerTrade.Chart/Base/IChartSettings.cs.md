@@ -23,7 +23,7 @@ public interface IChartSettings
   ***
   # Свойства
 
-## TransformHorLines
+## *TransformHorLines*
 Описание
 
 ```csharp
@@ -31,7 +31,7 @@ bool TransformHorLines { get; }
 ```
 ***
 
-## TransformVertLines
+## *TransformVertLines*
 Описание
 
 ```csharp

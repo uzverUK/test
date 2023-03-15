@@ -41,11 +41,12 @@ public interface IChartSymbol
 
 
 
-            ***
-  ***
-  # Методы
 
-## ConvertTimeFromLocal
+***  
+***  
+# Методы
+
+## *ConvertTimeFromLocal*
 Описание
 
 ```csharp
@@ -58,7 +59,7 @@ DateTime ConvertTimeFromLocal(DateTime dt)
 
 ***                
 
-## ConvertTimeToLocal
+## *ConvertTimeToLocal*
 Описание
 
 ```csharp
@@ -67,7 +68,7 @@ DateTime ConvertTimeToLocal(DateTime dt)
 
 ***                
 
-## CorrectSizeFilter
+## *CorrectSizeFilter*
 Описание
 
 ```csharp
@@ -80,7 +81,7 @@ long CorrectSizeFilter(double filter)
 
 ***                
 
-## CorrectSizeFilter
+## *CorrectSizeFilter*
 Описание
 
 ```csharp
@@ -94,7 +95,7 @@ long? CorrectSizeFilter(double? filter)
 
 ***                
 
-## FormatPrice
+## *FormatPrice*
 Описание
 
 ```csharp
@@ -109,7 +110,7 @@ string FormatPrice(Decimal price, bool shortDecimals = false)
 
 ***                
 
-## FormatRawPrice
+## *FormatRawPrice*
 Описание
 
 ```csharp
@@ -121,7 +122,7 @@ string FormatRawPrice(long price, bool shortDecimals = false)
 
 ***                
 
-## FormatRawSize
+## *FormatRawSize*
 Описание
 
 ```csharp
@@ -136,7 +137,7 @@ string FormatRawSize(long size, int round = 2)
 
 ***                
 
-## FormatRawSize
+## *FormatRawSize*
 Описание
 
 ```csharp
@@ -155,7 +156,7 @@ string FormatRawSize(long size, int round, bool minimize)
 
 ***                
 
-## FormatRawSizeFull
+## *FormatRawSizeFull*
 Описание
 
 ```csharp
@@ -164,7 +165,7 @@ string FormatRawSizeFull(long size)
 
 ***                
 
-## FormatRawSizeShort
+## *FormatRawSizeShort*
 Описание
 
 ```csharp
@@ -177,7 +178,7 @@ string FormatRawSizeShort(long size)
 
 ***                
 
-## FormatSize
+## *FormatSize*
 Описание
 
 ```csharp
@@ -192,7 +193,7 @@ string FormatSize(Decimal size, int round = 2)
 
 ***                
 
-## FormatSize
+## *FormatSize*
 Описание
 
 ```csharp
@@ -211,7 +212,7 @@ string FormatSize(Decimal size, int round, bool minimize)
 
 ***                
 
-## FormatSizeFull
+## *FormatSizeFull*
 Описание
 
 ```csharp
@@ -220,7 +221,7 @@ string FormatSizeFull(Decimal size)
 
 ***                
 
-## FormatSizeShort
+## *FormatSizeShort*
 Описание
 
 ```csharp
@@ -233,7 +234,7 @@ string FormatSizeShort(Decimal size)
 
 ***                
 
-## FormatTime
+## *FormatTime*
 Описание
 
 ```csharp
@@ -248,7 +249,7 @@ string FormatTime(DateTime dt, string format)
 
 ***                
 
-## FormatTrades
+## *FormatTrades*
 Описание
 
 ```csharp
@@ -260,7 +261,7 @@ string FormatTrades(long trades)
 
 ***                
 
-## FormatTrades
+## *FormatTrades*
 Описание
 
 ```csharp
@@ -279,7 +280,7 @@ string FormatTrades(long trades, int round, bool minimize)
 
 ***                
 
-## GetPrice
+## *GetPrice*
 Описание
 
 ```csharp
@@ -291,7 +292,7 @@ Decimal GetPrice(long rawPrice)
 
 ***                
 
-## GetSize
+## *GetSize*
 Описание
 
 ```csharp
@@ -302,11 +303,11 @@ Decimal GetSize(long rawSize)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Code
+## *Code*
 Описание
 
 ```csharp
@@ -314,7 +315,7 @@ string Code { get; }
 ```
 ***
 
-## Decimals
+## *Decimals*
 Описание
 
 ```csharp
@@ -322,7 +323,7 @@ int Decimals { get; }
 ```
 ***
 
-## Exchange
+## *Exchange*
 Описание
 
 ```csharp
@@ -330,7 +331,7 @@ string Exchange { get; }
 ```
 ***
 
-## Name
+## *Name*
 Описание
 
 ```csharp
@@ -338,7 +339,7 @@ string Name { get; }
 ```
 ***
 
-## StepPrice
+## *StepPrice*
 Описание
 
 ```csharp

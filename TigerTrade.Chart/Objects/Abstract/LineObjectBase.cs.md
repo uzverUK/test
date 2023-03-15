@@ -30,11 +30,12 @@ public abstract class LineObjectBase : ObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## ApplyTheme
+***  
+***  
+# Методы
+
+## *ApplyTheme*
 Описание
 
 ```csharp
@@ -47,7 +48,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -62,7 +63,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## LineObjectBase
+## *LineObjectBase*
 Описание
 
 ```csharp
@@ -70,11 +71,11 @@ protected LineObjectBase()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## LineBrush
+## *LineBrush*
 Описание
 
 ```csharp
@@ -82,7 +83,7 @@ protected XBrush LineBrush { get; private set; }
 ```
 ***
 
-## LineColor
+## *LineColor*
 Описание
 
 ```csharp
@@ -90,7 +91,7 @@ public XColor LineColor { get; set; }
 ```
 ***
 
-## LinePen
+## *LinePen*
 Описание
 
 ```csharp
@@ -98,7 +99,7 @@ public XPen LinePen { get; private set; }
 ```
 ***
 
-## LineStyle
+## *LineStyle*
 Описание
 
 ```csharp
@@ -106,7 +107,7 @@ public XDashStyle LineStyle { get; set; }
 ```
 ***
 
-## LineWidth
+## *LineWidth*
 Описание
 
 ```csharp
@@ -114,7 +115,7 @@ public int LineWidth { get; set; }
 ```
 ***
 
-## int
+## *int*
 Описание
 
 ```csharp

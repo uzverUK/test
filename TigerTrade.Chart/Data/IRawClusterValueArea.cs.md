@@ -23,7 +23,7 @@ public interface IRawClusterValueArea
   ***
   # Свойства
 
-## Vah
+## *Vah*
 Описание
 
 ```csharp
@@ -31,7 +31,7 @@ long Vah { get; }
 ```
 ***
 
-## Val
+## *Val*
 Описание
 
 ```csharp

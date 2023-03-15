@@ -22,7 +22,7 @@ public static class ClientInfo
   ***
   # Свойства
 
-## LicenseID
+## *LicenseID*
 Описание
 
 ```csharp

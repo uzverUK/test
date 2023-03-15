@@ -34,11 +34,12 @@ public sealed class ChartClusterItem : IChartClusterItem
 
 
 
-            ***
-  ***
-  # Методы
 
-## Add
+***  
+***  
+# Методы
+
+## *Add*
 Описание
 
 ```csharp
@@ -51,7 +52,7 @@ public void Add(IChartClusterItem item)
 
 ***                
 
-## ChartClusterItem
+## *ChartClusterItem*
 Описание
 
 ```csharp
@@ -63,7 +64,7 @@ public ChartClusterItem(Decimal price)
 
 ***                
 
-## ChartClusterItem
+## *ChartClusterItem*
 Описание
 
 ```csharp
@@ -78,11 +79,11 @@ public ChartClusterItem(IChartClusterItem item)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Ask
+## *Ask*
 Описание
 
 ```csharp
@@ -90,7 +91,7 @@ public Decimal Ask { get; set; }
 ```
 ***
 
-## AskTrades
+## *AskTrades*
 Описание
 
 ```csharp
@@ -98,7 +99,7 @@ public int AskTrades { get; set; }
 ```
 ***
 
-## Bid
+## *Bid*
 Описание
 
 ```csharp
@@ -106,7 +107,7 @@ public Decimal Bid { get; set; }
 ```
 ***
 
-## BidTrades
+## *BidTrades*
 Описание
 
 ```csharp
@@ -114,7 +115,7 @@ public int BidTrades { get; set; }
 ```
 ***
 
-## Delta
+## *Delta*
 Описание
 
 ```csharp
@@ -122,7 +123,7 @@ public Decimal Delta { get; }
 ```
 ***
 
-## OpenPos
+## *OpenPos*
 Описание
 
 ```csharp
@@ -130,7 +131,7 @@ public long OpenPos { get; }
 ```
 ***
 
-## OpenPosAsk
+## *OpenPosAsk*
 Описание
 
 ```csharp
@@ -138,7 +139,7 @@ public long OpenPosAsk { get; set; }
 ```
 ***
 
-## OpenPosBid
+## *OpenPosBid*
 Описание
 
 ```csharp
@@ -146,7 +147,7 @@ public long OpenPosBid { get; set; }
 ```
 ***
 
-## Price
+## *Price*
 Описание
 
 ```csharp
@@ -154,7 +155,7 @@ public Decimal Price { get; set; }
 ```
 ***
 
-## Trades
+## *Trades*
 Описание
 
 ```csharp
@@ -162,7 +163,7 @@ public int Trades { get; }
 ```
 ***
 
-## Volume
+## *Volume*
 Описание
 
 ```csharp

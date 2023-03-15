@@ -27,11 +27,12 @@ public sealed class MoneyFlowIndexSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CopySettings
+***  
+***  
+# Методы
+
+## *CopySettings*
 Описание
 
 ```csharp
@@ -44,7 +45,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -56,7 +57,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -68,7 +69,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## MoneyFlowIndexSource
+## *MoneyFlowIndexSource*
 Описание
 
 ```csharp
@@ -77,7 +78,7 @@ public MoneyFlowIndexSource()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -85,11 +86,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Period
+## *Period*
 Описание
 
 ```csharp

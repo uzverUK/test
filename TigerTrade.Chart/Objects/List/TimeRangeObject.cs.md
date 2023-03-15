@@ -33,11 +33,12 @@ public sealed class TimeRangeObject : PolygonObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## Draw
+***  
+***  
+# Методы
+
+## *Draw*
 Описание
 
 ```csharp
@@ -53,7 +54,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## DrawControlPoints
+## *DrawControlPoints*
 Описание
 
 ```csharp
@@ -62,7 +63,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 ***                
 
-## GetControlPoint
+## *GetControlPoint*
 Описание
 
 ```csharp
@@ -78,7 +79,7 @@ public override int GetControlPoint(int x, int y)
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -87,7 +88,7 @@ protected override bool InObject(int x, int y)
 
 ***                
 
-## TimeRangeObject
+## *TimeRangeObject*
 Описание
 
 ```csharp
@@ -96,7 +97,7 @@ public TimeRangeObject()
 
 ***                
 
-## ey9wOk3RwAcjmml8vF1J
+## *ey9wOk3RwAcjmml8vF1J*
 Описание
 
 ```csharp
@@ -104,11 +105,11 @@ public ey9wOk3RwAcjmml8vF1J()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Center;
+## *Center;*
 Описание
 
 ```csharp
@@ -116,7 +117,7 @@ public Point Center; {}
 ```
 ***
 
-## Dhq3RBLC45X;
+## *Dhq3RBLC45X;*
 Описание
 
 ```csharp
@@ -124,7 +125,7 @@ public Rect Dhq3RBLC45X; {}
 ```
 ***
 
-## IkF3RsY9b11;
+## *IkF3RsY9b11;*
 Описание
 
 ```csharp
@@ -132,7 +133,7 @@ public Point IkF3RsY9b11; {}
 ```
 ***
 
-## m0E3R3eeWT4;
+## *m0E3R3eeWT4;*
 Описание
 
 ```csharp
@@ -140,7 +141,7 @@ public Point m0E3R3eeWT4; {}
 ```
 ***
 
-## qsf3RUZXhNl;
+## *qsf3RUZXhNl;*
 Описание
 
 ```csharp
@@ -148,7 +149,7 @@ public Rect qsf3RUZXhNl; {}
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

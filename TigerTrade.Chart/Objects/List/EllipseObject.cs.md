@@ -26,11 +26,12 @@ public sealed class EllipseObject : PolygonObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## Draw
+***  
+***  
+# Методы
+
+## *Draw*
 Описание
 
 ```csharp
@@ -46,7 +47,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## EllipseObject
+## *EllipseObject*
 Описание
 
 ```csharp
@@ -55,7 +56,7 @@ public EllipseObject()
 
 ***                
 
-## GetMinDist
+## *GetMinDist*
 Описание
 
 ```csharp
@@ -71,7 +72,7 @@ protected override int GetMinDist(int x, int y)
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -79,11 +80,11 @@ protected override bool InObject(int x, int y)
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

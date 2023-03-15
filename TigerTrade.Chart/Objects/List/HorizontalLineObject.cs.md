@@ -37,11 +37,12 @@ public class HorizontalLineObject : LineObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CheckAlert
+***  
+***  
+# Методы
+
+## *CheckAlert*
 Описание
 
 ```csharp
@@ -50,7 +51,7 @@ public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> i
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -66,7 +67,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## Draw
+## *Draw*
 Описание
 
 ```csharp
@@ -81,7 +82,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## DrawControlPoints
+## *DrawControlPoints*
 Описание
 
 ```csharp
@@ -90,7 +91,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 ***                
 
-## DrawText
+## *DrawText*
 Описание
 
 ```csharp
@@ -103,7 +104,7 @@ protected void DrawText(DxVisualQueue visual)
 
 ***                
 
-## HorizontalLineObject
+## *HorizontalLineObject*
 Описание
 
 ```csharp
@@ -112,7 +113,7 @@ public HorizontalLineObject()
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -128,7 +129,7 @@ protected override bool InObject(int x, int y)
 
 ***                
 
-## IsObjectOnChart
+## *IsObjectOnChart*
 Описание
 
 ```csharp
@@ -136,11 +137,11 @@ protected override bool IsObjectOnChart()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Alert
+## *Alert*
 Описание
 
 ```csharp
@@ -148,7 +149,7 @@ public ChartAlertSettings Alert { get; set; }
 ```
 ***
 
-## AlertMinDistance
+## *AlertMinDistance*
 Описание
 
 ```csharp
@@ -156,7 +157,7 @@ public int AlertMinDistance { get; set; }
 ```
 ***
 
-## FontSize
+## *FontSize*
 Описание
 
 ```csharp
@@ -164,7 +165,7 @@ public int FontSize { get; set; }
 ```
 ***
 
-## LineRect;
+## *LineRect;*
 Описание
 
 ```csharp
@@ -172,7 +173,7 @@ protected Rect LineRect; {}
 ```
 ***
 
-## Price
+## *Price*
 Описание
 
 ```csharp
@@ -180,7 +181,7 @@ public Decimal Price { get; set; }
 ```
 ***
 
-## Text
+## *Text*
 Описание
 
 ```csharp
@@ -188,7 +189,7 @@ public string Text { get; set; }
 ```
 ***
 
-## TextAlignment
+## *TextAlignment*
 Описание
 
 ```csharp
@@ -196,7 +197,7 @@ public ObjectTextAlignment TextAlignment { get; set; }
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

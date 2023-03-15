@@ -27,11 +27,12 @@ public class IndicatorAttribute : Attribute
 
 
 
-            ***
-  ***
-  # Методы
 
-## IndicatorAttribute
+***  
+***  
+# Методы
+
+## *IndicatorAttribute*
 Описание
 
 ```csharp
@@ -49,11 +50,11 @@ public IndicatorAttribute(string id, string name, bool overlay)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Category
+## *Category*
 Описание
 
 ```csharp
@@ -61,7 +62,7 @@ public string Category { get; set; }
 ```
 ***
 
-## ID
+## *ID*
 Описание
 
 ```csharp
@@ -69,7 +70,7 @@ public string ID { get; }
 ```
 ***
 
-## Name
+## *Name*
 Описание
 
 ```csharp
@@ -77,7 +78,7 @@ public string Name { get; }
 ```
 ***
 
-## Overlay
+## *Overlay*
 Описание
 
 ```csharp
@@ -85,7 +86,7 @@ public bool Overlay { get; }
 ```
 ***
 
-## Type
+## *Type*
 Описание
 
 ```csharp

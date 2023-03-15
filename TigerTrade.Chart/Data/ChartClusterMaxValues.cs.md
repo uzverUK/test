@@ -32,11 +32,12 @@ public sealed class ChartClusterMaxValues : IChartClusterMaxValues
 
 
 
-            ***
-  ***
-  # Методы
 
-## ChartClusterMaxValues
+***  
+***  
+# Методы
+
+## *ChartClusterMaxValues*
 Описание
 
 ```csharp
@@ -45,7 +46,7 @@ public ChartClusterMaxValues()
 
 ***                
 
-## Update
+## *Update*
 Описание
 
 ```csharp
@@ -53,11 +54,11 @@ public void Update(Dictionary<Decimal, ChartClusterItem> items)
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## MaxAsk
+## *MaxAsk*
 Описание
 
 ```csharp
@@ -65,7 +66,7 @@ public Decimal MaxAsk { get; private set; }
 ```
 ***
 
-## MaxBid
+## *MaxBid*
 Описание
 
 ```csharp
@@ -73,7 +74,7 @@ public Decimal MaxBid { get; private set; }
 ```
 ***
 
-## MaxDelta
+## *MaxDelta*
 Описание
 
 ```csharp
@@ -81,7 +82,7 @@ public Decimal MaxDelta { get; private set; }
 ```
 ***
 
-## MaxOpenPos
+## *MaxOpenPos*
 Описание
 
 ```csharp
@@ -89,7 +90,7 @@ public long MaxOpenPos { get; private set; }
 ```
 ***
 
-## MaxTrades
+## *MaxTrades*
 Описание
 
 ```csharp
@@ -97,7 +98,7 @@ public int MaxTrades { get; private set; }
 ```
 ***
 
-## MaxVolume
+## *MaxVolume*
 Описание
 
 ```csharp
@@ -105,7 +106,7 @@ public Decimal MaxVolume { get; private set; }
 ```
 ***
 
-## MinDelta
+## *MinDelta*
 Описание
 
 ```csharp
@@ -113,7 +114,7 @@ public Decimal MinDelta { get; private set; }
 ```
 ***
 
-## MinOpenPos
+## *MinOpenPos*
 Описание
 
 ```csharp
@@ -121,7 +122,7 @@ public long MinOpenPos { get; private set; }
 ```
 ***
 
-## Poc
+## *Poc*
 Описание
 
 ```csharp

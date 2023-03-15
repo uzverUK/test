@@ -53,11 +53,12 @@ public sealed class ChartCluster : IChartCluster
 
 
 
-            ***
-  ***
-  # Методы
 
-## AddCluster
+***  
+***  
+# Методы
+
+## *AddCluster*
 Описание
 
 ```csharp
@@ -70,7 +71,7 @@ public void AddCluster(IChartCluster cluster)
 
 ***                
 
-## AddItem
+## *AddItem*
 Описание
 
 ```csharp
@@ -82,7 +83,7 @@ public void AddItem(IChartClusterItem item)
 
 ***                
 
-## AddTick
+## *AddTick*
 Описание
 
 ```csharp
@@ -94,7 +95,7 @@ public void AddTick(IChartTick tick)
 
 ***                
 
-## ChartCluster
+## *ChartCluster*
 Описание
 
 ```csharp
@@ -109,7 +110,7 @@ public ChartCluster(DateTime time, Decimal step)
 
 ***                
 
-## GetItem
+## *GetItem*
 Описание
 
 ```csharp
@@ -121,7 +122,7 @@ public IChartClusterItem GetItem(Decimal price)
 
 ***                
 
-## UpdateData
+## *UpdateData*
 Описание
 
 ```csharp
@@ -129,11 +130,11 @@ public void UpdateData()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Ask
+## *Ask*
 Описание
 
 ```csharp
@@ -141,7 +142,7 @@ public Decimal Ask { get; private set; }
 ```
 ***
 
-## AskTrades
+## *AskTrades*
 Описание
 
 ```csharp
@@ -149,7 +150,7 @@ public int AskTrades { get; private set; }
 ```
 ***
 
-## Bid
+## *Bid*
 Описание
 
 ```csharp
@@ -157,7 +158,7 @@ public Decimal Bid { get; private set; }
 ```
 ***
 
-## BidTrades
+## *BidTrades*
 Описание
 
 ```csharp
@@ -165,7 +166,7 @@ public int BidTrades { get; private set; }
 ```
 ***
 
-## Close
+## *Close*
 Описание
 
 ```csharp
@@ -173,7 +174,7 @@ public Decimal Close { get; set; }
 ```
 ***
 
-## CloseTime
+## *CloseTime*
 Описание
 
 ```csharp
@@ -181,7 +182,7 @@ public DateTime CloseTime { get; private set; }
 ```
 ***
 
-## Delta
+## *Delta*
 Описание
 
 ```csharp
@@ -189,7 +190,7 @@ public Decimal Delta { get; }
 ```
 ***
 
-## DeltaHigh
+## *DeltaHigh*
 Описание
 
 ```csharp
@@ -197,7 +198,7 @@ public Decimal DeltaHigh { get; private set; }
 ```
 ***
 
-## DeltaLow
+## *DeltaLow*
 Описание
 
 ```csharp
@@ -205,7 +206,7 @@ public Decimal DeltaLow { get; private set; }
 ```
 ***
 
-## High
+## *High*
 Описание
 
 ```csharp
@@ -213,7 +214,7 @@ public Decimal High { get; set; }
 ```
 ***
 
-## IsUp
+## *IsUp*
 Описание
 
 ```csharp
@@ -221,7 +222,7 @@ public bool IsUp { get; set; }
 ```
 ***
 
-## Items
+## *Items*
 Описание
 
 ```csharp
@@ -229,7 +230,7 @@ public List<IChartClusterItem> Items { get; }
 ```
 ***
 
-## Low
+## *Low*
 Описание
 
 ```csharp
@@ -237,7 +238,7 @@ public Decimal Low { get; set; }
 ```
 ***
 
-## MaxValues
+## *MaxValues*
 Описание
 
 ```csharp
@@ -245,7 +246,7 @@ public IChartClusterMaxValues MaxValues { get; }
 ```
 ***
 
-## Open
+## *Open*
 Описание
 
 ```csharp
@@ -253,7 +254,7 @@ public Decimal Open { get; set; }
 ```
 ***
 
-## OpenPos
+## *OpenPos*
 Описание
 
 ```csharp
@@ -261,7 +262,7 @@ public long OpenPos { get; private set; }
 ```
 ***
 
-## OpenPosAskChg
+## *OpenPosAskChg*
 Описание
 
 ```csharp
@@ -269,7 +270,7 @@ public long OpenPosAskChg { get; private set; }
 ```
 ***
 
-## OpenPosBidChg
+## *OpenPosBidChg*
 Описание
 
 ```csharp
@@ -277,7 +278,7 @@ public long OpenPosBidChg { get; private set; }
 ```
 ***
 
-## OpenPosChg
+## *OpenPosChg*
 Описание
 
 ```csharp
@@ -285,7 +286,7 @@ public long OpenPosChg { get; }
 ```
 ***
 
-## OpenPosHigh
+## *OpenPosHigh*
 Описание
 
 ```csharp
@@ -293,7 +294,7 @@ public long OpenPosHigh { get; private set; }
 ```
 ***
 
-## OpenPosLow
+## *OpenPosLow*
 Описание
 
 ```csharp
@@ -301,7 +302,7 @@ public long OpenPosLow { get; private set; }
 ```
 ***
 
-## OpenTime
+## *OpenTime*
 Описание
 
 ```csharp
@@ -309,7 +310,7 @@ public DateTime OpenTime { get; private set; }
 ```
 ***
 
-## Step
+## *Step*
 Описание
 
 ```csharp
@@ -317,7 +318,7 @@ public Decimal Step { get; }
 ```
 ***
 
-## Time
+## *Time*
 Описание
 
 ```csharp
@@ -325,7 +326,7 @@ public DateTime Time { get; }
 ```
 ***
 
-## Trades
+## *Trades*
 Описание
 
 ```csharp
@@ -333,7 +334,7 @@ public int Trades { get; }
 ```
 ***
 
-## Volume
+## *Volume*
 Описание
 
 ```csharp

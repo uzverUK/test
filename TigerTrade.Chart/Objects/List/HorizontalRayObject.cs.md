@@ -24,11 +24,12 @@ public sealed class HorizontalRayObject : HorizontalLineObject
 
 
 
-            ***
-  ***
-  # Методы
 
-## Draw
+***  
+***  
+# Методы
+
+## *Draw*
 Описание
 
 ```csharp
@@ -44,7 +45,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## HorizontalRayObject
+## *HorizontalRayObject*
 Описание
 
 ```csharp
@@ -52,11 +53,11 @@ public HorizontalRayObject()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

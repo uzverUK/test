@@ -78,11 +78,12 @@ public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 
 
 
-            ***
-  ***
-  # Методы
 
-## AddAlert
+***  
+***  
+# Методы
+
+## *AddAlert*
 Описание
 
 ```csharp
@@ -98,7 +99,7 @@ protected void AddAlert(ChartAlertSettings settings, string message)
 
 ***                
 
-## ApplyColors
+## *ApplyColors*
 Описание
 
 ```csharp
@@ -110,7 +111,7 @@ public virtual void ApplyColors(IChartTheme palette)
 
 ***                
 
-## CheckNeedRedraw
+## *CheckNeedRedraw*
 Описание
 
 ```csharp
@@ -119,7 +120,7 @@ public virtual bool CheckNeedRedraw()
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -135,7 +136,7 @@ public virtual void CopyTemplate(IndicatorBase indicator, bool style)
 
 ***                
 
-## Execute
+## *Execute*
 Описание
 
 ```csharp
@@ -144,7 +145,7 @@ protected abstract void Execute()
 
 ***                
 
-## GetAlerts
+## *GetAlerts*
 Описание
 
 ```csharp
@@ -153,7 +154,7 @@ public List<ChartAlertInfo> GetAlerts()
 
 ***                
 
-## GetDistance
+## *GetDistance*
 Описание
 
 ```csharp
@@ -169,7 +170,7 @@ public virtual double GetDistance(double x, double y)
 
 ***                
 
-## GetLabels
+## *GetLabels*
 Описание
 
 ```csharp
@@ -181,7 +182,7 @@ public virtual void GetLabels(ref List<IndicatorLabelInfo> labels)
 
 ***                
 
-## GetMinMax
+## *GetMinMax*
 Описание
 
 ```csharp
@@ -196,7 +197,7 @@ public virtual bool GetMinMax(out double min, out double max)
 
 ***                
 
-## GetPoints
+## *GetPoints*
 Описание
 
 ```csharp
@@ -211,7 +212,7 @@ protected Point[] GetPoints(IndicatorSeriesData seriesData, string name = null)
 
 ***                
 
-## GetPropertyHasStandardValues
+## *GetPropertyHasStandardValues*
 Описание
 
 ```csharp
@@ -223,7 +224,7 @@ public virtual bool GetPropertyHasStandardValues(string propertyName)
 
 ***                
 
-## GetPropertyReadOnly
+## *GetPropertyReadOnly*
 Описание
 
 ```csharp
@@ -232,7 +233,7 @@ public virtual bool GetPropertyReadOnly(string propertyName)
 
 ***                
 
-## GetPropertyStandardValues
+## *GetPropertyStandardValues*
 Описание
 
 ```csharp
@@ -245,7 +246,7 @@ public virtual IEnumerable<object> GetPropertyStandardValues(string propertyName
 
 ***                
 
-## GetPropertyVisibility
+## *GetPropertyVisibility*
 Описание
 
 ```csharp
@@ -254,7 +255,7 @@ public virtual bool GetPropertyVisibility(string propertyName)
 
 ***                
 
-## GetTitle
+## *GetTitle*
 Описание
 
 ```csharp
@@ -267,7 +268,7 @@ public virtual IndicatorTitleInfo GetTitle()
 
 ***                
 
-## GetValues
+## *GetValues*
 Описание
 
 ```csharp
@@ -279,7 +280,7 @@ public virtual List<IndicatorValueInfo> GetValues(int cursorPos)
 
 ***                
 
-## GetX
+## *GetX*
 Описание
 
 ```csharp
@@ -291,7 +292,7 @@ protected double GetX(int i)
 
 ***                
 
-## GetY
+## *GetY*
 Описание
 
 ```csharp
@@ -303,7 +304,7 @@ protected double GetY(double d)
 
 ***                
 
-## GetY
+## *GetY*
 Описание
 
 ```csharp
@@ -319,7 +320,7 @@ protected double GetY(Decimal d)
 
 ***                
 
-## IndicatorBase
+## *IndicatorBase*
 Описание
 
 ```csharp
@@ -328,7 +329,7 @@ protected IndicatorBase()
 
 ***                
 
-## OnPropertyChanged
+## *OnPropertyChanged*
 Описание
 
 ```csharp
@@ -341,7 +342,7 @@ protected virtual void OnPropertyChanged([CallerMemberName] string propertyName 
 
 ***                
 
-## PropChanged
+## *PropChanged*
 Описание
 
 ```csharp
@@ -350,7 +351,7 @@ public void PropChanged()
 
 ***                
 
-## Render
+## *Render*
 Описание
 
 ```csharp
@@ -363,7 +364,7 @@ public virtual void Render(DxVisualQueue visual)
 
 ***                
 
-## Run
+## *Run*
 Описание
 
 ```csharp
@@ -384,7 +385,7 @@ public void Run(IChartDataProvider dp, string longKey, string shortKey, string r
 
 ***                
 
-## SetSettingsParam
+## *SetSettingsParam*
 Описание
 
 ```csharp
@@ -399,7 +400,7 @@ public virtual void SetSettingsParam(string name, object param)
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -407,11 +408,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Calculation
+## *Calculation*
 Описание
 
 ```csharp
@@ -419,7 +420,7 @@ public virtual IndicatorCalculation Calculation { get; set; }
 ```
 ***
 
-## Canvas
+## *Canvas*
 Описание
 
 ```csharp
@@ -427,7 +428,7 @@ public IChartCanvas Canvas { get; set; }
 ```
 ***
 
-## ChartDataType
+## *ChartDataType*
 Описание
 
 ```csharp
@@ -435,7 +436,7 @@ public virtual xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
 ***
 
-## ClearData
+## *ClearData*
 Описание
 
 ```csharp
@@ -443,7 +444,7 @@ protected bool ClearData { get; private set; }
 ```
 ***
 
-## DataProvider
+## *DataProvider*
 Описание
 
 ```csharp
@@ -451,7 +452,7 @@ protected IChartDataProvider DataProvider { get; private set; }
 ```
 ***
 
-## DefaultCalculation
+## *DefaultCalculation*
 Описание
 
 ```csharp
@@ -459,7 +460,7 @@ public virtual IndicatorCalculation DefaultCalculation { get; }
 ```
 ***
 
-## DisableRender
+## *DisableRender*
 Описание
 
 ```csharp
@@ -467,7 +468,7 @@ public bool DisableRender { get; protected set; }
 ```
 ***
 
-## Helper
+## *Helper*
 Описание
 
 ```csharp
@@ -475,7 +476,7 @@ protected IndicatorsHelper Helper { get; private set; }
 ```
 ***
 
-## ID
+## *ID*
 Описание
 
 ```csharp
@@ -483,7 +484,7 @@ public string ID { get; }
 ```
 ***
 
-## IntegerValues
+## *IntegerValues*
 Описание
 
 ```csharp
@@ -491,7 +492,7 @@ public virtual bool IntegerValues { get; }
 ```
 ***
 
-## IsStock
+## *IsStock*
 Описание
 
 ```csharp
@@ -499,7 +500,7 @@ public virtual bool IsStock { get; }
 ```
 ***
 
-## Levels
+## *Levels*
 Описание
 
 ```csharp
@@ -507,7 +508,7 @@ public List<ChartLevel> Levels { get; set; }
 ```
 ***
 
-## Name
+## *Name*
 Описание
 
 ```csharp
@@ -515,7 +516,7 @@ public string Name { get; }
 ```
 ***
 
-## Panel
+## *Panel*
 Описание
 
 ```csharp
@@ -523,7 +524,7 @@ public string Panel { get; set; }
 ```
 ***
 
-## Panels
+## *Panels*
 Описание
 
 ```csharp
@@ -531,7 +532,7 @@ public List<string> Panels { get; }
 ```
 ***
 
-## Series
+## *Series*
 Описание
 
 ```csharp
@@ -539,7 +540,7 @@ public IndicatorSeries Series { get; }
 ```
 ***
 
-## SettingsLongKey
+## *SettingsLongKey*
 Описание
 
 ```csharp
@@ -547,7 +548,7 @@ protected string SettingsLongKey { get; private set; }
 ```
 ***
 
-## SettingsShortKey
+## *SettingsShortKey*
 Описание
 
 ```csharp
@@ -555,7 +556,7 @@ protected string SettingsShortKey { get; private set; }
 ```
 ***
 
-## ShowIndicator
+## *ShowIndicator*
 Описание
 
 ```csharp
@@ -563,7 +564,7 @@ public bool ShowIndicator { get; set; }
 ```
 ***
 
-## ShowIndicatorLabels
+## *ShowIndicatorLabels*
 Описание
 
 ```csharp
@@ -571,7 +572,7 @@ public virtual bool ShowIndicatorLabels { get; set; }
 ```
 ***
 
-## ShowIndicatorLabelsParam
+## *ShowIndicatorLabelsParam*
 Описание
 
 ```csharp
@@ -579,7 +580,7 @@ public bool? ShowIndicatorLabelsParam { get; set; }
 ```
 ***
 
-## ShowIndicatorParam
+## *ShowIndicatorParam*
 Описание
 
 ```csharp
@@ -587,7 +588,7 @@ public bool? ShowIndicatorParam { get; set; }
 ```
 ***
 
-## ShowIndicatorTitle
+## *ShowIndicatorTitle*
 Описание
 
 ```csharp
@@ -595,7 +596,7 @@ public virtual bool ShowIndicatorTitle { get; set; }
 ```
 ***
 
-## ShowIndicatorTitleParam
+## *ShowIndicatorTitleParam*
 Описание
 
 ```csharp
@@ -603,7 +604,7 @@ public bool? ShowIndicatorTitleParam { get; set; }
 ```
 ***
 
-## ShowIndicatorValues
+## *ShowIndicatorValues*
 Описание
 
 ```csharp
@@ -611,7 +612,7 @@ public virtual bool ShowIndicatorValues { get; set; }
 ```
 ***
 
-## ShowIndicatorValuesParam
+## *ShowIndicatorValuesParam*
 Описание
 
 ```csharp
@@ -619,7 +620,7 @@ public bool? ShowIndicatorValuesParam { get; set; }
 ```
 ***
 
-## Title
+## *Title*
 Описание
 
 ```csharp
@@ -630,7 +631,7 @@ public string Title { get; }
   ***
   # События
 
-## PropertyChanged
+## *PropertyChanged*
 Описание
 
 ```csharp

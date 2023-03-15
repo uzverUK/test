@@ -82,11 +82,12 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 
 
 
-            ***
-  ***
-  # Методы
 
-## AddAlert
+***  
+***  
+# Методы
+
+## *AddAlert*
 Описание
 
 ```csharp
@@ -102,7 +103,7 @@ protected void AddAlert(ChartAlertSettings settings, string message)
 
 ***                
 
-## ApplyTheme
+## *ApplyTheme*
 Описание
 
 ```csharp
@@ -114,7 +115,7 @@ public virtual void ApplyTheme(IChartTheme theme)
 
 ***                
 
-## BeginDrag
+## *BeginDrag*
 Описание
 
 ```csharp
@@ -123,7 +124,7 @@ public virtual void BeginDrag()
 
 ***                
 
-## CheckAlert
+## *CheckAlert*
 Описание
 
 ```csharp
@@ -132,7 +133,7 @@ public virtual void CheckAlert(List<IndicatorBase> indicators)
 
 ***                
 
-## ControlPointEditing
+## *ControlPointEditing*
 Описание
 
 ```csharp
@@ -145,7 +146,7 @@ public virtual void ControlPointEditing(int index)
 
 ***                
 
-## ControlPointsChanged
+## *ControlPointsChanged*
 Описание
 
 ```csharp
@@ -154,7 +155,7 @@ public virtual void ControlPointsChanged()
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -170,7 +171,7 @@ public virtual void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## DragObject
+## *DragObject*
 Описание
 
 ```csharp
@@ -185,7 +186,7 @@ public virtual void DragObject(double dx, double dy)
 
 ***                
 
-## Draw
+## *Draw*
 Описание
 
 ```csharp
@@ -200,7 +201,7 @@ protected abstract void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> lab
 
 ***                
 
-## DrawControlPoint
+## *DrawControlPoint*
 Описание
 
 ```csharp
@@ -212,7 +213,7 @@ protected void DrawControlPoint(DxVisualQueue visual, Point point)
 
 ***                
 
-## DrawControlPoints
+## *DrawControlPoints*
 Описание
 
 ```csharp
@@ -224,7 +225,7 @@ public virtual void DrawControlPoints(DxVisualQueue visual)
 
 ***                
 
-## DrawObject
+## *DrawObject*
 Описание
 
 ```csharp
@@ -236,7 +237,7 @@ public void DrawObject(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 
 ***                
 
-## ExtraPointChanged
+## *ExtraPointChanged*
 Описание
 
 ```csharp
@@ -251,7 +252,7 @@ public virtual void ExtraPointChanged(int index, ObjectPoint op)
 
 ***                
 
-## GetAlerts
+## *GetAlerts*
 Описание
 
 ```csharp
@@ -260,7 +261,7 @@ public List<ChartAlertInfo> GetAlerts()
 
 ***                
 
-## GetControlPoint
+## *GetControlPoint*
 Описание
 
 ```csharp
@@ -276,7 +277,7 @@ public virtual int GetControlPoint(int x, int y)
 
 ***                
 
-## GetExtraPoint
+## *GetExtraPoint*
 Описание
 
 ```csharp
@@ -285,7 +286,7 @@ public virtual int GetExtraPoint(int x, int y)
 
 ***                
 
-## GetMinDist
+## *GetMinDist*
 Описание
 
 ```csharp
@@ -301,7 +302,7 @@ protected virtual int GetMinDist(int x, int y)
 
 ***                
 
-## GetMinDistance
+## *GetMinDistance*
 Описание
 
 ```csharp
@@ -310,7 +311,7 @@ public int GetMinDistance(int x, int y)
 
 ***                
 
-## GetPropertyHasStandardValues
+## *GetPropertyHasStandardValues*
 Описание
 
 ```csharp
@@ -323,7 +324,7 @@ public virtual bool GetPropertyHasStandardValues(string propertyName)
 
 ***                
 
-## GetPropertyReadOnly
+## *GetPropertyReadOnly*
 Описание
 
 ```csharp
@@ -332,7 +333,7 @@ public virtual bool GetPropertyReadOnly(string propertyName)
 
 ***                
 
-## GetPropertyStandardValues
+## *GetPropertyStandardValues*
 Описание
 
 ```csharp
@@ -345,7 +346,7 @@ public virtual IEnumerable<object> GetPropertyStandardValues(string propertyName
 
 ***                
 
-## GetPropertyVisibility
+## *GetPropertyVisibility*
 Описание
 
 ```csharp
@@ -354,7 +355,7 @@ public virtual bool GetPropertyVisibility(string propertyName)
 
 ***                
 
-## GetX
+## *GetX*
 Описание
 
 ```csharp
@@ -367,7 +368,7 @@ protected double GetX(int i)
 
 ***                
 
-## GetY
+## *GetY*
 Описание
 
 ```csharp
@@ -379,7 +380,7 @@ protected double GetY(double d)
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -394,7 +395,7 @@ protected virtual bool InObject(int x, int y)
 
 ***                
 
-## IsObjectInArea
+## *IsObjectInArea*
 Описание
 
 ```csharp
@@ -403,7 +404,7 @@ protected virtual bool IsObjectInArea()
 
 ***                
 
-## IsObjectOnChart
+## *IsObjectOnChart*
 Описание
 
 ```csharp
@@ -412,7 +413,7 @@ protected virtual bool IsObjectOnChart()
 
 ***                
 
-## ObjectBase
+## *ObjectBase*
 Описание
 
 ```csharp
@@ -421,7 +422,7 @@ protected ObjectBase()
 
 ***                
 
-## OnPropertyChanged
+## *OnPropertyChanged*
 Описание
 
 ```csharp
@@ -434,7 +435,7 @@ protected virtual void OnPropertyChanged([CallerMemberName] string propertyName 
 
 ***                
 
-## Prepare
+## *Prepare*
 Описание
 
 ```csharp
@@ -443,7 +444,7 @@ protected virtual void Prepare()
 
 ***                
 
-## SetCanvas
+## *SetCanvas*
 Описание
 
 ```csharp
@@ -456,7 +457,7 @@ public void SetCanvas(IChartCanvas canvas)
 
 ***                
 
-## SetDataProvider
+## *SetDataProvider*
 Описание
 
 ```csharp
@@ -468,7 +469,7 @@ public void SetDataProvider(IChartDataProvider dp)
 
 ***                
 
-## SetSettings
+## *SetSettings*
 Описание
 
 ```csharp
@@ -480,7 +481,7 @@ public void SetSettings(IChartSettings settings)
 
 ***                
 
-## ToPoint
+## *ToPoint*
 Описание
 
 ```csharp
@@ -492,7 +493,7 @@ public Point ToPoint(ObjectPoint op)
 
 ***                
 
-## ToPoints
+## *ToPoints*
 Описание
 
 ```csharp
@@ -501,7 +502,7 @@ protected Point[] ToPoints(ObjectPoint[] ops)
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -509,11 +510,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Canvas
+## *Canvas*
 Описание
 
 ```csharp
@@ -521,7 +522,7 @@ protected IChartCanvas Canvas { get; private set; }
 ```
 ***
 
-## ChartDataType
+## *ChartDataType*
 Описание
 
 ```csharp
@@ -529,7 +530,7 @@ public virtual xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```
 ***
 
-## ControlPointNum
+## *ControlPointNum*
 Описание
 
 ```csharp
@@ -537,7 +538,7 @@ public int ControlPointNum { get; }
 ```
 ***
 
-## ControlPoints
+## *ControlPoints*
 Описание
 
 ```csharp
@@ -545,7 +546,7 @@ public ObjectPoint[] ControlPoints { get; set; }
 ```
 ***
 
-## ControlPointsList
+## *ControlPointsList*
 Описание
 
 ```csharp
@@ -553,7 +554,7 @@ public ObjectPointInfo[] ControlPointsList { get; }
 ```
 ***
 
-## DataProvider
+## *DataProvider*
 Описание
 
 ```csharp
@@ -561,7 +562,7 @@ protected IChartDataProvider DataProvider { get; private set; }
 ```
 ***
 
-## ID
+## *ID*
 Описание
 
 ```csharp
@@ -569,7 +570,7 @@ public string ID { get; }
 ```
 ***
 
-## InMove;
+## *InMove;*
 Описание
 
 ```csharp
@@ -577,7 +578,7 @@ public bool InMove; {}
 ```
 ***
 
-## InSetup;
+## *InSetup;*
 Описание
 
 ```csharp
@@ -585,7 +586,7 @@ public bool InSetup; {}
 ```
 ***
 
-## Lock
+## *Lock*
 Описание
 
 ```csharp
@@ -593,7 +594,7 @@ public bool Lock { get; set; }
 ```
 ***
 
-## Name
+## *Name*
 Описание
 
 ```csharp
@@ -601,7 +602,7 @@ public string Name { get; }
 ```
 ***
 
-## ObjectID
+## *ObjectID*
 Описание
 
 ```csharp
@@ -609,7 +610,7 @@ public string ObjectID { get; set; }
 ```
 ***
 
-## PenWidth
+## *PenWidth*
 Описание
 
 ```csharp
@@ -617,7 +618,7 @@ protected virtual int PenWidth { get; }
 ```
 ***
 
-## Periods
+## *Periods*
 Описание
 
 ```csharp
@@ -625,7 +626,7 @@ public ObjectPeriods Periods { get; set; }
 ```
 ***
 
-## Position
+## *Position*
 Описание
 
 ```csharp
@@ -633,7 +634,7 @@ public ObjectPosition Position { get; set; }
 ```
 ***
 
-## Settings
+## *Settings*
 Описание
 
 ```csharp
@@ -641,7 +642,7 @@ protected IChartSettings Settings { get; private set; }
 ```
 ***
 
-## SnapGrid
+## *SnapGrid*
 Описание
 
 ```csharp
@@ -649,7 +650,7 @@ public virtual bool SnapGrid { get; }
 ```
 ***
 
-## SymbolID
+## *SymbolID*
 Описание
 
 ```csharp
@@ -657,7 +658,7 @@ public string SymbolID { get; set; }
 ```
 ***
 
-## Theme
+## *Theme*
 Описание
 
 ```csharp
@@ -665,7 +666,7 @@ protected IChartTheme Theme { get; private set; }
 ```
 ***
 
-## Title
+## *Title*
 Описание
 
 ```csharp
@@ -676,7 +677,7 @@ public string Title { get; }
   ***
   # События
 
-## PropertyChanged
+## *PropertyChanged*
 Описание
 
 ```csharp

@@ -18,11 +18,12 @@ public interface IContainsConditions
 
 
 
-            ***
-  ***
-  # Методы
 
-## GetBrush
+***  
+***  
+# Методы
+
+## *GetBrush*
 Описание
 
 ```csharp

@@ -32,11 +32,12 @@ public interface IChartDataProvider
 
 
 
-            ***
-  ***
-  # Методы
 
-## GetCluster
+***  
+***  
+# Методы
+
+## *GetCluster*
 Описание
 
 ```csharp
@@ -49,7 +50,7 @@ IChartCluster GetCluster(int i)
 
 ***                
 
-## GetMarketDepth
+## *GetMarketDepth*
 Описание
 
 ```csharp
@@ -58,7 +59,7 @@ IChartMarketDepth GetMarketDepth()
 
 ***                
 
-## GetRawCluster
+## *GetRawCluster*
 Описание
 
 ```csharp
@@ -71,7 +72,7 @@ IRawCluster GetRawCluster(int i)
 
 ***                
 
-## GetRawMarketDepth
+## *GetRawMarketDepth*
 Описание
 
 ```csharp
@@ -80,7 +81,7 @@ IRawMarketDepth GetRawMarketDepth()
 
 ***                
 
-## GetRawSecurity
+## *GetRawSecurity*
 Описание
 
 ```csharp
@@ -89,7 +90,7 @@ IRawSecurity GetRawSecurity()
 
 ***                
 
-## GetSecurity
+## *GetSecurity*
 Описание
 
 ```csharp
@@ -97,11 +98,11 @@ IChartSecurity GetSecurity()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Count
+## *Count*
 Описание
 
 ```csharp
@@ -109,7 +110,7 @@ int Count { get; }
 ```
 ***
 
-## Period
+## *Period*
 Описание
 
 ```csharp
@@ -117,7 +118,7 @@ IChartPeriod Period { get; }
 ```
 ***
 
-## Scale
+## *Scale*
 Описание
 
 ```csharp
@@ -125,7 +126,7 @@ int Scale { get; }
 ```
 ***
 
-## Step
+## *Step*
 Описание
 
 ```csharp
@@ -133,7 +134,7 @@ double Step { get; }
 ```
 ***
 
-## Symbol
+## *Symbol*
 Описание
 
 ```csharp

@@ -30,11 +30,12 @@ public sealed class LabelObject : PolygonObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## ApplyTheme
+***  
+***  
+# Методы
+
+## *ApplyTheme*
 Описание
 
 ```csharp
@@ -47,7 +48,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -62,7 +63,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## Draw
+## *Draw*
 Описание
 
 ```csharp
@@ -77,7 +78,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -92,7 +93,7 @@ protected override bool InObject(int x, int y)
 
 ***                
 
-## LabelObject
+## *LabelObject*
 Описание
 
 ```csharp
@@ -100,11 +101,11 @@ public LabelObject()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## FontSize
+## *FontSize*
 Описание
 
 ```csharp
@@ -112,7 +113,7 @@ public int FontSize { get; set; }
 ```
 ***
 
-## LabelColor
+## *LabelColor*
 Описание
 
 ```csharp
@@ -120,7 +121,7 @@ public XColor LabelColor { get; set; }
 ```
 ***
 
-## LabelText
+## *LabelText*
 Описание
 
 ```csharp
@@ -128,7 +129,7 @@ public string LabelText { get; set; }
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

@@ -29,11 +29,12 @@ public sealed class EldersForceIndexSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CopySettings
+***  
+***  
+# Методы
+
+## *CopySettings*
 Описание
 
 ```csharp
@@ -46,7 +47,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## EldersForceIndexSource
+## *EldersForceIndexSource*
 Описание
 
 ```csharp
@@ -55,7 +56,7 @@ public EldersForceIndexSource()
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -68,7 +69,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -80,7 +81,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -88,11 +89,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## MaType
+## *MaType*
 Описание
 
 ```csharp
@@ -100,7 +101,7 @@ public IndicatorMaType MaType { get; set; }
 ```
 ***
 
-## Period
+## *Period*
 Описание
 
 ```csharp
@@ -108,7 +109,7 @@ public int Period { get; set; }
 ```
 ***
 
-## Source
+## *Source*
 Описание
 
 ```csharp

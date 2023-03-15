@@ -31,11 +31,12 @@ public class IconObject : ObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## ApplyTheme
+***  
+***  
+# Методы
+
+## *ApplyTheme*
 Описание
 
 ```csharp
@@ -48,7 +49,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -63,7 +64,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## Draw
+## *Draw*
 Описание
 
 ```csharp
@@ -78,7 +79,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## IconObject
+## *IconObject*
 Описание
 
 ```csharp
@@ -87,7 +88,7 @@ public IconObject()
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -102,11 +103,11 @@ protected override bool InObject(int x, int y)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Brush
+## *Brush*
 Описание
 
 ```csharp
@@ -114,7 +115,7 @@ protected XBrush Brush { get; private set; }
 ```
 ***
 
-## Color
+## *Color*
 Описание
 
 ```csharp
@@ -122,7 +123,7 @@ public XColor Color { get; set; }
 ```
 ***
 
-## Icon
+## *Icon*
 Описание
 
 ```csharp
@@ -130,7 +131,7 @@ public string Icon { get; set; }
 ```
 ***
 
-## Size
+## *Size*
 Описание
 
 ```csharp
@@ -138,7 +139,7 @@ public int Size { get; set; }
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

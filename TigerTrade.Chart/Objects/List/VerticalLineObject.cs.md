@@ -29,11 +29,12 @@ public sealed class VerticalLineObject : LineObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CheckAlert
+***  
+***  
+# Методы
+
+## *CheckAlert*
 Описание
 
 ```csharp
@@ -42,7 +43,7 @@ public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> i
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -58,7 +59,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## Draw
+## *Draw*
 Описание
 
 ```csharp
@@ -73,7 +74,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## DrawControlPoints
+## *DrawControlPoints*
 Описание
 
 ```csharp
@@ -82,7 +83,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -98,7 +99,7 @@ protected override bool InObject(int x, int y)
 
 ***                
 
-## VerticalLineObject
+## *VerticalLineObject*
 Описание
 
 ```csharp
@@ -106,11 +107,11 @@ public VerticalLineObject()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Alert
+## *Alert*
 Описание
 
 ```csharp
@@ -118,7 +119,7 @@ public ChartAlertSettings Alert { get; set; }
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

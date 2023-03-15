@@ -19,11 +19,12 @@ public sealed class IndicatorNullDoubleParam : IndicatorParam<double?>
 
 
 
-            ***
-  ***
-  # Методы
 
-## IndicatorNullDoubleParam
+***  
+***  
+# Методы
+
+## *IndicatorNullDoubleParam*
 Описание
 
 ```csharp
@@ -32,7 +33,7 @@ public IndicatorNullDoubleParam()
 
 ***                
 
-## IndicatorNullDoubleParam
+## *IndicatorNullDoubleParam*
 Описание
 
 ```csharp
@@ -42,7 +43,7 @@ public IndicatorNullDoubleParam(double? value)
 
 ***                
 
-## Set
+## *Set*
 Описание
 
 ```csharp

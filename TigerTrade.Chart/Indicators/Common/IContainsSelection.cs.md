@@ -18,11 +18,12 @@ public interface IContainsSelection
 
 
 
-            ***
-  ***
-  # Методы
 
-## GetSelection
+***  
+***  
+# Методы
+
+## *GetSelection*
 Описание
 
 ```csharp

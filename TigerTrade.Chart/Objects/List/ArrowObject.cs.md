@@ -25,11 +25,12 @@ public sealed class ArrowObject : LineObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## ArrowObject
+***  
+***  
+# Методы
+
+## *ArrowObject*
 Описание
 
 ```csharp
@@ -38,7 +39,7 @@ public ArrowObject()
 
 ***                
 
-## Draw
+## *Draw*
 Описание
 
 ```csharp
@@ -54,7 +55,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -68,11 +69,11 @@ protected override bool InObject(int x, int y)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

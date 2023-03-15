@@ -29,11 +29,12 @@ public sealed class ChartAlertInfo
 
 
 
-            ***
-  ***
-  # Методы
 
-## ChartAlertInfo
+***  
+***  
+# Методы
+
+## *ChartAlertInfo*
 Описание
 
 ```csharp
@@ -48,11 +49,11 @@ public ChartAlertInfo(ChartAlertSettings settings, string message)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Duration
+## *Duration*
 Описание
 
 ```csharp
@@ -60,7 +61,7 @@ public int Duration { get; }
 ```
 ***
 
-## Log
+## *Log*
 Описание
 
 ```csharp
@@ -68,7 +69,7 @@ public bool Log { get; }
 ```
 ***
 
-## Message
+## *Message*
 Описание
 
 ```csharp
@@ -76,7 +77,7 @@ public string Message { get; }
 ```
 ***
 
-## SendEmail
+## *SendEmail*
 Описание
 
 ```csharp
@@ -84,7 +85,7 @@ public bool SendEmail { get; }
 ```
 ***
 
-## SendTelegram
+## *SendTelegram*
 Описание
 
 ```csharp
@@ -92,7 +93,7 @@ public bool SendTelegram { get; }
 ```
 ***
 
-## ShowPopup
+## *ShowPopup*
 Описание
 
 ```csharp
@@ -100,7 +101,7 @@ public bool ShowPopup { get; }
 ```
 ***
 
-## Signal
+## *Signal*
 Описание
 
 ```csharp

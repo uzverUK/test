@@ -28,11 +28,12 @@ public sealed class CMOSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CMOSource
+***  
+***  
+# Методы
+
+## *CMOSource*
 Описание
 
 ```csharp
@@ -41,7 +42,7 @@ public CMOSource()
 
 ***                
 
-## CopySettings
+## *CopySettings*
 Описание
 
 ```csharp
@@ -54,7 +55,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -66,7 +67,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -78,7 +79,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -86,11 +87,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Period
+## *Period*
 Описание
 
 ```csharp
@@ -98,7 +99,7 @@ public int Period { get; set; }
 ```
 ***
 
-## Source
+## *Source*
 Описание
 
 ```csharp

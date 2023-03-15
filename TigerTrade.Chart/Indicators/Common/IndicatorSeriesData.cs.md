@@ -30,11 +30,12 @@ public sealed class IndicatorSeriesData
 
 
 
-            ***
-  ***
-  # Методы
 
-## CachePoints
+***  
+***  
+# Методы
+
+## *CachePoints*
 Описание
 
 ```csharp
@@ -47,7 +48,7 @@ public void CachePoints(Point[] points, string pointsName)
 
 ***                
 
-## GetDistance
+## *GetDistance*
 Описание
 
 ```csharp
@@ -62,7 +63,7 @@ public double GetDistance(double x, double y)
 
 ***                
 
-## IndicatorSeriesData
+## *IndicatorSeriesData*
 Описание
 
 ```csharp
@@ -71,7 +72,7 @@ public IndicatorSeriesData(double[] data)
 
 ***                
 
-## IndicatorSeriesData
+## *IndicatorSeriesData*
 Описание
 
 ```csharp
@@ -88,7 +89,7 @@ public IndicatorSeriesData(double[] data, ChartSeries style, string name = "")
 
 ***                
 
-## IndicatorSeriesData
+## *IndicatorSeriesData*
 Описание
 
 ```csharp
@@ -109,7 +110,7 @@ public IndicatorSeriesData(double[] data, ChartRegion style)
 
 ***                
 
-## IndicatorSeriesData
+## *IndicatorSeriesData*
 Описание
 
 ```csharp
@@ -134,7 +135,7 @@ public IndicatorSeriesData(double[] data, ChartLine style)
 
 ***                
 
-## MaxValue
+## *MaxValue*
 Описание
 
 ```csharp
@@ -143,7 +144,7 @@ public double MaxValue()
 
 ***                
 
-## MaxValue
+## *MaxValue*
 Описание
 
 ```csharp
@@ -160,7 +161,7 @@ public double MaxValue(int start, int count)
 
 ***                
 
-## MinValue
+## *MinValue*
 Описание
 
 ```csharp
@@ -169,7 +170,7 @@ public double MinValue()
 
 ***                
 
-## MinValue
+## *MinValue*
 Описание
 
 ```csharp
@@ -185,11 +186,11 @@ public double MinValue(int start, int count)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Data
+## *Data*
 Описание
 
 ```csharp
@@ -197,7 +198,7 @@ public double[] Data { get; }
 ```
 ***
 
-## Length
+## *Length*
 Описание
 
 ```csharp
@@ -205,7 +206,7 @@ public int Length { get; }
 ```
 ***
 
-## Style
+## *Style*
 Описание
 
 ```csharp
@@ -213,7 +214,7 @@ public IndicatorSeriesStyle Style { get; }
 ```
 ***
 
-## UserData
+## *UserData*
 Описание
 
 ```csharp

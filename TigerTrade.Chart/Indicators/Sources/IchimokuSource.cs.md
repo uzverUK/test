@@ -31,11 +31,12 @@ public sealed class IchimokuSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CopySettings
+***  
+***  
+# Методы
+
+## *CopySettings*
 Описание
 
 ```csharp
@@ -48,7 +49,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -60,7 +61,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -72,7 +73,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## IchimokuSource
+## *IchimokuSource*
 Описание
 
 ```csharp
@@ -81,7 +82,7 @@ public IchimokuSource()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -89,11 +90,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Period1
+## *Period1*
 Описание
 
 ```csharp
@@ -101,7 +102,7 @@ public int Period1 { get; set; }
 ```
 ***
 
-## Period2
+## *Period2*
 Описание
 
 ```csharp
@@ -109,7 +110,7 @@ public int Period2 { get; set; }
 ```
 ***
 
-## Period3
+## *Period3*
 Описание
 
 ```csharp
@@ -117,7 +118,7 @@ public int Period3 { get; set; }
 ```
 ***
 
-## Period4
+## *Period4*
 Описание
 
 ```csharp
@@ -125,7 +126,7 @@ public int Period4 { get; set; }
 ```
 ***
 
-## Period5
+## *Period5*
 Описание
 
 ```csharp

@@ -29,11 +29,12 @@ public sealed class UltimateOscillatorSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CopySettings
+***  
+***  
+# Методы
+
+## *CopySettings*
 Описание
 
 ```csharp
@@ -46,7 +47,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -58,7 +59,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -70,7 +71,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -79,7 +80,7 @@ public override string ToString()
 
 ***                
 
-## UltimateOscillatorSource
+## *UltimateOscillatorSource*
 Описание
 
 ```csharp
@@ -87,11 +88,11 @@ public UltimateOscillatorSource()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Period1
+## *Period1*
 Описание
 
 ```csharp
@@ -99,7 +100,7 @@ public int Period1 { get; set; }
 ```
 ***
 
-## Period2
+## *Period2*
 Описание
 
 ```csharp
@@ -107,7 +108,7 @@ public int Period2 { get; set; }
 ```
 ***
 
-## Period3
+## *Period3*
 Описание
 
 ```csharp

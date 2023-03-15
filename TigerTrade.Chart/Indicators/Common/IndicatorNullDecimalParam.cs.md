@@ -19,11 +19,12 @@ public sealed class IndicatorNullDecimalParam : IndicatorParam<Decimal?>
 
 
 
-            ***
-  ***
-  # Методы
 
-## IndicatorNullDecimalParam
+***  
+***  
+# Методы
+
+## *IndicatorNullDecimalParam*
 Описание
 
 ```csharp
@@ -32,7 +33,7 @@ public IndicatorNullDecimalParam()
 
 ***                
 
-## IndicatorNullDecimalParam
+## *IndicatorNullDecimalParam*
 Описание
 
 ```csharp
@@ -42,7 +43,7 @@ public IndicatorNullDecimalParam(Decimal? value)
 
 ***                
 
-## Set
+## *Set*
 Описание
 
 ```csharp

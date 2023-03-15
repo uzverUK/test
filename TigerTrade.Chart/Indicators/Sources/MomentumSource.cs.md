@@ -28,11 +28,12 @@ public sealed class MomentumSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CopySettings
+***  
+***  
+# Методы
+
+## *CopySettings*
 Описание
 
 ```csharp
@@ -45,7 +46,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -57,7 +58,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -69,7 +70,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## MomentumSource
+## *MomentumSource*
 Описание
 
 ```csharp
@@ -78,7 +79,7 @@ public MomentumSource()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -86,11 +87,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Period
+## *Period*
 Описание
 
 ```csharp
@@ -98,7 +99,7 @@ public int Period { get; set; }
 ```
 ***
 
-## Source
+## *Source*
 Описание
 
 ```csharp

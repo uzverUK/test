@@ -28,11 +28,12 @@ public abstract class IndicatorParam<T>
 
 
 
-            ***
-  ***
-  # Методы
 
-## Clear
+***  
+***  
+# Методы
+
+## *Clear*
 Описание
 
 ```csharp
@@ -41,7 +42,7 @@ public void Clear()
 
 ***                
 
-## Copy
+## *Copy*
 Описание
 
 ```csharp
@@ -50,7 +51,7 @@ public void Copy(IndicatorParam<T> p)
 
 ***                
 
-## Get
+## *Get*
 Описание
 
 ```csharp
@@ -66,7 +67,7 @@ public T Get(string key, T defaultValue)
 
 ***                
 
-## Get
+## *Get*
 Описание
 
 ```csharp
@@ -83,7 +84,7 @@ public T Get(string key)
 
 ***                
 
-## IndicatorParam
+## *IndicatorParam*
 Описание
 
 ```csharp
@@ -92,7 +93,7 @@ protected IndicatorParam()
 
 ***                
 
-## Set
+## *Set*
 Описание
 
 ```csharp
@@ -107,11 +108,11 @@ protected bool Set(string key, T value)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Value
+## *Value*
 Описание
 
 ```csharp
@@ -119,7 +120,7 @@ public T Value { get; set; }
 ```
 ***
 
-## Values
+## *Values*
 Описание
 
 ```csharp

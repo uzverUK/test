@@ -32,11 +32,12 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 
 
 
-            ***
-  ***
-  # Методы
 
-## CalcPoint
+***  
+***  
+# Методы
+
+## *CalcPoint*
 Описание
 
 ```csharp
@@ -45,7 +46,7 @@ protected override void CalcPoint()
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -61,7 +62,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## Draw
+## *Draw*
 Описание
 
 ```csharp
@@ -76,7 +77,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## LinearRegressionObject
+## *LinearRegressionObject*
 Описание
 
 ```csharp
@@ -84,11 +85,11 @@ public LinearRegressionObject()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## CenterLine
+## *CenterLine*
 Описание
 
 ```csharp
@@ -96,7 +97,7 @@ public bool CenterLine { get; set; }
 ```
 ***
 
-## DownLine
+## *DownLine*
 Описание
 
 ```csharp
@@ -104,7 +105,7 @@ public bool DownLine { get; set; }
 ```
 ***
 
-## Percentage
+## *Percentage*
 Описание
 
 ```csharp
@@ -112,7 +113,7 @@ public double Percentage { get; set; }
 ```
 ***
 
-## RegressionType
+## *RegressionType*
 Описание
 
 ```csharp
@@ -120,7 +121,7 @@ public RegressionType RegressionType { get; set; }
 ```
 ***
 
-## ShowAuxLine
+## *ShowAuxLine*
 Описание
 
 ```csharp
@@ -128,7 +129,7 @@ public bool ShowAuxLine { get; set; }
 ```
 ***
 
-## UpLine
+## *UpLine*
 Описание
 
 ```csharp
@@ -136,7 +137,7 @@ public bool UpLine { get; set; }
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

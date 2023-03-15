@@ -32,11 +32,12 @@ public sealed class LineObject : LineObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CheckAlert
+***  
+***  
+# Методы
+
+## *CheckAlert*
 Описание
 
 ```csharp
@@ -45,7 +46,7 @@ public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> i
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -61,7 +62,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## Draw
+## *Draw*
 Описание
 
 ```csharp
@@ -76,7 +77,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***                
 
-## InObject
+## *InObject*
 Описание
 
 ```csharp
@@ -91,7 +92,7 @@ protected override bool InObject(int x, int y)
 
 ***                
 
-## LineObject
+## *LineObject*
 Описание
 
 ```csharp
@@ -99,11 +100,11 @@ public LineObject()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Alert
+## *Alert*
 Описание
 
 ```csharp
@@ -111,7 +112,7 @@ public ChartAlertSettings Alert { get; set; }
 ```
 ***
 
-## AlertMinDistance
+## *AlertMinDistance*
 Описание
 
 ```csharp
@@ -119,7 +120,7 @@ public int AlertMinDistance { get; set; }
 ```
 ***
 
-## OpenEnd
+## *OpenEnd*
 Описание
 
 ```csharp
@@ -127,7 +128,7 @@ public bool OpenEnd { get; set; }
 ```
 ***
 
-## OpenStart
+## *OpenStart*
 Описание
 
 ```csharp
@@ -135,7 +136,7 @@ public bool OpenStart { get; set; }
 ```
 ***
 
-## RefPoint
+## *RefPoint*
 Описание
 
 ```csharp
@@ -143,7 +144,7 @@ public ObjectPoint? RefPoint { get; set; }
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

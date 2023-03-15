@@ -30,11 +30,12 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 
 
 
-            ***
-  ***
-  # Методы
 
-## ObjectPointInfo
+***  
+***  
+# Методы
+
+## *ObjectPointInfo*
 Описание
 
 ```csharp
@@ -47,7 +48,7 @@ public ObjectPointInfo(ObjectPoint[] points, int index)
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -55,11 +56,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Price
+## *Price*
 Описание
 
 ```csharp
@@ -67,7 +68,7 @@ public double Price { get; set; }
 ```
 ***
 
-## Time
+## *Time*
 Описание
 
 ```csharp
@@ -78,7 +79,7 @@ public DateTime Time { get; set; }
   ***
   # События
 
-## PropertyChanged
+## *PropertyChanged*
 Описание
 
 ```csharp

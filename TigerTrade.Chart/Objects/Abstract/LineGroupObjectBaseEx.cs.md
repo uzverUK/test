@@ -26,11 +26,12 @@ public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CopyTemplate
+***  
+***  
+# Методы
+
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -46,7 +47,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***                
 
-## LineGroupObjectBaseEx
+## *LineGroupObjectBaseEx*
 Описание
 
 ```csharp
@@ -55,7 +56,7 @@ protected LineGroupObjectBaseEx()
 
 ***                
 
-## OpenStartEnd
+## *OpenStartEnd*
 Описание
 
 ```csharp
@@ -70,11 +71,11 @@ protected void OpenStartEnd(bool openStart, bool openEnd)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## OpenEnd
+## *OpenEnd*
 Описание
 
 ```csharp
@@ -82,7 +83,7 @@ public bool OpenEnd { get; set; }
 ```
 ***
 
-## OpenStart
+## *OpenStart*
 Описание
 
 ```csharp

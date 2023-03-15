@@ -26,11 +26,12 @@ public sealed class ChannelObject : LineGroupObjectBaseEx
 
 
 
-            ***
-  ***
-  # Методы
 
-## CalcPoint
+***  
+***  
+# Методы
+
+## *CalcPoint*
 Описание
 
 ```csharp
@@ -39,7 +40,7 @@ protected override void CalcPoint()
 
 ***                
 
-## ChannelObject
+## *ChannelObject*
 Описание
 
 ```csharp
@@ -48,7 +49,7 @@ public ChannelObject()
 
 ***                
 
-## CopyTemplate
+## *CopyTemplate*
 Описание
 
 ```csharp
@@ -63,11 +64,11 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## MiddleLine
+## *MiddleLine*
 Описание
 
 ```csharp
@@ -75,7 +76,7 @@ public bool MiddleLine { get; set; }
 ```
 ***
 
-## xsuJlZ3bylFkXacpNF53
+## *xsuJlZ3bylFkXacpNF53*
 Описание
 
 ```csharp

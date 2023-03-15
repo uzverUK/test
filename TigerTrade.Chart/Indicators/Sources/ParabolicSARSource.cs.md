@@ -28,11 +28,12 @@ public sealed class ParabolicSARSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CopySettings
+***  
+***  
+# Методы
+
+## *CopySettings*
 Описание
 
 ```csharp
@@ -45,7 +46,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -57,7 +58,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -69,7 +70,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## ParabolicSARSource
+## *ParabolicSARSource*
 Описание
 
 ```csharp
@@ -78,7 +79,7 @@ public ParabolicSARSource()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -90,11 +91,11 @@ public override string ToString()
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Max
+## *Max*
 Описание
 
 ```csharp
@@ -102,7 +103,7 @@ public Decimal Max { get; set; }
 ```
 ***
 
-## Step
+## *Step*
 Описание
 
 ```csharp

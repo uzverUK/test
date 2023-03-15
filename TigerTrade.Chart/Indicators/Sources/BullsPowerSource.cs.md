@@ -27,11 +27,12 @@ public sealed class BullsPowerSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## BullsPowerSource
+***  
+***  
+# Методы
+
+## *BullsPowerSource*
 Описание
 
 ```csharp
@@ -40,7 +41,7 @@ public BullsPowerSource()
 
 ***                
 
-## CopySettings
+## *CopySettings*
 Описание
 
 ```csharp
@@ -53,7 +54,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -65,7 +66,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -77,7 +78,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -85,11 +86,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Period
+## *Period*
 Описание
 
 ```csharp

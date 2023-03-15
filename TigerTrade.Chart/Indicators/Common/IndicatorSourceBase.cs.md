@@ -36,11 +36,12 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 
 
 
-            ***
-  ***
-  # Методы
 
-## CloneSource
+***  
+***  
+# Методы
+
+## *CloneSource*
 Описание
 
 ```csharp
@@ -49,7 +50,7 @@ public IndicatorSourceBase CloneSource()
 
 ***                
 
-## CopySettings
+## *CopySettings*
 Описание
 
 ```csharp
@@ -62,7 +63,7 @@ public abstract void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -74,7 +75,7 @@ public abstract double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -83,7 +84,7 @@ public abstract IEnumerable<string> GetSeriesList()
 
 ***                
 
-## IndicatorSourceBase
+## *IndicatorSourceBase*
 Описание
 
 ```csharp
@@ -92,7 +93,7 @@ protected IndicatorSourceBase()
 
 ***                
 
-## OnPropertyChanged
+## *OnPropertyChanged*
 Описание
 
 ```csharp
@@ -105,7 +106,7 @@ protected virtual void OnPropertyChanged([CallerMemberName] string propertyName 
 
 ***                
 
-## SetSources
+## *SetSources*
 Описание
 
 ```csharp
@@ -114,7 +115,7 @@ public static void SetSources(List<Type> sources)
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -122,11 +123,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Name
+## *Name*
 Описание
 
 ```csharp
@@ -134,7 +135,7 @@ public string Name { get; }
 ```
 ***
 
-## SelectedSeries
+## *SelectedSeries*
 Описание
 
 ```csharp
@@ -145,7 +146,7 @@ public string SelectedSeries { get; set; }
   ***
   # События
 
-## PropertyChanged
+## *PropertyChanged*
 Описание
 
 ```csharp

@@ -19,11 +19,12 @@ public sealed class IndicatorNullIntParam : IndicatorParam<int?>
 
 
 
-            ***
-  ***
-  # Методы
 
-## IndicatorNullIntParam
+***  
+***  
+# Методы
+
+## *IndicatorNullIntParam*
 Описание
 
 ```csharp
@@ -32,7 +33,7 @@ public IndicatorNullIntParam()
 
 ***                
 
-## IndicatorNullIntParam
+## *IndicatorNullIntParam*
 Описание
 
 ```csharp
@@ -42,7 +43,7 @@ public IndicatorNullIntParam(int? value)
 
 ***                
 
-## Set
+## *Set*
 Описание
 
 ```csharp

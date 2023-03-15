@@ -46,11 +46,12 @@ public interface IChartCluster
 
 
 
-            ***
-  ***
-  # Методы
 
-## GetItem
+***  
+***  
+# Методы
+
+## *GetItem*
 Описание
 
 ```csharp
@@ -62,11 +63,11 @@ IChartClusterItem GetItem(Decimal price)
 
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Ask
+## *Ask*
 Описание
 
 ```csharp
@@ -74,7 +75,7 @@ Decimal Ask { get; }
 ```
 ***
 
-## AskTrades
+## *AskTrades*
 Описание
 
 ```csharp
@@ -82,7 +83,7 @@ int AskTrades { get; }
 ```
 ***
 
-## Bid
+## *Bid*
 Описание
 
 ```csharp
@@ -90,7 +91,7 @@ Decimal Bid { get; }
 ```
 ***
 
-## BidTrades
+## *BidTrades*
 Описание
 
 ```csharp
@@ -98,7 +99,7 @@ int BidTrades { get; }
 ```
 ***
 
-## Close
+## *Close*
 Описание
 
 ```csharp
@@ -106,7 +107,7 @@ Decimal Close { get; }
 ```
 ***
 
-## CloseTime
+## *CloseTime*
 Описание
 
 ```csharp
@@ -114,7 +115,7 @@ DateTime CloseTime { get; }
 ```
 ***
 
-## Delta
+## *Delta*
 Описание
 
 ```csharp
@@ -122,7 +123,7 @@ Decimal Delta { get; }
 ```
 ***
 
-## DeltaHigh
+## *DeltaHigh*
 Описание
 
 ```csharp
@@ -130,7 +131,7 @@ Decimal DeltaHigh { get; }
 ```
 ***
 
-## DeltaLow
+## *DeltaLow*
 Описание
 
 ```csharp
@@ -138,7 +139,7 @@ Decimal DeltaLow { get; }
 ```
 ***
 
-## High
+## *High*
 Описание
 
 ```csharp
@@ -146,7 +147,7 @@ Decimal High { get; }
 ```
 ***
 
-## IsUp
+## *IsUp*
 Описание
 
 ```csharp
@@ -154,7 +155,7 @@ bool IsUp { get; }
 ```
 ***
 
-## Low
+## *Low*
 Описание
 
 ```csharp
@@ -162,7 +163,7 @@ Decimal Low { get; }
 ```
 ***
 
-## MaxValues
+## *MaxValues*
 Описание
 
 ```csharp
@@ -170,7 +171,7 @@ IChartClusterMaxValues MaxValues { get; }
 ```
 ***
 
-## Open
+## *Open*
 Описание
 
 ```csharp
@@ -178,7 +179,7 @@ Decimal Open { get; }
 ```
 ***
 
-## OpenPos
+## *OpenPos*
 Описание
 
 ```csharp
@@ -186,7 +187,7 @@ long OpenPos { get; }
 ```
 ***
 
-## OpenPosAskChg
+## *OpenPosAskChg*
 Описание
 
 ```csharp
@@ -194,7 +195,7 @@ long OpenPosAskChg { get; }
 ```
 ***
 
-## OpenPosBidChg
+## *OpenPosBidChg*
 Описание
 
 ```csharp
@@ -202,7 +203,7 @@ long OpenPosBidChg { get; }
 ```
 ***
 
-## OpenPosChg
+## *OpenPosChg*
 Описание
 
 ```csharp
@@ -210,7 +211,7 @@ long OpenPosChg { get; }
 ```
 ***
 
-## OpenPosHigh
+## *OpenPosHigh*
 Описание
 
 ```csharp
@@ -218,7 +219,7 @@ long OpenPosHigh { get; }
 ```
 ***
 
-## OpenPosLow
+## *OpenPosLow*
 Описание
 
 ```csharp
@@ -226,7 +227,7 @@ long OpenPosLow { get; }
 ```
 ***
 
-## OpenTime
+## *OpenTime*
 Описание
 
 ```csharp
@@ -234,7 +235,7 @@ DateTime OpenTime { get; }
 ```
 ***
 
-## Time
+## *Time*
 Описание
 
 ```csharp
@@ -242,7 +243,7 @@ DateTime Time { get; }
 ```
 ***
 
-## Trades
+## *Trades*
 Описание
 
 ```csharp
@@ -250,7 +251,7 @@ int Trades { get; }
 ```
 ***
 
-## Volume
+## *Volume*
 Описание
 
 ```csharp

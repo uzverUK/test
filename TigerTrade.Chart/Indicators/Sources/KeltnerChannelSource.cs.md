@@ -30,11 +30,12 @@ public sealed class KeltnerChannelSource : IndicatorSourceBase
 
 
 
-            ***
-  ***
-  # Методы
 
-## CopySettings
+***  
+***  
+# Методы
+
+## *CopySettings*
 Описание
 
 ```csharp
@@ -47,7 +48,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***                
 
-## GetSeries
+## *GetSeries*
 Описание
 
 ```csharp
@@ -59,7 +60,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***                
 
-## GetSeriesList
+## *GetSeriesList*
 Описание
 
 ```csharp
@@ -71,7 +72,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***                
 
-## KeltnerChannelSource
+## *KeltnerChannelSource*
 Описание
 
 ```csharp
@@ -80,7 +81,7 @@ public KeltnerChannelSource()
 
 ***                
 
-## ToString
+## *ToString*
 Описание
 
 ```csharp
@@ -88,11 +89,11 @@ public override string ToString()
 ```
 
 ***                
-                ***
+***
   ***
   # Свойства
 
-## Factor
+## *Factor*
 Описание
 
 ```csharp
@@ -100,7 +101,7 @@ public int Factor { get; set; }
 ```
 ***
 
-## MaType
+## *MaType*
 Описание
 
 ```csharp
@@ -108,7 +109,7 @@ public IndicatorMaType MaType { get; set; }
 ```
 ***
 
-## Period
+## *Period*
 Описание
 
 ```csharp
@@ -116,7 +117,7 @@ public int Period { get; set; }
 ```
 ***
 
-## Source
+## *Source*
 Описание
 
 ```csharp
