@@ -36,7 +36,7 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 public void Add(IndicatorSeriesData series)
 ```
 
-<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:purple;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
  *Описание*  
 
 
@@ -49,13 +49,13 @@ public void Add(IndicatorSeriesData series)
 public void Add(IndicatorSeriesData series1, IndicatorSeriesData series2)
 ```
 
-<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:purple;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`series1`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:purple;">`series1`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`series2`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:purple;">`series2`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
  *Описание*  
 
 
@@ -69,16 +69,16 @@ public void Add(IndicatorSeriesData series1, IndicatorSeriesData series2)
 public void Add(params IndicatorSeriesData[] series)
 ```
 
-<mark style="color:yellow;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:purple;">`series`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`series1`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:purple;">`series1`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`series2`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:purple;">`series2`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`IndicatorSeriesData`</mark> <mark style="color:red;">*`params`*</mark>  
+<mark style="color:purple;">`IndicatorSeriesData`</mark> <mark style="color:red;">*`params`*</mark>  
  *Описание*  
 
 

@@ -40,7 +40,7 @@ public sealed class IndicatorSeriesData
 public void CachePoints(Point[] points, string pointsName)
 ```
 
-<mark style="color:yellow;">`pointsName`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`pointsName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -51,10 +51,10 @@ public void CachePoints(Point[] points, string pointsName)
 ```csharp
 public double GetDistance(double x, double y)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -75,10 +75,10 @@ public IndicatorSeriesData(double[] data)
 public IndicatorSeriesData(double[] data, ChartSeries style, string name = "")
 ```
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -92,13 +92,13 @@ public IndicatorSeriesData(double[] data, ChartSeries style, string name = "")
 public IndicatorSeriesData(double[] data, ChartRegion style)
 ```
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
  *Описание*  
 
 
@@ -113,16 +113,16 @@ public IndicatorSeriesData(double[] data, ChartRegion style)
 public IndicatorSeriesData(double[] data, ChartLine style)
 ```
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`ChartLine`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`ChartLine`*</mark>  
  *Описание*  
 
 
@@ -143,10 +143,10 @@ public double MaxValue()
 public double MaxValue(int start, int count)
 ```
 
-<mark style="color:yellow;">`start`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`start`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`count`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`count`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -167,10 +167,10 @@ public double MinValue()
 public double MinValue(int start, int count)
 ```
 
-<mark style="color:yellow;">`start`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`start`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`count`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`count`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

@@ -57,7 +57,7 @@ public interface IRawCluster
 IRawClusterItem GetItem(long price)
 ```
 
-<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
 
@@ -68,7 +68,7 @@ IRawClusterItem GetItem(long price)
 ```csharp
 IRawClusterValueArea GetValueArea(int valueArea)
 ```
-<mark style="color:yellow;">`valueArea`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`valueArea`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

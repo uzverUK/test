@@ -44,7 +44,7 @@ public sealed class RawClusterItem : IRawClusterItem
 public void Add(IRawClusterItem item)
 ```
 
-<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
+<mark style="color:purple;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
  *Описание*  
 
 
@@ -55,7 +55,7 @@ public void Add(IRawClusterItem item)
 ```csharp
 public RawClusterItem(long price)
 ```
-<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
 
@@ -67,10 +67,10 @@ public RawClusterItem(long price)
 public RawClusterItem(long price)
 public RawClusterItem(IRawClusterItem item)
 ```
-<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
+<mark style="color:purple;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
  *Описание*  
 
 

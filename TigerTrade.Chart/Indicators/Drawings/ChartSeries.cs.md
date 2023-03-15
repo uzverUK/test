@@ -62,10 +62,10 @@ public ChartSeries()
 public ChartSeries(ChartSeriesType type, XColor color)
 ```
 
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`ChartSeriesType`*</mark>  
+<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`ChartSeriesType`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+<mark style="color:purple;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
  *Описание*  
 
 
@@ -79,13 +79,13 @@ public ChartSeries(ChartSeriesType type, XColor color)
 public ChartSeries(ChartSeriesType type, XColor color, XDashStyle style)
 ```
 
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`ChartSeriesType`*</mark>  
+<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`ChartSeriesType`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+<mark style="color:purple;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`XDashStyle`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`XDashStyle`*</mark>  
  *Описание*  
 
 
@@ -96,7 +96,7 @@ public ChartSeries(ChartSeriesType type, XColor color, XDashStyle style)
 ```csharp
 public void CopyTheme(ChartSeries chartSeries)
 ```
-<mark style="color:yellow;">`chartSeries`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
+<mark style="color:purple;">`chartSeries`</mark> <mark style="color:red;">*`ChartSeries`*</mark>  
  *Описание*  
 
 
@@ -107,7 +107,7 @@ public void CopyTheme(ChartSeries chartSeries)
 ```csharp
 public bool GetPropertyHasStandardValues(string propertyName)
 ```
-<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -127,7 +127,7 @@ public bool GetPropertyReadOnly(string propertyName)
 public IEnumerable<object> GetPropertyStandardValues(string propertyName)
 ```
 
-<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 

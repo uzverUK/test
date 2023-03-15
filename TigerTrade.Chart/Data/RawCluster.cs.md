@@ -63,7 +63,7 @@ public sealed class RawCluster : IRawCluster
 public void AddCluster(IRawCluster cluster)
 ```
 
-<mark style="color:yellow;">`cluster`</mark> <mark style="color:red;">*`IRawCluster`*</mark>  
+<mark style="color:purple;">`cluster`</mark> <mark style="color:red;">*`IRawCluster`*</mark>  
  *Описание*  
 
 
@@ -74,7 +74,7 @@ public void AddCluster(IRawCluster cluster)
 ```csharp
 public void AddItem(IRawClusterItem item)
 ```
-<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
+<mark style="color:purple;">`item`</mark> <mark style="color:red;">*`IRawClusterItem`*</mark>  
  *Описание*  
 
 
@@ -85,10 +85,10 @@ public void AddItem(IRawClusterItem item)
 ```csharp
 public void AddTick(IRawTick tick, int scale)
 ```
-<mark style="color:yellow;">`tick`</mark> <mark style="color:red;">*`IRawTick`*</mark>  
+<mark style="color:purple;">`tick`</mark> <mark style="color:red;">*`IRawTick`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`scale`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`scale`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -99,7 +99,7 @@ public void AddTick(IRawTick tick, int scale)
 ```csharp
 public IRawClusterItem GetItem(long price)
 ```
-<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
+<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`long`*</mark>  
  *Описание*  
 
 
@@ -110,7 +110,7 @@ public IRawClusterItem GetItem(long price)
 ```csharp
 public IRawClusterValueArea GetValueArea(int valueArea)
 ```
-<mark style="color:yellow;">`valueArea`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`valueArea`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -121,7 +121,7 @@ public IRawClusterValueArea GetValueArea(int valueArea)
 ```csharp
 public RawCluster(DateTime time)
 ```
-<mark style="color:yellow;">`time`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+<mark style="color:purple;">`time`</mark> <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
 
 

@@ -36,10 +36,10 @@ public sealed class TriangleObject : PolygonObjectBase
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
 ```
 
-<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+<mark style="color:purple;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
+<mark style="color:purple;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
  *Описание*  
 
 
@@ -50,10 +50,10 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 ```csharp
 protected override int GetMinDist(int x, int y)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

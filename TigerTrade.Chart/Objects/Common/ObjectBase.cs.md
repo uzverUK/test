@@ -92,10 +92,10 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 protected void AddAlert(ChartAlertSettings settings, string message)
 ```
 
-<mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
+<mark style="color:purple;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -106,7 +106,7 @@ protected void AddAlert(ChartAlertSettings settings, string message)
 ```csharp
 public virtual void ApplyTheme(IChartTheme theme)
 ```
-<mark style="color:yellow;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
+<mark style="color:purple;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
  *Описание*  
 
 
@@ -134,7 +134,7 @@ public virtual void CheckAlert(List<IndicatorBase> indicators)
 public virtual void ControlPointEditing(int index)
 ```
 
-<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -154,10 +154,10 @@ public virtual void ControlPointsChanged()
 public virtual void CopyTemplate(ObjectBase objectBase, bool style)
 ```
 
-<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+<mark style="color:purple;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -168,10 +168,10 @@ public virtual void CopyTemplate(ObjectBase objectBase, bool style)
 ```csharp
 public virtual void DragObject(double dx, double dy)
 ```
-<mark style="color:yellow;">`dx`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`dx`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`dy`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`dy`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -182,10 +182,10 @@ public virtual void DragObject(double dx, double dy)
 ```csharp
 protected abstract void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
-<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+<mark style="color:purple;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
+<mark style="color:purple;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
  *Описание*  
 
 
@@ -196,7 +196,7 @@ protected abstract void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> lab
 ```csharp
 protected void DrawControlPoint(DxVisualQueue visual, Point point)
 ```
-<mark style="color:yellow;">`point`</mark> <mark style="color:red;">*`Point`*</mark>  
+<mark style="color:purple;">`point`</mark> <mark style="color:red;">*`Point`*</mark>  
  *Описание*  
 
 
@@ -207,7 +207,7 @@ protected void DrawControlPoint(DxVisualQueue visual, Point point)
 ```csharp
 public virtual void DrawControlPoints(DxVisualQueue visual)
 ```
-<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+<mark style="color:purple;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
 
 
@@ -218,7 +218,7 @@ public virtual void DrawControlPoints(DxVisualQueue visual)
 ```csharp
 public void DrawObject(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```
-<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
+<mark style="color:purple;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
  *Описание*  
 
 
@@ -229,10 +229,10 @@ public void DrawObject(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 ```csharp
 public virtual void ExtraPointChanged(int index, ObjectPoint op)
 ```
-<mark style="color:yellow;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`index`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
+<mark style="color:purple;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
  *Описание*  
 
 
@@ -252,10 +252,10 @@ public List<ChartAlertInfo> GetAlerts()
 public virtual int GetControlPoint(int x, int y)
 ```
 
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -275,10 +275,10 @@ public virtual int GetExtraPoint(int x, int y)
 protected virtual int GetMinDist(int x, int y)
 ```
 
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -298,7 +298,7 @@ public int GetMinDistance(int x, int y)
 public virtual bool GetPropertyHasStandardValues(string propertyName)
 ```
 
-<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -318,7 +318,7 @@ public virtual bool GetPropertyReadOnly(string propertyName)
 public virtual IEnumerable<object> GetPropertyStandardValues(string propertyName)
 ```
 
-<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -338,7 +338,7 @@ public virtual bool GetPropertyVisibility(string propertyName)
 protected double GetX(int i)
 ```
 
-<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -349,7 +349,7 @@ protected double GetX(int i)
 ```csharp
 protected double GetY(double d)
 ```
-<mark style="color:yellow;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -360,10 +360,10 @@ protected double GetY(double d)
 ```csharp
 protected virtual bool InObject(int x, int y)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -399,7 +399,7 @@ protected ObjectBase()
 protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
 ```
 
-<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -419,7 +419,7 @@ protected virtual void Prepare()
 public void SetCanvas(IChartCanvas canvas)
 ```
 
-<mark style="color:yellow;">`canvas`</mark> <mark style="color:red;">*`IChartCanvas`*</mark>  
+<mark style="color:purple;">`canvas`</mark> <mark style="color:red;">*`IChartCanvas`*</mark>  
  *Описание*  
 
 
@@ -430,7 +430,7 @@ public void SetCanvas(IChartCanvas canvas)
 ```csharp
 public void SetDataProvider(IChartDataProvider dp)
 ```
-<mark style="color:yellow;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
+<mark style="color:purple;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
  *Описание*  
 
 
@@ -441,7 +441,7 @@ public void SetDataProvider(IChartDataProvider dp)
 ```csharp
 public void SetSettings(IChartSettings settings)
 ```
-<mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`IChartSettings`*</mark>  
+<mark style="color:purple;">`settings`</mark> <mark style="color:red;">*`IChartSettings`*</mark>  
  *Описание*  
 
 
@@ -452,7 +452,7 @@ public void SetSettings(IChartSettings settings)
 ```csharp
 public Point ToPoint(ObjectPoint op)
 ```
-<mark style="color:yellow;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
+<mark style="color:purple;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
  *Описание*  
 
 

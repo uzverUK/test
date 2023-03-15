@@ -50,7 +50,7 @@ public ChartRegion()
 public ChartRegion(XColor color)
 ```
 
-<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+<mark style="color:purple;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
  *Описание*  
 
 
@@ -61,7 +61,7 @@ public ChartRegion(XColor color)
 ```csharp
 public void CopyTheme(ChartRegion chartRegion)
 ```
-<mark style="color:yellow;">`chartRegion`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
+<mark style="color:purple;">`chartRegion`</mark> <mark style="color:red;">*`ChartRegion`*</mark>  
  *Описание*  
 
 

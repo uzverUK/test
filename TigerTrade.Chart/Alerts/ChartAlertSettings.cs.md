@@ -60,10 +60,10 @@ public ChartAlertSettings()
 public void Copy(ChartAlertSettings alert, bool copyActive = false)
 ```
 
-<mark style="color:yellow;">`alert`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
+<mark style="color:purple;">`alert`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`copyActive`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`copyActive`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -74,7 +74,7 @@ public void Copy(ChartAlertSettings alert, bool copyActive = false)
 ```csharp
 public bool Equals(ChartAlertSettings other)
 ```
-<mark style="color:yellow;">`other`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
+<mark style="color:purple;">`other`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
  *Описание*  
 
 

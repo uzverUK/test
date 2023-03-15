@@ -96,13 +96,13 @@ public sealed class IndicatorsHelper
 public double[] AC(IndicatorMaType type, int shortN, int longN)
 ```
 
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
+<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`shortN`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`shortN`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`longN`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`longN`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -122,7 +122,7 @@ public double[] AD()
 public double[] ADX(int period)
 ```
 
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -133,13 +133,13 @@ public double[] ADX(int period)
 ```csharp
 public double[] AO(IndicatorMaType type, int shortN, int longN)
 ```
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
+<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`shortN`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`shortN`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`longN`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`longN`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -150,7 +150,7 @@ public double[] AO(IndicatorMaType type, int shortN, int longN)
 ```csharp
 public double[] ATR(int period)
 ```
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -161,10 +161,10 @@ public double[] ATR(int period)
 ```csharp
 public void Aroon(int period, out double[] aroonUp, out double[] aroonDown)
 ```
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:purple;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:purple;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
  *Описание*  
 
 
@@ -175,7 +175,7 @@ public void Aroon(int period, out double[] aroonUp, out double[] aroonDown)
 ```csharp
 public double[] BWMFI(IndicatorBWMFIType volumeType = IndicatorBWMFIType.Ticks)
 ```
-<mark style="color:yellow;">`volumeType`</mark> <mark style="color:red;">*`IndicatorBWMFIType`*</mark>  
+<mark style="color:purple;">`volumeType`</mark> <mark style="color:red;">*`IndicatorBWMFIType`*</mark>  
  *Описание*  
 
 
@@ -186,7 +186,7 @@ public double[] BWMFI(IndicatorBWMFIType volumeType = IndicatorBWMFIType.Ticks)
 ```csharp
 public double[] BearsPower(int n)
 ```
-<mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -206,7 +206,7 @@ public double[] BullsPower(int n)
 public double[] CCI(int period)
 ```
 
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -217,7 +217,7 @@ public double[] CCI(int period)
 ```csharp
 public double[] CMF(int n)
 ```
-<mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -228,7 +228,7 @@ public double[] CMF(int n)
 ```csharp
 public double[] CMO(double[] d, int period)
 ```
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -239,13 +239,13 @@ public double[] CMO(double[] d, int period)
 ```csharp
 public double[] CO(IndicatorMaType maType, int shortPeriod, int longPeriod)
 ```
-<mark style="color:yellow;">`maType`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
+<mark style="color:purple;">`maType`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`shortPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`shortPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`longPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`longPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -256,10 +256,10 @@ public double[] CO(IndicatorMaType maType, int shortPeriod, int longPeriod)
 ```csharp
 public double[] ChaikinsVolatility(IndicatorMaType type, int n)
 ```
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
+<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -279,10 +279,10 @@ public double[] CumDelta()
 public double[] EFI(double[] d, IndicatorMaType type, int n)
 ```
 
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
+<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -293,10 +293,10 @@ public double[] EFI(double[] d, IndicatorMaType type, int n)
 ```csharp
 public void Fractal(int n, out double[] up, out double[] down)
 ```
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:purple;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:purple;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
  *Описание*  
 
 
@@ -316,7 +316,7 @@ public IndicatorsHelper()
 public double[] LinReg(double[] d, int period)
 ```
 
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -336,7 +336,7 @@ public double[] MFI(int period)
 public double[] Max(double[] d, int period)
 ```
 
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -356,7 +356,7 @@ public double[] MedianPrice()
 public double[] Min(double[] d, int period)
 ```
 
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -376,7 +376,7 @@ public double[] MinusDI(int period)
 public double[] Momentum(double[] d, int period)
 ```
 
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -387,7 +387,7 @@ public double[] Momentum(double[] d, int period)
 ```csharp
 public double[] MovingAverage(IndicatorMaType maType, double[] d, int period)
 ```
-<mark style="color:yellow;">`maType`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
+<mark style="color:purple;">`maType`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
 
 
@@ -407,13 +407,13 @@ public double[] OBV()
 public double[] PPO(IndicatorMaType maType, double[] d, int shortPeriod, int longPeriod)
 ```
 
-<mark style="color:yellow;">`maType`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
+<mark style="color:purple;">`maType`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`shortPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`shortPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`longPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`longPeriod`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -424,7 +424,7 @@ public double[] PPO(IndicatorMaType maType, double[] d, int shortPeriod, int lon
 ```csharp
 public double[] PlusDI(int period)
 ```
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -435,7 +435,7 @@ public double[] PlusDI(int period)
 ```csharp
 public double[] Price(IndicatorPriceType priceField)
 ```
-<mark style="color:yellow;">`priceField`</mark> <mark style="color:red;">*`IndicatorPriceType`*</mark>  
+<mark style="color:purple;">`priceField`</mark> <mark style="color:red;">*`IndicatorPriceType`*</mark>  
  *Описание*  
 
 
@@ -446,16 +446,16 @@ public double[] Price(IndicatorPriceType priceField)
 ```csharp
 public void PriceChannel(int n, out double[] avg, out double[] upper, out double[] lower)
 ```
-<mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:purple;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:purple;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:purple;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
  *Описание*  
 
 
@@ -466,7 +466,7 @@ public void PriceChannel(int n, out double[] avg, out double[] upper, out double
 ```csharp
 public double[] ROC(double[] d, int period)
 ```
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -486,10 +486,10 @@ public double[] RSI(double[] d, int period)
 public double[] SAR(double step, double maxp)
 ```
 
-<mark style="color:yellow;">`step`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`step`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`maxp`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`maxp`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -500,7 +500,7 @@ public double[] SAR(double step, double maxp)
 ```csharp
 public double[] SMMA(double[] d, int period)
 ```
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -511,7 +511,7 @@ public double[] SMMA(double[] d, int period)
 ```csharp
 public void SetDataProvider(IChartDataProvider dp)
 ```
-<mark style="color:yellow;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
+<mark style="color:purple;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
  *Описание*  
 
 
@@ -522,7 +522,7 @@ public void SetDataProvider(IChartDataProvider dp)
 ```csharp
 public double[] ShiftData(double[] data, int shift)
 ```
-<mark style="color:yellow;">`shift`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`shift`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -533,7 +533,7 @@ public double[] ShiftData(double[] data, int shift)
 ```csharp
 public double[] StdDev(double[] d, int period)
 ```
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -553,7 +553,7 @@ public double[] Subtraction(double[] d1, double[] d2)
 public double[] TRIX(int period)
 ```
 
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -573,13 +573,13 @@ public double[] TypicalPrice()
 public double[] UltOsc(int period1, int period2, int period3)
 ```
 
-<mark style="color:yellow;">`period1`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period1`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`period2`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period2`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`period3`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period3`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -590,7 +590,7 @@ public double[] UltOsc(int period1, int period2, int period3)
 ```csharp
 public double[] VHF(int n)
 ```
-<mark style="color:yellow;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`n`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -601,10 +601,10 @@ public double[] VHF(int n)
 ```csharp
 public double[] Variance(double[] d, int period, double dev)
 ```
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`dev`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`dev`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -615,13 +615,13 @@ public double[] Variance(double[] d, int period, double dev)
 ```csharp
 public double[] VolumeOscillator(IndicatorMaType type, int shortN, int longN)
 ```
-<mark style="color:yellow;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
+<mark style="color:purple;">`type`</mark> <mark style="color:red;">*`IndicatorMaType`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`shortN`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`shortN`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`longN`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`longN`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -641,7 +641,7 @@ public double[] WilliamsAD()
 public double[] WilliamsR(int period)
 ```
 
-<mark style="color:yellow;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`period`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -652,16 +652,16 @@ public double[] WilliamsR(int period)
 ```csharp
 public double[] ZIGZAG(int depth, int deviation, int backstep, bool reg = true)
 ```
-<mark style="color:yellow;">`depth`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`depth`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`deviation`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`deviation`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`backstep`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`backstep`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`reg`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`reg`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 

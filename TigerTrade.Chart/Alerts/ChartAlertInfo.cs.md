@@ -39,10 +39,10 @@ public sealed class ChartAlertInfo
 public ChartAlertInfo(ChartAlertSettings settings, string message)
 ```
 
-<mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
+<mark style="color:purple;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 

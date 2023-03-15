@@ -44,7 +44,7 @@ public sealed class ChartClusterItem : IChartClusterItem
 public void Add(IChartClusterItem item)
 ```
 
-<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
+<mark style="color:purple;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
  *Описание*  
 
 
@@ -55,7 +55,7 @@ public void Add(IChartClusterItem item)
 ```csharp
 public ChartClusterItem(Decimal price)
 ```
-<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
 
@@ -67,10 +67,10 @@ public ChartClusterItem(Decimal price)
 public ChartClusterItem(Decimal price)
 public ChartClusterItem(IChartClusterItem item)
 ```
-<mark style="color:yellow;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+<mark style="color:purple;">`price`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
+<mark style="color:purple;">`item`</mark> <mark style="color:red;">*`IChartClusterItem`*</mark>  
  *Описание*  
 
 

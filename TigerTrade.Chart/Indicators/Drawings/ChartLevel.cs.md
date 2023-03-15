@@ -55,10 +55,10 @@ public ChartLevel()
 public ChartLevel(Decimal level, XColor color)
 ```
 
-<mark style="color:yellow;">`level`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+<mark style="color:purple;">`level`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
+<mark style="color:purple;">`color`</mark> <mark style="color:red;">*`XColor`*</mark>  
  *Описание*  
 
 
@@ -69,7 +69,7 @@ public ChartLevel(Decimal level, XColor color)
 ```csharp
 public void CopyTheme(ChartLevel chartLevel)
 ```
-<mark style="color:yellow;">`chartLevel`</mark> <mark style="color:red;">*`ChartLevel`*</mark>  
+<mark style="color:purple;">`chartLevel`</mark> <mark style="color:red;">*`ChartLevel`*</mark>  
  *Описание*  
 
 

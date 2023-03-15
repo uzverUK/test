@@ -49,7 +49,7 @@ public sealed class RulerObject : LineObjectBase
 public override void ApplyTheme(IChartTheme theme)
 ```
 
-<mark style="color:yellow;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
+<mark style="color:purple;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
  *Описание*  
 
 
@@ -60,10 +60,10 @@ public override void ApplyTheme(IChartTheme theme)
 ```csharp
 public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```
-<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+<mark style="color:purple;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -74,10 +74,10 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```csharp
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
 ```
-<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+<mark style="color:purple;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
+<mark style="color:purple;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
  *Описание*  
 
 
@@ -88,10 +88,10 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 ```csharp
 protected override bool InObject(int x, int y)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -102,7 +102,7 @@ protected override bool InObject(int x, int y)
 ```csharp
 public string PrettyFormatTimeSpan(TimeSpan span)
 ```
-<mark style="color:yellow;">`span`</mark> <mark style="color:red;">*`TimeSpan`*</mark>  
+<mark style="color:purple;">`span`</mark> <mark style="color:red;">*`TimeSpan`*</mark>  
  *Описание*  
 
 

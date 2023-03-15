@@ -59,7 +59,7 @@ public interface IChartCanvas
 DateTime ConvertTimeFromLocal(DateTime dt)
 ```
 
-<mark style="color:yellow;">`dt`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+<mark style="color:purple;">`dt`</mark> <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
 
 
@@ -79,10 +79,10 @@ DateTime ConvertTimeToLocal(DateTime dt)
 int DateToIndex(DateTime dt, int dir)
 ```
 
-<mark style="color:yellow;">`dt`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+<mark style="color:purple;">`dt`</mark> <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`dir`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`dir`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -95,13 +95,13 @@ int DateToIndex(DateTime dt, int dir)
 int DateToIndex(double dt, int dir)
 ```
 
-<mark style="color:yellow;">`dt`</mark> <mark style="color:red;">*`DateTime`*</mark>  
+<mark style="color:purple;">`dt`</mark> <mark style="color:red;">*`DateTime`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`dir`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`dir`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`dt`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`dt`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -112,7 +112,7 @@ int DateToIndex(double dt, int dir)
 ```csharp
 string FormatTime(DateTime dt, string format)
 ```
-<mark style="color:yellow;">`format`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`format`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -123,7 +123,7 @@ string FormatTime(DateTime dt, string format)
 ```csharp
 string FormatValue(double d)
 ```
-<mark style="color:yellow;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -134,7 +134,7 @@ string FormatValue(double d)
 ```csharp
 int GetIndex(int i)
 ```
-<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -145,7 +145,7 @@ int GetIndex(int i)
 ```csharp
 double GetValue(double y)
 ```
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -156,7 +156,7 @@ double GetValue(double y)
 ```csharp
 Point GetValueFromPos(double x, double y)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -168,13 +168,13 @@ Point GetValueFromPos(double x, double y)
 Point GetValueFromPos(double x, double y)
 Point GetValueFromPos(double x, double y, bool snapToGrid)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`snapToGrid`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`snapToGrid`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -185,7 +185,7 @@ Point GetValueFromPos(double x, double y, bool snapToGrid)
 ```csharp
 double GetX(int i)
 ```
-<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -196,7 +196,7 @@ double GetX(int i)
 ```csharp
 double GetXScreen(double x)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -207,7 +207,7 @@ double GetXScreen(double x)
 ```csharp
 double GetXX(int i)
 ```
-<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -218,7 +218,7 @@ double GetXX(int i)
 ```csharp
 double GetY(double d)
 ```
-<mark style="color:yellow;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -229,7 +229,7 @@ double GetY(double d)
 ```csharp
 DateTime IndexToDate(int i)
 ```
-<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

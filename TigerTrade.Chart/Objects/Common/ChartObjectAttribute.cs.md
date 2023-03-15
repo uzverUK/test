@@ -36,13 +36,13 @@ public class ChartObjectAttribute : Attribute
 public ChartObjectAttribute(string id, string name, int points)
 ```
 
-<mark style="color:yellow;">`id`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`id`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`points`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`points`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

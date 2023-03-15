@@ -37,13 +37,13 @@ public class IndicatorAttribute : Attribute
 public IndicatorAttribute(string id, string name, bool overlay)
 ```
 
-<mark style="color:yellow;">`id`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`id`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`overlay`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`overlay`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 

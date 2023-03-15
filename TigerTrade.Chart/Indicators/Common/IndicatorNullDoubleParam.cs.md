@@ -46,13 +46,13 @@ public IndicatorNullDoubleParam(double? value)
 public bool Set(string key, double? value, double minValue = -1.7976931348623157E+308, double maxValue = 1.7976931348623157E+308)
 ```
 
-<mark style="color:yellow;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`key`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`minValue`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`minValue`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`maxValue`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`maxValue`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 

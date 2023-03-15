@@ -36,10 +36,10 @@ public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
 public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```
 
-<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+<mark style="color:purple;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -59,10 +59,10 @@ protected LineGroupObjectBaseEx()
 protected void OpenStartEnd(bool openStart, bool openEnd)
 ```
 
-<mark style="color:yellow;">`openStart`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`openStart`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`openEnd`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`openEnd`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 

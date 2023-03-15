@@ -37,7 +37,7 @@ public sealed class ObjectPeriodItem
 public bool CheckInterval(int interval)
 ```
 
-<mark style="color:yellow;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`interval`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -48,7 +48,7 @@ public bool CheckInterval(int interval)
 ```csharp
 public override bool Equals(object obj)
 ```
-<mark style="color:yellow;">`obj`</mark> <mark style="color:red;">*`object`*</mark>  
+<mark style="color:purple;">`obj`</mark> <mark style="color:red;">*`object`*</mark>  
  *Описание*  
 
 

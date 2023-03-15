@@ -39,7 +39,7 @@ public sealed class EldersForceIndexSource : IndicatorSourceBase
 public override void CopySettings(IndicatorSourceBase source)
 ```
 
-<mark style="color:yellow;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
+<mark style="color:purple;">`source`</mark> <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
  *Описание*  
 
 
@@ -59,7 +59,7 @@ public EldersForceIndexSource()
 public override double[] GetSeries(IndicatorsHelper helper)
 ```
 
-<mark style="color:yellow;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
+<mark style="color:purple;">`helper`</mark> <mark style="color:red;">*`IndicatorsHelper`*</mark>  
  *Описание*  
 
 
@@ -70,7 +70,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 ```csharp
 public override IEnumerable<string> GetSeriesList()
 ```
-<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
+<mark style="color:purple;">`List`</mark> <mark style="color:red;">*`new`*</mark>  
  *Описание*  
 
 

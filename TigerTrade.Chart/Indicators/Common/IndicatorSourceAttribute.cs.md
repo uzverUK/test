@@ -34,7 +34,7 @@ public class IndicatorSourceAttribute : Attribute
 public IndicatorSourceAttribute(string name)
 ```
 
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 

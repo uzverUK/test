@@ -40,7 +40,7 @@ public sealed class BrushObject : LineObjectBase
 public void AddPoint(ObjectPoint op)
 ```
 
-<mark style="color:yellow;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
+<mark style="color:purple;">`op`</mark> <mark style="color:red;">*`ObjectPoint`*</mark>  
  *Описание*  
 
 
@@ -51,7 +51,7 @@ public void AddPoint(ObjectPoint op)
 ```csharp
 public override void ApplyTheme(IChartTheme theme)
 ```
-<mark style="color:yellow;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
+<mark style="color:purple;">`theme`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
  *Описание*  
 
 
@@ -71,10 +71,10 @@ public BrushObject()
 public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```
 
-<mark style="color:yellow;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
+<mark style="color:purple;">`objectBase`</mark> <mark style="color:red;">*`ObjectBase`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -85,10 +85,10 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 ```csharp
 protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
 ```
-<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+<mark style="color:purple;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
+<mark style="color:purple;">`System`</mark> <mark style="color:red;">*`ref`*</mark>  
  *Описание*  
 
 
@@ -99,10 +99,10 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 ```csharp
 protected override int GetMinDist(int x, int y)
 ```
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 

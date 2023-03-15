@@ -88,10 +88,10 @@ public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 protected void AddAlert(ChartAlertSettings settings, string message)
 ```
 
-<mark style="color:yellow;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
+<mark style="color:purple;">`settings`</mark> <mark style="color:red;">*`ChartAlertSettings`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`message`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -102,7 +102,7 @@ protected void AddAlert(ChartAlertSettings settings, string message)
 ```csharp
 public virtual void ApplyColors(IChartTheme palette)
 ```
-<mark style="color:yellow;">`palette`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
+<mark style="color:purple;">`palette`</mark> <mark style="color:red;">*`IChartTheme`*</mark>  
  *Описание*  
 
 
@@ -122,10 +122,10 @@ public virtual bool CheckNeedRedraw()
 public virtual void CopyTemplate(IndicatorBase indicator, bool style)
 ```
 
-<mark style="color:yellow;">`indicator`</mark> <mark style="color:red;">*`IndicatorBase`*</mark>  
+<mark style="color:purple;">`indicator`</mark> <mark style="color:red;">*`IndicatorBase`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
+<mark style="color:purple;">`style`</mark> <mark style="color:red;">*`bool`*</mark>  
  *Описание*  
 
 
@@ -153,10 +153,10 @@ public List<ChartAlertInfo> GetAlerts()
 public virtual double GetDistance(double x, double y)
 ```
 
-<mark style="color:yellow;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`x`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`y`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`y`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -167,7 +167,7 @@ public virtual double GetDistance(double x, double y)
 ```csharp
 public virtual void GetLabels(ref List<IndicatorLabelInfo> labels)
 ```
-<mark style="color:yellow;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
+<mark style="color:purple;">`List`</mark> <mark style="color:red;">*`ref`*</mark>  
  *Описание*  
 
 
@@ -178,10 +178,10 @@ public virtual void GetLabels(ref List<IndicatorLabelInfo> labels)
 ```csharp
 public virtual bool GetMinMax(out double min, out double max)
 ```
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:purple;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
+<mark style="color:purple;">`double`</mark> <mark style="color:red;">*`out`*</mark>  
  *Описание*  
 
 
@@ -192,10 +192,10 @@ public virtual bool GetMinMax(out double min, out double max)
 ```csharp
 protected Point[] GetPoints(IndicatorSeriesData seriesData, string name = null)
 ```
-<mark style="color:yellow;">`seriesData`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
+<mark style="color:purple;">`seriesData`</mark> <mark style="color:red;">*`IndicatorSeriesData`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -206,7 +206,7 @@ protected Point[] GetPoints(IndicatorSeriesData seriesData, string name = null)
 ```csharp
 public virtual bool GetPropertyHasStandardValues(string propertyName)
 ```
-<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -226,7 +226,7 @@ public virtual bool GetPropertyReadOnly(string propertyName)
 public virtual IEnumerable<object> GetPropertyStandardValues(string propertyName)
 ```
 
-<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -246,7 +246,7 @@ public virtual bool GetPropertyVisibility(string propertyName)
 public virtual IndicatorTitleInfo GetTitle()
 ```
 
-<mark style="color:yellow;">`IndicatorTitleInfo`</mark> <mark style="color:red;">*`new`*</mark>  
+<mark style="color:purple;">`IndicatorTitleInfo`</mark> <mark style="color:red;">*`new`*</mark>  
  *Описание*  
 
 
@@ -257,7 +257,7 @@ public virtual IndicatorTitleInfo GetTitle()
 ```csharp
 public virtual List<IndicatorValueInfo> GetValues(int cursorPos)
 ```
-<mark style="color:yellow;">`cursorPos`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`cursorPos`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -268,7 +268,7 @@ public virtual List<IndicatorValueInfo> GetValues(int cursorPos)
 ```csharp
 protected double GetX(int i)
 ```
-<mark style="color:yellow;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
+<mark style="color:purple;">`i`</mark> <mark style="color:red;">*`int`*</mark>  
  *Описание*  
 
 
@@ -279,7 +279,7 @@ protected double GetX(int i)
 ```csharp
 protected double GetY(double d)
 ```
-<mark style="color:yellow;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
 
@@ -291,10 +291,10 @@ protected double GetY(double d)
 protected double GetY(double d)
 protected double GetY(Decimal d)
 ```
-<mark style="color:yellow;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
+<mark style="color:purple;">`d`</mark> <mark style="color:red;">*`double`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`d`</mark> <mark style="color:red;">*`Decimal`*</mark>  
+<mark style="color:purple;">`d`</mark> <mark style="color:red;">*`Decimal`*</mark>  
  *Описание*  
 
 
@@ -314,7 +314,7 @@ protected IndicatorBase()
 protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
 ```
 
-<mark style="color:yellow;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`propertyName`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -334,7 +334,7 @@ public void PropChanged()
 public virtual void Render(DxVisualQueue visual)
 ```
 
-<mark style="color:yellow;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
+<mark style="color:purple;">`visual`</mark> <mark style="color:red;">*`DxVisualQueue`*</mark>  
  *Описание*  
 
 
@@ -345,16 +345,16 @@ public virtual void Render(DxVisualQueue visual)
 ```csharp
 public void Run(IChartDataProvider dp, string longKey, string shortKey, string revision)
 ```
-<mark style="color:yellow;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
+<mark style="color:purple;">`dp`</mark> <mark style="color:red;">*`IChartDataProvider`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`longKey`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`longKey`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`shortKey`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`shortKey`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`revision`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`revision`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
 
@@ -365,10 +365,10 @@ public void Run(IChartDataProvider dp, string longKey, string shortKey, string r
 ```csharp
 public virtual void SetSettingsParam(string name, object param)
 ```
-<mark style="color:yellow;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
+<mark style="color:purple;">`name`</mark> <mark style="color:red;">*`string`*</mark>  
  *Описание*  
 
-<mark style="color:yellow;">`param`</mark> <mark style="color:red;">*`object`*</mark>  
+<mark style="color:purple;">`param`</mark> <mark style="color:red;">*`object`*</mark>  
  *Описание*  
 
 

@@ -52,7 +52,7 @@ public ChartLine()
 public void CopyTheme(ChartLine chartLine)
 ```
 
-<mark style="color:yellow;">`chartLine`</mark> <mark style="color:red;">*`ChartLine`*</mark>  
+<mark style="color:purple;">`chartLine`</mark> <mark style="color:red;">*`ChartLine`*</mark>  
  *Описание*  
 
 
