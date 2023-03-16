@@ -13,18 +13,18 @@ public sealed class VolumeOscillatorSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](#test) | *Описание* |
-| [`GetSeries`](#test) | *Описание* |
-| [`GetSeriesList`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
-| [`VolumeOscillatorSource`](#test) | *Описание* |
+| [`CopySettings`](#CopySettings-m) | *Описание* |
+| [`GetSeries`](#GetSeries-m) | *Описание* |
+| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
+| [`VolumeOscillatorSource`](#VolumeOscillatorSource-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`LongPeriod`](./VolumeOscillatorSource.cs/Свойства/LongPeriod.md) | *Описание* |
-| [`MaType`](./VolumeOscillatorSource.cs/Свойства/MaType.md) | *Описание* |
-| [`ShortPeriod`](./VolumeOscillatorSource.cs/Свойства/ShortPeriod.md) | *Описание* |
+| [`LongPeriod`](#LongPeriod-p) | *Описание* |
+| [`MaType`](#MaType-p) | *Описание* |
+| [`ShortPeriod`](#ShortPeriod-p) | *Описание* |
 
 
 
@@ -34,7 +34,7 @@ public sealed class VolumeOscillatorSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="test" id="test"></a>
+## `CopySettings`<a href="VolumeOscillatorSource-m" id="VolumeOscillatorSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="test" id="test"></a>
+## `GetSeries`<a href="VolumeOscillatorSource-m" id="VolumeOscillatorSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="test" id="test"></a>
+## `GetSeriesList`<a href="VolumeOscillatorSource-m" id="VolumeOscillatorSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="VolumeOscillatorSource-m" id="VolumeOscillatorSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -80,7 +80,7 @@ public override string ToString()
 
 ***  
 
-## `VolumeOscillatorSource`<a href="test" id="test"></a>
+## `VolumeOscillatorSource`<a href="VolumeOscillatorSource-m" id="VolumeOscillatorSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -92,7 +92,7 @@ public VolumeOscillatorSource()
  ***  
 # Свойства
 
-## `LongPeriod`
+## `LongPeriod`<a href="ShortPeriod-p" id="ShortPeriod-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -100,7 +100,7 @@ public int LongPeriod { get; set; }
 ```  
 ***
 
-## `MaType`
+## `MaType`<a href="ShortPeriod-p" id="ShortPeriod-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -108,7 +108,7 @@ public IndicatorMaType MaType { get; set; }
 ```  
 ***
 
-## `ShortPeriod`
+## `ShortPeriod`<a href="ShortPeriod-p" id="ShortPeriod-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,14 +13,14 @@ public sealed class OrderModifyParams
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`OrderModifyParams`](#test) | *Описание* |
+| [`OrderModifyParams`](#OrderModifyParams-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Price`](./OrderModifyParams.cs/Свойства/Price.md) | *Описание* |
-| [`Quantity`](./OrderModifyParams.cs/Свойства/Quantity.md) | *Описание* |
-| [`StopPrice`](./OrderModifyParams.cs/Свойства/StopPrice.md) | *Описание* |
+| [`Price`](#Price-p) | *Описание* |
+| [`Quantity`](#Quantity-p) | *Описание* |
+| [`StopPrice`](#StopPrice-p) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class OrderModifyParams
 ***  
 # Методы
 
-## `OrderModifyParams`<a href="test" id="test"></a>
+## `OrderModifyParams`<a href="OrderModifyParams-m" id="OrderModifyParams-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -42,7 +42,7 @@ public OrderModifyParams()
  ***  
 # Свойства
 
-## `Price`
+## `Price`<a href="StopPrice-p" id="StopPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public long Price { get; set; }
 ```  
 ***
 
-## `Quantity`
+## `Quantity`<a href="StopPrice-p" id="StopPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public long Quantity { get; set; }
 ```  
 ***
 
-## `StopPrice`
+## `StopPrice`<a href="StopPrice-p" id="StopPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

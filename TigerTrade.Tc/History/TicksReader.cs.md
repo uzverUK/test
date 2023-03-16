@@ -13,15 +13,15 @@ public sealed class TicksReader : BinReader<Tick>, IDataReader<Tick>
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ReadItem`](#test) | *Описание* |
-| [`Reset`](#test) | *Описание* |
+| [`ReadItem`](#ReadItem-m) | *Описание* |
+| [`Reset`](#Reset-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`PriceStep`](./TicksReader.cs/Свойства/PriceStep.md) | *Описание* |
-| [`SizeStep`](./TicksReader.cs/Свойства/SizeStep.md) | *Описание* |
-| [`Version`](./TicksReader.cs/Свойства/Version.md) | *Описание* |
+| [`PriceStep`](#PriceStep-p) | *Описание* |
+| [`SizeStep`](#SizeStep-p) | *Описание* |
+| [`Version`](#Version-p) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public sealed class TicksReader : BinReader<Tick>, IDataReader<Tick>
 ***  
 # Методы
 
-## `ReadItem`<a href="test" id="test"></a>
+## `ReadItem`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ protected override Tick ReadItem()
 
 ***  
 
-## `Reset`<a href="test" id="test"></a>
+## `Reset`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public override void Reset()
  ***  
 # Свойства
 
-## `PriceStep`
+## `PriceStep`<a href="Version-p" id="Version-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public double PriceStep { get; private set; }
 ```  
 ***
 
-## `SizeStep`
+## `SizeStep`<a href="Version-p" id="Version-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public double SizeStep { get; private set; }
 ```  
 ***
 
-## `Version`
+## `Version`<a href="Version-p" id="Version-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

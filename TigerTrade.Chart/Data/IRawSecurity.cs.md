@@ -13,30 +13,30 @@ public interface IRawSecurity
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`AskPrice`](./IRawSecurity.cs/Свойства/AskPrice.md) | *Описание* |
-| [`AskSize`](./IRawSecurity.cs/Свойства/AskSize.md) | *Описание* |
-| [`AskTime`](./IRawSecurity.cs/Свойства/AskTime.md) | *Описание* |
-| [`BidDepthT`](./IRawSecurity.cs/Свойства/BidDepthT.md) | *Описание* |
-| [`BidPrice`](./IRawSecurity.cs/Свойства/BidPrice.md) | *Описание* |
-| [`BidSize`](./IRawSecurity.cs/Свойства/BidSize.md) | *Описание* |
-| [`BidTime`](./IRawSecurity.cs/Свойства/BidTime.md) | *Описание* |
-| [`ClosePrice`](./IRawSecurity.cs/Свойства/ClosePrice.md) | *Описание* |
-| [`HighPrice`](./IRawSecurity.cs/Свойства/HighPrice.md) | *Описание* |
-| [`LastPrice`](./IRawSecurity.cs/Свойства/LastPrice.md) | *Описание* |
-| [`LastSize`](./IRawSecurity.cs/Свойства/LastSize.md) | *Описание* |
-| [`LastTime`](./IRawSecurity.cs/Свойства/LastTime.md) | *Описание* |
-| [`LowPrice`](./IRawSecurity.cs/Свойства/LowPrice.md) | *Описание* |
-| [`MarginBuy`](./IRawSecurity.cs/Свойства/MarginBuy.md) | *Описание* |
-| [`MarginSell`](./IRawSecurity.cs/Свойства/MarginSell.md) | *Описание* |
-| [`NumBids`](./IRawSecurity.cs/Свойства/NumBids.md) | *Описание* |
-| [`NumOffers`](./IRawSecurity.cs/Свойства/NumOffers.md) | *Описание* |
-| [`OfferDepthT`](./IRawSecurity.cs/Свойства/OfferDepthT.md) | *Описание* |
-| [`OpenInt`](./IRawSecurity.cs/Свойства/OpenInt.md) | *Описание* |
-| [`OpenPrice`](./IRawSecurity.cs/Свойства/OpenPrice.md) | *Описание* |
-| [`PriceMax`](./IRawSecurity.cs/Свойства/PriceMax.md) | *Описание* |
-| [`PriceMin`](./IRawSecurity.cs/Свойства/PriceMin.md) | *Описание* |
-| [`Trades`](./IRawSecurity.cs/Свойства/Trades.md) | *Описание* |
-| [`Volume`](./IRawSecurity.cs/Свойства/Volume.md) | *Описание* |
+| [`AskPrice`](#AskPrice-p) | *Описание* |
+| [`AskSize`](#AskSize-p) | *Описание* |
+| [`AskTime`](#AskTime-p) | *Описание* |
+| [`BidDepthT`](#BidDepthT-p) | *Описание* |
+| [`BidPrice`](#BidPrice-p) | *Описание* |
+| [`BidSize`](#BidSize-p) | *Описание* |
+| [`BidTime`](#BidTime-p) | *Описание* |
+| [`ClosePrice`](#ClosePrice-p) | *Описание* |
+| [`HighPrice`](#HighPrice-p) | *Описание* |
+| [`LastPrice`](#LastPrice-p) | *Описание* |
+| [`LastSize`](#LastSize-p) | *Описание* |
+| [`LastTime`](#LastTime-p) | *Описание* |
+| [`LowPrice`](#LowPrice-p) | *Описание* |
+| [`MarginBuy`](#MarginBuy-p) | *Описание* |
+| [`MarginSell`](#MarginSell-p) | *Описание* |
+| [`NumBids`](#NumBids-p) | *Описание* |
+| [`NumOffers`](#NumOffers-p) | *Описание* |
+| [`OfferDepthT`](#OfferDepthT-p) | *Описание* |
+| [`OpenInt`](#OpenInt-p) | *Описание* |
+| [`OpenPrice`](#OpenPrice-p) | *Описание* |
+| [`PriceMax`](#PriceMax-p) | *Описание* |
+| [`PriceMin`](#PriceMin-p) | *Описание* |
+| [`Trades`](#Trades-p) | *Описание* |
+| [`Volume`](#Volume-p) | *Описание* |
 
 
 
@@ -45,7 +45,7 @@ public interface IRawSecurity
  ***  
 # Свойства
 
-## `AskPrice`
+## `AskPrice`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ long AskPrice { get; }
 ```  
 ***
 
-## `AskSize`
+## `AskSize`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ long AskSize { get; }
 ```  
 ***
 
-## `AskTime`
+## `AskTime`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ DateTime AskTime { get; }
 ```  
 ***
 
-## `BidDepthT`
+## `BidDepthT`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ long BidDepthT { get; }
 ```  
 ***
 
-## `BidPrice`
+## `BidPrice`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ long BidPrice { get; }
 ```  
 ***
 
-## `BidSize`
+## `BidSize`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ long BidSize { get; }
 ```  
 ***
 
-## `BidTime`
+## `BidTime`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ DateTime BidTime { get; }
 ```  
 ***
 
-## `ClosePrice`
+## `ClosePrice`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ double ClosePrice { get; }
 ```  
 ***
 
-## `HighPrice`
+## `HighPrice`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -117,7 +117,7 @@ double HighPrice { get; }
 ```  
 ***
 
-## `LastPrice`
+## `LastPrice`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -125,7 +125,7 @@ long LastPrice { get; }
 ```  
 ***
 
-## `LastSize`
+## `LastSize`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -133,7 +133,7 @@ long LastSize { get; }
 ```  
 ***
 
-## `LastTime`
+## `LastTime`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -141,7 +141,7 @@ DateTime LastTime { get; }
 ```  
 ***
 
-## `LowPrice`
+## `LowPrice`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -149,7 +149,7 @@ double LowPrice { get; }
 ```  
 ***
 
-## `MarginBuy`
+## `MarginBuy`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -157,7 +157,7 @@ double MarginBuy { get; }
 ```  
 ***
 
-## `MarginSell`
+## `MarginSell`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -165,7 +165,7 @@ double MarginSell { get; }
 ```  
 ***
 
-## `NumBids`
+## `NumBids`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -173,7 +173,7 @@ long NumBids { get; }
 ```  
 ***
 
-## `NumOffers`
+## `NumOffers`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -181,7 +181,7 @@ long NumOffers { get; }
 ```  
 ***
 
-## `OfferDepthT`
+## `OfferDepthT`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -189,7 +189,7 @@ long OfferDepthT { get; }
 ```  
 ***
 
-## `OpenInt`
+## `OpenInt`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -197,7 +197,7 @@ long OpenInt { get; }
 ```  
 ***
 
-## `OpenPrice`
+## `OpenPrice`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -205,7 +205,7 @@ double OpenPrice { get; }
 ```  
 ***
 
-## `PriceMax`
+## `PriceMax`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -213,7 +213,7 @@ double PriceMax { get; }
 ```  
 ***
 
-## `PriceMin`
+## `PriceMin`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -221,7 +221,7 @@ double PriceMin { get; }
 ```  
 ***
 
-## `Trades`
+## `Trades`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -229,7 +229,7 @@ long Trades { get; }
 ```  
 ***
 
-## `Volume`
+## `Volume`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

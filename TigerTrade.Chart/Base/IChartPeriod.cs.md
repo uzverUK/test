@@ -13,13 +13,13 @@ public interface IChartPeriod
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetSequence`](#test) | *Описание* |
+| [`GetSequence`](#GetSequence-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Interval`](./IChartPeriod.cs/Свойства/Interval.md) | *Описание* |
-| [`Type`](./IChartPeriod.cs/Свойства/Type.md) | *Описание* |
+| [`Interval`](#Interval-p) | *Описание* |
+| [`Type`](#Type-p) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ public interface IChartPeriod
 ***  
 # Методы
 
-## `GetSequence`<a href="test" id="test"></a>
+## `GetSequence`<a href="GetSequence-m" id="GetSequence-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double ti
 
 ***  
 
-## `GetSequence`<a href="test" id="test"></a>
+## `GetSequence`<a href="GetSequence-m" id="GetSequence-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -80,7 +80,7 @@ int GetSequence(ChartPeriodType type, int interval, double dateTime, double time
  ***  
 # Свойства
 
-## `Interval`
+## `Interval`<a href="Type-p" id="Type-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ int Interval { get; }
 ```  
 ***
 
-## `Type`
+## `Type`<a href="Type-p" id="Type-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

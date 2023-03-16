@@ -13,13 +13,13 @@ internal sealed class Executions
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Clear`](#test) | *Описание* |
-| [`Executions`](#test) | *Описание* |
-| [`FggwtLlyXjX`](#test) | *Описание* |
-| [`KSBwtKDnkq2`](#test) | *Описание* |
-| [`dJOwtlbjkxN`](#test) | *Описание* |
-| [`dUlwtptFJQi`](#test) | *Описание* |
-| [`oQfwt5Huf1s`](#test) | *Описание* |
+| [`Clear`](#Clear-m) | *Описание* |
+| [`Executions`](#Executions-m) | *Описание* |
+| [`FggwtLlyXjX`](#FggwtLlyXjX-m) | *Описание* |
+| [`KSBwtKDnkq2`](#KSBwtKDnkq2-m) | *Описание* |
+| [`dJOwtlbjkxN`](#dJOwtlbjkxN-m) | *Описание* |
+| [`dUlwtptFJQi`](#dUlwtptFJQi-m) | *Описание* |
+| [`oQfwt5Huf1s`](#oQfwt5Huf1s-m) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ internal sealed class Executions
 ***  
 # Методы
 
-## `Clear`<a href="test" id="test"></a>
+## `Clear`<a href="oQfwt5Huf1s-m" id="oQfwt5Huf1s-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -38,7 +38,7 @@ public void Clear()
 
 ***  
 
-## `Executions`<a href="test" id="test"></a>
+## `Executions`<a href="oQfwt5Huf1s-m" id="oQfwt5Huf1s-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public Executions()
 
 ***  
 
-## `FggwtLlyXjX`<a href="test" id="test"></a>
+## `FggwtLlyXjX`<a href="oQfwt5Huf1s-m" id="oQfwt5Huf1s-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public List<Execution> FggwtLlyXjX()
 
 ***  
 
-## `KSBwtKDnkq2`<a href="test" id="test"></a>
+## `KSBwtKDnkq2`<a href="oQfwt5Huf1s-m" id="oQfwt5Huf1s-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public bool KSBwtKDnkq2(Execution _param1)
 
 ***  
 
-## `dJOwtlbjkxN`<a href="test" id="test"></a>
+## `dJOwtlbjkxN`<a href="oQfwt5Huf1s-m" id="oQfwt5Huf1s-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public Execution dJOwtlbjkxN(string _param1)
 
 ***  
 
-## `dUlwtptFJQi`<a href="test" id="test"></a>
+## `dUlwtptFJQi`<a href="oQfwt5Huf1s-m" id="oQfwt5Huf1s-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public bool dUlwtptFJQi(Execution _param1)
 
 ***  
 
-## `oQfwt5Huf1s`<a href="test" id="test"></a>
+## `oQfwt5Huf1s`<a href="oQfwt5Huf1s-m" id="oQfwt5Huf1s-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

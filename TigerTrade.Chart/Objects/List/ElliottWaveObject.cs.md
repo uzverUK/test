@@ -13,18 +13,18 @@ public abstract class ElliottWaveObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopyTemplate`](#test) | *Описание* |
-| [`Draw`](#test) | *Описание* |
-| [`ElliottWaveObject`](#test) | *Описание* |
-| [`GetDegreeText`](#test) | *Описание* |
-| [`InObject`](#test) | *Описание* |
+| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
+| [`Draw`](#Draw-m) | *Описание* |
+| [`ElliottWaveObject`](#ElliottWaveObject-m) | *Описание* |
+| [`GetDegreeText`](#GetDegreeText-m) | *Описание* |
+| [`InObject`](#InObject-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Degree`](./ElliottWaveObject.cs/Свойства/Degree.md) | *Описание* |
-| [`ShowWave`](./ElliottWaveObject.cs/Свойства/ShowWave.md) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](./ElliottWaveObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`Degree`](#Degree-p) | *Описание* |
+| [`ShowWave`](#ShowWave-p) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
 
 
 
@@ -34,7 +34,7 @@ public abstract class ElliottWaveObject : LineObjectBase
 ***  
 # Методы
 
-## `CopyTemplate`<a href="test" id="test"></a>
+## `CopyTemplate`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="test" id="test"></a>
+## `Draw`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `ElliottWaveObject`<a href="test" id="test"></a>
+## `ElliottWaveObject`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ protected ElliottWaveObject()
 
 ***  
 
-## `GetDegreeText`<a href="test" id="test"></a>
+## `GetDegreeText`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ protected abstract string GetDegreeText(int num)
 
 ***  
 
-## `InObject`<a href="test" id="test"></a>
+## `InObject`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -105,7 +105,7 @@ protected override bool InObject(int x, int y)
  ***  
 # Свойства
 
-## `Degree`
+## `Degree`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public ElliottWaveDegree Degree { get; set; }
 ```  
 ***
 
-## `ShowWave`
+## `ShowWave`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -121,7 +121,7 @@ public bool ShowWave { get; set; }
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`
+## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,30 +13,30 @@ public interface IChartSymbol
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ConvertTimeFromLocal`](#test) | *Описание* |
-| [`ConvertTimeToLocal`](#test) | *Описание* |
-| [`CorrectSizeFilter`](#test) | *Описание* |
-| [`FormatPrice`](#test) | *Описание* |
-| [`FormatRawPrice`](#test) | *Описание* |
-| [`FormatRawSize`](#test) | *Описание* |
-| [`FormatRawSizeFull`](#test) | *Описание* |
-| [`FormatRawSizeShort`](#test) | *Описание* |
-| [`FormatSize`](#test) | *Описание* |
-| [`FormatSizeFull`](#test) | *Описание* |
-| [`FormatSizeShort`](#test) | *Описание* |
-| [`FormatTime`](#test) | *Описание* |
-| [`FormatTrades`](#test) | *Описание* |
-| [`GetPrice`](#test) | *Описание* |
-| [`GetSize`](#test) | *Описание* |
+| [`ConvertTimeFromLocal`](#ConvertTimeFromLocal-m) | *Описание* |
+| [`ConvertTimeToLocal`](#ConvertTimeToLocal-m) | *Описание* |
+| [`CorrectSizeFilter`](#CorrectSizeFilter-m) | *Описание* |
+| [`FormatPrice`](#FormatPrice-m) | *Описание* |
+| [`FormatRawPrice`](#FormatRawPrice-m) | *Описание* |
+| [`FormatRawSize`](#FormatRawSize-m) | *Описание* |
+| [`FormatRawSizeFull`](#FormatRawSizeFull-m) | *Описание* |
+| [`FormatRawSizeShort`](#FormatRawSizeShort-m) | *Описание* |
+| [`FormatSize`](#FormatSize-m) | *Описание* |
+| [`FormatSizeFull`](#FormatSizeFull-m) | *Описание* |
+| [`FormatSizeShort`](#FormatSizeShort-m) | *Описание* |
+| [`FormatTime`](#FormatTime-m) | *Описание* |
+| [`FormatTrades`](#FormatTrades-m) | *Описание* |
+| [`GetPrice`](#GetPrice-m) | *Описание* |
+| [`GetSize`](#GetSize-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Code`](./IChartSymbol.cs/Свойства/Code.md) | *Описание* |
-| [`Decimals`](./IChartSymbol.cs/Свойства/Decimals.md) | *Описание* |
-| [`Exchange`](./IChartSymbol.cs/Свойства/Exchange.md) | *Описание* |
-| [`Name`](./IChartSymbol.cs/Свойства/Name.md) | *Описание* |
-| [`StepPrice`](./IChartSymbol.cs/Свойства/StepPrice.md) | *Описание* |
+| [`Code`](#Code-p) | *Описание* |
+| [`Decimals`](#Decimals-p) | *Описание* |
+| [`Exchange`](#Exchange-p) | *Описание* |
+| [`Name`](#Name-p) | *Описание* |
+| [`StepPrice`](#StepPrice-p) | *Описание* |
 
 
 
@@ -46,7 +46,7 @@ public interface IChartSymbol
 ***  
 # Методы
 
-## `ConvertTimeFromLocal`<a href="test" id="test"></a>
+## `ConvertTimeFromLocal`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ DateTime ConvertTimeFromLocal(DateTime dt)
 
 ***  
 
-## `ConvertTimeToLocal`<a href="test" id="test"></a>
+## `ConvertTimeToLocal`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ DateTime ConvertTimeToLocal(DateTime dt)
 
 ***  
 
-## `CorrectSizeFilter`<a href="test" id="test"></a>
+## `CorrectSizeFilter`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ long CorrectSizeFilter(double filter)
 
 ***  
 
-## `CorrectSizeFilter`<a href="test" id="test"></a>
+## `CorrectSizeFilter`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -95,7 +95,7 @@ long? CorrectSizeFilter(double? filter)
 
 ***  
 
-## `FormatPrice`<a href="test" id="test"></a>
+## `FormatPrice`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -110,7 +110,7 @@ string FormatPrice(Decimal price, bool shortDecimals = false)
 
 ***  
 
-## `FormatRawPrice`<a href="test" id="test"></a>
+## `FormatRawPrice`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -122,7 +122,7 @@ string FormatRawPrice(long price, bool shortDecimals = false)
 
 ***  
 
-## `FormatRawSize`<a href="test" id="test"></a>
+## `FormatRawSize`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -137,7 +137,7 @@ string FormatRawSize(long size, int round = 2)
 
 ***  
 
-## `FormatRawSize`<a href="test" id="test"></a>
+## `FormatRawSize`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -156,7 +156,7 @@ string FormatRawSize(long size, int round, bool minimize)
 
 ***  
 
-## `FormatRawSizeFull`<a href="test" id="test"></a>
+## `FormatRawSizeFull`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -165,7 +165,7 @@ string FormatRawSizeFull(long size)
 
 ***  
 
-## `FormatRawSizeShort`<a href="test" id="test"></a>
+## `FormatRawSizeShort`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -178,7 +178,7 @@ string FormatRawSizeShort(long size)
 
 ***  
 
-## `FormatSize`<a href="test" id="test"></a>
+## `FormatSize`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -193,7 +193,7 @@ string FormatSize(Decimal size, int round = 2)
 
 ***  
 
-## `FormatSize`<a href="test" id="test"></a>
+## `FormatSize`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -212,7 +212,7 @@ string FormatSize(Decimal size, int round, bool minimize)
 
 ***  
 
-## `FormatSizeFull`<a href="test" id="test"></a>
+## `FormatSizeFull`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -221,7 +221,7 @@ string FormatSizeFull(Decimal size)
 
 ***  
 
-## `FormatSizeShort`<a href="test" id="test"></a>
+## `FormatSizeShort`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -234,7 +234,7 @@ string FormatSizeShort(Decimal size)
 
 ***  
 
-## `FormatTime`<a href="test" id="test"></a>
+## `FormatTime`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -249,7 +249,7 @@ string FormatTime(DateTime dt, string format)
 
 ***  
 
-## `FormatTrades`<a href="test" id="test"></a>
+## `FormatTrades`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -261,7 +261,7 @@ string FormatTrades(long trades)
 
 ***  
 
-## `FormatTrades`<a href="test" id="test"></a>
+## `FormatTrades`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -280,7 +280,7 @@ string FormatTrades(long trades, int round, bool minimize)
 
 ***  
 
-## `GetPrice`<a href="test" id="test"></a>
+## `GetPrice`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -292,7 +292,7 @@ Decimal GetPrice(long rawPrice)
 
 ***  
 
-## `GetSize`<a href="test" id="test"></a>
+## `GetSize`<a href="GetSize-m" id="GetSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -307,7 +307,7 @@ Decimal GetSize(long rawSize)
  ***  
 # Свойства
 
-## `Code`
+## `Code`<a href="StepPrice-p" id="StepPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -315,7 +315,7 @@ string Code { get; }
 ```  
 ***
 
-## `Decimals`
+## `Decimals`<a href="StepPrice-p" id="StepPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -323,7 +323,7 @@ int Decimals { get; }
 ```  
 ***
 
-## `Exchange`
+## `Exchange`<a href="StepPrice-p" id="StepPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -331,7 +331,7 @@ string Exchange { get; }
 ```  
 ***
 
-## `Name`
+## `Name`<a href="StepPrice-p" id="StepPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -339,7 +339,7 @@ string Name { get; }
 ```  
 ***
 
-## `StepPrice`
+## `StepPrice`<a href="StepPrice-p" id="StepPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,28 +13,28 @@ public class RectangleObject : PolygonObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Draw`](#test) | *Описание* |
-| [`DrawControlPoints`](#test) | *Описание* |
-| [`ExtraPointChanged`](#test) | *Описание* |
-| [`GetControlPoint`](#test) | *Описание* |
-| [`GetExtraPoint`](#test) | *Описание* |
-| [`GetMinDist`](#test) | *Описание* |
-| [`InObject`](#test) | *Описание* |
-| [`IsObjectInArea`](#test) | *Описание* |
-| [`Prepare`](#test) | *Описание* |
-| [`RectangleObject`](#test) | *Описание* |
-| [`x9Yyrp3RfkGdCbNTXU4b`](#test) | *Описание* |
+| [`Draw`](#Draw-m) | *Описание* |
+| [`DrawControlPoints`](#DrawControlPoints-m) | *Описание* |
+| [`ExtraPointChanged`](#ExtraPointChanged-m) | *Описание* |
+| [`GetControlPoint`](#GetControlPoint-m) | *Описание* |
+| [`GetExtraPoint`](#GetExtraPoint-m) | *Описание* |
+| [`GetMinDist`](#GetMinDist-m) | *Описание* |
+| [`InObject`](#InObject-m) | *Описание* |
+| [`IsObjectInArea`](#IsObjectInArea-m) | *Описание* |
+| [`Prepare`](#Prepare-m) | *Описание* |
+| [`RectangleObject`](#RectangleObject-m) | *Описание* |
+| [`x9Yyrp3RfkGdCbNTXU4b`](#x9Yyrp3RfkGdCbNTXU4b-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`RectInfo`](./RectangleObject.cs/Свойства/RectInfo.md) | *Описание* |
-| [`Rectangle;`](./RectangleObject.cs/Свойства/Rectangle;.md) | *Описание* |
-| [`cTQ3RQ5sOeg;`](./RectangleObject.cs/Свойства/cTQ3RQ5sOeg;.md) | *Описание* |
-| [`mrI3RMYxIFC;`](./RectangleObject.cs/Свойства/mrI3RMYxIFC;.md) | *Описание* |
-| [`mtO3Rj6ZJ6t;`](./RectangleObject.cs/Свойства/mtO3Rj6ZJ6t;.md) | *Описание* |
-| [`qX73RVVvfB0;`](./RectangleObject.cs/Свойства/qX73RVVvfB0;.md) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](./RectangleObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`RectInfo`](#RectInfo-p) | *Описание* |
+| [`Rectangle;`](#Rectangle;-p) | *Описание* |
+| [`cTQ3RQ5sOeg;`](#cTQ3RQ5sOeg;-p) | *Описание* |
+| [`mrI3RMYxIFC;`](#mrI3RMYxIFC;-p) | *Описание* |
+| [`mtO3Rj6ZJ6t;`](#mtO3Rj6ZJ6t;-p) | *Описание* |
+| [`qX73RVVvfB0;`](#qX73RVVvfB0;-p) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
 
 
 
@@ -44,7 +44,7 @@ public class RectangleObject : PolygonObjectBase
 ***  
 # Методы
 
-## `Draw`<a href="test" id="test"></a>
+## `Draw`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `DrawControlPoints`<a href="test" id="test"></a>
+## `DrawControlPoints`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 ***  
 
-## `ExtraPointChanged`<a href="test" id="test"></a>
+## `ExtraPointChanged`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public override void ExtraPointChanged(int index, ObjectPoint op)
 
 ***  
 
-## `GetControlPoint`<a href="test" id="test"></a>
+## `GetControlPoint`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -100,7 +100,7 @@ public override int GetControlPoint(int x, int y)
 
 ***  
 
-## `GetExtraPoint`<a href="test" id="test"></a>
+## `GetExtraPoint`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ public override int GetExtraPoint(int x, int y)
 
 ***  
 
-## `GetMinDist`<a href="test" id="test"></a>
+## `GetMinDist`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -125,7 +125,7 @@ protected override int GetMinDist(int x, int y)
 
 ***  
 
-## `InObject`<a href="test" id="test"></a>
+## `InObject`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -134,7 +134,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `IsObjectInArea`<a href="test" id="test"></a>
+## `IsObjectInArea`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -143,7 +143,7 @@ protected override bool IsObjectInArea()
 
 ***  
 
-## `Prepare`<a href="test" id="test"></a>
+## `Prepare`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -152,7 +152,7 @@ protected override void Prepare()
 
 ***  
 
-## `RectangleObject`<a href="test" id="test"></a>
+## `RectangleObject`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -161,7 +161,7 @@ public RectangleObject()
 
 ***  
 
-## `x9Yyrp3RfkGdCbNTXU4b`<a href="test" id="test"></a>
+## `x9Yyrp3RfkGdCbNTXU4b`<a href="x9Yyrp3RfkGdCbNTXU4b-m" id="x9Yyrp3RfkGdCbNTXU4b-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -173,7 +173,7 @@ public x9Yyrp3RfkGdCbNTXU4b()
  ***  
 # Свойства
 
-## `RectInfo`
+## `RectInfo`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -181,7 +181,7 @@ public RectangleObject.x9Yyrp3RfkGdCbNTXU4b RectInfo { get; private set; }
 ```  
 ***
 
-## `Rectangle;`
+## `Rectangle;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -189,7 +189,7 @@ public Rect Rectangle; {}
 ```  
 ***
 
-## `cTQ3RQ5sOeg;`
+## `cTQ3RQ5sOeg;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -197,7 +197,7 @@ public Point cTQ3RQ5sOeg; {}
 ```  
 ***
 
-## `mrI3RMYxIFC;`
+## `mrI3RMYxIFC;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -205,7 +205,7 @@ public Point mrI3RMYxIFC; {}
 ```  
 ***
 
-## `mtO3Rj6ZJ6t;`
+## `mtO3Rj6ZJ6t;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -213,7 +213,7 @@ public Point mtO3Rj6ZJ6t; {}
 ```  
 ***
 
-## `qX73RVVvfB0;`
+## `qX73RVVvfB0;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -221,7 +221,7 @@ public Point qX73RVVvfB0; {}
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`
+## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

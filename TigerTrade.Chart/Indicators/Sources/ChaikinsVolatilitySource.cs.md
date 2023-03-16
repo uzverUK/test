@@ -13,17 +13,17 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChaikinsVolatilitySource`](#test) | *Описание* |
-| [`CopySettings`](#test) | *Описание* |
-| [`GetSeries`](#test) | *Описание* |
-| [`GetSeriesList`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
+| [`ChaikinsVolatilitySource`](#ChaikinsVolatilitySource-m) | *Описание* |
+| [`CopySettings`](#CopySettings-m) | *Описание* |
+| [`GetSeries`](#GetSeries-m) | *Описание* |
+| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`MaType`](./ChaikinsVolatilitySource.cs/Свойства/MaType.md) | *Описание* |
-| [`Period`](./ChaikinsVolatilitySource.cs/Свойства/Period.md) | *Описание* |
+| [`MaType`](#MaType-p) | *Описание* |
+| [`Period`](#Period-p) | *Описание* |
 
 
 
@@ -33,7 +33,7 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 ***  
 # Методы
 
-## `ChaikinsVolatilitySource`<a href="test" id="test"></a>
+## `ChaikinsVolatilitySource`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -42,7 +42,7 @@ public ChaikinsVolatilitySource()
 
 ***  
 
-## `CopySettings`<a href="test" id="test"></a>
+## `CopySettings`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -55,7 +55,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="test" id="test"></a>
+## `GetSeries`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="test" id="test"></a>
+## `GetSeriesList`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `MaType`
+## `MaType`<a href="Period-p" id="Period-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ public IndicatorMaType MaType { get; set; }
 ```  
 ***
 
-## `Period`
+## `Period`<a href="Period-p" id="Period-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

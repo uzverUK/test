@@ -13,25 +13,25 @@ public static class ScreenCapture
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CaptureWindow`](#test) | *Описание* |
-| [`DwmjcitxLDp`](#test) | *Описание* |
-| [`FewjcWVZLPm`](#test) | *Описание* |
-| [`MI4B91jctfcyGZHN2j65`](#test) | *Описание* |
-| [`ReQjc4BwG6e`](#test) | *Описание* |
-| [`mZwjcXYDejQ`](#test) | *Описание* |
-| [`qL1C1PjcbfSt1jRc4poB`](#test) | *Описание* |
-| [`qYnjc2kmd1w`](#test) | *Описание* |
-| [`rV4jcN5vdat`](#test) | *Описание* |
-| [`s1pjc9RD0u3`](#test) | *Описание* |
+| [`CaptureWindow`](#CaptureWindow-m) | *Описание* |
+| [`DwmjcitxLDp`](#DwmjcitxLDp-m) | *Описание* |
+| [`FewjcWVZLPm`](#FewjcWVZLPm-m) | *Описание* |
+| [`MI4B91jctfcyGZHN2j65`](#MI4B91jctfcyGZHN2j65-m) | *Описание* |
+| [`ReQjc4BwG6e`](#ReQjc4BwG6e-m) | *Описание* |
+| [`mZwjcXYDejQ`](#mZwjcXYDejQ-m) | *Описание* |
+| [`qL1C1PjcbfSt1jRc4poB`](#qL1C1PjcbfSt1jRc4poB-m) | *Описание* |
+| [`qYnjc2kmd1w`](#qYnjc2kmd1w-m) | *Описание* |
+| [`rV4jcN5vdat`](#rV4jcN5vdat-m) | *Описание* |
+| [`s1pjc9RD0u3`](#s1pjc9RD0u3-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Lih7BdjIykOwQHbXkmse`](./ScreenCapture.cs/Свойства/Lih7BdjIykOwQHbXkmse.md) | *Описание* |
-| [`M7hjIq2CkDG;`](./ScreenCapture.cs/Свойства/M7hjIq2CkDG;.md) | *Описание* |
-| [`TNyjIj7U16k;`](./ScreenCapture.cs/Свойства/TNyjIj7U16k;.md) | *Описание* |
-| [`UjGjIfBfPQ0;`](./ScreenCapture.cs/Свойства/UjGjIfBfPQ0;.md) | *Описание* |
-| [`ktDjIMg1ZJN;`](./ScreenCapture.cs/Свойства/ktDjIMg1ZJN;.md) | *Описание* |
+| [`Lih7BdjIykOwQHbXkmse`](#Lih7BdjIykOwQHbXkmse-p) | *Описание* |
+| [`M7hjIq2CkDG;`](#M7hjIq2CkDG;-p) | *Описание* |
+| [`TNyjIj7U16k;`](#TNyjIj7U16k;-p) | *Описание* |
+| [`UjGjIfBfPQ0;`](#UjGjIfBfPQ0;-p) | *Описание* |
+| [`ktDjIMg1ZJN;`](#ktDjIMg1ZJN;-p) | *Описание* |
 
 
 
@@ -41,7 +41,7 @@ public static class ScreenCapture
 ***  
 # Методы
 
-## `CaptureWindow`<a href="test" id="test"></a>
+## `CaptureWindow`<a href="s1pjc9RD0u3-m" id="s1pjc9RD0u3-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ public static BitmapSource CaptureWindow(IntPtr handle)
 
 ***  
 
-## `DwmjcitxLDp`<a href="test" id="test"></a>
+## `DwmjcitxLDp`<a href="s1pjc9RD0u3-m" id="s1pjc9RD0u3-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -66,7 +66,7 @@ public static extern IntPtr DwmjcitxLDp(IntPtr _param0)
 
 ***  
 
-## `FewjcWVZLPm`<a href="test" id="test"></a>
+## `FewjcWVZLPm`<a href="s1pjc9RD0u3-m" id="s1pjc9RD0u3-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public static extern IntPtr FewjcWVZLPm(IntPtr _param0, int _param1, int _param2
 
 ***  
 
-## `MI4B91jctfcyGZHN2j65`<a href="test" id="test"></a>
+## `MI4B91jctfcyGZHN2j65`<a href="s1pjc9RD0u3-m" id="s1pjc9RD0u3-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -90,7 +90,7 @@ public MI4B91jctfcyGZHN2j65()
 
 ***  
 
-## `ReQjc4BwG6e`<a href="test" id="test"></a>
+## `ReQjc4BwG6e`<a href="s1pjc9RD0u3-m" id="s1pjc9RD0u3-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -103,7 +103,7 @@ public static extern IntPtr ReQjc4BwG6e(IntPtr _param0)
 
 ***  
 
-## `mZwjcXYDejQ`<a href="test" id="test"></a>
+## `mZwjcXYDejQ`<a href="s1pjc9RD0u3-m" id="s1pjc9RD0u3-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public static extern IntPtr mZwjcXYDejQ(IntPtr _param0, IntPtr _param1)
 
 ***  
 
-## `qL1C1PjcbfSt1jRc4poB`<a href="test" id="test"></a>
+## `qL1C1PjcbfSt1jRc4poB`<a href="s1pjc9RD0u3-m" id="s1pjc9RD0u3-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -124,7 +124,7 @@ public qL1C1PjcbfSt1jRc4poB()
 
 ***  
 
-## `qYnjc2kmd1w`<a href="test" id="test"></a>
+## `qYnjc2kmd1w`<a href="s1pjc9RD0u3-m" id="s1pjc9RD0u3-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -137,7 +137,7 @@ public static extern bool qYnjc2kmd1w(IntPtr _param0)
 
 ***  
 
-## `rV4jcN5vdat`<a href="test" id="test"></a>
+## `rV4jcN5vdat`<a href="s1pjc9RD0u3-m" id="s1pjc9RD0u3-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -149,7 +149,7 @@ public static extern IntPtr rV4jcN5vdat(IntPtr _param0, IntPtr _param1)
 
 ***  
 
-## `s1pjc9RD0u3`<a href="test" id="test"></a>
+## `s1pjc9RD0u3`<a href="s1pjc9RD0u3-m" id="s1pjc9RD0u3-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -164,7 +164,7 @@ public static extern bool s1pjc9RD0u3(IntPtr _param0)
  ***  
 # Свойства
 
-## `Lih7BdjIykOwQHbXkmse`
+## `Lih7BdjIykOwQHbXkmse`<a href="ktDjIMg1ZJN;-p" id="ktDjIMg1ZJN;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -172,7 +172,7 @@ public struct Lih7BdjIykOwQHbXkmse {}
 ```  
 ***
 
-## `M7hjIq2CkDG;`
+## `M7hjIq2CkDG;`<a href="ktDjIMg1ZJN;-p" id="ktDjIMg1ZJN;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -180,7 +180,7 @@ public int M7hjIq2CkDG; {}
 ```  
 ***
 
-## `TNyjIj7U16k;`
+## `TNyjIj7U16k;`<a href="ktDjIMg1ZJN;-p" id="ktDjIMg1ZJN;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -188,7 +188,7 @@ public int TNyjIj7U16k; {}
 ```  
 ***
 
-## `UjGjIfBfPQ0;`
+## `UjGjIfBfPQ0;`<a href="ktDjIMg1ZJN;-p" id="ktDjIMg1ZJN;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -196,7 +196,7 @@ public int UjGjIfBfPQ0; {}
 ```  
 ***
 
-## `ktDjIMg1ZJN;`
+## `ktDjIMg1ZJN;`<a href="ktDjIMg1ZJN;-p" id="ktDjIMg1ZJN;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

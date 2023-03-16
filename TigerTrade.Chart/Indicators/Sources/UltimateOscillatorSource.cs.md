@@ -13,18 +13,18 @@ public sealed class UltimateOscillatorSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](#test) | *Описание* |
-| [`GetSeries`](#test) | *Описание* |
-| [`GetSeriesList`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
-| [`UltimateOscillatorSource`](#test) | *Описание* |
+| [`CopySettings`](#CopySettings-m) | *Описание* |
+| [`GetSeries`](#GetSeries-m) | *Описание* |
+| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
+| [`UltimateOscillatorSource`](#UltimateOscillatorSource-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Period1`](./UltimateOscillatorSource.cs/Свойства/Period1.md) | *Описание* |
-| [`Period2`](./UltimateOscillatorSource.cs/Свойства/Period2.md) | *Описание* |
-| [`Period3`](./UltimateOscillatorSource.cs/Свойства/Period3.md) | *Описание* |
+| [`Period1`](#Period1-p) | *Описание* |
+| [`Period2`](#Period2-p) | *Описание* |
+| [`Period3`](#Period3-p) | *Описание* |
 
 
 
@@ -34,7 +34,7 @@ public sealed class UltimateOscillatorSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="test" id="test"></a>
+## `CopySettings`<a href="UltimateOscillatorSource-m" id="UltimateOscillatorSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="test" id="test"></a>
+## `GetSeries`<a href="UltimateOscillatorSource-m" id="UltimateOscillatorSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="test" id="test"></a>
+## `GetSeriesList`<a href="UltimateOscillatorSource-m" id="UltimateOscillatorSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="UltimateOscillatorSource-m" id="UltimateOscillatorSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -80,7 +80,7 @@ public override string ToString()
 
 ***  
 
-## `UltimateOscillatorSource`<a href="test" id="test"></a>
+## `UltimateOscillatorSource`<a href="UltimateOscillatorSource-m" id="UltimateOscillatorSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -92,7 +92,7 @@ public UltimateOscillatorSource()
  ***  
 # Свойства
 
-## `Period1`
+## `Period1`<a href="Period3-p" id="Period3-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -100,7 +100,7 @@ public int Period1 { get; set; }
 ```  
 ***
 
-## `Period2`
+## `Period2`<a href="Period3-p" id="Period3-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -108,7 +108,7 @@ public int Period2 { get; set; }
 ```  
 ***
 
-## `Period3`
+## `Period3`<a href="Period3-p" id="Period3-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,15 +13,15 @@ public sealed class ChannelObject : LineGroupObjectBaseEx
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CalcPoint`](#test) | *Описание* |
-| [`ChannelObject`](#test) | *Описание* |
-| [`CopyTemplate`](#test) | *Описание* |
+| [`CalcPoint`](#CalcPoint-m) | *Описание* |
+| [`ChannelObject`](#ChannelObject-m) | *Описание* |
+| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`MiddleLine`](./ChannelObject.cs/Свойства/MiddleLine.md) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](./ChannelObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`MiddleLine`](#MiddleLine-p) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public sealed class ChannelObject : LineGroupObjectBaseEx
 ***  
 # Методы
 
-## `CalcPoint`<a href="test" id="test"></a>
+## `CalcPoint`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ protected override void CalcPoint()
 
 ***  
 
-## `ChannelObject`<a href="test" id="test"></a>
+## `ChannelObject`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public ChannelObject()
 
 ***  
 
-## `CopyTemplate`<a href="test" id="test"></a>
+## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
  ***  
 # Свойства
 
-## `MiddleLine`
+## `MiddleLine`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -76,7 +76,7 @@ public bool MiddleLine { get; set; }
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`
+## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

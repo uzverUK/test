@@ -13,14 +13,14 @@ public sealed class BarsRequest
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`BarsRequest`](#test) | *Описание* |
+| [`BarsRequest`](#BarsRequest-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`RequestID`](./BarsRequest.cs/Свойства/RequestID.md) | *Описание* |
-| [`Symbol`](./BarsRequest.cs/Свойства/Symbol.md) | *Описание* |
-| [`TargetID`](./BarsRequest.cs/Свойства/TargetID.md) | *Описание* |
+| [`RequestID`](#RequestID-p) | *Описание* |
+| [`Symbol`](#Symbol-p) | *Описание* |
+| [`TargetID`](#TargetID-p) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class BarsRequest
 ***  
 # Методы
 
-## `BarsRequest`<a href="test" id="test"></a>
+## `BarsRequest`<a href="BarsRequest-m" id="BarsRequest-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public BarsRequest(Symbol symbol, string requestID, string targetID)
  ***  
 # Свойства
 
-## `RequestID`
+## `RequestID`<a href="TargetID-p" id="TargetID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public string RequestID { get; set; }
 ```  
 ***
 
-## `Symbol`
+## `Symbol`<a href="TargetID-p" id="TargetID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public Symbol Symbol { get; set; }
 ```  
 ***
 
-## `TargetID`
+## `TargetID`<a href="TargetID-p" id="TargetID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

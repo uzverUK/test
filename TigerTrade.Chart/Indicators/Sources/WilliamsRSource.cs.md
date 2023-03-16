@@ -13,16 +13,16 @@ public sealed class WilliamsRSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](#test) | *Описание* |
-| [`GetSeries`](#test) | *Описание* |
-| [`GetSeriesList`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
-| [`WilliamsRSource`](#test) | *Описание* |
+| [`CopySettings`](#CopySettings-m) | *Описание* |
+| [`GetSeries`](#GetSeries-m) | *Описание* |
+| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
+| [`WilliamsRSource`](#WilliamsRSource-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Period`](./WilliamsRSource.cs/Свойства/Period.md) | *Описание* |
+| [`Period`](#Period-p) | *Описание* |
 
 
 
@@ -32,7 +32,7 @@ public sealed class WilliamsRSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="test" id="test"></a>
+## `CopySettings`<a href="WilliamsRSource-m" id="WilliamsRSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="test" id="test"></a>
+## `GetSeries`<a href="WilliamsRSource-m" id="WilliamsRSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="test" id="test"></a>
+## `GetSeriesList`<a href="WilliamsRSource-m" id="WilliamsRSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="WilliamsRSource-m" id="WilliamsRSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -78,7 +78,7 @@ public override string ToString()
 
 ***  
 
-## `WilliamsRSource`<a href="test" id="test"></a>
+## `WilliamsRSource`<a href="WilliamsRSource-m" id="WilliamsRSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -90,7 +90,7 @@ public WilliamsRSource()
  ***  
 # Свойства
 
-## `Period`
+## `Period`<a href="Period-p" id="Period-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

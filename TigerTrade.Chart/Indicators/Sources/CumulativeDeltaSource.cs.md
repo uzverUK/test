@@ -13,11 +13,11 @@ public sealed class CumulativeDeltaSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](#test) | *Описание* |
-| [`CumulativeDeltaSource`](#test) | *Описание* |
-| [`GetSeries`](#test) | *Описание* |
-| [`GetSeriesList`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
+| [`CopySettings`](#CopySettings-m) | *Описание* |
+| [`CumulativeDeltaSource`](#CumulativeDeltaSource-m) | *Описание* |
+| [`GetSeries`](#GetSeries-m) | *Описание* |
+| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
 
 
 
@@ -27,7 +27,7 @@ public sealed class CumulativeDeltaSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="test" id="test"></a>
+## `CopySettings`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `CumulativeDeltaSource`<a href="test" id="test"></a>
+## `CumulativeDeltaSource`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public CumulativeDeltaSource()
 
 ***  
 
-## `GetSeries`<a href="test" id="test"></a>
+## `GetSeries`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="test" id="test"></a>
+## `GetSeriesList`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

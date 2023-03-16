@@ -13,19 +13,19 @@ public sealed class StochasticSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](#test) | *Описание* |
-| [`GetSeries`](#test) | *Описание* |
-| [`GetSeriesList`](#test) | *Описание* |
-| [`StochasticSource`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
+| [`CopySettings`](#CopySettings-m) | *Описание* |
+| [`GetSeries`](#GetSeries-m) | *Описание* |
+| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
+| [`StochasticSource`](#StochasticSource-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`FastK`](./StochasticSource.cs/Свойства/FastK.md) | *Описание* |
-| [`SlowD`](./StochasticSource.cs/Свойства/SlowD.md) | *Описание* |
-| [`SlowDMaType`](./StochasticSource.cs/Свойства/SlowDMaType.md) | *Описание* |
-| [`Smooth`](./StochasticSource.cs/Свойства/Smooth.md) | *Описание* |
+| [`FastK`](#FastK-p) | *Описание* |
+| [`SlowD`](#SlowD-p) | *Описание* |
+| [`SlowDMaType`](#SlowDMaType-p) | *Описание* |
+| [`Smooth`](#Smooth-p) | *Описание* |
 
 
 
@@ -35,7 +35,7 @@ public sealed class StochasticSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="test" id="test"></a>
+## `CopySettings`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="test" id="test"></a>
+## `GetSeries`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="test" id="test"></a>
+## `GetSeriesList`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `StochasticSource`<a href="test" id="test"></a>
+## `StochasticSource`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public StochasticSource()
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `FastK`
+## `FastK`<a href="Smooth-p" id="Smooth-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public int FastK { get; set; }
 ```  
 ***
 
-## `SlowD`
+## `SlowD`<a href="Smooth-p" id="Smooth-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ public int SlowD { get; set; }
 ```  
 ***
 
-## `SlowDMaType`
+## `SlowDMaType`<a href="Smooth-p" id="Smooth-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -117,7 +117,7 @@ public IndicatorMaType SlowDMaType { get; set; }
 ```  
 ***
 
-## `Smooth`
+## `Smooth`<a href="Smooth-p" id="Smooth-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

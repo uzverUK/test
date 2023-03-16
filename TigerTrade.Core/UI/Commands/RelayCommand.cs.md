@@ -13,14 +13,14 @@ public sealed class RelayCommand : ICommand
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CanExecute`](#test) | *Описание* |
-| [`Execute`](#test) | *Описание* |
-| [`RelayCommand`](#test) | *Описание* |
+| [`CanExecute`](#CanExecute-m) | *Описание* |
+| [`Execute`](#Execute-m) | *Описание* |
+| [`RelayCommand`](#RelayCommand-m) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`CanExecuteChanged`](./RelayCommand.cs/События/CanExecuteChanged.md) | *Описание* |
+| [`CanExecuteChanged`](#CanExecuteChanged-p) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class RelayCommand : ICommand
 ***  
 # Методы
 
-## `CanExecute`<a href="test" id="test"></a>
+## `CanExecute`<a href="RelayCommand-m" id="RelayCommand-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public bool CanExecute(object parameter)
 
 ***  
 
-## `Execute`<a href="test" id="test"></a>
+## `Execute`<a href="RelayCommand-m" id="RelayCommand-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public void Execute(object parameter)
 
 ***  
 
-## `RelayCommand`<a href="test" id="test"></a>
+## `RelayCommand`<a href="RelayCommand-m" id="RelayCommand-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public RelayCommand(Action<object> execute)
 
 ***  
 
-## `RelayCommand`<a href="test" id="test"></a>
+## `RelayCommand`<a href="RelayCommand-m" id="RelayCommand-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public RelayCommand(Action<object> execute, Predicate<object> canExecute)
  ***  
 # События
 
-## `CanExecuteChanged`
+## `CanExecuteChanged`<a href="CanExecuteChanged-p" id="CanExecuteChanged-p"></a>
 Описание
 
 ```csharp

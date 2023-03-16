@@ -13,25 +13,25 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CloneSource`](#test) | *Описание* |
-| [`CopySettings`](#test) | *Описание* |
-| [`GetSeries`](#test) | *Описание* |
-| [`GetSeriesList`](#test) | *Описание* |
-| [`IndicatorSourceBase`](#test) | *Описание* |
-| [`OnPropertyChanged`](#test) | *Описание* |
-| [`SetSources`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
+| [`CloneSource`](#CloneSource-m) | *Описание* |
+| [`CopySettings`](#CopySettings-m) | *Описание* |
+| [`GetSeries`](#GetSeries-m) | *Описание* |
+| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
+| [`IndicatorSourceBase`](#IndicatorSourceBase-m) | *Описание* |
+| [`OnPropertyChanged`](#OnPropertyChanged-m) | *Описание* |
+| [`SetSources`](#SetSources-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Name`](./IndicatorSourceBase.cs/Свойства/Name.md) | *Описание* |
-| [`SelectedSeries`](./IndicatorSourceBase.cs/Свойства/SelectedSeries.md) | *Описание* |
+| [`Name`](#Name-p) | *Описание* |
+| [`SelectedSeries`](#SelectedSeries-p) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./IndicatorSourceBase.cs/События/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](#PropertyChanged-p) | *Описание* |
 
 
 
@@ -41,7 +41,7 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 ***  
 # Методы
 
-## `CloneSource`<a href="test" id="test"></a>
+## `CloneSource`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public IndicatorSourceBase CloneSource()
 
 ***  
 
-## `CopySettings`<a href="test" id="test"></a>
+## `CopySettings`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public abstract void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="test" id="test"></a>
+## `GetSeries`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -75,7 +75,7 @@ public abstract double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="test" id="test"></a>
+## `GetSeriesList`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -84,7 +84,7 @@ public abstract IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `IndicatorSourceBase`<a href="test" id="test"></a>
+## `IndicatorSourceBase`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ protected IndicatorSourceBase()
 
 ***  
 
-## `OnPropertyChanged`<a href="test" id="test"></a>
+## `OnPropertyChanged`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ protected virtual void OnPropertyChanged([CallerMemberName] string propertyName 
 
 ***  
 
-## `SetSources`<a href="test" id="test"></a>
+## `SetSources`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public static void SetSources(List<Type> sources)
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -127,7 +127,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Name`
+## `Name`<a href="SelectedSeries-p" id="SelectedSeries-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -135,7 +135,7 @@ public string Name { get; }
 ```  
 ***
 
-## `SelectedSeries`
+## `SelectedSeries`<a href="SelectedSeries-p" id="SelectedSeries-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -146,7 +146,7 @@ public string SelectedSeries { get; set; }
  ***  
 # События
 
-## `PropertyChanged`
+## `PropertyChanged`<a href="PropertyChanged-p" id="PropertyChanged-p"></a>
 Описание
 
 ```csharp

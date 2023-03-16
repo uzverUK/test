@@ -13,15 +13,15 @@ public sealed class TicksRequest
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`TicksRequest`](#test) | *Описание* |
+| [`TicksRequest`](#TicksRequest-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`CustomData`](./TicksRequest.cs/Свойства/CustomData.md) | *Описание* |
-| [`RequestID`](./TicksRequest.cs/Свойства/RequestID.md) | *Описание* |
-| [`Symbol`](./TicksRequest.cs/Свойства/Symbol.md) | *Описание* |
-| [`TargetID`](./TicksRequest.cs/Свойства/TargetID.md) | *Описание* |
+| [`CustomData`](#CustomData-p) | *Описание* |
+| [`RequestID`](#RequestID-p) | *Описание* |
+| [`Symbol`](#Symbol-p) | *Описание* |
+| [`TargetID`](#TargetID-p) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public sealed class TicksRequest
 ***  
 # Методы
 
-## `TicksRequest`<a href="test" id="test"></a>
+## `TicksRequest`<a href="TicksRequest-m" id="TicksRequest-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public TicksRequest(Symbol symbol, string requestID, string targetID, bool custo
  ***  
 # Свойства
 
-## `CustomData`
+## `CustomData`<a href="TargetID-p" id="TargetID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public bool CustomData { get; set; }
 ```  
 ***
 
-## `RequestID`
+## `RequestID`<a href="TargetID-p" id="TargetID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public string RequestID { get; set; }
 ```  
 ***
 
-## `Symbol`
+## `Symbol`<a href="TargetID-p" id="TargetID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -80,7 +80,7 @@ public Symbol Symbol { get; set; }
 ```  
 ***
 
-## `TargetID`
+## `TargetID`<a href="TargetID-p" id="TargetID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

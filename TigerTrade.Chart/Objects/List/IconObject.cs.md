@@ -13,20 +13,20 @@ public class IconObject : ObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](#test) | *Описание* |
-| [`CopyTemplate`](#test) | *Описание* |
-| [`Draw`](#test) | *Описание* |
-| [`IconObject`](#test) | *Описание* |
-| [`InObject`](#test) | *Описание* |
+| [`ApplyTheme`](#ApplyTheme-m) | *Описание* |
+| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
+| [`Draw`](#Draw-m) | *Описание* |
+| [`IconObject`](#IconObject-m) | *Описание* |
+| [`InObject`](#InObject-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Brush`](./IconObject.cs/Свойства/Brush.md) | *Описание* |
-| [`Color`](./IconObject.cs/Свойства/Color.md) | *Описание* |
-| [`Icon`](./IconObject.cs/Свойства/Icon.md) | *Описание* |
-| [`Size`](./IconObject.cs/Свойства/Size.md) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](./IconObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`Brush`](#Brush-p) | *Описание* |
+| [`Color`](#Color-p) | *Описание* |
+| [`Icon`](#Icon-p) | *Описание* |
+| [`Size`](#Size-p) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
 
 
 
@@ -36,7 +36,7 @@ public class IconObject : ObjectBase
 ***  
 # Методы
 
-## `ApplyTheme`<a href="test" id="test"></a>
+## `ApplyTheme`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate`<a href="test" id="test"></a>
+## `CopyTemplate`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="test" id="test"></a>
+## `Draw`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `IconObject`<a href="test" id="test"></a>
+## `IconObject`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ public IconObject()
 
 ***  
 
-## `InObject`<a href="test" id="test"></a>
+## `InObject`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -107,7 +107,7 @@ protected override bool InObject(int x, int y)
  ***  
 # Свойства
 
-## `Brush`
+## `Brush`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ protected XBrush Brush { get; private set; }
 ```  
 ***
 
-## `Color`
+## `Color`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -123,7 +123,7 @@ public XColor Color { get; set; }
 ```  
 ***
 
-## `Icon`
+## `Icon`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -131,7 +131,7 @@ public string Icon { get; set; }
 ```  
 ***
 
-## `Size`
+## `Size`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -139,7 +139,7 @@ public int Size { get; set; }
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`
+## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

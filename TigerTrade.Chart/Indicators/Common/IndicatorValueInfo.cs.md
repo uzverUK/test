@@ -13,13 +13,13 @@ public sealed class IndicatorValueInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorValueInfo`](#test) | *Описание* |
+| [`IndicatorValueInfo`](#IndicatorValueInfo-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Brush`](./IndicatorValueInfo.cs/Свойства/Brush.md) | *Описание* |
-| [`Value`](./IndicatorValueInfo.cs/Свойства/Value.md) | *Описание* |
+| [`Brush`](#Brush-p) | *Описание* |
+| [`Value`](#Value-p) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ public sealed class IndicatorValueInfo
 ***  
 # Методы
 
-## `IndicatorValueInfo`<a href="test" id="test"></a>
+## `IndicatorValueInfo`<a href="IndicatorValueInfo-m" id="IndicatorValueInfo-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public IndicatorValueInfo(string value, XBrush brush)
 
 ***  
 
-## `IndicatorValueInfo`<a href="test" id="test"></a>
+## `IndicatorValueInfo`<a href="IndicatorValueInfo-m" id="IndicatorValueInfo-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public IndicatorValueInfo(string value, XColor color)
  ***  
 # Свойства
 
-## `Brush`
+## `Brush`<a href="Value-p" id="Value-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -76,7 +76,7 @@ public XBrush Brush { get; }
 ```  
 ***
 
-## `Value`
+## `Value`<a href="Value-p" id="Value-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

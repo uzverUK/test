@@ -13,18 +13,18 @@ public sealed class ChartAlertInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartAlertInfo`](#test) | *Описание* |
+| [`ChartAlertInfo`](#ChartAlertInfo-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Duration`](./ChartAlertInfo.cs/Свойства/Duration.md) | *Описание* |
-| [`Log`](./ChartAlertInfo.cs/Свойства/Log.md) | *Описание* |
-| [`Message`](./ChartAlertInfo.cs/Свойства/Message.md) | *Описание* |
-| [`SendEmail`](./ChartAlertInfo.cs/Свойства/SendEmail.md) | *Описание* |
-| [`SendTelegram`](./ChartAlertInfo.cs/Свойства/SendTelegram.md) | *Описание* |
-| [`ShowPopup`](./ChartAlertInfo.cs/Свойства/ShowPopup.md) | *Описание* |
-| [`Signal`](./ChartAlertInfo.cs/Свойства/Signal.md) | *Описание* |
+| [`Duration`](#Duration-p) | *Описание* |
+| [`Log`](#Log-p) | *Описание* |
+| [`Message`](#Message-p) | *Описание* |
+| [`SendEmail`](#SendEmail-p) | *Описание* |
+| [`SendTelegram`](#SendTelegram-p) | *Описание* |
+| [`ShowPopup`](#ShowPopup-p) | *Описание* |
+| [`Signal`](#Signal-p) | *Описание* |
 
 
 
@@ -34,7 +34,7 @@ public sealed class ChartAlertInfo
 ***  
 # Методы
 
-## `ChartAlertInfo`<a href="test" id="test"></a>
+## `ChartAlertInfo`<a href="ChartAlertInfo-m" id="ChartAlertInfo-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ public ChartAlertInfo(ChartAlertSettings settings, string message)
  ***  
 # Свойства
 
-## `Duration`
+## `Duration`<a href="Signal-p" id="Signal-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public int Duration { get; }
 ```  
 ***
 
-## `Log`
+## `Log`<a href="Signal-p" id="Signal-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public bool Log { get; }
 ```  
 ***
 
-## `Message`
+## `Message`<a href="Signal-p" id="Signal-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public string Message { get; }
 ```  
 ***
 
-## `SendEmail`
+## `SendEmail`<a href="Signal-p" id="Signal-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public bool SendEmail { get; }
 ```  
 ***
 
-## `SendTelegram`
+## `SendTelegram`<a href="Signal-p" id="Signal-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public bool SendTelegram { get; }
 ```  
 ***
 
-## `ShowPopup`
+## `ShowPopup`<a href="Signal-p" id="Signal-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public bool ShowPopup { get; }
 ```  
 ***
 
-## `Signal`
+## `Signal`<a href="Signal-p" id="Signal-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

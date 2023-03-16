@@ -13,8 +13,8 @@ public sealed class IndicatorDecimalParam : IndicatorParam<Decimal>
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorDecimalParam`](#test) | *Описание* |
-| [`Set`](#test) | *Описание* |
+| [`IndicatorDecimalParam`](#IndicatorDecimalParam-m) | *Описание* |
+| [`Set`](#Set-m) | *Описание* |
 
 
 
@@ -24,7 +24,7 @@ public sealed class IndicatorDecimalParam : IndicatorParam<Decimal>
 ***  
 # Методы
 
-## `IndicatorDecimalParam`<a href="test" id="test"></a>
+## `IndicatorDecimalParam`<a href="Set-m" id="Set-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -33,7 +33,7 @@ public IndicatorDecimalParam()
 
 ***  
 
-## `IndicatorDecimalParam`<a href="test" id="test"></a>
+## `IndicatorDecimalParam`<a href="Set-m" id="Set-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public IndicatorDecimalParam(Decimal value)
 
 ***  
 
-## `Set`<a href="test" id="test"></a>
+## `Set`<a href="Set-m" id="Set-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

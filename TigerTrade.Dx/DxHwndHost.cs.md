@@ -13,27 +13,27 @@ public sealed class DxHwndHost : DxHwndHostBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Dispose`](#test) | *Описание* |
-| [`DxHwndHost`](#test) | *Описание* |
-| [`InvalidateSecondVisual`](#test) | *Описание* |
-| [`InvalidateVisual`](#test) | *Описание* |
-| [`OnPaintBackground`](#test) | *Описание* |
-| [`OnRenderSizeChanged`](#test) | *Описание* |
-| [`Render`](#test) | *Описание* |
-| [`StartTimer`](#test) | *Описание* |
+| [`Dispose`](#Dispose-m) | *Описание* |
+| [`DxHwndHost`](#DxHwndHost-m) | *Описание* |
+| [`InvalidateSecondVisual`](#InvalidateSecondVisual-m) | *Описание* |
+| [`InvalidateVisual`](#InvalidateVisual-m) | *Описание* |
+| [`OnPaintBackground`](#OnPaintBackground-m) | *Описание* |
+| [`OnRenderSizeChanged`](#OnRenderSizeChanged-m) | *Описание* |
+| [`Render`](#Render-m) | *Описание* |
+| [`StartTimer`](#StartTimer-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`ClientRect`](./DxHwndHost.cs/Свойства/ClientRect.md) | *Описание* |
-| [`IsDisposed`](./DxHwndHost.cs/Свойства/IsDisposed.md) | *Описание* |
-| [`WaitRedraw`](./DxHwndHost.cs/Свойства/WaitRedraw.md) | *Описание* |
+| [`ClientRect`](#ClientRect-p) | *Описание* |
+| [`IsDisposed`](#IsDisposed-p) | *Описание* |
+| [`WaitRedraw`](#WaitRedraw-p) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`OnRenderVisual;`](./DxHwndHost.cs/События/OnRenderVisual;.md) | *Описание* |
-| [`OnTimerTick`](./DxHwndHost.cs/События/OnTimerTick.md) | *Описание* |
+| [`OnRenderVisual;`](#OnRenderVisual;-p) | *Описание* |
+| [`OnTimerTick`](#OnTimerTick-p) | *Описание* |
 
 
 
@@ -43,7 +43,7 @@ public sealed class DxHwndHost : DxHwndHostBase
 ***  
 # Методы
 
-## `Dispose`<a href="test" id="test"></a>
+## `Dispose`<a href="StartTimer-m" id="StartTimer-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ protected override void Dispose(bool disposing)
 
 ***  
 
-## `DxHwndHost`<a href="test" id="test"></a>
+## `DxHwndHost`<a href="StartTimer-m" id="StartTimer-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ public DxHwndHost()
 
 ***  
 
-## `InvalidateSecondVisual`<a href="test" id="test"></a>
+## `InvalidateSecondVisual`<a href="StartTimer-m" id="StartTimer-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public void InvalidateSecondVisual()
 
 ***  
 
-## `InvalidateVisual`<a href="test" id="test"></a>
+## `InvalidateVisual`<a href="StartTimer-m" id="StartTimer-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ public void InvalidateVisual(bool full = false)
 
 ***  
 
-## `OnPaintBackground`<a href="test" id="test"></a>
+## `OnPaintBackground`<a href="StartTimer-m" id="StartTimer-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -96,7 +96,7 @@ protected override void OnPaintBackground()
 
 ***  
 
-## `OnRenderSizeChanged`<a href="test" id="test"></a>
+## `OnRenderSizeChanged`<a href="StartTimer-m" id="StartTimer-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ protected override void OnRenderSizeChanged(SizeChangedInfo sizeInfo)
 
 ***  
 
-## `Render`<a href="test" id="test"></a>
+## `Render`<a href="StartTimer-m" id="StartTimer-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -124,7 +124,7 @@ public void Render(DxVisualQueue queue1, DxVisualQueue queue2)
 
 ***  
 
-## `StartTimer`<a href="test" id="test"></a>
+## `StartTimer`<a href="StartTimer-m" id="StartTimer-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -142,7 +142,7 @@ public void StartTimer(int interval)
  ***  
 # Свойства
 
-## `ClientRect`
+## `ClientRect`<a href="WaitRedraw-p" id="WaitRedraw-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -150,7 +150,7 @@ public Rect ClientRect { get; private set; }
 ```  
 ***
 
-## `IsDisposed`
+## `IsDisposed`<a href="WaitRedraw-p" id="WaitRedraw-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -158,7 +158,7 @@ public bool IsDisposed { get; private set; }
 ```  
 ***
 
-## `WaitRedraw`
+## `WaitRedraw`<a href="WaitRedraw-p" id="WaitRedraw-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -169,14 +169,14 @@ public bool WaitRedraw { get; set; }
  ***  
 # События
 
-## `OnRenderVisual;`
+## `OnRenderVisual;`<a href="OnTimerTick-p" id="OnTimerTick-p"></a>
 Описание
 
 ```csharp
 public event Action<bool> OnRenderVisual;
 ```
 
-## `OnTimerTick`
+## `OnTimerTick`<a href="OnTimerTick-p" id="OnTimerTick-p"></a>
 Описание
 
 ```csharp

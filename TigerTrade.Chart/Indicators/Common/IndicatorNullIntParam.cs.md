@@ -13,8 +13,8 @@ public sealed class IndicatorNullIntParam : IndicatorParam<int?>
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorNullIntParam`](#test) | *Описание* |
-| [`Set`](#test) | *Описание* |
+| [`IndicatorNullIntParam`](#IndicatorNullIntParam-m) | *Описание* |
+| [`Set`](#Set-m) | *Описание* |
 
 
 
@@ -24,7 +24,7 @@ public sealed class IndicatorNullIntParam : IndicatorParam<int?>
 ***  
 # Методы
 
-## `IndicatorNullIntParam`<a href="test" id="test"></a>
+## `IndicatorNullIntParam`<a href="Set-m" id="Set-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -33,7 +33,7 @@ public IndicatorNullIntParam()
 
 ***  
 
-## `IndicatorNullIntParam`<a href="test" id="test"></a>
+## `IndicatorNullIntParam`<a href="Set-m" id="Set-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public IndicatorNullIntParam(int? value)
 
 ***  
 
-## `Set`<a href="test" id="test"></a>
+## `Set`<a href="Set-m" id="Set-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

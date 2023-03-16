@@ -13,21 +13,21 @@ public sealed class ChartClusterMaxValues : IChartClusterMaxValues
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartClusterMaxValues`](#test) | *Описание* |
-| [`Update`](#test) | *Описание* |
+| [`ChartClusterMaxValues`](#ChartClusterMaxValues-m) | *Описание* |
+| [`Update`](#Update-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`MaxAsk`](./ChartClusterMaxValues.cs/Свойства/MaxAsk.md) | *Описание* |
-| [`MaxBid`](./ChartClusterMaxValues.cs/Свойства/MaxBid.md) | *Описание* |
-| [`MaxDelta`](./ChartClusterMaxValues.cs/Свойства/MaxDelta.md) | *Описание* |
-| [`MaxOpenPos`](./ChartClusterMaxValues.cs/Свойства/MaxOpenPos.md) | *Описание* |
-| [`MaxTrades`](./ChartClusterMaxValues.cs/Свойства/MaxTrades.md) | *Описание* |
-| [`MaxVolume`](./ChartClusterMaxValues.cs/Свойства/MaxVolume.md) | *Описание* |
-| [`MinDelta`](./ChartClusterMaxValues.cs/Свойства/MinDelta.md) | *Описание* |
-| [`MinOpenPos`](./ChartClusterMaxValues.cs/Свойства/MinOpenPos.md) | *Описание* |
-| [`Poc`](./ChartClusterMaxValues.cs/Свойства/Poc.md) | *Описание* |
+| [`MaxAsk`](#MaxAsk-p) | *Описание* |
+| [`MaxBid`](#MaxBid-p) | *Описание* |
+| [`MaxDelta`](#MaxDelta-p) | *Описание* |
+| [`MaxOpenPos`](#MaxOpenPos-p) | *Описание* |
+| [`MaxTrades`](#MaxTrades-p) | *Описание* |
+| [`MaxVolume`](#MaxVolume-p) | *Описание* |
+| [`MinDelta`](#MinDelta-p) | *Описание* |
+| [`MinOpenPos`](#MinOpenPos-p) | *Описание* |
+| [`Poc`](#Poc-p) | *Описание* |
 
 
 
@@ -37,7 +37,7 @@ public sealed class ChartClusterMaxValues : IChartClusterMaxValues
 ***  
 # Методы
 
-## `ChartClusterMaxValues`<a href="test" id="test"></a>
+## `ChartClusterMaxValues`<a href="Update-m" id="Update-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -46,7 +46,7 @@ public ChartClusterMaxValues()
 
 ***  
 
-## `Update`<a href="test" id="test"></a>
+## `Update`<a href="Update-m" id="Update-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public void Update(Dictionary<Decimal, ChartClusterItem> items)
  ***  
 # Свойства
 
-## `MaxAsk`
+## `MaxAsk`<a href="Poc-p" id="Poc-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -66,7 +66,7 @@ public Decimal MaxAsk { get; private set; }
 ```  
 ***
 
-## `MaxBid`
+## `MaxBid`<a href="Poc-p" id="Poc-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public Decimal MaxBid { get; private set; }
 ```  
 ***
 
-## `MaxDelta`
+## `MaxDelta`<a href="Poc-p" id="Poc-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -82,7 +82,7 @@ public Decimal MaxDelta { get; private set; }
 ```  
 ***
 
-## `MaxOpenPos`
+## `MaxOpenPos`<a href="Poc-p" id="Poc-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -90,7 +90,7 @@ public long MaxOpenPos { get; private set; }
 ```  
 ***
 
-## `MaxTrades`
+## `MaxTrades`<a href="Poc-p" id="Poc-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -98,7 +98,7 @@ public int MaxTrades { get; private set; }
 ```  
 ***
 
-## `MaxVolume`
+## `MaxVolume`<a href="Poc-p" id="Poc-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ public Decimal MaxVolume { get; private set; }
 ```  
 ***
 
-## `MinDelta`
+## `MinDelta`<a href="Poc-p" id="Poc-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -114,7 +114,7 @@ public Decimal MinDelta { get; private set; }
 ```  
 ***
 
-## `MinOpenPos`
+## `MinOpenPos`<a href="Poc-p" id="Poc-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -122,7 +122,7 @@ public long MinOpenPos { get; private set; }
 ```  
 ***
 
-## `Poc`
+## `Poc`<a href="Poc-p" id="Poc-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

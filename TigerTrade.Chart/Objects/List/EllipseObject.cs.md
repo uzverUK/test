@@ -13,15 +13,15 @@ public sealed class EllipseObject : PolygonObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Draw`](#test) | *Описание* |
-| [`EllipseObject`](#test) | *Описание* |
-| [`GetMinDist`](#test) | *Описание* |
-| [`InObject`](#test) | *Описание* |
+| [`Draw`](#Draw-m) | *Описание* |
+| [`EllipseObject`](#EllipseObject-m) | *Описание* |
+| [`GetMinDist`](#GetMinDist-m) | *Описание* |
+| [`InObject`](#InObject-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`xsuJlZ3bylFkXacpNF53`](./EllipseObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public sealed class EllipseObject : PolygonObjectBase
 ***  
 # Методы
 
-## `Draw`<a href="test" id="test"></a>
+## `Draw`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `EllipseObject`<a href="test" id="test"></a>
+## `EllipseObject`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public EllipseObject()
 
 ***  
 
-## `GetMinDist`<a href="test" id="test"></a>
+## `GetMinDist`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ protected override int GetMinDist(int x, int y)
 
 ***  
 
-## `InObject`<a href="test" id="test"></a>
+## `InObject`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -84,7 +84,7 @@ protected override bool InObject(int x, int y)
  ***  
 # Свойства
 
-## `xsuJlZ3bylFkXacpNF53`
+## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

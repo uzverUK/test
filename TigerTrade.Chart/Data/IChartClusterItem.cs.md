@@ -13,17 +13,17 @@ public interface IChartClusterItem
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Ask`](./IChartClusterItem.cs/Свойства/Ask.md) | *Описание* |
-| [`AskTrades`](./IChartClusterItem.cs/Свойства/AskTrades.md) | *Описание* |
-| [`Bid`](./IChartClusterItem.cs/Свойства/Bid.md) | *Описание* |
-| [`BidTrades`](./IChartClusterItem.cs/Свойства/BidTrades.md) | *Описание* |
-| [`Delta`](./IChartClusterItem.cs/Свойства/Delta.md) | *Описание* |
-| [`OpenPos`](./IChartClusterItem.cs/Свойства/OpenPos.md) | *Описание* |
-| [`OpenPosAsk`](./IChartClusterItem.cs/Свойства/OpenPosAsk.md) | *Описание* |
-| [`OpenPosBid`](./IChartClusterItem.cs/Свойства/OpenPosBid.md) | *Описание* |
-| [`Price`](./IChartClusterItem.cs/Свойства/Price.md) | *Описание* |
-| [`Trades`](./IChartClusterItem.cs/Свойства/Trades.md) | *Описание* |
-| [`Volume`](./IChartClusterItem.cs/Свойства/Volume.md) | *Описание* |
+| [`Ask`](#Ask-p) | *Описание* |
+| [`AskTrades`](#AskTrades-p) | *Описание* |
+| [`Bid`](#Bid-p) | *Описание* |
+| [`BidTrades`](#BidTrades-p) | *Описание* |
+| [`Delta`](#Delta-p) | *Описание* |
+| [`OpenPos`](#OpenPos-p) | *Описание* |
+| [`OpenPosAsk`](#OpenPosAsk-p) | *Описание* |
+| [`OpenPosBid`](#OpenPosBid-p) | *Описание* |
+| [`Price`](#Price-p) | *Описание* |
+| [`Trades`](#Trades-p) | *Описание* |
+| [`Volume`](#Volume-p) | *Описание* |
 
 
 
@@ -32,7 +32,7 @@ public interface IChartClusterItem
  ***  
 # Свойства
 
-## `Ask`
+## `Ask`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ Decimal Ask { get; }
 ```  
 ***
 
-## `AskTrades`
+## `AskTrades`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ int AskTrades { get; }
 ```  
 ***
 
-## `Bid`
+## `Bid`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ Decimal Bid { get; }
 ```  
 ***
 
-## `BidTrades`
+## `BidTrades`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ int BidTrades { get; }
 ```  
 ***
 
-## `Delta`
+## `Delta`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ Decimal Delta { get; }
 ```  
 ***
 
-## `OpenPos`
+## `OpenPos`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -80,7 +80,7 @@ long OpenPos { get; }
 ```  
 ***
 
-## `OpenPosAsk`
+## `OpenPosAsk`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ long OpenPosAsk { get; }
 ```  
 ***
 
-## `OpenPosBid`
+## `OpenPosBid`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -96,7 +96,7 @@ long OpenPosBid { get; }
 ```  
 ***
 
-## `Price`
+## `Price`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -104,7 +104,7 @@ Decimal Price { get; }
 ```  
 ***
 
-## `Trades`
+## `Trades`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -112,7 +112,7 @@ int Trades { get; }
 ```  
 ***
 
-## `Volume`
+## `Volume`<a href="Volume-p" id="Volume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

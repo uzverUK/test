@@ -13,7 +13,7 @@ public sealed class DisplayNameLocalizedAttribute : DisplayNameAttribute
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`DisplayNameLocalizedAttribute`](#test) | *Описание* |
+| [`DisplayNameLocalizedAttribute`](#DisplayNameLocalizedAttribute-m) | *Описание* |
 
 
 
@@ -23,7 +23,7 @@ public sealed class DisplayNameLocalizedAttribute : DisplayNameAttribute
 ***  
 # Методы
 
-## `DisplayNameLocalizedAttribute`<a href="test" id="test"></a>
+## `DisplayNameLocalizedAttribute`<a href="DisplayNameLocalizedAttribute-m" id="DisplayNameLocalizedAttribute-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

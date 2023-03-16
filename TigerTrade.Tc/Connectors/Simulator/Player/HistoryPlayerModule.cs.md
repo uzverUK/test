@@ -13,27 +13,27 @@ public static class HistoryPlayerModule
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Clear`](#test) | *Описание* |
-| [`GetState`](#test) | *Описание* |
-| [`GetStats`](#test) | *Описание* |
-| [`Init`](#test) | *Описание* |
-| [`Pause`](#test) | *Описание* |
-| [`Play`](#test) | *Описание* |
-| [`SetSpeed`](#test) | *Описание* |
-| [`Skip`](#test) | *Описание* |
-| [`SkipTo`](#test) | *Описание* |
-| [`Stop`](#test) | *Описание* |
+| [`Clear`](#Clear-m) | *Описание* |
+| [`GetState`](#GetState-m) | *Описание* |
+| [`GetStats`](#GetStats-m) | *Описание* |
+| [`Init`](#Init-m) | *Описание* |
+| [`Pause`](#Pause-m) | *Описание* |
+| [`Play`](#Play-m) | *Описание* |
+| [`SetSpeed`](#SetSpeed-m) | *Описание* |
+| [`Skip`](#Skip-m) | *Описание* |
+| [`SkipTo`](#SkipTo-m) | *Описание* |
+| [`Stop`](#Stop-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`RecordDate`](./HistoryPlayerModule.cs/Свойства/RecordDate.md) | *Описание* |
+| [`RecordDate`](#RecordDate-p) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`StateChanged;`](./HistoryPlayerModule.cs/События/StateChanged;.md) | *Описание* |
-| [`StatsChanged;`](./HistoryPlayerModule.cs/События/StatsChanged;.md) | *Описание* |
+| [`StateChanged;`](#StateChanged;-p) | *Описание* |
+| [`StatsChanged;`](#StatsChanged;-p) | *Описание* |
 
 
 
@@ -43,7 +43,7 @@ public static class HistoryPlayerModule
 ***  
 # Методы
 
-## `Clear`<a href="test" id="test"></a>
+## `Clear`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public static void Clear()
 
 ***  
 
-## `GetState`<a href="test" id="test"></a>
+## `GetState`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public static HistoryPlayerState GetState()
 
 ***  
 
-## `GetStats`<a href="test" id="test"></a>
+## `GetStats`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public static List<HistoryPlayerStats> GetStats()
 
 ***  
 
-## `Init`<a href="test" id="test"></a>
+## `Init`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public static void Init(DateTime date, string[] files)
 
 ***  
 
-## `Init`<a href="test" id="test"></a>
+## `Init`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public static void Init(DateTime date, List<Tuple<Symbol, byte[]>> records)
 
 ***  
 
-## `Pause`<a href="test" id="test"></a>
+## `Pause`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ public static void Pause()
 
 ***  
 
-## `Play`<a href="test" id="test"></a>
+## `Play`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public static void Play()
 
 ***  
 
-## `SetSpeed`<a href="test" id="test"></a>
+## `SetSpeed`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -128,7 +128,7 @@ public static void SetSpeed(int speed)
 
 ***  
 
-## `Skip`<a href="test" id="test"></a>
+## `Skip`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -140,7 +140,7 @@ public static void Skip(int seconds)
 
 ***  
 
-## `SkipTo`<a href="test" id="test"></a>
+## `SkipTo`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -152,7 +152,7 @@ public static void SkipTo(TimeSpan time)
 
 ***  
 
-## `Stop`<a href="test" id="test"></a>
+## `Stop`<a href="Stop-m" id="Stop-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -164,7 +164,7 @@ public static void Stop()
  ***  
 # Свойства
 
-## `RecordDate`
+## `RecordDate`<a href="RecordDate-p" id="RecordDate-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -175,14 +175,14 @@ public static DateTime RecordDate { get; private set; }
  ***  
 # События
 
-## `StateChanged;`
+## `StateChanged;`<a href="StatsChanged;-p" id="StatsChanged;-p"></a>
 Описание
 
 ```csharp
 public static event Action<HistoryPlayerState> StateChanged;
 ```
 
-## `StatsChanged;`
+## `StatsChanged;`<a href="StatsChanged;-p" id="StatsChanged;-p"></a>
 Описание
 
 ```csharp

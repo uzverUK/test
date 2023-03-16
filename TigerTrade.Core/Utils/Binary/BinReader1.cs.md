@@ -13,27 +13,27 @@ public abstract class BinReader<T> : IDisposable
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`BinReader`](#test) | *Описание* |
-| [`Dispose`](#test) | *Описание* |
-| [`Read`](#test) | *Описание* |
-| [`ReadBool`](#test) | *Описание* |
-| [`ReadByte`](#test) | *Описание* |
-| [`ReadDouble`](#test) | *Описание* |
-| [`ReadInt32`](#test) | *Описание* |
-| [`ReadItem`](#test) | *Описание* |
-| [`ReadLeb128`](#test) | *Описание* |
-| [`ReadLong`](#test) | *Описание* |
-| [`ReadString`](#test) | *Описание* |
-| [`ReadStringAsBytes`](#test) | *Описание* |
-| [`ReadUInt16`](#test) | *Описание* |
-| [`Reset`](#test) | *Описание* |
+| [`BinReader`](#BinReader-m) | *Описание* |
+| [`Dispose`](#Dispose-m) | *Описание* |
+| [`Read`](#Read-m) | *Описание* |
+| [`ReadBool`](#ReadBool-m) | *Описание* |
+| [`ReadByte`](#ReadByte-m) | *Описание* |
+| [`ReadDouble`](#ReadDouble-m) | *Описание* |
+| [`ReadInt32`](#ReadInt32-m) | *Описание* |
+| [`ReadItem`](#ReadItem-m) | *Описание* |
+| [`ReadLeb128`](#ReadLeb128-m) | *Описание* |
+| [`ReadLong`](#ReadLong-m) | *Описание* |
+| [`ReadString`](#ReadString-m) | *Описание* |
+| [`ReadStringAsBytes`](#ReadStringAsBytes-m) | *Описание* |
+| [`ReadUInt16`](#ReadUInt16-m) | *Описание* |
+| [`Reset`](#Reset-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`IsEmpty`](./BinReader1.cs/Свойства/IsEmpty.md) | *Описание* |
-| [`LastItem`](./BinReader1.cs/Свойства/LastItem.md) | *Описание* |
-| [`PrevItem`](./BinReader1.cs/Свойства/PrevItem.md) | *Описание* |
+| [`IsEmpty`](#IsEmpty-p) | *Описание* |
+| [`LastItem`](#LastItem-p) | *Описание* |
+| [`PrevItem`](#PrevItem-p) | *Описание* |
 
 
 
@@ -43,7 +43,7 @@ public abstract class BinReader<T> : IDisposable
 ***  
 # Методы
 
-## `BinReader`<a href="test" id="test"></a>
+## `BinReader`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ protected BinReader(byte[] data)
 
 ***  
 
-## `Dispose`<a href="test" id="test"></a>
+## `Dispose`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public void Dispose()
 
 ***  
 
-## `Read`<a href="test" id="test"></a>
+## `Read`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public bool Read()
 
 ***  
 
-## `ReadBool`<a href="test" id="test"></a>
+## `ReadBool`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ protected bool ReadBool()
 
 ***  
 
-## `ReadByte`<a href="test" id="test"></a>
+## `ReadByte`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ protected byte ReadByte()
 
 ***  
 
-## `ReadDouble`<a href="test" id="test"></a>
+## `ReadDouble`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ protected double ReadDouble()
 
 ***  
 
-## `ReadInt32`<a href="test" id="test"></a>
+## `ReadInt32`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ protected int ReadInt32()
 
 ***  
 
-## `ReadItem`<a href="test" id="test"></a>
+## `ReadItem`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ protected abstract T ReadItem()
 
 ***  
 
-## `ReadLeb128`<a href="test" id="test"></a>
+## `ReadLeb128`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -124,7 +124,7 @@ protected long ReadLeb128()
 
 ***  
 
-## `ReadLong`<a href="test" id="test"></a>
+## `ReadLong`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -133,7 +133,7 @@ protected long ReadLong()
 
 ***  
 
-## `ReadString`<a href="test" id="test"></a>
+## `ReadString`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -142,7 +142,7 @@ protected string ReadString()
 
 ***  
 
-## `ReadStringAsBytes`<a href="test" id="test"></a>
+## `ReadStringAsBytes`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -151,7 +151,7 @@ protected byte[] ReadStringAsBytes()
 
 ***  
 
-## `ReadUInt16`<a href="test" id="test"></a>
+## `ReadUInt16`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -160,7 +160,7 @@ protected ushort ReadUInt16()
 
 ***  
 
-## `Reset`<a href="test" id="test"></a>
+## `Reset`<a href="Reset-m" id="Reset-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -172,7 +172,7 @@ public virtual void Reset()
  ***  
 # Свойства
 
-## `IsEmpty`
+## `IsEmpty`<a href="PrevItem-p" id="PrevItem-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -180,7 +180,7 @@ public bool IsEmpty { get; }
 ```  
 ***
 
-## `LastItem`
+## `LastItem`<a href="PrevItem-p" id="PrevItem-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -188,7 +188,7 @@ public T LastItem { get; private set; }
 ```  
 ***
 
-## `PrevItem`
+## `PrevItem`<a href="PrevItem-p" id="PrevItem-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

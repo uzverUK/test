@@ -13,18 +13,18 @@ public sealed class FibonacciFanObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](#test) | *Описание* |
-| [`CopyTemplate`](#test) | *Описание* |
-| [`Draw`](#test) | *Описание* |
-| [`FibonacciFanObject`](#test) | *Описание* |
-| [`InObject`](#test) | *Описание* |
+| [`ApplyTheme`](#ApplyTheme-m) | *Описание* |
+| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
+| [`Draw`](#Draw-m) | *Описание* |
+| [`FibonacciFanObject`](#FibonacciFanObject-m) | *Описание* |
+| [`InObject`](#InObject-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`CustomLevels`](./FibonacciFanObject.cs/Свойства/CustomLevels.md) | *Описание* |
-| [`Levels`](./FibonacciFanObject.cs/Свойства/Levels.md) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](./FibonacciFanObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`CustomLevels`](#CustomLevels-p) | *Описание* |
+| [`Levels`](#Levels-p) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
 
 
 
@@ -34,7 +34,7 @@ public sealed class FibonacciFanObject : LineObjectBase
 ***  
 # Методы
 
-## `ApplyTheme`<a href="test" id="test"></a>
+## `ApplyTheme`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate`<a href="test" id="test"></a>
+## `CopyTemplate`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="test" id="test"></a>
+## `Draw`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `FibonacciFanObject`<a href="test" id="test"></a>
+## `FibonacciFanObject`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -86,7 +86,7 @@ public FibonacciFanObject()
 
 ***  
 
-## `InObject`<a href="test" id="test"></a>
+## `InObject`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -105,7 +105,7 @@ protected override bool InObject(int x, int y)
  ***  
 # Свойства
 
-## `CustomLevels`
+## `CustomLevels`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public bool CustomLevels { get; set; }
 ```  
 ***
 
-## `Levels`
+## `Levels`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -121,7 +121,7 @@ public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`
+## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

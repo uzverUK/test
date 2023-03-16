@@ -13,13 +13,13 @@ public sealed class SelectFolderWindow : Window, IComponentConnector
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`InitializeComponent`](#test) | *Описание* |
-| [`SelectFolderWindow`](#test) | *Описание* |
+| [`InitializeComponent`](#InitializeComponent-m) | *Описание* |
+| [`SelectFolderWindow`](#SelectFolderWindow-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`SelectedFolder`](./SelectFolderWindow.cs/Свойства/SelectedFolder.md) | *Описание* |
+| [`SelectedFolder`](#SelectedFolder-p) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ public sealed class SelectFolderWindow : Window, IComponentConnector
 ***  
 # Методы
 
-## `InitializeComponent`<a href="test" id="test"></a>
+## `InitializeComponent`<a href="SelectFolderWindow-m" id="SelectFolderWindow-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -38,7 +38,7 @@ public void InitializeComponent()
 
 ***  
 
-## `SelectFolderWindow`<a href="test" id="test"></a>
+## `SelectFolderWindow`<a href="SelectFolderWindow-m" id="SelectFolderWindow-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public SelectFolderWindow()
  ***  
 # Свойства
 
-## `SelectedFolder`
+## `SelectedFolder`<a href="SelectedFolder-p" id="SelectedFolder-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

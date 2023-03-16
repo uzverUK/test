@@ -13,15 +13,15 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Add`](#test) | *Описание* |
-| [`Clear`](#test) | *Описание* |
-| [`GetEnumerator`](#test) | *Описание* |
-| [`IndicatorSeries`](#test) | *Описание* |
+| [`Add`](#Add-m) | *Описание* |
+| [`Clear`](#Clear-m) | *Описание* |
+| [`GetEnumerator`](#GetEnumerator-m) | *Описание* |
+| [`IndicatorSeries`](#IndicatorSeries-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Count`](./IndicatorSeries.cs/Свойства/Count.md) | *Описание* |
+| [`Count`](#Count-p) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 ***  
 # Методы
 
-## `Add`<a href="test" id="test"></a>
+## `Add`<a href="IndicatorSeries-m" id="IndicatorSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -44,7 +44,7 @@ public void Add(IndicatorSeriesData series)
 
 ***  
 
-## `Add`<a href="test" id="test"></a>
+## `Add`<a href="IndicatorSeries-m" id="IndicatorSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public void Add(IndicatorSeriesData series1, IndicatorSeriesData series2)
 
 ***  
 
-## `Add`<a href="test" id="test"></a>
+## `Add`<a href="IndicatorSeries-m" id="IndicatorSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ public void Add(params IndicatorSeriesData[] series)
 
 ***  
 
-## `Clear`<a href="test" id="test"></a>
+## `Clear`<a href="IndicatorSeries-m" id="IndicatorSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public void Clear()
 
 ***  
 
-## `GetEnumerator`<a href="test" id="test"></a>
+## `GetEnumerator`<a href="IndicatorSeries-m" id="IndicatorSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ public IEnumerator<IndicatorSeriesData> GetEnumerator()
 
 ***  
 
-## `IndicatorSeries`<a href="test" id="test"></a>
+## `IndicatorSeries`<a href="IndicatorSeries-m" id="IndicatorSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -118,7 +118,7 @@ public IndicatorSeries()
  ***  
 # Свойства
 
-## `Count`
+## `Count`<a href="Count-p" id="Count-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

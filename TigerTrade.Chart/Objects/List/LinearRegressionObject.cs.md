@@ -13,21 +13,21 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CalcPoint`](#test) | *Описание* |
-| [`CopyTemplate`](#test) | *Описание* |
-| [`Draw`](#test) | *Описание* |
-| [`LinearRegressionObject`](#test) | *Описание* |
+| [`CalcPoint`](#CalcPoint-m) | *Описание* |
+| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
+| [`Draw`](#Draw-m) | *Описание* |
+| [`LinearRegressionObject`](#LinearRegressionObject-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`CenterLine`](./LinearRegressionObject.cs/Свойства/CenterLine.md) | *Описание* |
-| [`DownLine`](./LinearRegressionObject.cs/Свойства/DownLine.md) | *Описание* |
-| [`Percentage`](./LinearRegressionObject.cs/Свойства/Percentage.md) | *Описание* |
-| [`RegressionType`](./LinearRegressionObject.cs/Свойства/RegressionType.md) | *Описание* |
-| [`ShowAuxLine`](./LinearRegressionObject.cs/Свойства/ShowAuxLine.md) | *Описание* |
-| [`UpLine`](./LinearRegressionObject.cs/Свойства/UpLine.md) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](./LinearRegressionObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`CenterLine`](#CenterLine-p) | *Описание* |
+| [`DownLine`](#DownLine-p) | *Описание* |
+| [`Percentage`](#Percentage-p) | *Описание* |
+| [`RegressionType`](#RegressionType-p) | *Описание* |
+| [`ShowAuxLine`](#ShowAuxLine-p) | *Описание* |
+| [`UpLine`](#UpLine-p) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
 
 
 
@@ -37,7 +37,7 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 ***  
 # Методы
 
-## `CalcPoint`<a href="test" id="test"></a>
+## `CalcPoint`<a href="LinearRegressionObject-m" id="LinearRegressionObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -46,7 +46,7 @@ protected override void CalcPoint()
 
 ***  
 
-## `CopyTemplate`<a href="test" id="test"></a>
+## `CopyTemplate`<a href="LinearRegressionObject-m" id="LinearRegressionObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="test" id="test"></a>
+## `Draw`<a href="LinearRegressionObject-m" id="LinearRegressionObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `LinearRegressionObject`<a href="test" id="test"></a>
+## `LinearRegressionObject`<a href="LinearRegressionObject-m" id="LinearRegressionObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -89,7 +89,7 @@ public LinearRegressionObject()
  ***  
 # Свойства
 
-## `CenterLine`
+## `CenterLine`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public bool CenterLine { get; set; }
 ```  
 ***
 
-## `DownLine`
+## `DownLine`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -105,7 +105,7 @@ public bool DownLine { get; set; }
 ```  
 ***
 
-## `Percentage`
+## `Percentage`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public double Percentage { get; set; }
 ```  
 ***
 
-## `RegressionType`
+## `RegressionType`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -121,7 +121,7 @@ public RegressionType RegressionType { get; set; }
 ```  
 ***
 
-## `ShowAuxLine`
+## `ShowAuxLine`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -129,7 +129,7 @@ public bool ShowAuxLine { get; set; }
 ```  
 ***
 
-## `UpLine`
+## `UpLine`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -137,7 +137,7 @@ public bool UpLine { get; set; }
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`
+## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

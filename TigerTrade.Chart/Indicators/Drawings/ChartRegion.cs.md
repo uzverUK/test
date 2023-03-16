@@ -13,20 +13,20 @@ public sealed class ChartRegion : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartRegion`](#test) | *Описание* |
-| [`CopyTheme`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
+| [`ChartRegion`](#ChartRegion-m) | *Описание* |
+| [`CopyTheme`](#CopyTheme-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Color`](./ChartRegion.cs/Свойства/Color.md) | *Описание* |
-| [`Visible`](./ChartRegion.cs/Свойства/Visible.md) | *Описание* |
+| [`Color`](#Color-p) | *Описание* |
+| [`Visible`](#Visible-p) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./ChartRegion.cs/События/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](#PropertyChanged-p) | *Описание* |
 
 
 
@@ -36,7 +36,7 @@ public sealed class ChartRegion : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ChartRegion`<a href="test" id="test"></a>
+## `ChartRegion`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public ChartRegion()
 
 ***  
 
-## `ChartRegion`<a href="test" id="test"></a>
+## `ChartRegion`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public ChartRegion(XColor color)
 
 ***  
 
-## `CopyTheme`<a href="test" id="test"></a>
+## `CopyTheme`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public void CopyTheme(ChartRegion chartRegion)
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Color`
+## `Color`<a href="Visible-p" id="Visible-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public XColor Color { get; set; }
 ```  
 ***
 
-## `Visible`
+## `Visible`<a href="Visible-p" id="Visible-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -102,7 +102,7 @@ public bool Visible { get; set; }
  ***  
 # События
 
-## `PropertyChanged`
+## `PropertyChanged`<a href="PropertyChanged-p" id="PropertyChanged-p"></a>
 Описание
 
 ```csharp

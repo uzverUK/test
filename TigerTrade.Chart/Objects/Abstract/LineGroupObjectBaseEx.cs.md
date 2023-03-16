@@ -13,15 +13,15 @@ public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopyTemplate`](#test) | *Описание* |
-| [`LineGroupObjectBaseEx`](#test) | *Описание* |
-| [`OpenStartEnd`](#test) | *Описание* |
+| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
+| [`LineGroupObjectBaseEx`](#LineGroupObjectBaseEx-m) | *Описание* |
+| [`OpenStartEnd`](#OpenStartEnd-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`OpenEnd`](./LineGroupObjectBaseEx.cs/Свойства/OpenEnd.md) | *Описание* |
-| [`OpenStart`](./LineGroupObjectBaseEx.cs/Свойства/OpenStart.md) | *Описание* |
+| [`OpenEnd`](#OpenEnd-p) | *Описание* |
+| [`OpenStart`](#OpenStart-p) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
 ***  
 # Методы
 
-## `CopyTemplate`<a href="test" id="test"></a>
+## `CopyTemplate`<a href="OpenStartEnd-m" id="OpenStartEnd-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `LineGroupObjectBaseEx`<a href="test" id="test"></a>
+## `LineGroupObjectBaseEx`<a href="OpenStartEnd-m" id="OpenStartEnd-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ protected LineGroupObjectBaseEx()
 
 ***  
 
-## `OpenStartEnd`<a href="test" id="test"></a>
+## `OpenStartEnd`<a href="OpenStartEnd-m" id="OpenStartEnd-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -75,7 +75,7 @@ protected void OpenStartEnd(bool openStart, bool openEnd)
  ***  
 # Свойства
 
-## `OpenEnd`
+## `OpenEnd`<a href="OpenStart-p" id="OpenStart-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public bool OpenEnd { get; set; }
 ```  
 ***
 
-## `OpenStart`
+## `OpenStart`<a href="OpenStart-p" id="OpenStart-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

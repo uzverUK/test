@@ -13,15 +13,15 @@ public sealed class HistoryPlayerStats
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`HistoryPlayerStats`](#test) | *Описание* |
+| [`HistoryPlayerStats`](#HistoryPlayerStats-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`CurrentTime`](./HistoryPlayerStats.cs/Свойства/CurrentTime.md) | *Описание* |
-| [`RecordDate`](./HistoryPlayerStats.cs/Свойства/RecordDate.md) | *Описание* |
-| [`SymbolID`](./HistoryPlayerStats.cs/Свойства/SymbolID.md) | *Описание* |
-| [`SymbolName`](./HistoryPlayerStats.cs/Свойства/SymbolName.md) | *Описание* |
+| [`CurrentTime`](#CurrentTime-p) | *Описание* |
+| [`RecordDate`](#RecordDate-p) | *Описание* |
+| [`SymbolID`](#SymbolID-p) | *Описание* |
+| [`SymbolName`](#SymbolName-p) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public sealed class HistoryPlayerStats
 ***  
 # Методы
 
-## `HistoryPlayerStats`<a href="test" id="test"></a>
+## `HistoryPlayerStats`<a href="HistoryPlayerStats-m" id="HistoryPlayerStats-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public HistoryPlayerStats()
  ***  
 # Свойства
 
-## `CurrentTime`
+## `CurrentTime`<a href="SymbolName-p" id="SymbolName-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ public DateTime CurrentTime { get; set; }
 ```  
 ***
 
-## `RecordDate`
+## `RecordDate`<a href="SymbolName-p" id="SymbolName-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public DateTime RecordDate { get; set; }
 ```  
 ***
 
-## `SymbolID`
+## `SymbolID`<a href="SymbolName-p" id="SymbolName-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public string SymbolID { get; set; }
 ```  
 ***
 
-## `SymbolName`
+## `SymbolName`<a href="SymbolName-p" id="SymbolName-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

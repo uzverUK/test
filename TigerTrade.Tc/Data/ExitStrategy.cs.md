@@ -13,19 +13,19 @@ public sealed class ExitStrategy
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Clear`](#test) | *Описание* |
-| [`ExitStrategy`](#test) | *Описание* |
-| [`GetStrategySingleTarget`](#test) | *Описание* |
-| [`GetTarget`](#test) | *Описание* |
-| [`GetTargets`](#test) | *Описание* |
-| [`GetUpdateTime`](#test) | *Описание* |
-| [`Init`](#test) | *Описание* |
+| [`Clear`](#Clear-m) | *Описание* |
+| [`ExitStrategy`](#ExitStrategy-m) | *Описание* |
+| [`GetStrategySingleTarget`](#GetStrategySingleTarget-m) | *Описание* |
+| [`GetTarget`](#GetTarget-m) | *Описание* |
+| [`GetTargets`](#GetTargets-m) | *Описание* |
+| [`GetUpdateTime`](#GetUpdateTime-m) | *Описание* |
+| [`Init`](#Init-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`IsMultiStrategy`](./ExitStrategy.cs/Свойства/IsMultiStrategy.md) | *Описание* |
-| [`Targets`](./ExitStrategy.cs/Свойства/Targets.md) | *Описание* |
+| [`IsMultiStrategy`](#IsMultiStrategy-p) | *Описание* |
+| [`Targets`](#Targets-p) | *Описание* |
 
 
 
@@ -35,7 +35,7 @@ public sealed class ExitStrategy
 ***  
 # Методы
 
-## `Clear`<a href="test" id="test"></a>
+## `Clear`<a href="Init-m" id="Init-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public void Clear(bool isClosePosition = false)
 
 ***  
 
-## `ExitStrategy`<a href="test" id="test"></a>
+## `ExitStrategy`<a href="Init-m" id="Init-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public ExitStrategy()
 
 ***  
 
-## `GetStrategySingleTarget`<a href="test" id="test"></a>
+## `GetStrategySingleTarget`<a href="Init-m" id="Init-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public ExitStrategyTarget GetStrategySingleTarget(bool create)
 
 ***  
 
-## `GetTarget`<a href="test" id="test"></a>
+## `GetTarget`<a href="Init-m" id="Init-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ public ExitStrategyTarget GetTarget(string id)
 
 ***  
 
-## `GetTargets`<a href="test" id="test"></a>
+## `GetTargets`<a href="Init-m" id="Init-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public List<ExitStrategyTarget> GetTargets()
 
 ***  
 
-## `GetUpdateTime`<a href="test" id="test"></a>
+## `GetUpdateTime`<a href="Init-m" id="Init-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ public DateTime GetUpdateTime()
 
 ***  
 
-## `Init`<a href="test" id="test"></a>
+## `Init`<a href="Init-m" id="Init-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -122,7 +122,7 @@ public void Init(ExitStrategy strategy)
  ***  
 # Свойства
 
-## `IsMultiStrategy`
+## `IsMultiStrategy`<a href="Targets-p" id="Targets-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -130,7 +130,7 @@ public bool IsMultiStrategy { get; }
 ```  
 ***
 
-## `Targets`
+## `Targets`<a href="Targets-p" id="Targets-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

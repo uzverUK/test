@@ -13,22 +13,22 @@ public sealed class TimeRangeObject : PolygonObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Draw`](#test) | *Описание* |
-| [`DrawControlPoints`](#test) | *Описание* |
-| [`GetControlPoint`](#test) | *Описание* |
-| [`InObject`](#test) | *Описание* |
-| [`TimeRangeObject`](#test) | *Описание* |
-| [`ey9wOk3RwAcjmml8vF1J`](#test) | *Описание* |
+| [`Draw`](#Draw-m) | *Описание* |
+| [`DrawControlPoints`](#DrawControlPoints-m) | *Описание* |
+| [`GetControlPoint`](#GetControlPoint-m) | *Описание* |
+| [`InObject`](#InObject-m) | *Описание* |
+| [`TimeRangeObject`](#TimeRangeObject-m) | *Описание* |
+| [`ey9wOk3RwAcjmml8vF1J`](#ey9wOk3RwAcjmml8vF1J-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Center;`](./TimeRangeObject.cs/Свойства/Center;.md) | *Описание* |
-| [`Dhq3RBLC45X;`](./TimeRangeObject.cs/Свойства/Dhq3RBLC45X;.md) | *Описание* |
-| [`IkF3RsY9b11;`](./TimeRangeObject.cs/Свойства/IkF3RsY9b11;.md) | *Описание* |
-| [`m0E3R3eeWT4;`](./TimeRangeObject.cs/Свойства/m0E3R3eeWT4;.md) | *Описание* |
-| [`qsf3RUZXhNl;`](./TimeRangeObject.cs/Свойства/qsf3RUZXhNl;.md) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](./TimeRangeObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`Center;`](#Center;-p) | *Описание* |
+| [`Dhq3RBLC45X;`](#Dhq3RBLC45X;-p) | *Описание* |
+| [`IkF3RsY9b11;`](#IkF3RsY9b11;-p) | *Описание* |
+| [`m0E3R3eeWT4;`](#m0E3R3eeWT4;-p) | *Описание* |
+| [`qsf3RUZXhNl;`](#qsf3RUZXhNl;-p) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
 
 
 
@@ -38,7 +38,7 @@ public sealed class TimeRangeObject : PolygonObjectBase
 ***  
 # Методы
 
-## `Draw`<a href="test" id="test"></a>
+## `Draw`<a href="ey9wOk3RwAcjmml8vF1J-m" id="ey9wOk3RwAcjmml8vF1J-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `DrawControlPoints`<a href="test" id="test"></a>
+## `DrawControlPoints`<a href="ey9wOk3RwAcjmml8vF1J-m" id="ey9wOk3RwAcjmml8vF1J-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 ***  
 
-## `GetControlPoint`<a href="test" id="test"></a>
+## `GetControlPoint`<a href="ey9wOk3RwAcjmml8vF1J-m" id="ey9wOk3RwAcjmml8vF1J-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public override int GetControlPoint(int x, int y)
 
 ***  
 
-## `InObject`<a href="test" id="test"></a>
+## `InObject`<a href="ey9wOk3RwAcjmml8vF1J-m" id="ey9wOk3RwAcjmml8vF1J-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `TimeRangeObject`<a href="test" id="test"></a>
+## `TimeRangeObject`<a href="ey9wOk3RwAcjmml8vF1J-m" id="ey9wOk3RwAcjmml8vF1J-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public TimeRangeObject()
 
 ***  
 
-## `ey9wOk3RwAcjmml8vF1J`<a href="test" id="test"></a>
+## `ey9wOk3RwAcjmml8vF1J`<a href="ey9wOk3RwAcjmml8vF1J-m" id="ey9wOk3RwAcjmml8vF1J-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ public ey9wOk3RwAcjmml8vF1J()
  ***  
 # Свойства
 
-## `Center;`
+## `Center;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -117,7 +117,7 @@ public Point Center; {}
 ```  
 ***
 
-## `Dhq3RBLC45X;`
+## `Dhq3RBLC45X;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -125,7 +125,7 @@ public Rect Dhq3RBLC45X; {}
 ```  
 ***
 
-## `IkF3RsY9b11;`
+## `IkF3RsY9b11;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -133,7 +133,7 @@ public Point IkF3RsY9b11; {}
 ```  
 ***
 
-## `m0E3R3eeWT4;`
+## `m0E3R3eeWT4;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -141,7 +141,7 @@ public Point m0E3R3eeWT4; {}
 ```  
 ***
 
-## `qsf3RUZXhNl;`
+## `qsf3RUZXhNl;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -149,7 +149,7 @@ public Rect qsf3RUZXhNl; {}
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`
+## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

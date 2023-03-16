@@ -13,19 +13,19 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ObjectPointInfo`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
+| [`ObjectPointInfo`](#ObjectPointInfo-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Price`](./ObjectPointInfo.cs/Свойства/Price.md) | *Описание* |
-| [`Time`](./ObjectPointInfo.cs/Свойства/Time.md) | *Описание* |
+| [`Price`](#Price-p) | *Описание* |
+| [`Time`](#Time-p) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./ObjectPointInfo.cs/События/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](#PropertyChanged-p) | *Описание* |
 
 
 
@@ -35,7 +35,7 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ObjectPointInfo`<a href="test" id="test"></a>
+## `ObjectPointInfo`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public ObjectPointInfo(ObjectPoint[] points, int index)
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Price`
+## `Price`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public double Price { get; set; }
 ```  
 ***
 
-## `Time`
+## `Time`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public DateTime Time { get; set; }
  ***  
 # События
 
-## `PropertyChanged`
+## `PropertyChanged`<a href="PropertyChanged-p" id="PropertyChanged-p"></a>
 Описание
 
 ```csharp

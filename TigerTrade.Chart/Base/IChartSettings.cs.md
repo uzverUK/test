@@ -13,8 +13,8 @@ public interface IChartSettings
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`TransformHorLines`](./IChartSettings.cs/Свойства/TransformHorLines.md) | *Описание* |
-| [`TransformVertLines`](./IChartSettings.cs/Свойства/TransformVertLines.md) | *Описание* |
+| [`TransformHorLines`](#TransformHorLines-p) | *Описание* |
+| [`TransformVertLines`](#TransformVertLines-p) | *Описание* |
 
 
 
@@ -23,7 +23,7 @@ public interface IChartSettings
  ***  
 # Свойства
 
-## `TransformHorLines`
+## `TransformHorLines`<a href="TransformVertLines-p" id="TransformVertLines-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -31,7 +31,7 @@ bool TransformHorLines { get; }
 ```  
 ***
 
-## `TransformVertLines`
+## `TransformVertLines`<a href="TransformVertLines-p" id="TransformVertLines-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

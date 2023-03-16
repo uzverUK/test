@@ -13,14 +13,14 @@ public interface IChartDeal
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`ClosePrice`](./IChartDeal.cs/Свойства/ClosePrice.md) | *Описание* |
-| [`CloseTime`](./IChartDeal.cs/Свойства/CloseTime.md) | *Описание* |
-| [`IsBuy`](./IChartDeal.cs/Свойства/IsBuy.md) | *Описание* |
-| [`OpenPrice`](./IChartDeal.cs/Свойства/OpenPrice.md) | *Описание* |
-| [`OpenTime`](./IChartDeal.cs/Свойства/OpenTime.md) | *Описание* |
-| [`Points`](./IChartDeal.cs/Свойства/Points.md) | *Описание* |
-| [`Profit`](./IChartDeal.cs/Свойства/Profit.md) | *Описание* |
-| [`Quantity`](./IChartDeal.cs/Свойства/Quantity.md) | *Описание* |
+| [`ClosePrice`](#ClosePrice-p) | *Описание* |
+| [`CloseTime`](#CloseTime-p) | *Описание* |
+| [`IsBuy`](#IsBuy-p) | *Описание* |
+| [`OpenPrice`](#OpenPrice-p) | *Описание* |
+| [`OpenTime`](#OpenTime-p) | *Описание* |
+| [`Points`](#Points-p) | *Описание* |
+| [`Profit`](#Profit-p) | *Описание* |
+| [`Quantity`](#Quantity-p) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ public interface IChartDeal
  ***  
 # Свойства
 
-## `ClosePrice`
+## `ClosePrice`<a href="Quantity-p" id="Quantity-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -37,7 +37,7 @@ double ClosePrice { get; }
 ```  
 ***
 
-## `CloseTime`
+## `CloseTime`<a href="Quantity-p" id="Quantity-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ DateTime CloseTime { get; }
 ```  
 ***
 
-## `IsBuy`
+## `IsBuy`<a href="Quantity-p" id="Quantity-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ bool IsBuy { get; }
 ```  
 ***
 
-## `OpenPrice`
+## `OpenPrice`<a href="Quantity-p" id="Quantity-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ double OpenPrice { get; }
 ```  
 ***
 
-## `OpenTime`
+## `OpenTime`<a href="Quantity-p" id="Quantity-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ DateTime OpenTime { get; }
 ```  
 ***
 
-## `Points`
+## `Points`<a href="Quantity-p" id="Quantity-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ double Points { get; }
 ```  
 ***
 
-## `Profit`
+## `Profit`<a href="Quantity-p" id="Quantity-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ double Profit { get; }
 ```  
 ***
 
-## `Quantity`
+## `Quantity`<a href="Quantity-p" id="Quantity-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

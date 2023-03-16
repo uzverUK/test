@@ -13,14 +13,14 @@ public sealed class TrustAccount
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`TrustAccount`](#test) | *Описание* |
+| [`TrustAccount`](#TrustAccount-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Accounts`](./TrustAccount.cs/Свойства/Accounts.md) | *Описание* |
-| [`ID`](./TrustAccount.cs/Свойства/ID.md) | *Описание* |
-| [`Name`](./TrustAccount.cs/Свойства/Name.md) | *Описание* |
+| [`Accounts`](#Accounts-p) | *Описание* |
+| [`ID`](#ID-p) | *Описание* |
+| [`Name`](#Name-p) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class TrustAccount
 ***  
 # Методы
 
-## `TrustAccount`<a href="test" id="test"></a>
+## `TrustAccount`<a href="TrustAccount-m" id="TrustAccount-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -46,7 +46,7 @@ public TrustAccount(string id)
  ***  
 # Свойства
 
-## `Accounts`
+## `Accounts`<a href="Name-p" id="Name-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ public Dictionary<string, Decimal> Accounts { get; set; }
 ```  
 ***
 
-## `ID`
+## `ID`<a href="Name-p" id="Name-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public string ID { get; set; }
 ```  
 ***
 
-## `Name`
+## `Name`<a href="Name-p" id="Name-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

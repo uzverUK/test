@@ -13,24 +13,24 @@ internal class ConnectionIndicators : UserControl, IComponentConnector
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ConnectionIndicators`](#test) | *Описание* |
-| [`InitializeComponent`](#test) | *Описание* |
-| [`roXwis3djh0(ogXycEOqcMglr0u6UVcN)`](#test) | *Описание* |
+| [`ConnectionIndicators`](#ConnectionIndicators-m) | *Описание* |
+| [`InitializeComponent`](#InitializeComponent-m) | *Описание* |
+| [`roXwis3djh0(ogXycEOqcMglr0u6UVcN)`](#roXwis3djh0(ogXycEOqcMglr0u6UVcN)-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`ConnectionID`](./ConnectionIndicators.cs/Свойства/ConnectionID.md) | *Описание* |
-| [`DependencyProperty`](./ConnectionIndicators.cs/Свойства/DependencyProperty.md) | *Описание* |
-| [`DependencyProperty`](./ConnectionIndicators.cs/Свойства/DependencyProperty.md) | *Описание* |
-| [`Indicator`](./ConnectionIndicators.cs/Свойства/Indicator.md) | *Описание* |
-| [`IndicatorClickedCommand`](./ConnectionIndicators.cs/Свойства/IndicatorClickedCommand.md) | *Описание* |
-| [`Indicators`](./ConnectionIndicators.cs/Свойства/Indicators.md) | *Описание* |
+| [`ConnectionID`](#ConnectionID-p) | *Описание* |
+| [`DependencyProperty`](#DependencyProperty-p) | *Описание* |
+| [`DependencyProperty`](#DependencyProperty-p) | *Описание* |
+| [`Indicator`](#Indicator-p) | *Описание* |
+| [`IndicatorClickedCommand`](#IndicatorClickedCommand-p) | *Описание* |
+| [`Indicators`](#Indicators-p) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`IndicatorChanged;`](./ConnectionIndicators.cs/События/IndicatorChanged;.md) | *Описание* |
+| [`IndicatorChanged;`](#IndicatorChanged;-p) | *Описание* |
 
 
 
@@ -40,7 +40,7 @@ internal class ConnectionIndicators : UserControl, IComponentConnector
 ***  
 # Методы
 
-## `ConnectionIndicators`<a href="test" id="test"></a>
+## `ConnectionIndicators`<a href="roXwis3djh0(ogXycEOqcMglr0u6UVcN)-m" id="roXwis3djh0(ogXycEOqcMglr0u6UVcN)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public ConnectionIndicators()
 
 ***  
 
-## `InitializeComponent`<a href="test" id="test"></a>
+## `InitializeComponent`<a href="roXwis3djh0(ogXycEOqcMglr0u6UVcN)-m" id="roXwis3djh0(ogXycEOqcMglr0u6UVcN)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public void InitializeComponent()
 
 ***  
 
-## `roXwis3djh0(ogXycEOqcMglr0u6UVcN)`<a href="test" id="test"></a>
+## `roXwis3djh0(ogXycEOqcMglr0u6UVcN)`<a href="roXwis3djh0(ogXycEOqcMglr0u6UVcN)-m" id="roXwis3djh0(ogXycEOqcMglr0u6UVcN)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public static ogXycEOqcMglr0u6UVcN roXwis3djh0<ogXycEOqcMglr0u6UVcN>(DependencyO
  ***  
 # Свойства
 
-## `ConnectionID`
+## `ConnectionID`<a href="Indicators-p" id="Indicators-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public string ConnectionID { get; set; }
 ```  
 ***
 
-## `DependencyProperty`
+## `DependencyProperty`<a href="Indicators-p" id="Indicators-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public static readonly DependencyProperty Hn2wiExPrWk; {}
 ```  
 ***
 
-## `DependencyProperty`
+## `DependencyProperty`<a href="Indicators-p" id="Indicators-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public static readonly DependencyProperty BoCwiesxd77; {}
 ```  
 ***
 
-## `Indicator`
+## `Indicator`<a href="Indicators-p" id="Indicators-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ public int Indicator { get; set; }
 ```  
 ***
 
-## `IndicatorClickedCommand`
+## `IndicatorClickedCommand`<a href="Indicators-p" id="Indicators-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -117,7 +117,7 @@ public ICommand IndicatorClickedCommand { get; }
 ```  
 ***
 
-## `Indicators`
+## `Indicators`<a href="Indicators-p" id="Indicators-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -128,7 +128,7 @@ public ObservableCollection<j1dmkSwia5NwC6FQfLYQ> Indicators { get; }
  ***  
 # События
 
-## `IndicatorChanged;`
+## `IndicatorChanged;`<a href="IndicatorChanged;-p" id="IndicatorChanged;-p"></a>
 Описание
 
 ```csharp

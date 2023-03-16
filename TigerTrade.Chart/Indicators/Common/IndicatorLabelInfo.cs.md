@@ -13,14 +13,14 @@ public sealed class IndicatorLabelInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorLabelInfo`](#test) | *Описание* |
+| [`IndicatorLabelInfo`](#IndicatorLabelInfo-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Color`](./IndicatorLabelInfo.cs/Свойства/Color.md) | *Описание* |
-| [`Position`](./IndicatorLabelInfo.cs/Свойства/Position.md) | *Описание* |
-| [`Value`](./IndicatorLabelInfo.cs/Свойства/Value.md) | *Описание* |
+| [`Color`](#Color-p) | *Описание* |
+| [`Position`](#Position-p) | *Описание* |
+| [`Value`](#Value-p) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class IndicatorLabelInfo
 ***  
 # Методы
 
-## `IndicatorLabelInfo`<a href="test" id="test"></a>
+## `IndicatorLabelInfo`<a href="IndicatorLabelInfo-m" id="IndicatorLabelInfo-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public IndicatorLabelInfo(double value, XColor color, double? position = null)
  ***  
 # Свойства
 
-## `Color`
+## `Color`<a href="Value-p" id="Value-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public XColor Color { get; }
 ```  
 ***
 
-## `Position`
+## `Position`<a href="Value-p" id="Value-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ public double? Position { get; }
 ```  
 ***
 
-## `Value`
+## `Value`<a href="Value-p" id="Value-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

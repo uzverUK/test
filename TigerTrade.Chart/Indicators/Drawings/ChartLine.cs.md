@@ -13,23 +13,23 @@ public sealed class ChartLine : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartLine`](#test) | *Описание* |
-| [`CopyTheme`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
+| [`ChartLine`](#ChartLine-m) | *Описание* |
+| [`CopyTheme`](#CopyTheme-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Color`](./ChartLine.cs/Свойства/Color.md) | *Описание* |
-| [`ShowMarker`](./ChartLine.cs/Свойства/ShowMarker.md) | *Описание* |
-| [`Style`](./ChartLine.cs/Свойства/Style.md) | *Описание* |
-| [`Visible`](./ChartLine.cs/Свойства/Visible.md) | *Описание* |
-| [`Width`](./ChartLine.cs/Свойства/Width.md) | *Описание* |
+| [`Color`](#Color-p) | *Описание* |
+| [`ShowMarker`](#ShowMarker-p) | *Описание* |
+| [`Style`](#Style-p) | *Описание* |
+| [`Visible`](#Visible-p) | *Описание* |
+| [`Width`](#Width-p) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./ChartLine.cs/События/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](#PropertyChanged-p) | *Описание* |
 
 
 
@@ -39,7 +39,7 @@ public sealed class ChartLine : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ChartLine`<a href="test" id="test"></a>
+## `ChartLine`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public ChartLine()
 
 ***  
 
-## `CopyTheme`<a href="test" id="test"></a>
+## `CopyTheme`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public void CopyTheme(ChartLine chartLine)
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Color`
+## `Color`<a href="Width-p" id="Width-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public XColor Color { get; set; }
 ```  
 ***
 
-## `ShowMarker`
+## `ShowMarker`<a href="Width-p" id="Width-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -89,7 +89,7 @@ public bool ShowMarker { get; set; }
 ```  
 ***
 
-## `Style`
+## `Style`<a href="Width-p" id="Width-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public XDashStyle Style { get; set; }
 ```  
 ***
 
-## `Visible`
+## `Visible`<a href="Width-p" id="Width-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -105,7 +105,7 @@ public bool Visible { get; set; }
 ```  
 ***
 
-## `Width`
+## `Width`<a href="Width-p" id="Width-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -116,7 +116,7 @@ public int Width { get; set; }
  ***  
 # События
 
-## `PropertyChanged`
+## `PropertyChanged`<a href="PropertyChanged-p" id="PropertyChanged-p"></a>
 Описание
 
 ```csharp

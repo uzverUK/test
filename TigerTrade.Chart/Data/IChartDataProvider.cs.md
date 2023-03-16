@@ -13,21 +13,21 @@ public interface IChartDataProvider
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetCluster`](#test) | *Описание* |
-| [`GetMarketDepth`](#test) | *Описание* |
-| [`GetRawCluster`](#test) | *Описание* |
-| [`GetRawMarketDepth`](#test) | *Описание* |
-| [`GetRawSecurity`](#test) | *Описание* |
-| [`GetSecurity`](#test) | *Описание* |
+| [`GetCluster`](#GetCluster-m) | *Описание* |
+| [`GetMarketDepth`](#GetMarketDepth-m) | *Описание* |
+| [`GetRawCluster`](#GetRawCluster-m) | *Описание* |
+| [`GetRawMarketDepth`](#GetRawMarketDepth-m) | *Описание* |
+| [`GetRawSecurity`](#GetRawSecurity-m) | *Описание* |
+| [`GetSecurity`](#GetSecurity-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Count`](./IChartDataProvider.cs/Свойства/Count.md) | *Описание* |
-| [`Period`](./IChartDataProvider.cs/Свойства/Period.md) | *Описание* |
-| [`Scale`](./IChartDataProvider.cs/Свойства/Scale.md) | *Описание* |
-| [`Step`](./IChartDataProvider.cs/Свойства/Step.md) | *Описание* |
-| [`Symbol`](./IChartDataProvider.cs/Свойства/Symbol.md) | *Описание* |
+| [`Count`](#Count-p) | *Описание* |
+| [`Period`](#Period-p) | *Описание* |
+| [`Scale`](#Scale-p) | *Описание* |
+| [`Step`](#Step-p) | *Описание* |
+| [`Symbol`](#Symbol-p) | *Описание* |
 
 
 
@@ -37,7 +37,7 @@ public interface IChartDataProvider
 ***  
 # Методы
 
-## `GetCluster`<a href="test" id="test"></a>
+## `GetCluster`<a href="GetSecurity-m" id="GetSecurity-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ IChartCluster GetCluster(int i)
 
 ***  
 
-## `GetMarketDepth`<a href="test" id="test"></a>
+## `GetMarketDepth`<a href="GetSecurity-m" id="GetSecurity-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ IChartMarketDepth GetMarketDepth()
 
 ***  
 
-## `GetRawCluster`<a href="test" id="test"></a>
+## `GetRawCluster`<a href="GetSecurity-m" id="GetSecurity-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ IRawCluster GetRawCluster(int i)
 
 ***  
 
-## `GetRawMarketDepth`<a href="test" id="test"></a>
+## `GetRawMarketDepth`<a href="GetSecurity-m" id="GetSecurity-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ IRawMarketDepth GetRawMarketDepth()
 
 ***  
 
-## `GetRawSecurity`<a href="test" id="test"></a>
+## `GetRawSecurity`<a href="GetSecurity-m" id="GetSecurity-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -90,7 +90,7 @@ IRawSecurity GetRawSecurity()
 
 ***  
 
-## `GetSecurity`<a href="test" id="test"></a>
+## `GetSecurity`<a href="GetSecurity-m" id="GetSecurity-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -102,7 +102,7 @@ IChartSecurity GetSecurity()
  ***  
 # Свойства
 
-## `Count`
+## `Count`<a href="Symbol-p" id="Symbol-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -110,7 +110,7 @@ int Count { get; }
 ```  
 ***
 
-## `Period`
+## `Period`<a href="Symbol-p" id="Symbol-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -118,7 +118,7 @@ IChartPeriod Period { get; }
 ```  
 ***
 
-## `Scale`
+## `Scale`<a href="Symbol-p" id="Symbol-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -126,7 +126,7 @@ int Scale { get; }
 ```  
 ***
 
-## `Step`
+## `Step`<a href="Symbol-p" id="Symbol-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -134,7 +134,7 @@ double Step { get; }
 ```  
 ***
 
-## `Symbol`
+## `Symbol`<a href="Symbol-p" id="Symbol-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

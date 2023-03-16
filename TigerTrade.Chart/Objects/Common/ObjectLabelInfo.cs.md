@@ -13,17 +13,17 @@ public sealed class ObjectLabelInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ObjectLabelInfo`](#test) | *Описание* |
+| [`ObjectLabelInfo`](#ObjectLabelInfo-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Color`](./ObjectLabelInfo.cs/Свойства/Color.md) | *Описание* |
-| [`Extanded`](./ObjectLabelInfo.cs/Свойства/Extanded.md) | *Описание* |
-| [`Position`](./ObjectLabelInfo.cs/Свойства/Position.md) | *Описание* |
-| [`Value`](./ObjectLabelInfo.cs/Свойства/Value.md) | *Описание* |
-| [`Y1`](./ObjectLabelInfo.cs/Свойства/Y1.md) | *Описание* |
-| [`Y2`](./ObjectLabelInfo.cs/Свойства/Y2.md) | *Описание* |
+| [`Color`](#Color-p) | *Описание* |
+| [`Extanded`](#Extanded-p) | *Описание* |
+| [`Position`](#Position-p) | *Описание* |
+| [`Value`](#Value-p) | *Описание* |
+| [`Y1`](#Y1-p) | *Описание* |
+| [`Y2`](#Y2-p) | *Описание* |
 
 
 
@@ -33,7 +33,7 @@ public sealed class ObjectLabelInfo
 ***  
 # Методы
 
-## `ObjectLabelInfo`<a href="test" id="test"></a>
+## `ObjectLabelInfo`<a href="ObjectLabelInfo-m" id="ObjectLabelInfo-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public ObjectLabelInfo(double value, XColor color, double? position = null)
 
 ***  
 
-## `ObjectLabelInfo`<a href="test" id="test"></a>
+## `ObjectLabelInfo`<a href="ObjectLabelInfo-m" id="ObjectLabelInfo-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -75,7 +75,7 @@ public ObjectLabelInfo(double value, double y1, double y2, XColor color)
  ***  
 # Свойства
 
-## `Color`
+## `Color`<a href="Y2-p" id="Y2-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public XColor Color { get; }
 ```  
 ***
 
-## `Extanded`
+## `Extanded`<a href="Y2-p" id="Y2-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public bool Extanded { get; }
 ```  
 ***
 
-## `Position`
+## `Position`<a href="Y2-p" id="Y2-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ public double? Position { get; }
 ```  
 ***
 
-## `Value`
+## `Value`<a href="Y2-p" id="Y2-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -107,7 +107,7 @@ public double Value { get; }
 ```  
 ***
 
-## `Y1`
+## `Y1`<a href="Y2-p" id="Y2-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public double Y1 { get; }
 ```  
 ***
 
-## `Y2`
+## `Y2`<a href="Y2-p" id="Y2-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

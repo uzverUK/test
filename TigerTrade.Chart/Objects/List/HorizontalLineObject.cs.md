@@ -13,26 +13,26 @@ public class HorizontalLineObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CheckAlert`](#test) | *Описание* |
-| [`CopyTemplate`](#test) | *Описание* |
-| [`Draw`](#test) | *Описание* |
-| [`DrawControlPoints`](#test) | *Описание* |
-| [`DrawText`](#test) | *Описание* |
-| [`HorizontalLineObject`](#test) | *Описание* |
-| [`InObject`](#test) | *Описание* |
-| [`IsObjectOnChart`](#test) | *Описание* |
+| [`CheckAlert`](#CheckAlert-m) | *Описание* |
+| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
+| [`Draw`](#Draw-m) | *Описание* |
+| [`DrawControlPoints`](#DrawControlPoints-m) | *Описание* |
+| [`DrawText`](#DrawText-m) | *Описание* |
+| [`HorizontalLineObject`](#HorizontalLineObject-m) | *Описание* |
+| [`InObject`](#InObject-m) | *Описание* |
+| [`IsObjectOnChart`](#IsObjectOnChart-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Alert`](./HorizontalLineObject.cs/Свойства/Alert.md) | *Описание* |
-| [`AlertMinDistance`](./HorizontalLineObject.cs/Свойства/AlertMinDistance.md) | *Описание* |
-| [`FontSize`](./HorizontalLineObject.cs/Свойства/FontSize.md) | *Описание* |
-| [`LineRect;`](./HorizontalLineObject.cs/Свойства/LineRect;.md) | *Описание* |
-| [`Price`](./HorizontalLineObject.cs/Свойства/Price.md) | *Описание* |
-| [`Text`](./HorizontalLineObject.cs/Свойства/Text.md) | *Описание* |
-| [`TextAlignment`](./HorizontalLineObject.cs/Свойства/TextAlignment.md) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](./HorizontalLineObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |
+| [`Alert`](#Alert-p) | *Описание* |
+| [`AlertMinDistance`](#AlertMinDistance-p) | *Описание* |
+| [`FontSize`](#FontSize-p) | *Описание* |
+| [`LineRect;`](#LineRect;-p) | *Описание* |
+| [`Price`](#Price-p) | *Описание* |
+| [`Text`](#Text-p) | *Описание* |
+| [`TextAlignment`](#TextAlignment-p) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
 
 
 
@@ -42,7 +42,7 @@ public class HorizontalLineObject : LineObjectBase
 ***  
 # Методы
 
-## `CheckAlert`<a href="test" id="test"></a>
+## `CheckAlert`<a href="IsObjectOnChart-m" id="IsObjectOnChart-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> i
 
 ***  
 
-## `CopyTemplate`<a href="test" id="test"></a>
+## `CopyTemplate`<a href="IsObjectOnChart-m" id="IsObjectOnChart-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="test" id="test"></a>
+## `Draw`<a href="IsObjectOnChart-m" id="IsObjectOnChart-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -82,7 +82,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `DrawControlPoints`<a href="test" id="test"></a>
+## `DrawControlPoints`<a href="IsObjectOnChart-m" id="IsObjectOnChart-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 ***  
 
-## `DrawText`<a href="test" id="test"></a>
+## `DrawText`<a href="IsObjectOnChart-m" id="IsObjectOnChart-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -104,7 +104,7 @@ protected void DrawText(DxVisualQueue visual)
 
 ***  
 
-## `HorizontalLineObject`<a href="test" id="test"></a>
+## `HorizontalLineObject`<a href="IsObjectOnChart-m" id="IsObjectOnChart-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public HorizontalLineObject()
 
 ***  
 
-## `InObject`<a href="test" id="test"></a>
+## `InObject`<a href="IsObjectOnChart-m" id="IsObjectOnChart-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -129,7 +129,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `IsObjectOnChart`<a href="test" id="test"></a>
+## `IsObjectOnChart`<a href="IsObjectOnChart-m" id="IsObjectOnChart-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -141,7 +141,7 @@ protected override bool IsObjectOnChart()
  ***  
 # Свойства
 
-## `Alert`
+## `Alert`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -149,7 +149,7 @@ public ChartAlertSettings Alert { get; set; }
 ```  
 ***
 
-## `AlertMinDistance`
+## `AlertMinDistance`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -157,7 +157,7 @@ public int AlertMinDistance { get; set; }
 ```  
 ***
 
-## `FontSize`
+## `FontSize`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -165,7 +165,7 @@ public int FontSize { get; set; }
 ```  
 ***
 
-## `LineRect;`
+## `LineRect;`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -173,7 +173,7 @@ protected Rect LineRect; {}
 ```  
 ***
 
-## `Price`
+## `Price`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -181,7 +181,7 @@ public Decimal Price { get; set; }
 ```  
 ***
 
-## `Text`
+## `Text`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -189,7 +189,7 @@ public string Text { get; set; }
 ```  
 ***
 
-## `TextAlignment`
+## `TextAlignment`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -197,7 +197,7 @@ public ObjectTextAlignment TextAlignment { get; set; }
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`
+## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

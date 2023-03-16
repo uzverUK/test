@@ -13,36 +13,36 @@ public sealed class ConnectionInfo : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`SetLogsPath`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
+| [`SetLogsPath`](#SetLogsPath-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`AllowConnect`](./ConnectionInfo.cs/Свойства/AllowConnect.md) | *Описание* |
-| [`AllowMarketData`](./ConnectionInfo.cs/Свойства/AllowMarketData.md) | *Описание* |
-| [`AutoConnect`](./ConnectionInfo.cs/Свойства/AutoConnect.md) | *Описание* |
-| [`ConnectState`](./ConnectionInfo.cs/Свойства/ConnectState.md) | *Описание* |
-| [`ConnectionID`](./ConnectionInfo.cs/Свойства/ConnectionID.md) | *Описание* |
-| [`ConnectionName`](./ConnectionInfo.cs/Свойства/ConnectionName.md) | *Описание* |
-| [`HasProxy`](./ConnectionInfo.cs/Свойства/HasProxy.md) | *Описание* |
-| [`Indicator`](./ConnectionInfo.cs/Свойства/Indicator.md) | *Описание* |
-| [`IsConnected`](./ConnectionInfo.cs/Свойства/IsConnected.md) | *Описание* |
-| [`IsConnecting`](./ConnectionInfo.cs/Свойства/IsConnecting.md) | *Описание* |
-| [`LedBrush`](./ConnectionInfo.cs/Свойства/LedBrush.md) | *Описание* |
-| [`MarketData`](./ConnectionInfo.cs/Свойства/MarketData.md) | *Описание* |
-| [`MarketType`](./ConnectionInfo.cs/Свойства/MarketType.md) | *Описание* |
-| [`Proxy`](./ConnectionInfo.cs/Свойства/Proxy.md) | *Описание* |
-| [`Simulator`](./ConnectionInfo.cs/Свойства/Simulator.md) | *Описание* |
-| [`TradeClientExtra`](./ConnectionInfo.cs/Свойства/TradeClientExtra.md) | *Описание* |
-| [`TradeClientID`](./ConnectionInfo.cs/Свойства/TradeClientID.md) | *Описание* |
-| [`TradeClientName`](./ConnectionInfo.cs/Свойства/TradeClientName.md) | *Описание* |
-| [`Trust`](./ConnectionInfo.cs/Свойства/Trust.md) | *Описание* |
+| [`AllowConnect`](#AllowConnect-p) | *Описание* |
+| [`AllowMarketData`](#AllowMarketData-p) | *Описание* |
+| [`AutoConnect`](#AutoConnect-p) | *Описание* |
+| [`ConnectState`](#ConnectState-p) | *Описание* |
+| [`ConnectionID`](#ConnectionID-p) | *Описание* |
+| [`ConnectionName`](#ConnectionName-p) | *Описание* |
+| [`HasProxy`](#HasProxy-p) | *Описание* |
+| [`Indicator`](#Indicator-p) | *Описание* |
+| [`IsConnected`](#IsConnected-p) | *Описание* |
+| [`IsConnecting`](#IsConnecting-p) | *Описание* |
+| [`LedBrush`](#LedBrush-p) | *Описание* |
+| [`MarketData`](#MarketData-p) | *Описание* |
+| [`MarketType`](#MarketType-p) | *Описание* |
+| [`Proxy`](#Proxy-p) | *Описание* |
+| [`Simulator`](#Simulator-p) | *Описание* |
+| [`TradeClientExtra`](#TradeClientExtra-p) | *Описание* |
+| [`TradeClientID`](#TradeClientID-p) | *Описание* |
+| [`TradeClientName`](#TradeClientName-p) | *Описание* |
+| [`Trust`](#Trust-p) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](./ConnectionInfo.cs/События/PropertyChanged.md) | *Описание* |
+| [`PropertyChanged`](#PropertyChanged-p) | *Описание* |
 
 
 
@@ -52,7 +52,7 @@ public sealed class ConnectionInfo : INotifyPropertyChanged
 ***  
 # Методы
 
-## `SetLogsPath`<a href="test" id="test"></a>
+## `SetLogsPath`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ public void SetLogsPath(string path)
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `AllowConnect`
+## `AllowConnect`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public bool AllowConnect { get; set; }
 ```  
 ***
 
-## `AllowMarketData`
+## `AllowMarketData`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public bool AllowMarketData { get; set; }
 ```  
 ***
 
-## `AutoConnect`
+## `AutoConnect`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public bool AutoConnect { get; set; }
 ```  
 ***
 
-## `ConnectState`
+## `ConnectState`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ public bool ConnectState { get; set; }
 ```  
 ***
 
-## `ConnectionID`
+## `ConnectionID`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -117,7 +117,7 @@ public string ConnectionID { get; }
 ```  
 ***
 
-## `ConnectionName`
+## `ConnectionName`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -125,7 +125,7 @@ public string ConnectionName { get; set; }
 ```  
 ***
 
-## `HasProxy`
+## `HasProxy`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -133,7 +133,7 @@ public bool HasProxy { get; }
 ```  
 ***
 
-## `Indicator`
+## `Indicator`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -141,7 +141,7 @@ public int Indicator { get; set; }
 ```  
 ***
 
-## `IsConnected`
+## `IsConnected`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -149,7 +149,7 @@ public bool IsConnected { get; set; }
 ```  
 ***
 
-## `IsConnecting`
+## `IsConnecting`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -157,7 +157,7 @@ public bool IsConnecting { get; set; }
 ```  
 ***
 
-## `LedBrush`
+## `LedBrush`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -165,7 +165,7 @@ public Brush LedBrush { get; }
 ```  
 ***
 
-## `MarketData`
+## `MarketData`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -173,7 +173,7 @@ public bool MarketData { get; set; }
 ```  
 ***
 
-## `MarketType`
+## `MarketType`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -181,7 +181,7 @@ public string MarketType { get; set; }
 ```  
 ***
 
-## `Proxy`
+## `Proxy`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -189,7 +189,7 @@ public IfcHC6wbAs8uUIsvBmdJ Proxy { get; set; }
 ```  
 ***
 
-## `Simulator`
+## `Simulator`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -197,7 +197,7 @@ public bool Simulator { get; }
 ```  
 ***
 
-## `TradeClientExtra`
+## `TradeClientExtra`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -205,7 +205,7 @@ public string TradeClientExtra { get; }
 ```  
 ***
 
-## `TradeClientID`
+## `TradeClientID`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -213,7 +213,7 @@ public string TradeClientID { get; }
 ```  
 ***
 
-## `TradeClientName`
+## `TradeClientName`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -221,7 +221,7 @@ public string TradeClientName { get; }
 ```  
 ***
 
-## `Trust`
+## `Trust`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -232,7 +232,7 @@ public bool Trust { get; }
  ***  
 # События
 
-## `PropertyChanged`
+## `PropertyChanged`<a href="PropertyChanged-p" id="PropertyChanged-p"></a>
 Описание
 
 ```csharp

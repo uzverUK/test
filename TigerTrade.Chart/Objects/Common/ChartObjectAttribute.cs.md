@@ -13,15 +13,15 @@ public class ChartObjectAttribute : Attribute
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartObjectAttribute`](#test) | *Описание* |
+| [`ChartObjectAttribute`](#ChartObjectAttribute-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`ID`](./ChartObjectAttribute.cs/Свойства/ID.md) | *Описание* |
-| [`Name`](./ChartObjectAttribute.cs/Свойства/Name.md) | *Описание* |
-| [`Points`](./ChartObjectAttribute.cs/Свойства/Points.md) | *Описание* |
-| [`Type`](./ChartObjectAttribute.cs/Свойства/Type.md) | *Описание* |
+| [`ID`](#ID-p) | *Описание* |
+| [`Name`](#Name-p) | *Описание* |
+| [`Points`](#Points-p) | *Описание* |
+| [`Type`](#Type-p) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public class ChartObjectAttribute : Attribute
 ***  
 # Методы
 
-## `ChartObjectAttribute`<a href="test" id="test"></a>
+## `ChartObjectAttribute`<a href="ChartObjectAttribute-m" id="ChartObjectAttribute-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ public ChartObjectAttribute(string id, string name, int points)
  ***  
 # Свойства
 
-## `ID`
+## `ID`<a href="Type-p" id="Type-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public string ID { get; }
 ```  
 ***
 
-## `Name`
+## `Name`<a href="Type-p" id="Type-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public string Name { get; }
 ```  
 ***
 
-## `Points`
+## `Points`<a href="Type-p" id="Type-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public int Points { get; }
 ```  
 ***
 
-## `Type`
+## `Type`<a href="Type-p" id="Type-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

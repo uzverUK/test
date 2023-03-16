@@ -13,24 +13,24 @@ public sealed class Execution
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Execution`](#test) | *Описание* |
+| [`Execution`](#Execution-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Account`](./Execution.cs/Свойства/Account.md) | *Описание* |
-| [`Comission`](./Execution.cs/Свойства/Comission.md) | *Описание* |
-| [`Connection`](./Execution.cs/Свойства/Connection.md) | *Описание* |
-| [`Currency`](./Execution.cs/Свойства/Currency.md) | *Описание* |
-| [`ExecutionID`](./Execution.cs/Свойства/ExecutionID.md) | *Описание* |
-| [`ID`](./Execution.cs/Свойства/ID.md) | *Описание* |
-| [`OrderID`](./Execution.cs/Свойства/OrderID.md) | *Описание* |
-| [`Price`](./Execution.cs/Свойства/Price.md) | *Описание* |
-| [`Quantity`](./Execution.cs/Свойства/Quantity.md) | *Описание* |
-| [`RealizedPnl`](./Execution.cs/Свойства/RealizedPnl.md) | *Описание* |
-| [`Side`](./Execution.cs/Свойства/Side.md) | *Описание* |
-| [`Symbol`](./Execution.cs/Свойства/Symbol.md) | *Описание* |
-| [`Time`](./Execution.cs/Свойства/Time.md) | *Описание* |
+| [`Account`](#Account-p) | *Описание* |
+| [`Comission`](#Comission-p) | *Описание* |
+| [`Connection`](#Connection-p) | *Описание* |
+| [`Currency`](#Currency-p) | *Описание* |
+| [`ExecutionID`](#ExecutionID-p) | *Описание* |
+| [`ID`](#ID-p) | *Описание* |
+| [`OrderID`](#OrderID-p) | *Описание* |
+| [`Price`](#Price-p) | *Описание* |
+| [`Quantity`](#Quantity-p) | *Описание* |
+| [`RealizedPnl`](#RealizedPnl-p) | *Описание* |
+| [`Side`](#Side-p) | *Описание* |
+| [`Symbol`](#Symbol-p) | *Описание* |
+| [`Time`](#Time-p) | *Описание* |
 
 
 
@@ -40,7 +40,7 @@ public sealed class Execution
 ***  
 # Методы
 
-## `Execution`<a href="test" id="test"></a>
+## `Execution`<a href="Execution-m" id="Execution-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public Execution(Symbol symbol, Account account)
  ***  
 # Свойства
 
-## `Account`
+## `Account`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public Account Account { get; }
 ```  
 ***
 
-## `Comission`
+## `Comission`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -75,7 +75,7 @@ public double? Comission { get; set; }
 ```  
 ***
 
-## `Connection`
+## `Connection`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public ConnectionInfo Connection { get; }
 ```  
 ***
 
-## `Currency`
+## `Currency`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public string Currency { get; set; }
 ```  
 ***
 
-## `ExecutionID`
+## `ExecutionID`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ public string ExecutionID { get; set; }
 ```  
 ***
 
-## `ID`
+## `ID`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -107,7 +107,7 @@ public string ID { get; }
 ```  
 ***
 
-## `OrderID`
+## `OrderID`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public string OrderID { get; set; }
 ```  
 ***
 
-## `Price`
+## `Price`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -123,7 +123,7 @@ public long Price { get; set; }
 ```  
 ***
 
-## `Quantity`
+## `Quantity`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -131,7 +131,7 @@ public long Quantity { get; set; }
 ```  
 ***
 
-## `RealizedPnl`
+## `RealizedPnl`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -139,7 +139,7 @@ public double? RealizedPnl { get; set; }
 ```  
 ***
 
-## `Side`
+## `Side`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -147,7 +147,7 @@ public Side Side { get; set; }
 ```  
 ***
 
-## `Symbol`
+## `Symbol`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -155,7 +155,7 @@ public Symbol Symbol { get; }
 ```  
 ***
 
-## `Time`
+## `Time`<a href="Time-p" id="Time-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

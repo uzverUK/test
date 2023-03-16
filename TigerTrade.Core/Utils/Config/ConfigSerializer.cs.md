@@ -13,11 +13,11 @@ public sealed class ConfigSerializer
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ConfigSerializer`](#test) | *Описание* |
-| [`LoadFromFile(T)`](#test) | *Описание* |
-| [`LoadFromString(T)`](#test) | *Описание* |
-| [`SaveToFile(T)`](#test) | *Описание* |
-| [`SaveToString(T)`](#test) | *Описание* |
+| [`ConfigSerializer`](#ConfigSerializer-m) | *Описание* |
+| [`LoadFromFile(T)`](#LoadFromFile(T)-m) | *Описание* |
+| [`LoadFromString(T)`](#LoadFromString(T)-m) | *Описание* |
+| [`SaveToFile(T)`](#SaveToFile(T)-m) | *Описание* |
+| [`SaveToString(T)`](#SaveToString(T)-m) | *Описание* |
 
 
 
@@ -27,7 +27,7 @@ public sealed class ConfigSerializer
 ***  
 # Методы
 
-## `ConfigSerializer`<a href="test" id="test"></a>
+## `ConfigSerializer`<a href="SaveToString(T)-m" id="SaveToString(T)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -36,7 +36,7 @@ public ConfigSerializer()
 
 ***  
 
-## `LoadFromFile(T)`<a href="test" id="test"></a>
+## `LoadFromFile(T)`<a href="SaveToString(T)-m" id="SaveToString(T)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public static T LoadFromFile<T>(string fileName, DataContractResolver resolver =
 
 ***  
 
-## `LoadFromString(T)`<a href="test" id="test"></a>
+## `LoadFromString(T)`<a href="SaveToString(T)-m" id="SaveToString(T)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public static T LoadFromString<T>(string data, DataContractResolver resolver = n
 
 ***  
 
-## `LoadFromString(T)`<a href="test" id="test"></a>
+## `LoadFromString(T)`<a href="SaveToString(T)-m" id="SaveToString(T)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public static T LoadFromString<T>(string data, IEnumerable<Type> knownTypes)
 
 ***  
 
-## `LoadFromString(T)`<a href="test" id="test"></a>
+## `LoadFromString(T)`<a href="SaveToString(T)-m" id="SaveToString(T)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -94,7 +94,7 @@ public static T LoadFromString<T>(byte[] data, DataContractResolver resolver = n
 
 ***  
 
-## `LoadFromString(T)`<a href="test" id="test"></a>
+## `LoadFromString(T)`<a href="SaveToString(T)-m" id="SaveToString(T)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -112,7 +112,7 @@ public static T LoadFromString<T>(byte[] data, IEnumerable<Type> knownTypes)
 
 ***  
 
-## `SaveToFile(T)`<a href="test" id="test"></a>
+## `SaveToFile(T)`<a href="SaveToString(T)-m" id="SaveToString(T)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -127,7 +127,7 @@ public static void SaveToFile<T>(T o, string fileName, DataContractResolver reso
 
 ***  
 
-## `SaveToString(T)`<a href="test" id="test"></a>
+## `SaveToString(T)`<a href="SaveToString(T)-m" id="SaveToString(T)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -139,7 +139,7 @@ public static string SaveToString<T>(T o, DataContractResolver resolver = null)
 
 ***  
 
-## `SaveToString(T)`<a href="test" id="test"></a>
+## `SaveToString(T)`<a href="SaveToString(T)-m" id="SaveToString(T)-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

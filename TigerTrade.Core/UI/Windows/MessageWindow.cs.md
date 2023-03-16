@@ -13,14 +13,14 @@ public sealed class MessageWindow : Window, IComponentConnector
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`InitializeComponent`](#test) | *Описание* |
-| [`MessageWindow`](#test) | *Описание* |
-| [`ShowWindow`](#test) | *Описание* |
+| [`InitializeComponent`](#InitializeComponent-m) | *Описание* |
+| [`MessageWindow`](#MessageWindow-m) | *Описание* |
+| [`ShowWindow`](#ShowWindow-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Message`](./MessageWindow.cs/Свойства/Message.md) | *Описание* |
+| [`Message`](#Message-p) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class MessageWindow : Window, IComponentConnector
 ***  
 # Методы
 
-## `InitializeComponent`<a href="test" id="test"></a>
+## `InitializeComponent`<a href="ShowWindow-m" id="ShowWindow-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -39,7 +39,7 @@ public void InitializeComponent()
 
 ***  
 
-## `MessageWindow`<a href="test" id="test"></a>
+## `MessageWindow`<a href="ShowWindow-m" id="ShowWindow-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public MessageWindow()
 
 ***  
 
-## `ShowWindow`<a href="test" id="test"></a>
+## `ShowWindow`<a href="ShowWindow-m" id="ShowWindow-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public static bool ShowWindow(Window owner, string title, string message)
  ***  
 # Свойства
 
-## `Message`
+## `Message`<a href="Message-p" id="Message-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,26 +13,26 @@ public sealed class Portfolio
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Portfolio`](#test) | *Описание* |
-| [`ToString`](#test) | *Описание* |
+| [`Portfolio`](#Portfolio-m) | *Описание* |
+| [`ToString`](#ToString-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Balance`](./Portfolio.cs/Свойства/Balance.md) | *Описание* |
-| [`Comission`](./Portfolio.cs/Свойства/Comission.md) | *Описание* |
-| [`Connection`](./Portfolio.cs/Свойства/Connection.md) | *Описание* |
-| [`ConnectionID`](./Portfolio.cs/Свойства/ConnectionID.md) | *Описание* |
-| [`Currency`](./Portfolio.cs/Свойства/Currency.md) | *Описание* |
-| [`FreeMargin`](./Portfolio.cs/Свойства/FreeMargin.md) | *Описание* |
-| [`Leverage`](./Portfolio.cs/Свойства/Leverage.md) | *Описание* |
-| [`Name`](./Portfolio.cs/Свойства/Name.md) | *Описание* |
-| [`PortfolioID`](./Portfolio.cs/Свойства/PortfolioID.md) | *Описание* |
-| [`Precision`](./Portfolio.cs/Свойства/Precision.md) | *Описание* |
-| [`RealizedPnl`](./Portfolio.cs/Свойства/RealizedPnl.md) | *Описание* |
-| [`Register`](./Portfolio.cs/Свойства/Register.md) | *Описание* |
-| [`UnrealizedPnl`](./Portfolio.cs/Свойства/UnrealizedPnl.md) | *Описание* |
-| [`UsedMargin`](./Portfolio.cs/Свойства/UsedMargin.md) | *Описание* |
+| [`Balance`](#Balance-p) | *Описание* |
+| [`Comission`](#Comission-p) | *Описание* |
+| [`Connection`](#Connection-p) | *Описание* |
+| [`ConnectionID`](#ConnectionID-p) | *Описание* |
+| [`Currency`](#Currency-p) | *Описание* |
+| [`FreeMargin`](#FreeMargin-p) | *Описание* |
+| [`Leverage`](#Leverage-p) | *Описание* |
+| [`Name`](#Name-p) | *Описание* |
+| [`PortfolioID`](#PortfolioID-p) | *Описание* |
+| [`Precision`](#Precision-p) | *Описание* |
+| [`RealizedPnl`](#RealizedPnl-p) | *Описание* |
+| [`Register`](#Register-p) | *Описание* |
+| [`UnrealizedPnl`](#UnrealizedPnl-p) | *Описание* |
+| [`UsedMargin`](#UsedMargin-p) | *Описание* |
 
 
 
@@ -42,7 +42,7 @@ public sealed class Portfolio
 ***  
 # Методы
 
-## `Portfolio`<a href="test" id="test"></a>
+## `Portfolio`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public Portfolio(ConnectionInfo connection, string uniqueID)
 
 ***  
 
-## `ToString`<a href="test" id="test"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Balance`
+## `Balance`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -78,7 +78,7 @@ public double Balance { get; set; }
 ```  
 ***
 
-## `Comission`
+## `Comission`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -86,7 +86,7 @@ public double? Comission { get; set; }
 ```  
 ***
 
-## `Connection`
+## `Connection`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -94,7 +94,7 @@ public ConnectionInfo Connection { get; }
 ```  
 ***
 
-## `ConnectionID`
+## `ConnectionID`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -102,7 +102,7 @@ public string ConnectionID { get; }
 ```  
 ***
 
-## `Currency`
+## `Currency`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -110,7 +110,7 @@ public string Currency { get; set; }
 ```  
 ***
 
-## `FreeMargin`
+## `FreeMargin`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -118,7 +118,7 @@ public double FreeMargin { get; set; }
 ```  
 ***
 
-## `Leverage`
+## `Leverage`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -126,7 +126,7 @@ public int? Leverage { get; set; }
 ```  
 ***
 
-## `Name`
+## `Name`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -134,7 +134,7 @@ public string Name { get; set; }
 ```  
 ***
 
-## `PortfolioID`
+## `PortfolioID`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -142,7 +142,7 @@ public string PortfolioID { get; set; }
 ```  
 ***
 
-## `Precision`
+## `Precision`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -150,7 +150,7 @@ public int Precision { get; set; }
 ```  
 ***
 
-## `RealizedPnl`
+## `RealizedPnl`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -158,7 +158,7 @@ public double? RealizedPnl { get; set; }
 ```  
 ***
 
-## `Register`
+## `Register`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -166,7 +166,7 @@ public string Register { get; set; }
 ```  
 ***
 
-## `UnrealizedPnl`
+## `UnrealizedPnl`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -174,7 +174,7 @@ public double? UnrealizedPnl { get; set; }
 ```  
 ***
 
-## `UsedMargin`
+## `UsedMargin`<a href="UsedMargin-p" id="UsedMargin-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

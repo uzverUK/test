@@ -13,13 +13,13 @@ public sealed class TicksResponce
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`TicksResponce`](#test) | *Описание* |
+| [`TicksResponce`](#TicksResponce-m) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Reader`](./TicksResponce.cs/Свойства/Reader.md) | *Описание* |
-| [`Request`](./TicksResponce.cs/Свойства/Request.md) | *Описание* |
+| [`Reader`](#Reader-p) | *Описание* |
+| [`Request`](#Request-p) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ public sealed class TicksResponce
 ***  
 # Методы
 
-## `TicksResponce`<a href="test" id="test"></a>
+## `TicksResponce`<a href="TicksResponce-m" id="TicksResponce-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public TicksResponce(TicksRequest request, IDataReader<Tick> reader)
  ***  
 # Свойства
 
-## `Reader`
+## `Reader`<a href="Request-p" id="Request-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ public IDataReader<Tick> Reader { get; }
 ```  
 ***
 
-## `Request`
+## `Request`<a href="Request-p" id="Request-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

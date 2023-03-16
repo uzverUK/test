@@ -13,11 +13,11 @@ public interface IRawMarketDepth
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`MaxAskPrice`](./IRawMarketDepth.cs/Свойства/MaxAskPrice.md) | *Описание* |
-| [`MaxBidPrice`](./IRawMarketDepth.cs/Свойства/MaxBidPrice.md) | *Описание* |
-| [`MaxSize`](./IRawMarketDepth.cs/Свойства/MaxSize.md) | *Описание* |
-| [`MinAskPrice`](./IRawMarketDepth.cs/Свойства/MinAskPrice.md) | *Описание* |
-| [`MinBidPrice`](./IRawMarketDepth.cs/Свойства/MinBidPrice.md) | *Описание* |
+| [`MaxAskPrice`](#MaxAskPrice-p) | *Описание* |
+| [`MaxBidPrice`](#MaxBidPrice-p) | *Описание* |
+| [`MaxSize`](#MaxSize-p) | *Описание* |
+| [`MinAskPrice`](#MinAskPrice-p) | *Описание* |
+| [`MinBidPrice`](#MinBidPrice-p) | *Описание* |
 
 
 
@@ -26,7 +26,7 @@ public interface IRawMarketDepth
  ***  
 # Свойства
 
-## `MaxAskPrice`
+## `MaxAskPrice`<a href="MinBidPrice-p" id="MinBidPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -34,7 +34,7 @@ long MaxAskPrice { get; }
 ```  
 ***
 
-## `MaxBidPrice`
+## `MaxBidPrice`<a href="MinBidPrice-p" id="MinBidPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -42,7 +42,7 @@ long MaxBidPrice { get; }
 ```  
 ***
 
-## `MaxSize`
+## `MaxSize`<a href="MinBidPrice-p" id="MinBidPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ long MaxSize { get; }
 ```  
 ***
 
-## `MinAskPrice`
+## `MinAskPrice`<a href="MinBidPrice-p" id="MinBidPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ long MinAskPrice { get; }
 ```  
 ***
 
-## `MinBidPrice`
+## `MinBidPrice`<a href="MinBidPrice-p" id="MinBidPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
