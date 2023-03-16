@@ -3,15 +3,15 @@
 
 `namespace` [TigerTrade.Chart](../TigerTrade.Chart.md).Indicators
 
-Описание
+===
 
 
 ### Пространства имён
 | Название | Описание |
 | --- | --- |
-| [`Collections`](./Indicators/Collections.md) | *Описание* |
-| [`Common`](./Indicators/Common.md) | *Описание* |
-| [`Drawings`](./Indicators/Drawings.md) | *Описание* |
-| [`Enums`](./Indicators/Enums.md) | *Описание* |
-| [`List`](./Indicators/List.md) | *Описание* |
-| [`Sources`](./Indicators/Sources.md) | *Описание* |
+| [`Collections`](./Indicators/Collections.md) | *===* |
+| [`Common`](./Indicators/Common.md) | *===* |
+| [`Drawings`](./Indicators/Drawings.md) | *===* |
+| [`Enums`](./Indicators/Enums.md) | *===* |
+| [`List`](./Indicators/List.md) | *===* |
+| [`Sources`](./Indicators/Sources.md) | *===* |

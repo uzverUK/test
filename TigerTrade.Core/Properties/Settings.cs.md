@@ -2,7 +2,7 @@
 `namespace` [TigerTrade.Core](../../TigerTrade.Core.md).[Properties](../../TigerTrade.Core/Properties.md)
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -13,12 +13,12 @@ internal sealed class Settings : ApplicationSettingsBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Settings`](#method-settings) | *Описание* |
+| [`Settings`](#method-settings) | *===* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Default`](#property-default) | *Описание* |
+| [`Default`](#property-default) | *===* |
 
 
 
@@ -29,8 +29,7 @@ internal sealed class Settings : ApplicationSettingsBase
 # Методы
 
 ## `Settings`<a href="method-settings" id="method-settings"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public Settings()
 ```
@@ -41,8 +40,7 @@ public Settings()
 # Свойства
 
 ## `Default`<a href="property-default" id="property-default"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public static Settings Default { get; }
 ```  

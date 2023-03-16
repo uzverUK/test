@@ -4,7 +4,7 @@
 
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -15,10 +15,10 @@ public enum OrderGroup
 ### Значения
 | Название | Описание |
 | --- | --- |
-| `All` | *Описание* |
-| `MarketAndLimit` | *Описание* |
-| `StopAndStopLimit` | *Описание* |
-| `Trigger` | *Описание* |
+| `All` | *===* |
+| `MarketAndLimit` | *===* |
+| `StopAndStopLimit` | *===* |
+| `Trigger` | *===* |
 
 
 

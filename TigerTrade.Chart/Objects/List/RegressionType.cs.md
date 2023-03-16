@@ -4,7 +4,7 @@
 
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -15,11 +15,11 @@ public enum RegressionType
 ### Значения
 | Название | Описание |
 | --- | --- |
-| ` Channel` | *Описание* |
-| ` AsynChannel` | *Описание* |
-| ` StdChannel` | *Описание* |
-| ` StdErrorChannel` | *Описание* |
-| ` UpDownTrend` | *Описание* |
+| ` Channel` | *===* |
+| ` AsynChannel` | *===* |
+| ` StdChannel` | *===* |
+| ` StdErrorChannel` | *===* |
+| ` UpDownTrend` | *===* |
 
 
 

@@ -4,7 +4,7 @@
 
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -15,10 +15,10 @@ public enum IndicatorCalculation
 ### Значения
 | Название | Описание |
 | --- | --- |
-| ` Default` | *Описание* |
-| ` OnEachTick` | *Описание* |
-| ` OnPriceChange` | *Описание* |
-| ` OnBarClose` | *Описание* |
+| ` Default` | *===* |
+| ` OnEachTick` | *===* |
+| ` OnPriceChange` | *===* |
+| ` OnBarClose` | *===* |
 
 
 

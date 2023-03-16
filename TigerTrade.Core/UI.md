@@ -3,18 +3,18 @@
 
 `namespace` [TigerTrade.Core](../TigerTrade.Core.md).UI
 
-Описание
+===
 
 
 ### Пространства имён
 | Название | Описание |
 | --- | --- |
-| [`Commands`](./UI/Commands.md) | *Описание* |
-| [`Common`](./UI/Common.md) | *Описание* |
-| [`Converters`](./UI/Converters.md) | *Описание* |
-| [`Windows`](./UI/Windows.md) | *Описание* |
+| [`Commands`](./UI/Commands.md) | *===* |
+| [`Common`](./UI/Common.md) | *===* |
+| [`Converters`](./UI/Converters.md) | *===* |
+| [`Windows`](./UI/Windows.md) | *===* |
 
 ### Классы
 | Название | Описание |
 | --- | --- |
-| [`ScreenOperations`](./UI/ScreenOperations.cs.md) | *Описание* |
+| [`ScreenOperations`](./UI/ScreenOperations.cs.md) | *===* |

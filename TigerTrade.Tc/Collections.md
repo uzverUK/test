@@ -3,17 +3,17 @@
 
 `namespace` [TigerTrade.Tc](../TigerTrade.Tc.md).Collections
 
-Описание
+===
 
 
 ### Классы
 | Название | Описание |
 | --- | --- |
-| [`Accounts`](./Collections/Accounts.cs.md) | *Описание* |
-| [`Connections`](./Collections/Connections.cs.md) | *Описание* |
-| [`Executions`](./Collections/Executions.cs.md) | *Описание* |
-| [`Orders`](./Collections/Orders.cs.md) | *Описание* |
-| [`Positions`](./Collections/Positions.cs.md) | *Описание* |
-| [`Securities`](./Collections/Securities.cs.md) | *Описание* |
-| [`Symbols`](./Collections/Symbols.cs.md) | *Описание* |
-| [`UserPositions`](./Collections/UserPositions.cs.md) | *Описание* |
+| [`Accounts`](./Collections/Accounts.cs.md) | *===* |
+| [`Connections`](./Collections/Connections.cs.md) | *===* |
+| [`Executions`](./Collections/Executions.cs.md) | *===* |
+| [`Orders`](./Collections/Orders.cs.md) | *===* |
+| [`Positions`](./Collections/Positions.cs.md) | *===* |
+| [`Securities`](./Collections/Securities.cs.md) | *===* |
+| [`Symbols`](./Collections/Symbols.cs.md) | *===* |
+| [`UserPositions`](./Collections/UserPositions.cs.md) | *===* |

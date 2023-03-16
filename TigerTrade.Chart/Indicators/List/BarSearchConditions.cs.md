@@ -4,7 +4,7 @@
 
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -15,12 +15,12 @@ public enum BarSearchConditions
 ### Значения
 | Название | Описание |
 | --- | --- |
-| ` GreaterThenSource` | *Описание* |
-| ` GreaterThenValue` | *Описание* |
-| ` LessThenSource` | *Описание* |
-| ` LessThenValue` | *Описание* |
-| ` EqualSource` | *Описание* |
-| ` EqualValue` | *Описание* |
+| ` GreaterThenSource` | *===* |
+| ` GreaterThenValue` | *===* |
+| ` LessThenSource` | *===* |
+| ` LessThenValue` | *===* |
+| ` EqualSource` | *===* |
+| ` EqualValue` | *===* |
 
 
 

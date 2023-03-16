@@ -2,7 +2,7 @@
 `namespace` [TigerTrade.Tc](../../TigerTrade.Tc.md).[Data](../../TigerTrade.Tc/Data.md)
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -13,19 +13,19 @@ public sealed class Bar
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Bar`](#method-bar) | *Описание* |
+| [`Bar`](#method-bar) | *===* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Close;`](#property-close;) | *Описание* |
-| [`High;`](#property-high;) | *Описание* |
-| [`Low;`](#property-low;) | *Описание* |
-| [`Open;`](#property-open;) | *Описание* |
-| [`OpenPos;`](#property-openpos;) | *Описание* |
-| [`Time;`](#property-time;) | *Описание* |
-| [`TotalVol;`](#property-totalvol;) | *Описание* |
-| [`Volume;`](#property-volume;) | *Описание* |
+| [`Close;`](#property-close;) | *===* |
+| [`High;`](#property-high;) | *===* |
+| [`Low;`](#property-low;) | *===* |
+| [`Open;`](#property-open;) | *===* |
+| [`OpenPos;`](#property-openpos;) | *===* |
+| [`Time;`](#property-time;) | *===* |
+| [`TotalVol;`](#property-totalvol;) | *===* |
+| [`Volume;`](#property-volume;) | *===* |
 
 
 
@@ -36,8 +36,7 @@ public sealed class Bar
 # Методы
 
 ## `Bar`<a href="method-bar" id="method-bar"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public Bar()
 ```
@@ -48,64 +47,56 @@ public Bar()
 # Свойства
 
 ## `Close;`<a href="property-close;" id="property-close;"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public double Close; {}
 ```  
 ***
 
 ## `High;`<a href="property-high;" id="property-high;"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public double High; {}
 ```  
 ***
 
 ## `Low;`<a href="property-low;" id="property-low;"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public double Low; {}
 ```  
 ***
 
 ## `Open;`<a href="property-open;" id="property-open;"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public double Open; {}
 ```  
 ***
 
 ## `OpenPos;`<a href="property-openpos;" id="property-openpos;"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public long OpenPos; {}
 ```  
 ***
 
 ## `Time;`<a href="property-time;" id="property-time;"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public DateTime Time; {}
 ```  
 ***
 
 ## `TotalVol;`<a href="property-totalvol;" id="property-totalvol;"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public long TotalVol; {}
 ```  
 ***
 
 ## `Volume;`<a href="property-volume;" id="property-volume;"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public long Volume; {}
 ```  

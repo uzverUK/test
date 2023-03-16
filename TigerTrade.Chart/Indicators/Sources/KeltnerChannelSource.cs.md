@@ -2,7 +2,7 @@
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -13,19 +13,19 @@ public sealed class KeltnerChannelSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](#method-copysettings) | *Описание* |
-| [`GetSeries`](#method-getseries) | *Описание* |
-| [`GetSeriesList`](#method-getserieslist) | *Описание* |
-| [`KeltnerChannelSource`](#method-keltnerchannelsource) | *Описание* |
-| [`ToString`](#method-tostring) | *Описание* |
+| [`CopySettings`](#method-copysettings) | *===* |
+| [`GetSeries`](#method-getseries) | *===* |
+| [`GetSeriesList`](#method-getserieslist) | *===* |
+| [`KeltnerChannelSource`](#method-keltnerchannelsource) | *===* |
+| [`ToString`](#method-tostring) | *===* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Factor`](#property-factor) | *Описание* |
-| [`MaType`](#property-matype) | *Описание* |
-| [`Period`](#property-period) | *Описание* |
-| [`Source`](#property-source) | *Описание* |
+| [`Factor`](#property-factor) | *===* |
+| [`MaType`](#property-matype) | *===* |
+| [`Period`](#property-period) | *===* |
+| [`Source`](#property-source) | *===* |
 
 
 
@@ -36,45 +36,41 @@ public sealed class KeltnerChannelSource : IndicatorSourceBase
 # Методы
 
 ## `CopySettings`<a href="method-copysettings" id="method-copysettings"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public override void CopySettings(IndicatorSourceBase source)
 ```
 
 `source` <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
- *Описание*  
+ *===*  
 
 
 ***  
 
 ## `GetSeries`<a href="method-getseries" id="method-getseries"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public override double[] GetSeries(IndicatorsHelper helper)
 ```
 `helper` <mark style="color:red;">*`IndicatorsHelper`*</mark>  
- *Описание*  
+ *===*  
 
 
 ***  
 
 ## `GetSeriesList`<a href="method-getserieslist" id="method-getserieslist"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public override IEnumerable<string> GetSeriesList()
 ```
 `List` <mark style="color:red;">*`new`*</mark>  
- *Описание*  
+ *===*  
 
 
 ***  
 
 ## `KeltnerChannelSource`<a href="method-keltnerchannelsource" id="method-keltnerchannelsource"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public KeltnerChannelSource()
 ```
@@ -82,8 +78,7 @@ public KeltnerChannelSource()
 ***  
 
 ## `ToString`<a href="method-tostring" id="method-tostring"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public override string ToString()
 ```
@@ -94,32 +89,28 @@ public override string ToString()
 # Свойства
 
 ## `Factor`<a href="property-factor" id="property-factor"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public int Factor { get; set; }
 ```  
 ***
 
 ## `MaType`<a href="property-matype" id="property-matype"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public IndicatorMaType MaType { get; set; }
 ```  
 ***
 
 ## `Period`<a href="property-period" id="property-period"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public int Period { get; set; }
 ```  
 ***
 
 ## `Source`<a href="property-source" id="property-source"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public IndicatorSourceBase Source { get; set; }
 ```  

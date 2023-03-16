@@ -2,7 +2,7 @@
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Common](../../../TigerTrade.Chart/Indicators/Common.md)
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -13,8 +13,8 @@ public sealed class IndicatorIntParam : IndicatorParam<int>
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorIntParam`](#method-indicatorintparam) | *Описание* |
-| [`Set`](#method-set) | *Описание* |
+| [`IndicatorIntParam`](#method-indicatorintparam) | *===* |
+| [`Set`](#method-set) | *===* |
 
 
 
@@ -25,8 +25,7 @@ public sealed class IndicatorIntParam : IndicatorParam<int>
 # Методы
 
 ## `IndicatorIntParam`<a href="method-indicatorintparam" id="method-indicatorintparam"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public IndicatorIntParam()
 ```
@@ -34,33 +33,31 @@ public IndicatorIntParam()
 ***  
 
 ## `IndicatorIntParam`<a href="method-indicatorintparam" id="method-indicatorintparam"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public IndicatorIntParam()
 public IndicatorIntParam(int value)
 ```
 
 `value` <mark style="color:red;">*`int`*</mark>  
- *Описание*  
+ *===*  
 
 
 ***  
 
 ## `Set`<a href="method-set" id="method-set"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public bool Set(string key, int value, int minValue = -2147483648, int maxValue = 2147483647)
 ```
 `key` <mark style="color:red;">*`string`*</mark>  
- *Описание*  
+ *===*  
 
 `minValue` <mark style="color:red;">*`int`*</mark>  
- *Описание*  
+ *===*  
 
 `maxValue` <mark style="color:red;">*`int`*</mark>  
- *Описание*  
+ *===*  
 
 
 ***  

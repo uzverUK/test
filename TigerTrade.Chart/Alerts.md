@@ -3,17 +3,17 @@
 
 `namespace` [TigerTrade.Chart](../TigerTrade.Chart.md).Alerts
 
-Описание
+===
 
 
 ### Перечисления
 | Название | Описание |
 | --- | --- |
-| [`ChartAlertExecution`](./Alerts/ChartAlertExecution.cs.md) | *Описание* |
-| [`ChartAlertPlayDuration`](./Alerts/ChartAlertPlayDuration.cs.md) | *Описание* |
+| [`ChartAlertExecution`](./Alerts/ChartAlertExecution.cs.md) | *===* |
+| [`ChartAlertPlayDuration`](./Alerts/ChartAlertPlayDuration.cs.md) | *===* |
 
 ### Классы
 | Название | Описание |
 | --- | --- |
-| [`ChartAlertInfo`](./Alerts/ChartAlertInfo.cs.md) | *Описание* |
-| [`ChartAlertSettings`](./Alerts/ChartAlertSettings.cs.md) | *Описание* |
+| [`ChartAlertInfo`](./Alerts/ChartAlertInfo.cs.md) | *===* |
+| [`ChartAlertSettings`](./Alerts/ChartAlertSettings.cs.md) | *===* |

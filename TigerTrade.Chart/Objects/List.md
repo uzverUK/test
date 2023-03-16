@@ -3,39 +3,39 @@
 
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Objects](../../TigerTrade.Chart/Objects.md).List
 
-Описание
+===
 
 
 ### Перечисления
 | Название | Описание |
 | --- | --- |
-| [`ElliottWaveDegree`](./List/ElliottWaveDegree.cs.md) | *Описание* |
-| [`RegressionType`](./List/RegressionType.cs.md) | *Описание* |
-| [`VolumeProfileMaximumType`](./List/VolumeProfileMaximumType.cs.md) | *Описание* |
-| [`VolumeProfileType`](./List/VolumeProfileType.cs.md) | *Описание* |
+| [`ElliottWaveDegree`](./List/ElliottWaveDegree.cs.md) | *===* |
+| [`RegressionType`](./List/RegressionType.cs.md) | *===* |
+| [`VolumeProfileMaximumType`](./List/VolumeProfileMaximumType.cs.md) | *===* |
+| [`VolumeProfileType`](./List/VolumeProfileType.cs.md) | *===* |
 
 ### Классы
 | Название | Описание |
 | --- | --- |
-| [`ArrowObject`](./List/ArrowObject.cs.md) | *Описание* |
-| [`BrushObject`](./List/BrushObject.cs.md) | *Описание* |
-| [`ChannelObject`](./List/ChannelObject.cs.md) | *Описание* |
-| [`CircleObject`](./List/CircleObject.cs.md) | *Описание* |
-| [`ElliottWaveObject`](./List/ElliottWaveObject.cs.md) | *Описание* |
-| [`EllipseObject`](./List/EllipseObject.cs.md) | *Описание* |
-| [`FibonacciExtensionsObject`](./List/FibonacciExtensionsObject.cs.md) | *Описание* |
-| [`FibonacciFanObject`](./List/FibonacciFanObject.cs.md) | *Описание* |
-| [`FibonacciRetracementObject`](./List/FibonacciRetracementObject.cs.md) | *Описание* |
-| [`FibonacciTimeZonesObject`](./List/FibonacciTimeZonesObject.cs.md) | *Описание* |
-| [`HorizontalLineObject`](./List/HorizontalLineObject.cs.md) | *Описание* |
-| [`HorizontalRayObject`](./List/HorizontalRayObject.cs.md) | *Описание* |
-| [`IconObject`](./List/IconObject.cs.md) | *Описание* |
-| [`LabelObject`](./List/LabelObject.cs.md) | *Описание* |
-| [`LineObject`](./List/LineObject.cs.md) | *Описание* |
-| [`LinearRegressionObject`](./List/LinearRegressionObject.cs.md) | *Описание* |
-| [`PriceRangeObject`](./List/PriceRangeObject.cs.md) | *Описание* |
-| [`RectangleObject`](./List/RectangleObject.cs.md) | *Описание* |
-| [`RulerObject`](./List/RulerObject.cs.md) | *Описание* |
-| [`TimeRangeObject`](./List/TimeRangeObject.cs.md) | *Описание* |
-| [`TriangleObject`](./List/TriangleObject.cs.md) | *Описание* |
-| [`VerticalLineObject`](./List/VerticalLineObject.cs.md) | *Описание* |
+| [`ArrowObject`](./List/ArrowObject.cs.md) | *===* |
+| [`BrushObject`](./List/BrushObject.cs.md) | *===* |
+| [`ChannelObject`](./List/ChannelObject.cs.md) | *===* |
+| [`CircleObject`](./List/CircleObject.cs.md) | *===* |
+| [`ElliottWaveObject`](./List/ElliottWaveObject.cs.md) | *===* |
+| [`EllipseObject`](./List/EllipseObject.cs.md) | *===* |
+| [`FibonacciExtensionsObject`](./List/FibonacciExtensionsObject.cs.md) | *===* |
+| [`FibonacciFanObject`](./List/FibonacciFanObject.cs.md) | *===* |
+| [`FibonacciRetracementObject`](./List/FibonacciRetracementObject.cs.md) | *===* |
+| [`FibonacciTimeZonesObject`](./List/FibonacciTimeZonesObject.cs.md) | *===* |
+| [`HorizontalLineObject`](./List/HorizontalLineObject.cs.md) | *===* |
+| [`HorizontalRayObject`](./List/HorizontalRayObject.cs.md) | *===* |
+| [`IconObject`](./List/IconObject.cs.md) | *===* |
+| [`LabelObject`](./List/LabelObject.cs.md) | *===* |
+| [`LineObject`](./List/LineObject.cs.md) | *===* |
+| [`LinearRegressionObject`](./List/LinearRegressionObject.cs.md) | *===* |
+| [`PriceRangeObject`](./List/PriceRangeObject.cs.md) | *===* |
+| [`RectangleObject`](./List/RectangleObject.cs.md) | *===* |
+| [`RulerObject`](./List/RulerObject.cs.md) | *===* |
+| [`TimeRangeObject`](./List/TimeRangeObject.cs.md) | *===* |
+| [`TriangleObject`](./List/TriangleObject.cs.md) | *===* |
+| [`VerticalLineObject`](./List/VerticalLineObject.cs.md) | *===* |

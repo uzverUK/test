@@ -4,7 +4,7 @@
 
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -15,9 +15,9 @@ public enum ChartSeriesColorSplit
 ### Значения
 | Название | Описание |
 | --- | --- |
-| ` NoSplit` | *Описание* |
-| ` UpDown` | *Описание* |
-| ` UpDownZero` | *Описание* |
+| ` NoSplit` | *===* |
+| ` UpDown` | *===* |
+| ` UpDownZero` | *===* |
 
 
 

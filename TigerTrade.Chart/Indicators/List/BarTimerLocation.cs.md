@@ -4,7 +4,7 @@
 
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -15,15 +15,15 @@ public enum BarTimerLocation
 ### Значения
 | Название | Описание |
 | --- | --- |
-| ` LeftTop` | *Описание* |
-| ` LeftMiddle` | *Описание* |
-| ` LeftBottom` | *Описание* |
-| ` CenterTop` | *Описание* |
-| ` CenterMiddle` | *Описание* |
-| ` CenterBottom` | *Описание* |
-| ` RightTop` | *Описание* |
-| ` RightMiddle` | *Описание* |
-| ` RightBottom` | *Описание* |
+| ` LeftTop` | *===* |
+| ` LeftMiddle` | *===* |
+| ` LeftBottom` | *===* |
+| ` CenterTop` | *===* |
+| ` CenterMiddle` | *===* |
+| ` CenterBottom` | *===* |
+| ` RightTop` | *===* |
+| ` RightMiddle` | *===* |
+| ` RightBottom` | *===* |
 
 
 

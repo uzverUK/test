@@ -4,7 +4,7 @@
 
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -15,15 +15,15 @@ public enum ElliottWaveDegree
 ### Значения
 | Название | Описание |
 | --- | --- |
-| ` GrandSupercycle` | *Описание* |
-| ` Supercycle` | *Описание* |
-| ` Cycle` | *Описание* |
-| ` Primary` | *Описание* |
-| ` Intermediate` | *Описание* |
-| ` Minor` | *Описание* |
-| ` Minute` | *Описание* |
-| ` Minuette` | *Описание* |
-| ` Subminuette` | *Описание* |
+| ` GrandSupercycle` | *===* |
+| ` Supercycle` | *===* |
+| ` Cycle` | *===* |
+| ` Primary` | *===* |
+| ` Intermediate` | *===* |
+| ` Minor` | *===* |
+| ` Minute` | *===* |
+| ` Minuette` | *===* |
+| ` Subminuette` | *===* |
 
 
 

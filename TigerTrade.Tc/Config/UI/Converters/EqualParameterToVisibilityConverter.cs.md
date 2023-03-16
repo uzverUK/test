@@ -2,7 +2,7 @@
 `namespace` [TigerTrade.Tc](../../../../TigerTrade.Tc.md).[Config](../../../../TigerTrade.Tc/Config.md).[UI](../../../../TigerTrade.Tc/Config/UI.md).[Converters](../../../../TigerTrade.Tc/Config/UI/Converters.md)
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -13,14 +13,14 @@ internal class EqualParameterToVisibilityConverter : IValueConverter
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Convert`](#method-convert) | *Описание* |
-| [`ConvertBack`](#method-convertback) | *Описание* |
-| [`EqualParameterToVisibilityConverter`](#method-equalparametertovisibilityconverter) | *Описание* |
+| [`Convert`](#method-convert) | *===* |
+| [`ConvertBack`](#method-convertback) | *===* |
+| [`EqualParameterToVisibilityConverter`](#method-equalparametertovisibilityconverter) | *===* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`IsInverted`](#property-isinverted) | *Описание* |
+| [`IsInverted`](#property-isinverted) | *===* |
 
 
 
@@ -31,30 +31,28 @@ internal class EqualParameterToVisibilityConverter : IValueConverter
 # Методы
 
 ## `Convert`<a href="method-convert" id="method-convert"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public object Convert(object _param1, Type _param2, object _param3, CultureInfo _param4)
 ```
 
 `_param1` <mark style="color:red;">*`object`*</mark>  
- *Описание*  
+ *===*  
 
 `_param2` <mark style="color:red;">*`Type`*</mark>  
- *Описание*  
+ *===*  
 
 `_param3` <mark style="color:red;">*`object`*</mark>  
- *Описание*  
+ *===*  
 
 `_param4` <mark style="color:red;">*`CultureInfo`*</mark>  
- *Описание*  
+ *===*  
 
 
 ***  
 
 ## `ConvertBack`<a href="method-convertback" id="method-convertback"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public object ConvertBack(object _param1, Type _param2, object _param3, CultureInfo _param4)
 ```
@@ -62,8 +60,7 @@ public object ConvertBack(object _param1, Type _param2, object _param3, CultureI
 ***  
 
 ## `EqualParameterToVisibilityConverter`<a href="method-equalparametertovisibilityconverter" id="method-equalparametertovisibilityconverter"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public EqualParameterToVisibilityConverter()
 ```
@@ -74,8 +71,7 @@ public EqualParameterToVisibilityConverter()
 # Свойства
 
 ## `IsInverted`<a href="property-isinverted" id="property-isinverted"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public bool IsInverted { get; set; }
 ```  

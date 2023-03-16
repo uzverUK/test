@@ -4,7 +4,7 @@
 
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -15,13 +15,13 @@ public enum VolumeProfilesMaximumType
 ### Значения
 | Название | Описание |
 | --- | --- |
-| ` Volume` | *Описание* |
-| ` Trades` | *Описание* |
-| ` Delta` | *Описание* |
-| ` DeltaPlus` | *Описание* |
-| ` DeltaMinus` | *Описание* |
-| ` Bid` | *Описание* |
-| ` Ask` | *Описание* |
+| ` Volume` | *===* |
+| ` Trades` | *===* |
+| ` Delta` | *===* |
+| ` DeltaPlus` | *===* |
+| ` DeltaMinus` | *===* |
+| ` Bid` | *===* |
+| ` Ask` | *===* |
 
 
 

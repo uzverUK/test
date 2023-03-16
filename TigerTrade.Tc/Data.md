@@ -3,40 +3,40 @@
 
 `namespace` [TigerTrade.Tc](../TigerTrade.Tc.md).Data
 
-Описание
+===
 
 
 ### Перечисления
 | Название | Описание |
 | --- | --- |
-| [`OrderGroup`](./Data/OrderGroup.cs.md) | *Описание* |
-| [`OrderState`](./Data/OrderState.cs.md) | *Описание* |
-| [`OrderStatus`](./Data/OrderStatus.cs.md) | *Описание* |
-| [`OrderType`](./Data/OrderType.cs.md) | *Описание* |
-| [`OrderValidity`](./Data/OrderValidity.cs.md) | *Описание* |
-| [`Side`](./Data/Side.cs.md) | *Описание* |
-| [`SubscriptionFlags`](./Data/SubscriptionFlags.cs.md) | *Описание* |
-| [`SymbolOptType`](./Data/SymbolOptType.cs.md) | *Описание* |
-| [`SymbolType`](./Data/SymbolType.cs.md) | *Описание* |
+| [`OrderGroup`](./Data/OrderGroup.cs.md) | *===* |
+| [`OrderState`](./Data/OrderState.cs.md) | *===* |
+| [`OrderStatus`](./Data/OrderStatus.cs.md) | *===* |
+| [`OrderType`](./Data/OrderType.cs.md) | *===* |
+| [`OrderValidity`](./Data/OrderValidity.cs.md) | *===* |
+| [`Side`](./Data/Side.cs.md) | *===* |
+| [`SubscriptionFlags`](./Data/SubscriptionFlags.cs.md) | *===* |
+| [`SymbolOptType`](./Data/SymbolOptType.cs.md) | *===* |
+| [`SymbolType`](./Data/SymbolType.cs.md) | *===* |
 
 ### Классы
 | Название | Описание |
 | --- | --- |
-| [`Account`](./Data/Account.cs.md) | *Описание* |
-| [`Bar`](./Data/Bar.cs.md) | *Описание* |
-| [`Execution`](./Data/Execution.cs.md) | *Описание* |
-| [`ExitStrategy`](./Data/ExitStrategy.cs.md) | *Описание* |
-| [`ExitStrategyTarget`](./Data/ExitStrategyTarget.cs.md) | *Описание* |
-| [`MarketDepth`](./Data/MarketDepth.cs.md) | *Описание* |
-| [`Order`](./Data/Order.cs.md) | *Описание* |
-| [`OrderInfo`](./Data/OrderInfo.cs.md) | *Описание* |
-| [`OrderModifyParams`](./Data/OrderModifyParams.cs.md) | *Описание* |
-| [`Portfolio`](./Data/Portfolio.cs.md) | *Описание* |
-| [`Position`](./Data/Position.cs.md) | *Описание* |
-| [`Security`](./Data/Security.cs.md) | *Описание* |
-| [`Symbol`](./Data/Symbol.cs.md) | *Описание* |
-| [`Tick`](./Data/Tick.cs.md) | *Описание* |
-| [`TrustAccount`](./Data/TrustAccount.cs.md) | *Описание* |
-| [`UserDeal`](./Data/UserDeal.cs.md) | *Описание* |
-| [`UserPosition`](./Data/UserPosition.cs.md) | *Описание* |
-| [`UserPositionData`](./Data/UserPositionData.cs.md) | *Описание* |
+| [`Account`](./Data/Account.cs.md) | *===* |
+| [`Bar`](./Data/Bar.cs.md) | *===* |
+| [`Execution`](./Data/Execution.cs.md) | *===* |
+| [`ExitStrategy`](./Data/ExitStrategy.cs.md) | *===* |
+| [`ExitStrategyTarget`](./Data/ExitStrategyTarget.cs.md) | *===* |
+| [`MarketDepth`](./Data/MarketDepth.cs.md) | *===* |
+| [`Order`](./Data/Order.cs.md) | *===* |
+| [`OrderInfo`](./Data/OrderInfo.cs.md) | *===* |
+| [`OrderModifyParams`](./Data/OrderModifyParams.cs.md) | *===* |
+| [`Portfolio`](./Data/Portfolio.cs.md) | *===* |
+| [`Position`](./Data/Position.cs.md) | *===* |
+| [`Security`](./Data/Security.cs.md) | *===* |
+| [`Symbol`](./Data/Symbol.cs.md) | *===* |
+| [`Tick`](./Data/Tick.cs.md) | *===* |
+| [`TrustAccount`](./Data/TrustAccount.cs.md) | *===* |
+| [`UserDeal`](./Data/UserDeal.cs.md) | *===* |
+| [`UserPosition`](./Data/UserPosition.cs.md) | *===* |
+| [`UserPositionData`](./Data/UserPositionData.cs.md) | *===* |

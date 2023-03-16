@@ -2,7 +2,7 @@
 `namespace` [TigerTrade.Chart](../../../TigerTrade.Chart.md).[Indicators](../../../TigerTrade.Chart/Indicators.md).[Sources](../../../TigerTrade.Chart/Indicators/Sources.md)
 
 
-Описание
+===
 
 ### Синтаксис
 ```csharp
@@ -13,17 +13,17 @@ public sealed class CMOSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CMOSource`](#method-cmosource) | *Описание* |
-| [`CopySettings`](#method-copysettings) | *Описание* |
-| [`GetSeries`](#method-getseries) | *Описание* |
-| [`GetSeriesList`](#method-getserieslist) | *Описание* |
-| [`ToString`](#method-tostring) | *Описание* |
+| [`CMOSource`](#method-cmosource) | *===* |
+| [`CopySettings`](#method-copysettings) | *===* |
+| [`GetSeries`](#method-getseries) | *===* |
+| [`GetSeriesList`](#method-getserieslist) | *===* |
+| [`ToString`](#method-tostring) | *===* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Period`](#property-period) | *Описание* |
-| [`Source`](#property-source) | *Описание* |
+| [`Period`](#property-period) | *===* |
+| [`Source`](#property-source) | *===* |
 
 
 
@@ -34,8 +34,7 @@ public sealed class CMOSource : IndicatorSourceBase
 # Методы
 
 ## `CMOSource`<a href="method-cmosource" id="method-cmosource"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public CMOSource()
 ```
@@ -43,45 +42,41 @@ public CMOSource()
 ***  
 
 ## `CopySettings`<a href="method-copysettings" id="method-copysettings"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public override void CopySettings(IndicatorSourceBase source)
 ```
 
 `source` <mark style="color:red;">*`IndicatorSourceBase`*</mark>  
- *Описание*  
+ *===*  
 
 
 ***  
 
 ## `GetSeries`<a href="method-getseries" id="method-getseries"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public override double[] GetSeries(IndicatorsHelper helper)
 ```
 `helper` <mark style="color:red;">*`IndicatorsHelper`*</mark>  
- *Описание*  
+ *===*  
 
 
 ***  
 
 ## `GetSeriesList`<a href="method-getserieslist" id="method-getserieslist"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public override IEnumerable<string> GetSeriesList()
 ```
 `List` <mark style="color:red;">*`new`*</mark>  
- *Описание*  
+ *===*  
 
 
 ***  
 
 ## `ToString`<a href="method-tostring" id="method-tostring"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public override string ToString()
 ```
@@ -92,16 +87,14 @@ public override string ToString()
 # Свойства
 
 ## `Period`<a href="property-period" id="property-period"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public int Period { get; set; }
 ```  
 ***
 
 ## `Source`<a href="property-source" id="property-source"></a>
-Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
-
+===
 ```csharp
 public IndicatorSourceBase Source { get; set; }
 ```  

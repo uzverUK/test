@@ -3,19 +3,19 @@
 
 `namespace` [TigerTrade.Tc](../TigerTrade.Tc.md).History
 
-Описание
+===
 
 
 ### Интерфейсы
 | Название | Описание |
 | --- | --- |
-| [`IDataReader1`](./History/IDataReader1.cs.md) | *Описание* |
+| [`IDataReader1`](./History/IDataReader1.cs.md) | *===* |
 
 ### Классы
 | Название | Описание |
 | --- | --- |
-| [`BarsRequest`](./History/BarsRequest.cs.md) | *Описание* |
-| [`BarsResponce`](./History/BarsResponce.cs.md) | *Описание* |
-| [`TicksReader`](./History/TicksReader.cs.md) | *Описание* |
-| [`TicksRequest`](./History/TicksRequest.cs.md) | *Описание* |
-| [`TicksResponce`](./History/TicksResponce.cs.md) | *Описание* |
+| [`BarsRequest`](./History/BarsRequest.cs.md) | *===* |
+| [`BarsResponce`](./History/BarsResponce.cs.md) | *===* |
+| [`TicksReader`](./History/TicksReader.cs.md) | *===* |
+| [`TicksRequest`](./History/TicksRequest.cs.md) | *===* |
+| [`TicksResponce`](./History/TicksResponce.cs.md) | *===* |

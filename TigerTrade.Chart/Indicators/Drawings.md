@@ -3,18 +3,18 @@
 
 `namespace` [TigerTrade.Chart](../../TigerTrade.Chart.md).[Indicators](../../TigerTrade.Chart/Indicators.md).Drawings
 
-Описание
+===
 
 
 ### Пространства имён
 | Название | Описание |
 | --- | --- |
-| [`Enums`](./Drawings/Enums.md) | *Описание* |
+| [`Enums`](./Drawings/Enums.md) | *===* |
 
 ### Классы
 | Название | Описание |
 | --- | --- |
-| [`ChartLevel`](./Drawings/ChartLevel.cs.md) | *Описание* |
-| [`ChartLine`](./Drawings/ChartLine.cs.md) | *Описание* |
-| [`ChartRegion`](./Drawings/ChartRegion.cs.md) | *Описание* |
-| [`ChartSeries`](./Drawings/ChartSeries.cs.md) | *Описание* |
+| [`ChartLevel`](./Drawings/ChartLevel.cs.md) | *===* |
+| [`ChartLine`](./Drawings/ChartLine.cs.md) | *===* |
+| [`ChartRegion`](./Drawings/ChartRegion.cs.md) | *===* |
+| [`ChartSeries`](./Drawings/ChartSeries.cs.md) | *===* |
