@@ -31,7 +31,7 @@ public sealed class EllipseObject : PolygonObjectBase
 ***  
 # Методы
 
-## `Draw`<a href="InObject-m" id="InObject-m"></a>
+## `Draw`<a href="Draw-m" id="Draw-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `EllipseObject`<a href="InObject-m" id="InObject-m"></a>
+## `EllipseObject`<a href="EllipseObject-m" id="EllipseObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public EllipseObject()
 
 ***  
 
-## `GetMinDist`<a href="InObject-m" id="InObject-m"></a>
+## `GetMinDist`<a href="GetMinDist-m" id="GetMinDist-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

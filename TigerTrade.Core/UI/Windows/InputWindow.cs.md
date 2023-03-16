@@ -30,7 +30,7 @@ public sealed class InputWindow : Window, IComponentConnector
 ***  
 # Методы
 
-## `InitializeComponent`<a href="InputWindow-m" id="InputWindow-m"></a>
+## `InitializeComponent`<a href="InitializeComponent-m" id="InitializeComponent-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ public InputWindow()
  ***  
 # Свойства
 
-## `Message`<a href="Value-p" id="Value-p"></a>
+## `Message`<a href="Message-p" id="Message-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

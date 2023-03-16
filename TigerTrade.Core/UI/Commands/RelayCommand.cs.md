@@ -30,7 +30,7 @@ public sealed class RelayCommand : ICommand
 ***  
 # Методы
 
-## `CanExecute`<a href="RelayCommand-m" id="RelayCommand-m"></a>
+## `CanExecute`<a href="CanExecute-m" id="CanExecute-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public bool CanExecute(object parameter)
 
 ***  
 
-## `Execute`<a href="RelayCommand-m" id="RelayCommand-m"></a>
+## `Execute`<a href="Execute-m" id="Execute-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

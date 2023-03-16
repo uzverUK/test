@@ -35,7 +35,7 @@ public abstract class LineObjectBase : ObjectBase
 ***  
 # Методы
 
-## `ApplyTheme`<a href="LineObjectBase-m" id="LineObjectBase-m"></a>
+## `ApplyTheme`<a href="ApplyTheme-m" id="ApplyTheme-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate`<a href="LineObjectBase-m" id="LineObjectBase-m"></a>
+## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -75,7 +75,7 @@ protected LineObjectBase()
  ***  
 # Свойства
 
-## `LineBrush`<a href="int-p" id="int-p"></a>
+## `LineBrush`<a href="LineBrush-p" id="LineBrush-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ protected XBrush LineBrush { get; private set; }
 ```  
 ***
 
-## `LineColor`<a href="int-p" id="int-p"></a>
+## `LineColor`<a href="LineColor-p" id="LineColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public XColor LineColor { get; set; }
 ```  
 ***
 
-## `LinePen`<a href="int-p" id="int-p"></a>
+## `LinePen`<a href="LinePen-p" id="LinePen-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ public XPen LinePen { get; private set; }
 ```  
 ***
 
-## `LineStyle`<a href="int-p" id="int-p"></a>
+## `LineStyle`<a href="LineStyle-p" id="LineStyle-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -107,7 +107,7 @@ public XDashStyle LineStyle { get; set; }
 ```  
 ***
 
-## `LineWidth`<a href="int-p" id="int-p"></a>
+## `LineWidth`<a href="LineWidth-p" id="LineWidth-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

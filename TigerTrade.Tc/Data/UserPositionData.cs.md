@@ -32,7 +32,7 @@ public sealed class UserPositionData
 ***  
 # Методы
 
-## `ClearPosition`<a href="HidePosition-m" id="HidePosition-m"></a>
+## `ClearPosition`<a href="ClearPosition-m" id="ClearPosition-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ public static UserPositionData ClearPosition(string connectionID, string positio
 
 ***  
 
-## `ClosePosition`<a href="HidePosition-m" id="HidePosition-m"></a>
+## `ClosePosition`<a href="ClosePosition-m" id="ClosePosition-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -82,7 +82,7 @@ public static UserPositionData HidePosition(string connectionID, string position
  ***  
 # Свойства
 
-## `IsLive`<a href="IsSimulator-p" id="IsSimulator-p"></a>
+## `IsLive`<a href="IsLive-p" id="IsLive-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -90,7 +90,7 @@ public bool IsLive { get; }
 ```  
 ***
 
-## `IsPlayer`<a href="IsSimulator-p" id="IsSimulator-p"></a>
+## `IsPlayer`<a href="IsPlayer-p" id="IsPlayer-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

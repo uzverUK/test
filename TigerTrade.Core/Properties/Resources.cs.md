@@ -23,7 +23,7 @@ public class Resources
  ***  
 # Свойства
 
-## `Culture`<a href="ResourceManager-p" id="ResourceManager-p"></a>
+## `Culture`<a href="Culture-p" id="Culture-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -34,7 +34,7 @@ public sealed class EldersForceIndexSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="ToString-m" id="ToString-m"></a>
+## `CopySettings`<a href="CopySettings-m" id="CopySettings-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `EldersForceIndexSource`<a href="ToString-m" id="ToString-m"></a>
+## `EldersForceIndexSource`<a href="EldersForceIndexSource-m" id="EldersForceIndexSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public EldersForceIndexSource()
 
 ***  
 
-## `GetSeries`<a href="ToString-m" id="ToString-m"></a>
+## `GetSeries`<a href="GetSeries-m" id="GetSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="ToString-m" id="ToString-m"></a>
+## `GetSeriesList`<a href="GetSeriesList-m" id="GetSeriesList-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `MaType`<a href="Source-p" id="Source-p"></a>
+## `MaType`<a href="MaType-p" id="MaType-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public IndicatorMaType MaType { get; set; }
 ```  
 ***
 
-## `Period`<a href="Source-p" id="Source-p"></a>
+## `Period`<a href="Period-p" id="Period-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -44,7 +44,7 @@ public sealed class RulerObject : LineObjectBase
 ***  
 # Методы
 
-## `ApplyTheme`<a href="RulerObject-m" id="RulerObject-m"></a>
+## `ApplyTheme`<a href="ApplyTheme-m" id="ApplyTheme-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate`<a href="RulerObject-m" id="RulerObject-m"></a>
+## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="RulerObject-m" id="RulerObject-m"></a>
+## `Draw`<a href="Draw-m" id="Draw-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `InObject`<a href="RulerObject-m" id="RulerObject-m"></a>
+## `InObject`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -102,7 +102,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `PrettyFormatTimeSpan`<a href="RulerObject-m" id="RulerObject-m"></a>
+## `PrettyFormatTimeSpan`<a href="PrettyFormatTimeSpan-m" id="PrettyFormatTimeSpan-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -126,7 +126,7 @@ public RulerObject()
  ***  
 # Свойства
 
-## `ShowInfoAsk`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowInfoAsk`<a href="ShowInfoAsk-p" id="ShowInfoAsk-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -134,7 +134,7 @@ public bool ShowInfoAsk { get; set; }
 ```  
 ***
 
-## `ShowInfoBars`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowInfoBars`<a href="ShowInfoBars-p" id="ShowInfoBars-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -142,7 +142,7 @@ public bool ShowInfoBars { get; set; }
 ```  
 ***
 
-## `ShowInfoBid`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowInfoBid`<a href="ShowInfoBid-p" id="ShowInfoBid-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -150,7 +150,7 @@ public bool ShowInfoBid { get; set; }
 ```  
 ***
 
-## `ShowInfoChange`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowInfoChange`<a href="ShowInfoChange-p" id="ShowInfoChange-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -158,7 +158,7 @@ public bool ShowInfoChange { get; set; }
 ```  
 ***
 
-## `ShowInfoDelta`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowInfoDelta`<a href="ShowInfoDelta-p" id="ShowInfoDelta-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -166,7 +166,7 @@ public bool ShowInfoDelta { get; set; }
 ```  
 ***
 
-## `ShowInfoPrice`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowInfoPrice`<a href="ShowInfoPrice-p" id="ShowInfoPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -174,7 +174,7 @@ public bool ShowInfoPrice { get; set; }
 ```  
 ***
 
-## `ShowInfoTicks`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowInfoTicks`<a href="ShowInfoTicks-p" id="ShowInfoTicks-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -182,7 +182,7 @@ public bool ShowInfoTicks { get; set; }
 ```  
 ***
 
-## `ShowInfoTime`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowInfoTime`<a href="ShowInfoTime-p" id="ShowInfoTime-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -190,7 +190,7 @@ public bool ShowInfoTime { get; set; }
 ```  
 ***
 
-## `ShowInfoTrades`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowInfoTrades`<a href="ShowInfoTrades-p" id="ShowInfoTrades-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -198,7 +198,7 @@ public bool ShowInfoTrades { get; set; }
 ```  
 ***
 
-## `ShowInfoVolume`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowInfoVolume`<a href="ShowInfoVolume-p" id="ShowInfoVolume-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -206,7 +206,7 @@ public bool ShowInfoVolume { get; set; }
 ```  
 ***
 
-## `TextColor`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `TextColor`<a href="TextColor-p" id="TextColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

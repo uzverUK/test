@@ -31,7 +31,7 @@ public sealed class TriangleObject : PolygonObjectBase
 ***  
 # Методы
 
-## `Draw`<a href="TriangleObject-m" id="TriangleObject-m"></a>
+## `Draw`<a href="Draw-m" id="Draw-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `GetMinDist`<a href="TriangleObject-m" id="TriangleObject-m"></a>
+## `GetMinDist`<a href="GetMinDist-m" id="GetMinDist-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ protected override int GetMinDist(int x, int y)
 
 ***  
 
-## `InObject`<a href="TriangleObject-m" id="TriangleObject-m"></a>
+## `InObject`<a href="InObject-m" id="InObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -25,7 +25,7 @@ public interface IDynamicProperty
 ***  
 # Методы
 
-## `GetPropertyHasStandardValues`<a href="GetPropertyVisibility-m" id="GetPropertyVisibility-m"></a>
+## `GetPropertyHasStandardValues`<a href="GetPropertyHasStandardValues-m" id="GetPropertyHasStandardValues-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -38,7 +38,7 @@ bool GetPropertyHasStandardValues(string propertyName)
 
 ***  
 
-## `GetPropertyReadOnly`<a href="GetPropertyVisibility-m" id="GetPropertyVisibility-m"></a>
+## `GetPropertyReadOnly`<a href="GetPropertyReadOnly-m" id="GetPropertyReadOnly-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

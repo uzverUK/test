@@ -63,7 +63,7 @@ public Position(Symbol symbol, Account account, string uniqueID)
  ***  
 # Свойства
 
-## `Account`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `Account`<a href="Account-p" id="Account-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public Account Account { get; }
 ```  
 ***
 
-## `AvgPrice`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `AvgPrice`<a href="AvgPrice-p" id="AvgPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public double AvgPrice { get; set; }
 ```  
 ***
 
-## `Comission`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `Comission`<a href="Comission-p" id="Comission-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ public double? Comission { get; set; }
 ```  
 ***
 
-## `Connection`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `Connection`<a href="Connection-p" id="Connection-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -95,7 +95,7 @@ public ConnectionInfo Connection { get; }
 ```  
 ***
 
-## `Liquidation`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `Liquidation`<a href="Liquidation-p" id="Liquidation-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -103,7 +103,7 @@ public double? Liquidation { get; set; }
 ```  
 ***
 
-## `PosNumID`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `PosNumID`<a href="PosNumID-p" id="PosNumID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -111,7 +111,7 @@ public long PosNumID { get; set; }
 ```  
 ***
 
-## `PositionID`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `PositionID`<a href="PositionID-p" id="PositionID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -119,7 +119,7 @@ public string PositionID { get; }
 ```  
 ***
 
-## `Quantity`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `Quantity`<a href="Quantity-p" id="Quantity-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -127,7 +127,7 @@ public long Quantity { get; set; }
 ```  
 ***
 
-## `RealizedPnl`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `RealizedPnl`<a href="RealizedPnl-p" id="RealizedPnl-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -135,7 +135,7 @@ public double? RealizedPnl { get; set; }
 ```  
 ***
 
-## `Register`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `Register`<a href="Register-p" id="Register-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -143,7 +143,7 @@ public string Register { get; set; }
 ```  
 ***
 
-## `SlPrice`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `SlPrice`<a href="SlPrice-p" id="SlPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -151,7 +151,7 @@ public double? SlPrice { get; set; }
 ```  
 ***
 
-## `Symbol`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `Symbol`<a href="Symbol-p" id="Symbol-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -159,7 +159,7 @@ public Symbol Symbol { get; }
 ```  
 ***
 
-## `TpPrice`<a href="UnrealizedPnl-p" id="UnrealizedPnl-p"></a>
+## `TpPrice`<a href="TpPrice-p" id="TpPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

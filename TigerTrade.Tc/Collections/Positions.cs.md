@@ -26,7 +26,7 @@ internal sealed class Positions
 ***  
 # Методы
 
-## `Clear`<a href="pnYwtI4miN9-m" id="pnYwtI4miN9-m"></a>
+## `Clear`<a href="Clear-m" id="Clear-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -35,7 +35,7 @@ public void Clear()
 
 ***  
 
-## `Positions`<a href="pnYwtI4miN9-m" id="pnYwtI4miN9-m"></a>
+## `Positions`<a href="Positions-m" id="Positions-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -44,7 +44,7 @@ public Positions()
 
 ***  
 
-## `pJiwtxrhGY0`<a href="pnYwtI4miN9-m" id="pnYwtI4miN9-m"></a>
+## `pJiwtxrhGY0`<a href="pJiwtxrhGY0-m" id="pJiwtxrhGY0-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

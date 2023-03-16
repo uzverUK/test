@@ -27,7 +27,7 @@ public sealed class BWMFISource : IndicatorSourceBase
 ***  
 # Методы
 
-## `BWMFISource`<a href="ToString-m" id="ToString-m"></a>
+## `BWMFISource`<a href="BWMFISource-m" id="BWMFISource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -36,7 +36,7 @@ public BWMFISource()
 
 ***  
 
-## `CopySettings`<a href="ToString-m" id="ToString-m"></a>
+## `CopySettings`<a href="CopySettings-m" id="CopySettings-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="ToString-m" id="ToString-m"></a>
+## `GetSeries`<a href="GetSeries-m" id="GetSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="ToString-m" id="ToString-m"></a>
+## `GetSeriesList`<a href="GetSeriesList-m" id="GetSeriesList-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

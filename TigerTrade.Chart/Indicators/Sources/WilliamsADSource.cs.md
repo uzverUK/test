@@ -27,7 +27,7 @@ public sealed class WilliamsADSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="WilliamsADSource-m" id="WilliamsADSource-m"></a>
+## `CopySettings`<a href="CopySettings-m" id="CopySettings-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="WilliamsADSource-m" id="WilliamsADSource-m"></a>
+## `GetSeries`<a href="GetSeries-m" id="GetSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="WilliamsADSource-m" id="WilliamsADSource-m"></a>
+## `GetSeriesList`<a href="GetSeriesList-m" id="GetSeriesList-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString`<a href="WilliamsADSource-m" id="WilliamsADSource-m"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

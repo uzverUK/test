@@ -31,7 +31,7 @@ public sealed class TicksReader : BinReader<Tick>, IDataReader<Tick>
 ***  
 # Методы
 
-## `ReadItem`<a href="Reset-m" id="Reset-m"></a>
+## `ReadItem`<a href="ReadItem-m" id="ReadItem-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public override void Reset()
  ***  
 # Свойства
 
-## `PriceStep`<a href="Version-p" id="Version-p"></a>
+## `PriceStep`<a href="PriceStep-p" id="PriceStep-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public double PriceStep { get; private set; }
 ```  
 ***
 
-## `SizeStep`<a href="Version-p" id="Version-p"></a>
+## `SizeStep`<a href="SizeStep-p" id="SizeStep-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

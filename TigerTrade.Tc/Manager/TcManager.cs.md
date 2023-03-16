@@ -42,7 +42,7 @@ public static class TcManager
 ***  
 # Методы
 
-## `GetMarketDataConnections`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `GetMarketDataConnections`<a href="GetMarketDataConnections-m" id="GetMarketDataConnections-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -55,7 +55,7 @@ public static ConnectionInfo[] GetMarketDataConnections(string symbolId)
 
 ***  
 
-## `Load`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `Load`<a href="Load-m" id="Load-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public static void Load(byte[] clients)
 
 ***  
 
-## `LoadSimulator`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `LoadSimulator`<a href="LoadSimulator-m" id="LoadSimulator-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ public static void LoadSimulator()
 
 ***  
 
-## `Save`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `Save`<a href="Save-m" id="Save-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -82,7 +82,7 @@ public static void Save()
 
 ***  
 
-## `SaveSettings`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `SaveSettings`<a href="SaveSettings-m" id="SaveSettings-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public static void SaveSettings()
 
 ***  
 
-## `SetCancelOrdersOnClose`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `SetCancelOrdersOnClose`<a href="SetCancelOrdersOnClose-m" id="SetCancelOrdersOnClose-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -104,7 +104,7 @@ public static void SetCancelOrdersOnClose(bool value)
 
 ***  
 
-## `SetDynamicStopLoss`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `SetDynamicStopLoss`<a href="SetDynamicStopLoss-m" id="SetDynamicStopLoss-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public static void SetDynamicStopLoss(bool value)
 
 ***  
 
-## `SetDynamicTakeProfit`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `SetDynamicTakeProfit`<a href="SetDynamicTakeProfit-m" id="SetDynamicTakeProfit-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -126,7 +126,7 @@ public static void SetDynamicTakeProfit(bool value)
 
 ***  
 
-## `SetPositionPartClose`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `SetPositionPartClose`<a href="SetPositionPartClose-m" id="SetPositionPartClose-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -135,7 +135,7 @@ public static void SetPositionPartClose(bool value)
 
 ***  
 
-## `SetServerStopLoss`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `SetServerStopLoss`<a href="SetServerStopLoss-m" id="SetServerStopLoss-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -148,7 +148,7 @@ public static void SetServerStopLoss(bool value)
 
 ***  
 
-## `SetServerTakeProfit`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `SetServerTakeProfit`<a href="SetServerTakeProfit-m" id="SetServerTakeProfit-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -157,7 +157,7 @@ public static void SetServerTakeProfit(bool value)
 
 ***  
 
-## `SetViewDeletedSymbols`<a href="SetViewOptionsSymbols-m" id="SetViewOptionsSymbols-m"></a>
+## `SetViewDeletedSymbols`<a href="SetViewDeletedSymbols-m" id="SetViewDeletedSymbols-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -182,7 +182,7 @@ public static void SetViewOptionsSymbols(bool value)
  ***  
 # Свойства
 
-## `AccountValidator`<a href="SortSettings-p" id="SortSettings-p"></a>
+## `AccountValidator`<a href="AccountValidator-p" id="AccountValidator-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -190,7 +190,7 @@ public static zYmFZWVu32MJxRml897u AccountValidator { get; private set; }
 ```  
 ***
 
-## `CommonDataPath;`<a href="SortSettings-p" id="SortSettings-p"></a>
+## `CommonDataPath;`<a href="CommonDataPath;-p" id="CommonDataPath;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

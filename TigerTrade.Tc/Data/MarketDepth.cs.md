@@ -52,7 +52,7 @@ public MarketDepth(Symbol symbol)
  ***  
 # Свойства
 
-## `Asks`<a href="Symbol-p" id="Symbol-p"></a>
+## `Asks`<a href="Asks-p" id="Asks-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public Dictionary<long, long> Asks { get; internal set; }
 ```  
 ***
 
-## `AsksSize`<a href="Symbol-p" id="Symbol-p"></a>
+## `AsksSize`<a href="AsksSize-p" id="AsksSize-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public long AsksSize { get; internal set; }
 ```  
 ***
 
-## `BestAskPrice`<a href="Symbol-p" id="Symbol-p"></a>
+## `BestAskPrice`<a href="BestAskPrice-p" id="BestAskPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -76,7 +76,7 @@ public long BestAskPrice { get; internal set; }
 ```  
 ***
 
-## `BestAskSize`<a href="Symbol-p" id="Symbol-p"></a>
+## `BestAskSize`<a href="BestAskSize-p" id="BestAskSize-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -84,7 +84,7 @@ public long BestAskSize { get; internal set; }
 ```  
 ***
 
-## `BestBidPrice`<a href="Symbol-p" id="Symbol-p"></a>
+## `BestBidPrice`<a href="BestBidPrice-p" id="BestBidPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -92,7 +92,7 @@ public long BestBidPrice { get; internal set; }
 ```  
 ***
 
-## `BestBidSize`<a href="Symbol-p" id="Symbol-p"></a>
+## `BestBidSize`<a href="BestBidSize-p" id="BestBidSize-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -100,7 +100,7 @@ public long BestBidSize { get; internal set; }
 ```  
 ***
 
-## `Bids`<a href="Symbol-p" id="Symbol-p"></a>
+## `Bids`<a href="Bids-p" id="Bids-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -108,7 +108,7 @@ public Dictionary<long, long> Bids { get; internal set; }
 ```  
 ***
 
-## `BidsSize`<a href="Symbol-p" id="Symbol-p"></a>
+## `BidsSize`<a href="BidsSize-p" id="BidsSize-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

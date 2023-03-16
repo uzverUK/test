@@ -43,7 +43,7 @@ public HistoryPlayerStats()
  ***  
 # Свойства
 
-## `CurrentTime`<a href="SymbolName-p" id="SymbolName-p"></a>
+## `CurrentTime`<a href="CurrentTime-p" id="CurrentTime-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ public DateTime CurrentTime { get; set; }
 ```  
 ***
 
-## `RecordDate`<a href="SymbolName-p" id="SymbolName-p"></a>
+## `RecordDate`<a href="RecordDate-p" id="RecordDate-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public DateTime RecordDate { get; set; }
 ```  
 ***
 
-## `SymbolID`<a href="SymbolName-p" id="SymbolName-p"></a>
+## `SymbolID`<a href="SymbolID-p" id="SymbolID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

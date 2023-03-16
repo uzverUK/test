@@ -29,7 +29,7 @@ public sealed class HorizontalRayObject : HorizontalLineObject
 ***  
 # Методы
 
-## `Draw`<a href="HorizontalRayObject-m" id="HorizontalRayObject-m"></a>
+## `Draw`<a href="Draw-m" id="Draw-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

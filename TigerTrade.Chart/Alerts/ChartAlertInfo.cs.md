@@ -53,7 +53,7 @@ public ChartAlertInfo(ChartAlertSettings settings, string message)
  ***  
 # Свойства
 
-## `Duration`<a href="Signal-p" id="Signal-p"></a>
+## `Duration`<a href="Duration-p" id="Duration-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public int Duration { get; }
 ```  
 ***
 
-## `Log`<a href="Signal-p" id="Signal-p"></a>
+## `Log`<a href="Log-p" id="Log-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public bool Log { get; }
 ```  
 ***
 
-## `Message`<a href="Signal-p" id="Signal-p"></a>
+## `Message`<a href="Message-p" id="Message-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public string Message { get; }
 ```  
 ***
 
-## `SendEmail`<a href="Signal-p" id="Signal-p"></a>
+## `SendEmail`<a href="SendEmail-p" id="SendEmail-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public bool SendEmail { get; }
 ```  
 ***
 
-## `SendTelegram`<a href="Signal-p" id="Signal-p"></a>
+## `SendTelegram`<a href="SendTelegram-p" id="SendTelegram-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public bool SendTelegram { get; }
 ```  
 ***
 
-## `ShowPopup`<a href="Signal-p" id="Signal-p"></a>
+## `ShowPopup`<a href="ShowPopup-p" id="ShowPopup-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

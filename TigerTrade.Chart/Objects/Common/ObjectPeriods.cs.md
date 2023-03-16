@@ -32,7 +32,7 @@ public sealed class ObjectPeriods
 ***  
 # Методы
 
-## `CheckPeriod`<a href="Update-m" id="Update-m"></a>
+## `CheckPeriod`<a href="CheckPeriod-m" id="CheckPeriod-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public bool CheckPeriod(IChartPeriod dc)
 
 ***  
 
-## `Copy`<a href="Update-m" id="Update-m"></a>
+## `Copy`<a href="Copy-m" id="Copy-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ public ObjectPeriods Copy()
 
 ***  
 
-## `Equals`<a href="Update-m" id="Update-m"></a>
+## `Equals`<a href="Equals-m" id="Equals-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public override bool Equals(object obj)
 
 ***  
 
-## `ObjectPeriods`<a href="Update-m" id="Update-m"></a>
+## `ObjectPeriods`<a href="ObjectPeriods-m" id="ObjectPeriods-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

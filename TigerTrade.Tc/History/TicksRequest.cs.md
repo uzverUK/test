@@ -56,7 +56,7 @@ public TicksRequest(Symbol symbol, string requestID, string targetID, bool custo
  ***  
 # Свойства
 
-## `CustomData`<a href="TargetID-p" id="TargetID-p"></a>
+## `CustomData`<a href="CustomData-p" id="CustomData-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public bool CustomData { get; set; }
 ```  
 ***
 
-## `RequestID`<a href="TargetID-p" id="TargetID-p"></a>
+## `RequestID`<a href="RequestID-p" id="RequestID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public string RequestID { get; set; }
 ```  
 ***
 
-## `Symbol`<a href="TargetID-p" id="TargetID-p"></a>
+## `Symbol`<a href="Symbol-p" id="Symbol-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

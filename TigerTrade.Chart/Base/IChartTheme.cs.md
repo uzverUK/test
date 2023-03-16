@@ -94,7 +94,7 @@ XColor GetNextColor()
  ***  
 # Свойства
 
-## `BarDownBarColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `BarDownBarColor`<a href="BarDownBarColor-p" id="BarDownBarColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -102,7 +102,7 @@ XColor BarDownBarColor { get; }
 ```  
 ***
 
-## `BarUpBarColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `BarUpBarColor`<a href="BarUpBarColor-p" id="BarUpBarColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -110,7 +110,7 @@ XColor BarUpBarColor { get; }
 ```  
 ***
 
-## `CandleDownBackColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `CandleDownBackColor`<a href="CandleDownBackColor-p" id="CandleDownBackColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -118,7 +118,7 @@ XColor CandleDownBackColor { get; }
 ```  
 ***
 
-## `CandleDownBorderColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `CandleDownBorderColor`<a href="CandleDownBorderColor-p" id="CandleDownBorderColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -126,7 +126,7 @@ XColor CandleDownBorderColor { get; }
 ```  
 ***
 
-## `CandleDownWickColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `CandleDownWickColor`<a href="CandleDownWickColor-p" id="CandleDownWickColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -134,7 +134,7 @@ XColor CandleDownWickColor { get; }
 ```  
 ***
 
-## `CandleUpBackColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `CandleUpBackColor`<a href="CandleUpBackColor-p" id="CandleUpBackColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -142,7 +142,7 @@ XColor CandleUpBackColor { get; }
 ```  
 ***
 
-## `CandleUpBorderColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `CandleUpBorderColor`<a href="CandleUpBorderColor-p" id="CandleUpBorderColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -150,7 +150,7 @@ XColor CandleUpBorderColor { get; }
 ```  
 ***
 
-## `CandleUpWickColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `CandleUpWickColor`<a href="CandleUpWickColor-p" id="CandleUpWickColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -158,7 +158,7 @@ XColor CandleUpWickColor { get; }
 ```  
 ***
 
-## `ChartAxisColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartAxisColor`<a href="ChartAxisColor-p" id="ChartAxisColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -166,7 +166,7 @@ XColor ChartAxisColor { get; }
 ```  
 ***
 
-## `ChartBackBrush`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartBackBrush`<a href="ChartBackBrush-p" id="ChartBackBrush-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -174,7 +174,7 @@ XBrush ChartBackBrush { get; }
 ```  
 ***
 
-## `ChartBackColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartBackColor`<a href="ChartBackColor-p" id="ChartBackColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -182,7 +182,7 @@ XColor ChartBackColor { get; }
 ```  
 ***
 
-## `ChartCpFillBrush`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartCpFillBrush`<a href="ChartCpFillBrush-p" id="ChartCpFillBrush-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -190,7 +190,7 @@ XBrush ChartCpFillBrush { get; }
 ```  
 ***
 
-## `ChartCpFillColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartCpFillColor`<a href="ChartCpFillColor-p" id="ChartCpFillColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -198,7 +198,7 @@ XColor ChartCpFillColor { get; }
 ```  
 ***
 
-## `ChartCpLineColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartCpLineColor`<a href="ChartCpLineColor-p" id="ChartCpLineColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -206,7 +206,7 @@ XColor ChartCpLineColor { get; }
 ```  
 ***
 
-## `ChartCpLinePen`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartCpLinePen`<a href="ChartCpLinePen-p" id="ChartCpLinePen-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -214,7 +214,7 @@ XPen ChartCpLinePen { get; }
 ```  
 ***
 
-## `ChartFontBrush`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartFontBrush`<a href="ChartFontBrush-p" id="ChartFontBrush-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -222,7 +222,7 @@ XBrush ChartFontBrush { get; }
 ```  
 ***
 
-## `ChartFontColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartFontColor`<a href="ChartFontColor-p" id="ChartFontColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -230,7 +230,7 @@ XColor ChartFontColor { get; }
 ```  
 ***
 
-## `ChartGridColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartGridColor`<a href="ChartGridColor-p" id="ChartGridColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -238,7 +238,7 @@ XColor ChartGridColor { get; }
 ```  
 ***
 
-## `ChartObjectFillColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartObjectFillColor`<a href="ChartObjectFillColor-p" id="ChartObjectFillColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -246,7 +246,7 @@ XColor ChartObjectFillColor { get; }
 ```  
 ***
 
-## `ChartObjectLineColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ChartObjectLineColor`<a href="ChartObjectLineColor-p" id="ChartObjectLineColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -254,7 +254,7 @@ XColor ChartObjectLineColor { get; }
 ```  
 ***
 
-## `ClusterAskColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterAskColor`<a href="ClusterAskColor-p" id="ClusterAskColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -262,7 +262,7 @@ XColor ClusterAskColor { get; }
 ```  
 ***
 
-## `ClusterBidColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterBidColor`<a href="ClusterBidColor-p" id="ClusterBidColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -270,7 +270,7 @@ XColor ClusterBidColor { get; }
 ```  
 ***
 
-## `ClusterBorderColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterBorderColor`<a href="ClusterBorderColor-p" id="ClusterBorderColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -278,7 +278,7 @@ XColor ClusterBorderColor { get; }
 ```  
 ***
 
-## `ClusterCellBorderColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterCellBorderColor`<a href="ClusterCellBorderColor-p" id="ClusterCellBorderColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -286,7 +286,7 @@ XColor ClusterCellBorderColor { get; }
 ```  
 ***
 
-## `ClusterCellBorderMaxColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterCellBorderMaxColor`<a href="ClusterCellBorderMaxColor-p" id="ClusterCellBorderMaxColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -294,7 +294,7 @@ XColor ClusterCellBorderMaxColor { get; }
 ```  
 ***
 
-## `ClusterDeltaMinusColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterDeltaMinusColor`<a href="ClusterDeltaMinusColor-p" id="ClusterDeltaMinusColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -302,7 +302,7 @@ XColor ClusterDeltaMinusColor { get; }
 ```  
 ***
 
-## `ClusterDeltaPlusColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterDeltaPlusColor`<a href="ClusterDeltaPlusColor-p" id="ClusterDeltaPlusColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -310,7 +310,7 @@ XColor ClusterDeltaPlusColor { get; }
 ```  
 ***
 
-## `ClusterDownBarColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterDownBarColor`<a href="ClusterDownBarColor-p" id="ClusterDownBarColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -318,7 +318,7 @@ XColor ClusterDownBarColor { get; }
 ```  
 ***
 
-## `ClusterNeutralBidAskColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterNeutralBidAskColor`<a href="ClusterNeutralBidAskColor-p" id="ClusterNeutralBidAskColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -326,7 +326,7 @@ XColor ClusterNeutralBidAskColor { get; }
 ```  
 ***
 
-## `ClusterOpenIntMinusColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterOpenIntMinusColor`<a href="ClusterOpenIntMinusColor-p" id="ClusterOpenIntMinusColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -334,7 +334,7 @@ XColor ClusterOpenIntMinusColor { get; }
 ```  
 ***
 
-## `ClusterOpenIntPlusColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterOpenIntPlusColor`<a href="ClusterOpenIntPlusColor-p" id="ClusterOpenIntPlusColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -342,7 +342,7 @@ XColor ClusterOpenIntPlusColor { get; }
 ```  
 ***
 
-## `ClusterStrongAskColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterStrongAskColor`<a href="ClusterStrongAskColor-p" id="ClusterStrongAskColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -350,7 +350,7 @@ XColor ClusterStrongAskColor { get; }
 ```  
 ***
 
-## `ClusterStrongBidColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterStrongBidColor`<a href="ClusterStrongBidColor-p" id="ClusterStrongBidColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -358,7 +358,7 @@ XColor ClusterStrongBidColor { get; }
 ```  
 ***
 
-## `ClusterTextColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterTextColor`<a href="ClusterTextColor-p" id="ClusterTextColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -366,7 +366,7 @@ XColor ClusterTextColor { get; }
 ```  
 ***
 
-## `ClusterTradesColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterTradesColor`<a href="ClusterTradesColor-p" id="ClusterTradesColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -374,7 +374,7 @@ XColor ClusterTradesColor { get; }
 ```  
 ***
 
-## `ClusterUpBarColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterUpBarColor`<a href="ClusterUpBarColor-p" id="ClusterUpBarColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -382,7 +382,7 @@ XColor ClusterUpBarColor { get; }
 ```  
 ***
 
-## `ClusterValueAreaColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterValueAreaColor`<a href="ClusterValueAreaColor-p" id="ClusterValueAreaColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -390,7 +390,7 @@ XColor ClusterValueAreaColor { get; }
 ```  
 ***
 
-## `ClusterVolumeColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `ClusterVolumeColor`<a href="ClusterVolumeColor-p" id="ClusterVolumeColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -398,7 +398,7 @@ XColor ClusterVolumeColor { get; }
 ```  
 ***
 
-## `HistogramAskColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `HistogramAskColor`<a href="HistogramAskColor-p" id="HistogramAskColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -406,7 +406,7 @@ XColor HistogramAskColor { get; }
 ```  
 ***
 
-## `HistogramBidColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `HistogramBidColor`<a href="HistogramBidColor-p" id="HistogramBidColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -414,7 +414,7 @@ XColor HistogramBidColor { get; }
 ```  
 ***
 
-## `HistogramCellBorderColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `HistogramCellBorderColor`<a href="HistogramCellBorderColor-p" id="HistogramCellBorderColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -422,7 +422,7 @@ XColor HistogramCellBorderColor { get; }
 ```  
 ***
 
-## `HistogramDeltaMinusColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `HistogramDeltaMinusColor`<a href="HistogramDeltaMinusColor-p" id="HistogramDeltaMinusColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -430,7 +430,7 @@ XColor HistogramDeltaMinusColor { get; }
 ```  
 ***
 
-## `HistogramDeltaPlusColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `HistogramDeltaPlusColor`<a href="HistogramDeltaPlusColor-p" id="HistogramDeltaPlusColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -438,7 +438,7 @@ XColor HistogramDeltaPlusColor { get; }
 ```  
 ***
 
-## `HistogramMaximumColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `HistogramMaximumColor`<a href="HistogramMaximumColor-p" id="HistogramMaximumColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -446,7 +446,7 @@ XColor HistogramMaximumColor { get; }
 ```  
 ***
 
-## `HistogramTextColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `HistogramTextColor`<a href="HistogramTextColor-p" id="HistogramTextColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -454,7 +454,7 @@ XColor HistogramTextColor { get; }
 ```  
 ***
 
-## `HistogramTradesColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `HistogramTradesColor`<a href="HistogramTradesColor-p" id="HistogramTradesColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -462,7 +462,7 @@ XColor HistogramTradesColor { get; }
 ```  
 ***
 
-## `HistogramValueAreaColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `HistogramValueAreaColor`<a href="HistogramValueAreaColor-p" id="HistogramValueAreaColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -470,7 +470,7 @@ XColor HistogramValueAreaColor { get; }
 ```  
 ***
 
-## `HistogramVolumeColor`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `HistogramVolumeColor`<a href="HistogramVolumeColor-p" id="HistogramVolumeColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -478,7 +478,7 @@ XColor HistogramVolumeColor { get; }
 ```  
 ***
 
-## `PaletteColor1`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `PaletteColor1`<a href="PaletteColor1-p" id="PaletteColor1-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -486,7 +486,7 @@ XColor PaletteColor1 { get; }
 ```  
 ***
 
-## `PaletteColor2`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `PaletteColor2`<a href="PaletteColor2-p" id="PaletteColor2-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -494,7 +494,7 @@ XColor PaletteColor2 { get; }
 ```  
 ***
 
-## `PaletteColor3`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `PaletteColor3`<a href="PaletteColor3-p" id="PaletteColor3-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -502,7 +502,7 @@ XColor PaletteColor3 { get; }
 ```  
 ***
 
-## `PaletteColor4`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `PaletteColor4`<a href="PaletteColor4-p" id="PaletteColor4-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -510,7 +510,7 @@ XColor PaletteColor4 { get; }
 ```  
 ***
 
-## `PaletteColor5`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `PaletteColor5`<a href="PaletteColor5-p" id="PaletteColor5-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -518,7 +518,7 @@ XColor PaletteColor5 { get; }
 ```  
 ***
 
-## `PaletteColor6`<a href="PaletteColor7-p" id="PaletteColor7-p"></a>
+## `PaletteColor6`<a href="PaletteColor6-p" id="PaletteColor6-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

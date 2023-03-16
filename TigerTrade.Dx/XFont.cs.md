@@ -37,7 +37,7 @@ public sealed class XFont
 ***  
 # Методы
 
-## `GetFont`<a href="XFont-m" id="XFont-m"></a>
+## `GetFont`<a href="GetFont-m" id="GetFont-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public static FontFamily GetFont(string fontName)
 
 ***  
 
-## `GetFontName`<a href="XFont-m" id="XFont-m"></a>
+## `GetFontName`<a href="GetFontName-m" id="GetFontName-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public static string GetFontName(FontFamily fontFamily)
 
 ***  
 
-## `GetHeight`<a href="XFont-m" id="XFont-m"></a>
+## `GetHeight`<a href="GetHeight-m" id="GetHeight-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public double GetHeight()
 
 ***  
 
-## `GetWidth`<a href="XFont-m" id="XFont-m"></a>
+## `GetWidth`<a href="GetWidth-m" id="GetWidth-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -90,7 +90,7 @@ public double GetWidth(string text)
 
 ***  
 
-## `ToString`<a href="XFont-m" id="XFont-m"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -168,7 +168,7 @@ public XFont(string fontName, double size, bool bold)
  ***  
 # Свойства
 
-## `Bold`<a href="UniquID-p" id="UniquID-p"></a>
+## `Bold`<a href="Bold-p" id="Bold-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -176,7 +176,7 @@ public bool Bold { get; }
 ```  
 ***
 
-## `Fonts;`<a href="UniquID-p" id="UniquID-p"></a>
+## `Fonts;`<a href="Fonts;-p" id="Fonts;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -184,7 +184,7 @@ public static List<string> Fonts; {}
 ```  
 ***
 
-## `Name`<a href="UniquID-p" id="UniquID-p"></a>
+## `Name`<a href="Name-p" id="Name-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -192,7 +192,7 @@ public string Name { get; }
 ```  
 ***
 
-## `Size`<a href="UniquID-p" id="UniquID-p"></a>
+## `Size`<a href="Size-p" id="Size-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

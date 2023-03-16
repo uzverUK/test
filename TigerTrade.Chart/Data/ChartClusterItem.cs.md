@@ -39,7 +39,7 @@ public sealed class ChartClusterItem : IChartClusterItem
 ***  
 # Методы
 
-## `Add`<a href="ChartClusterItem-m" id="ChartClusterItem-m"></a>
+## `Add`<a href="Add-m" id="Add-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public ChartClusterItem(IChartClusterItem item)
  ***  
 # Свойства
 
-## `Ask`<a href="Volume-p" id="Volume-p"></a>
+## `Ask`<a href="Ask-p" id="Ask-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public Decimal Ask { get; set; }
 ```  
 ***
 
-## `AskTrades`<a href="Volume-p" id="Volume-p"></a>
+## `AskTrades`<a href="AskTrades-p" id="AskTrades-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ public int AskTrades { get; set; }
 ```  
 ***
 
-## `Bid`<a href="Volume-p" id="Volume-p"></a>
+## `Bid`<a href="Bid-p" id="Bid-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -107,7 +107,7 @@ public Decimal Bid { get; set; }
 ```  
 ***
 
-## `BidTrades`<a href="Volume-p" id="Volume-p"></a>
+## `BidTrades`<a href="BidTrades-p" id="BidTrades-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public int BidTrades { get; set; }
 ```  
 ***
 
-## `Delta`<a href="Volume-p" id="Volume-p"></a>
+## `Delta`<a href="Delta-p" id="Delta-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -123,7 +123,7 @@ public Decimal Delta { get; }
 ```  
 ***
 
-## `OpenPos`<a href="Volume-p" id="Volume-p"></a>
+## `OpenPos`<a href="OpenPos-p" id="OpenPos-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -131,7 +131,7 @@ public long OpenPos { get; }
 ```  
 ***
 
-## `OpenPosAsk`<a href="Volume-p" id="Volume-p"></a>
+## `OpenPosAsk`<a href="OpenPosAsk-p" id="OpenPosAsk-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -139,7 +139,7 @@ public long OpenPosAsk { get; set; }
 ```  
 ***
 
-## `OpenPosBid`<a href="Volume-p" id="Volume-p"></a>
+## `OpenPosBid`<a href="OpenPosBid-p" id="OpenPosBid-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -147,7 +147,7 @@ public long OpenPosBid { get; set; }
 ```  
 ***
 
-## `Price`<a href="Volume-p" id="Volume-p"></a>
+## `Price`<a href="Price-p" id="Price-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -155,7 +155,7 @@ public Decimal Price { get; set; }
 ```  
 ***
 
-## `Trades`<a href="Volume-p" id="Volume-p"></a>
+## `Trades`<a href="Trades-p" id="Trades-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

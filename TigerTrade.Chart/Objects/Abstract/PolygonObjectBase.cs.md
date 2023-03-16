@@ -39,7 +39,7 @@ public abstract class PolygonObjectBase : ObjectBase
 ***  
 # Методы
 
-## `ApplyTheme`<a href="PolygonObjectBase-m" id="PolygonObjectBase-m"></a>
+## `ApplyTheme`<a href="ApplyTheme-m" id="ApplyTheme-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate`<a href="PolygonObjectBase-m" id="PolygonObjectBase-m"></a>
+## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ protected PolygonObjectBase()
  ***  
 # Свойства
 
-## `BackBrush`<a href="int-p" id="int-p"></a>
+## `BackBrush`<a href="BackBrush-p" id="BackBrush-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ protected XBrush BackBrush { get; private set; }
 ```  
 ***
 
-## `BackColor`<a href="int-p" id="int-p"></a>
+## `BackColor`<a href="BackColor-p" id="BackColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -95,7 +95,7 @@ public XColor BackColor { get; set; }
 ```  
 ***
 
-## `DrawBack`<a href="int-p" id="int-p"></a>
+## `DrawBack`<a href="DrawBack-p" id="DrawBack-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -103,7 +103,7 @@ public bool DrawBack { get; set; }
 ```  
 ***
 
-## `DrawBorder`<a href="int-p" id="int-p"></a>
+## `DrawBorder`<a href="DrawBorder-p" id="DrawBorder-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -111,7 +111,7 @@ public bool DrawBorder { get; set; }
 ```  
 ***
 
-## `LineBrush`<a href="int-p" id="int-p"></a>
+## `LineBrush`<a href="LineBrush-p" id="LineBrush-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -119,7 +119,7 @@ protected XBrush LineBrush { get; private set; }
 ```  
 ***
 
-## `LineColor`<a href="int-p" id="int-p"></a>
+## `LineColor`<a href="LineColor-p" id="LineColor-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -127,7 +127,7 @@ public XColor LineColor { get; set; }
 ```  
 ***
 
-## `LinePen`<a href="int-p" id="int-p"></a>
+## `LinePen`<a href="LinePen-p" id="LinePen-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -135,7 +135,7 @@ protected XPen LinePen { get; private set; }
 ```  
 ***
 
-## `LineStyle`<a href="int-p" id="int-p"></a>
+## `LineStyle`<a href="LineStyle-p" id="LineStyle-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -143,7 +143,7 @@ public XDashStyle LineStyle { get; set; }
 ```  
 ***
 
-## `LineWidth`<a href="int-p" id="int-p"></a>
+## `LineWidth`<a href="LineWidth-p" id="LineWidth-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -29,7 +29,7 @@ public interface IChartDeal
  ***  
 # Свойства
 
-## `ClosePrice`<a href="Quantity-p" id="Quantity-p"></a>
+## `ClosePrice`<a href="ClosePrice-p" id="ClosePrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -37,7 +37,7 @@ double ClosePrice { get; }
 ```  
 ***
 
-## `CloseTime`<a href="Quantity-p" id="Quantity-p"></a>
+## `CloseTime`<a href="CloseTime-p" id="CloseTime-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ DateTime CloseTime { get; }
 ```  
 ***
 
-## `IsBuy`<a href="Quantity-p" id="Quantity-p"></a>
+## `IsBuy`<a href="IsBuy-p" id="IsBuy-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ bool IsBuy { get; }
 ```  
 ***
 
-## `OpenPrice`<a href="Quantity-p" id="Quantity-p"></a>
+## `OpenPrice`<a href="OpenPrice-p" id="OpenPrice-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ double OpenPrice { get; }
 ```  
 ***
 
-## `OpenTime`<a href="Quantity-p" id="Quantity-p"></a>
+## `OpenTime`<a href="OpenTime-p" id="OpenTime-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ DateTime OpenTime { get; }
 ```  
 ***
 
-## `Points`<a href="Quantity-p" id="Quantity-p"></a>
+## `Points`<a href="Points-p" id="Points-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ double Points { get; }
 ```  
 ***
 
-## `Profit`<a href="Quantity-p" id="Quantity-p"></a>
+## `Profit`<a href="Profit-p" id="Profit-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -24,7 +24,7 @@ public sealed class IndicatorNullIntParam : IndicatorParam<int?>
 ***  
 # Методы
 
-## `IndicatorNullIntParam`<a href="Set-m" id="Set-m"></a>
+## `IndicatorNullIntParam`<a href="IndicatorNullIntParam-m" id="IndicatorNullIntParam-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -33,7 +33,7 @@ public IndicatorNullIntParam()
 
 ***  
 
-## `IndicatorNullIntParam`<a href="Set-m" id="Set-m"></a>
+## `IndicatorNullIntParam`<a href="IndicatorNullIntParam-m" id="IndicatorNullIntParam-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

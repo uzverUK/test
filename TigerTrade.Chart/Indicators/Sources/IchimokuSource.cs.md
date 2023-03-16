@@ -36,7 +36,7 @@ public sealed class IchimokuSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="ToString-m" id="ToString-m"></a>
+## `CopySettings`<a href="CopySettings-m" id="CopySettings-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="ToString-m" id="ToString-m"></a>
+## `GetSeries`<a href="GetSeries-m" id="GetSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="ToString-m" id="ToString-m"></a>
+## `GetSeriesList`<a href="GetSeriesList-m" id="GetSeriesList-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `IchimokuSource`<a href="ToString-m" id="ToString-m"></a>
+## `IchimokuSource`<a href="IchimokuSource-m" id="IchimokuSource-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -94,7 +94,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Period1`<a href="Period5-p" id="Period5-p"></a>
+## `Period1`<a href="Period1-p" id="Period1-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -102,7 +102,7 @@ public int Period1 { get; set; }
 ```  
 ***
 
-## `Period2`<a href="Period5-p" id="Period5-p"></a>
+## `Period2`<a href="Period2-p" id="Period2-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -110,7 +110,7 @@ public int Period2 { get; set; }
 ```  
 ***
 
-## `Period3`<a href="Period5-p" id="Period5-p"></a>
+## `Period3`<a href="Period3-p" id="Period3-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -118,7 +118,7 @@ public int Period3 { get; set; }
 ```  
 ***
 
-## `Period4`<a href="Period5-p" id="Period5-p"></a>
+## `Period4`<a href="Period4-p" id="Period4-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -34,7 +34,7 @@ public sealed class UltimateOscillatorSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="UltimateOscillatorSource-m" id="UltimateOscillatorSource-m"></a>
+## `CopySettings`<a href="CopySettings-m" id="CopySettings-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="UltimateOscillatorSource-m" id="UltimateOscillatorSource-m"></a>
+## `GetSeries`<a href="GetSeries-m" id="GetSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="UltimateOscillatorSource-m" id="UltimateOscillatorSource-m"></a>
+## `GetSeriesList`<a href="GetSeriesList-m" id="GetSeriesList-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString`<a href="UltimateOscillatorSource-m" id="UltimateOscillatorSource-m"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -92,7 +92,7 @@ public UltimateOscillatorSource()
  ***  
 # Свойства
 
-## `Period1`<a href="Period3-p" id="Period3-p"></a>
+## `Period1`<a href="Period1-p" id="Period1-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -100,7 +100,7 @@ public int Period1 { get; set; }
 ```  
 ***
 
-## `Period2`<a href="Period3-p" id="Period3-p"></a>
+## `Period2`<a href="Period2-p" id="Period2-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

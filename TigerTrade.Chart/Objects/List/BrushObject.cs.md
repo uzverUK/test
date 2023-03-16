@@ -35,7 +35,7 @@ public sealed class BrushObject : LineObjectBase
 ***  
 # Методы
 
-## `AddPoint`<a href="InObject-m" id="InObject-m"></a>
+## `AddPoint`<a href="AddPoint-m" id="AddPoint-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public void AddPoint(ObjectPoint op)
 
 ***  
 
-## `ApplyTheme`<a href="InObject-m" id="InObject-m"></a>
+## `ApplyTheme`<a href="ApplyTheme-m" id="ApplyTheme-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `BrushObject`<a href="InObject-m" id="InObject-m"></a>
+## `BrushObject`<a href="BrushObject-m" id="BrushObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public BrushObject()
 
 ***  
 
-## `CopyTemplate`<a href="InObject-m" id="InObject-m"></a>
+## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="InObject-m" id="InObject-m"></a>
+## `Draw`<a href="Draw-m" id="Draw-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -100,7 +100,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `GetMinDist`<a href="InObject-m" id="InObject-m"></a>
+## `GetMinDist`<a href="GetMinDist-m" id="GetMinDist-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -127,7 +127,7 @@ protected override bool InObject(int x, int y)
  ***  
 # Свойства
 
-## `Points`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `Points`<a href="Points-p" id="Points-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

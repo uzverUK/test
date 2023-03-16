@@ -45,7 +45,7 @@ public IndicatorSourceAttribute(string name)
  ***  
 # Свойства
 
-## `Name`<a href="Type-p" id="Type-p"></a>
+## `Name`<a href="Name-p" id="Name-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

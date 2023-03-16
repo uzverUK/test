@@ -26,7 +26,7 @@ internal sealed class Securities
 ***  
 # Методы
 
-## `HOnwta15FOp`<a href="xbEwt8V85aD-m" id="xbEwt8V85aD-m"></a>
+## `HOnwta15FOp`<a href="HOnwta15FOp-m" id="HOnwta15FOp-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -35,7 +35,7 @@ public int HOnwta15FOp()
 
 ***  
 
-## `Securities`<a href="xbEwt8V85aD-m" id="xbEwt8V85aD-m"></a>
+## `Securities`<a href="Securities-m" id="Securities-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -44,7 +44,7 @@ public Securities()
 
 ***  
 
-## `rHswtun8WR7`<a href="xbEwt8V85aD-m" id="xbEwt8V85aD-m"></a>
+## `rHswtun8WR7`<a href="rHswtun8WR7-m" id="rHswtun8WR7-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

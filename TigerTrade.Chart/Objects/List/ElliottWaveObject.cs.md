@@ -34,7 +34,7 @@ public abstract class ElliottWaveObject : LineObjectBase
 ***  
 # Методы
 
-## `CopyTemplate`<a href="InObject-m" id="InObject-m"></a>
+## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="InObject-m" id="InObject-m"></a>
+## `Draw`<a href="Draw-m" id="Draw-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `ElliottWaveObject`<a href="InObject-m" id="InObject-m"></a>
+## `ElliottWaveObject`<a href="ElliottWaveObject-m" id="ElliottWaveObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ protected ElliottWaveObject()
 
 ***  
 
-## `GetDegreeText`<a href="InObject-m" id="InObject-m"></a>
+## `GetDegreeText`<a href="GetDegreeText-m" id="GetDegreeText-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -105,7 +105,7 @@ protected override bool InObject(int x, int y)
  ***  
 # Свойства
 
-## `Degree`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `Degree`<a href="Degree-p" id="Degree-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public ElliottWaveDegree Degree { get; set; }
 ```  
 ***
 
-## `ShowWave`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `ShowWave`<a href="ShowWave-p" id="ShowWave-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

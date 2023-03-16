@@ -80,7 +80,7 @@ int GetSequence(ChartPeriodType type, int interval, double dateTime, double time
  ***  
 # Свойства
 
-## `Interval`<a href="Type-p" id="Type-p"></a>
+## `Interval`<a href="Interval-p" id="Interval-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -35,7 +35,7 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ObjectPointInfo`<a href="ToString-m" id="ToString-m"></a>
+## `ObjectPointInfo`<a href="ObjectPointInfo-m" id="ObjectPointInfo-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Price`<a href="Time-p" id="Time-p"></a>
+## `Price`<a href="Price-p" id="Price-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

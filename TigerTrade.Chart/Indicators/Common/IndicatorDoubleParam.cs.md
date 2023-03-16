@@ -24,7 +24,7 @@ public sealed class IndicatorDoubleParam : IndicatorParam<double>
 ***  
 # Методы
 
-## `IndicatorDoubleParam`<a href="Set-m" id="Set-m"></a>
+## `IndicatorDoubleParam`<a href="IndicatorDoubleParam-m" id="IndicatorDoubleParam-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -33,7 +33,7 @@ public IndicatorDoubleParam()
 
 ***  
 
-## `IndicatorDoubleParam`<a href="Set-m" id="Set-m"></a>
+## `IndicatorDoubleParam`<a href="IndicatorDoubleParam-m" id="IndicatorDoubleParam-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

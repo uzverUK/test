@@ -23,7 +23,7 @@ public static class TcEvents
  ***  
 # События
 
-## `TrackAddConnection;`<a href="TrackWindow;-p" id="TrackWindow;-p"></a>
+## `TrackAddConnection;`<a href="TrackAddConnection;-p" id="TrackAddConnection;-p"></a>
 Описание
 
 ```csharp

@@ -42,7 +42,7 @@ public OrderModifyParams()
  ***  
 # Свойства
 
-## `Price`<a href="StopPrice-p" id="StopPrice-p"></a>
+## `Price`<a href="Price-p" id="Price-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public long Price { get; set; }
 ```  
 ***
 
-## `Quantity`<a href="StopPrice-p" id="StopPrice-p"></a>
+## `Quantity`<a href="Quantity-p" id="Quantity-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

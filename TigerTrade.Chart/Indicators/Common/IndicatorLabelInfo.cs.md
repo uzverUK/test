@@ -49,7 +49,7 @@ public IndicatorLabelInfo(double value, XColor color, double? position = null)
  ***  
 # Свойства
 
-## `Color`<a href="Value-p" id="Value-p"></a>
+## `Color`<a href="Color-p" id="Color-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public XColor Color { get; }
 ```  
 ***
 
-## `Position`<a href="Value-p" id="Value-p"></a>
+## `Position`<a href="Position-p" id="Position-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

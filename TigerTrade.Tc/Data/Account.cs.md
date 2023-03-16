@@ -41,7 +41,7 @@ public sealed class Account
 ***  
 # Методы
 
-## `Account`<a href="ToString-m" id="ToString-m"></a>
+## `Account`<a href="Account-m" id="Account-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public Account(ConnectionInfo connection, string uniqueID)
 
 ***  
 
-## `GetConnectionID`<a href="ToString-m" id="ToString-m"></a>
+## `GetConnectionID`<a href="GetConnectionID-m" id="GetConnectionID-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public static string GetConnectionID(string id)
 
 ***  
 
-## `GetUniqueID`<a href="ToString-m" id="ToString-m"></a>
+## `GetUniqueID`<a href="GetUniqueID-m" id="GetUniqueID-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -90,7 +90,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `AccountID`<a href="Union-p" id="Union-p"></a>
+## `AccountID`<a href="AccountID-p" id="AccountID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -98,7 +98,7 @@ public string AccountID { get; }
 ```  
 ***
 
-## `Connection`<a href="Union-p" id="Union-p"></a>
+## `Connection`<a href="Connection-p" id="Connection-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ public ConnectionInfo Connection { get; }
 ```  
 ***
 
-## `ConnectionID`<a href="Union-p" id="Union-p"></a>
+## `ConnectionID`<a href="ConnectionID-p" id="ConnectionID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -114,7 +114,7 @@ public string ConnectionID { get; }
 ```  
 ***
 
-## `Currency`<a href="Union-p" id="Union-p"></a>
+## `Currency`<a href="Currency-p" id="Currency-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -122,7 +122,7 @@ public string Currency { get; set; }
 ```  
 ***
 
-## `IsLive`<a href="Union-p" id="Union-p"></a>
+## `IsLive`<a href="IsLive-p" id="IsLive-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -130,7 +130,7 @@ public bool IsLive { get; }
 ```  
 ***
 
-## `IsPlayer`<a href="Union-p" id="Union-p"></a>
+## `IsPlayer`<a href="IsPlayer-p" id="IsPlayer-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -138,7 +138,7 @@ public bool IsPlayer { get; }
 ```  
 ***
 
-## `IsSimulator`<a href="Union-p" id="Union-p"></a>
+## `IsSimulator`<a href="IsSimulator-p" id="IsSimulator-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -146,7 +146,7 @@ public bool IsSimulator { get; }
 ```  
 ***
 
-## `Name`<a href="Union-p" id="Union-p"></a>
+## `Name`<a href="Name-p" id="Name-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -154,7 +154,7 @@ public string Name { get; set; }
 ```  
 ***
 
-## `Simulator`<a href="Union-p" id="Union-p"></a>
+## `Simulator`<a href="Simulator-p" id="Simulator-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -162,7 +162,7 @@ public bool Simulator { get; internal set; }
 ```  
 ***
 
-## `Trust`<a href="Union-p" id="Union-p"></a>
+## `Trust`<a href="Trust-p" id="Trust-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

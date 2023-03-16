@@ -53,7 +53,7 @@ public OrderInfo(Order order, OrderStatus status, string errorMsg = "")
  ***  
 # Свойства
 
-## `ErrorMsg`<a href="Status-p" id="Status-p"></a>
+## `ErrorMsg`<a href="ErrorMsg-p" id="ErrorMsg-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public string ErrorMsg { get; set; }
 ```  
 ***
 
-## `Order`<a href="Status-p" id="Status-p"></a>
+## `Order`<a href="Order-p" id="Order-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public Order Order { get; }
 ```  
 ***
 
-## `Silent`<a href="Status-p" id="Status-p"></a>
+## `Silent`<a href="Silent-p" id="Silent-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

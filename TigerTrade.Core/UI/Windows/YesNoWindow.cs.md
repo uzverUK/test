@@ -30,7 +30,7 @@ public sealed class YesNoWindow : Window, IComponentConnector
 ***  
 # Методы
 
-## `InitializeComponent`<a href="YesNoWindow-m" id="YesNoWindow-m"></a>
+## `InitializeComponent`<a href="InitializeComponent-m" id="InitializeComponent-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -39,7 +39,7 @@ public void InitializeComponent()
 
 ***  
 
-## `ShowWindow`<a href="YesNoWindow-m" id="YesNoWindow-m"></a>
+## `ShowWindow`<a href="ShowWindow-m" id="ShowWindow-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

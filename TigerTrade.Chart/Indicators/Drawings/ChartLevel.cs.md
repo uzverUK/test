@@ -41,7 +41,7 @@ public sealed class ChartLevel : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ChartLevel`<a href="ToString-m" id="ToString-m"></a>
+## `ChartLevel`<a href="ChartLevel-m" id="ChartLevel-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public ChartLevel()
 
 ***  
 
-## `ChartLevel`<a href="ToString-m" id="ToString-m"></a>
+## `ChartLevel`<a href="ChartLevel-m" id="ChartLevel-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public ChartLevel(Decimal level, XColor color)
 
 ***  
 
-## `CopyTheme`<a href="ToString-m" id="ToString-m"></a>
+## `CopyTheme`<a href="CopyTheme-m" id="CopyTheme-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Color`<a href="Width-p" id="Width-p"></a>
+## `Color`<a href="Color-p" id="Color-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ public XColor Color { get; set; }
 ```  
 ***
 
-## `Level`<a href="Width-p" id="Width-p"></a>
+## `Level`<a href="Level-p" id="Level-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -107,7 +107,7 @@ public Decimal Level { get; set; }
 ```  
 ***
 
-## `LineBrush`<a href="Width-p" id="Width-p"></a>
+## `LineBrush`<a href="LineBrush-p" id="LineBrush-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public XBrush LineBrush { get; private set; }
 ```  
 ***
 
-## `LinePen`<a href="Width-p" id="Width-p"></a>
+## `LinePen`<a href="LinePen-p" id="LinePen-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -123,7 +123,7 @@ public XPen LinePen { get; private set; }
 ```  
 ***
 
-## `Style`<a href="Width-p" id="Width-p"></a>
+## `Style`<a href="Style-p" id="Style-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -131,7 +131,7 @@ public XDashStyle Style { get; set; }
 ```  
 ***
 
-## `Visible`<a href="Width-p" id="Width-p"></a>
+## `Visible`<a href="Visible-p" id="Visible-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

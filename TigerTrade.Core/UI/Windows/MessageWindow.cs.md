@@ -30,7 +30,7 @@ public sealed class MessageWindow : Window, IComponentConnector
 ***  
 # Методы
 
-## `InitializeComponent`<a href="ShowWindow-m" id="ShowWindow-m"></a>
+## `InitializeComponent`<a href="InitializeComponent-m" id="InitializeComponent-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -39,7 +39,7 @@ public void InitializeComponent()
 
 ***  
 
-## `MessageWindow`<a href="ShowWindow-m" id="ShowWindow-m"></a>
+## `MessageWindow`<a href="MessageWindow-m" id="MessageWindow-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

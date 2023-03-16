@@ -44,7 +44,7 @@ public static class SymbolManager
 ***  
 # Методы
 
-## `Clear`<a href="RiseSymbolsReady-m" id="RiseSymbolsReady-m"></a>
+## `Clear`<a href="Clear-m" id="Clear-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ public static void Clear()
 
 ***  
 
-## `FindSwitchPair`<a href="RiseSymbolsReady-m" id="RiseSymbolsReady-m"></a>
+## `FindSwitchPair`<a href="FindSwitchPair-m" id="FindSwitchPair-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -66,7 +66,7 @@ public static Symbol FindSwitchPair(Symbol symbol, Func<Symbol, bool> isExcludeS
 
 ***  
 
-## `FireSymbolUpdatedEvent`<a href="RiseSymbolsReady-m" id="RiseSymbolsReady-m"></a>
+## `FireSymbolUpdatedEvent`<a href="FireSymbolUpdatedEvent-m" id="FireSymbolUpdatedEvent-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public static void FireSymbolUpdatedEvent(Symbol symbol)
 
 ***  
 
-## `Get`<a href="RiseSymbolsReady-m" id="RiseSymbolsReady-m"></a>
+## `Get`<a href="Get-m" id="Get-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public static Symbol Get(string id)
 
 ***  
 
-## `Get`<a href="RiseSymbolsReady-m" id="RiseSymbolsReady-m"></a>
+## `Get`<a href="Get-m" id="Get-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ public static Symbol[] Get(params string[] ids)
 
 ***  
 
-## `GetAll`<a href="RiseSymbolsReady-m" id="RiseSymbolsReady-m"></a>
+## `GetAll`<a href="GetAll-m" id="GetAll-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -121,7 +121,7 @@ public static List<Symbol> GetAll(bool includeDeleted = false)
 
 ***  
 
-## `GetAllOptions`<a href="RiseSymbolsReady-m" id="RiseSymbolsReady-m"></a>
+## `GetAllOptions`<a href="GetAllOptions-m" id="GetAllOptions-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -130,7 +130,7 @@ public static List<Symbol> GetAllOptions()
 
 ***  
 
-## `LoadOrUpdate`<a href="RiseSymbolsReady-m" id="RiseSymbolsReady-m"></a>
+## `LoadOrUpdate`<a href="LoadOrUpdate-m" id="LoadOrUpdate-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -143,7 +143,7 @@ public static void LoadOrUpdate(byte[] data, DateTime utcSpecChangedTime)
 
 ***  
 
-## `RiseFavoritesReady`<a href="RiseSymbolsReady-m" id="RiseSymbolsReady-m"></a>
+## `RiseFavoritesReady`<a href="RiseFavoritesReady-m" id="RiseFavoritesReady-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -175,21 +175,21 @@ public static DateTime ClientSpecLastUpdate { get; set; }
  ***  
 # События
 
-## `Action`<a href="SymbolUpdated;-p" id="SymbolUpdated;-p"></a>
+## `Action`<a href="Action-p" id="Action-p"></a>
 Описание
 
 ```csharp
 public static event Action SymbolsReady
 ```
 
-## `Action`<a href="SymbolUpdated;-p" id="SymbolUpdated;-p"></a>
+## `Action`<a href="Action-p" id="Action-p"></a>
 Описание
 
 ```csharp
 public static event Action FavoritesReady
 ```
 
-## `Action`<a href="SymbolUpdated;-p" id="SymbolUpdated;-p"></a>
+## `Action`<a href="Action-p" id="Action-p"></a>
 Описание
 
 ```csharp

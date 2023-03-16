@@ -30,7 +30,7 @@ internal class EqualParameterToVisibilityConverter : IValueConverter
 ***  
 # Методы
 
-## `Convert`<a href="EqualParameterToVisibilityConverter-m" id="EqualParameterToVisibilityConverter-m"></a>
+## `Convert`<a href="Convert-m" id="Convert-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public object Convert(object _param1, Type _param2, object _param3, CultureInfo 
 
 ***  
 
-## `ConvertBack`<a href="EqualParameterToVisibilityConverter-m" id="EqualParameterToVisibilityConverter-m"></a>
+## `ConvertBack`<a href="ConvertBack-m" id="ConvertBack-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

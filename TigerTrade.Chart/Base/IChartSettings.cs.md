@@ -23,7 +23,7 @@ public interface IChartSettings
  ***  
 # Свойства
 
-## `TransformHorLines`<a href="TransformVertLines-p" id="TransformVertLines-p"></a>
+## `TransformHorLines`<a href="TransformHorLines-p" id="TransformHorLines-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

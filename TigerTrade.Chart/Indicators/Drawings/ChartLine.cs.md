@@ -39,7 +39,7 @@ public sealed class ChartLine : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ChartLine`<a href="ToString-m" id="ToString-m"></a>
+## `ChartLine`<a href="ChartLine-m" id="ChartLine-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public ChartLine()
 
 ***  
 
-## `CopyTheme`<a href="ToString-m" id="ToString-m"></a>
+## `CopyTheme`<a href="CopyTheme-m" id="CopyTheme-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Color`<a href="Width-p" id="Width-p"></a>
+## `Color`<a href="Color-p" id="Color-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public XColor Color { get; set; }
 ```  
 ***
 
-## `ShowMarker`<a href="Width-p" id="Width-p"></a>
+## `ShowMarker`<a href="ShowMarker-p" id="ShowMarker-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -89,7 +89,7 @@ public bool ShowMarker { get; set; }
 ```  
 ***
 
-## `Style`<a href="Width-p" id="Width-p"></a>
+## `Style`<a href="Style-p" id="Style-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public XDashStyle Style { get; set; }
 ```  
 ***
 
-## `Visible`<a href="Width-p" id="Width-p"></a>
+## `Visible`<a href="Visible-p" id="Visible-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

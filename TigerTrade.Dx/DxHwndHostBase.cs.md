@@ -40,7 +40,7 @@ public class DxHwndHostBase : HwndHost
 ***  
 # Методы
 
-## `BuildWindowCore`<a href="OnPaintBackground-m" id="OnPaintBackground-m"></a>
+## `BuildWindowCore`<a href="BuildWindowCore-m" id="BuildWindowCore-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ protected override HandleRef BuildWindowCore(HandleRef hwndParent)
 
 ***  
 
-## `DestroyWindowCore`<a href="OnPaintBackground-m" id="OnPaintBackground-m"></a>
+## `DestroyWindowCore`<a href="DestroyWindowCore-m" id="DestroyWindowCore-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ protected override void DestroyWindowCore(HandleRef hwnd)
 
 ***  
 
-## `DxHwndHostBase`<a href="OnPaintBackground-m" id="OnPaintBackground-m"></a>
+## `DxHwndHostBase`<a href="DxHwndHostBase-m" id="DxHwndHostBase-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -86,7 +86,7 @@ protected virtual void OnPaintBackground()
  ***  
 # Свойства
 
-## `AmRjcZuMlRk;`<a href="rEWjc6mm0du;-p" id="rEWjc6mm0du;-p"></a>
+## `AmRjcZuMlRk;`<a href="AmRjcZuMlRk;-p" id="AmRjcZuMlRk;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -94,7 +94,7 @@ public bool AmRjcZuMlRk; {}
 ```  
 ***
 
-## `J1XjcmvFG6Q;`<a href="rEWjc6mm0du;-p" id="rEWjc6mm0du;-p"></a>
+## `J1XjcmvFG6Q;`<a href="J1XjcmvFG6Q;-p" id="J1XjcmvFG6Q;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -102,7 +102,7 @@ public DxHwndHostBase.l0tLU6jc5AhEMbMG90CU J1XjcmvFG6Q; {}
 ```  
 ***
 
-## `JhZjcrtFS5G;`<a href="rEWjc6mm0du;-p" id="rEWjc6mm0du;-p"></a>
+## `JhZjcrtFS5G;`<a href="JhZjcrtFS5G;-p" id="JhZjcrtFS5G;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -110,7 +110,7 @@ public IntPtr JhZjcrtFS5G; {}
 ```  
 ***
 
-## `Lfrjcnq3MxI;`<a href="rEWjc6mm0du;-p" id="rEWjc6mm0du;-p"></a>
+## `Lfrjcnq3MxI;`<a href="Lfrjcnq3MxI;-p" id="Lfrjcnq3MxI;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -118,7 +118,7 @@ public int Lfrjcnq3MxI; {}
 ```  
 ***
 
-## `MSIjcksg8fF;`<a href="rEWjc6mm0du;-p" id="rEWjc6mm0du;-p"></a>
+## `MSIjcksg8fF;`<a href="MSIjcksg8fF;-p" id="MSIjcksg8fF;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -126,7 +126,7 @@ public int MSIjcksg8fF; {}
 ```  
 ***
 
-## `QgujcpdwuL2;`<a href="rEWjc6mm0du;-p" id="rEWjc6mm0du;-p"></a>
+## `QgujcpdwuL2;`<a href="QgujcpdwuL2;-p" id="QgujcpdwuL2;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -134,7 +134,7 @@ public bool QgujcpdwuL2; {}
 ```  
 ***
 
-## `RbpjcKgQmhW;`<a href="rEWjc6mm0du;-p" id="rEWjc6mm0du;-p"></a>
+## `RbpjcKgQmhW;`<a href="RbpjcKgQmhW;-p" id="RbpjcKgQmhW;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -142,7 +142,7 @@ public bool RbpjcKgQmhW; {}
 ```  
 ***
 
-## `UIrjcLP9CAY;`<a href="rEWjc6mm0du;-p" id="rEWjc6mm0du;-p"></a>
+## `UIrjcLP9CAY;`<a href="UIrjcLP9CAY;-p" id="UIrjcLP9CAY;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -150,7 +150,7 @@ public int UIrjcLP9CAY; {}
 ```  
 ***
 
-## `i5NjclyGDO6;`<a href="rEWjc6mm0du;-p" id="rEWjc6mm0du;-p"></a>
+## `i5NjclyGDO6;`<a href="i5NjclyGDO6;-p" id="i5NjclyGDO6;-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

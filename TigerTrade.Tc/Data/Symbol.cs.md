@@ -85,7 +85,7 @@ public sealed class Symbol
 ***  
 # Методы
 
-## `CheckContract`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `CheckContract`<a href="CheckContract-m" id="CheckContract-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -98,7 +98,7 @@ public bool CheckContract(string symbolID)
 
 ***  
 
-## `CheckContract`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `CheckContract`<a href="CheckContract-m" id="CheckContract-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public bool CheckContract(Symbol symbol)
 
 ***  
 
-## `ConvertTimeFromLocal`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `ConvertTimeFromLocal`<a href="ConvertTimeFromLocal-m" id="ConvertTimeFromLocal-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -127,7 +127,7 @@ public DateTime ConvertTimeFromLocal(DateTime dt)
 
 ***  
 
-## `ConvertTimeToLocal`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `ConvertTimeToLocal`<a href="ConvertTimeToLocal-m" id="ConvertTimeToLocal-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -136,7 +136,7 @@ public DateTime ConvertTimeToLocal(DateTime dt)
 
 ***  
 
-## `CurrentSymbolID`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `CurrentSymbolID`<a href="CurrentSymbolID-m" id="CurrentSymbolID-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -145,7 +145,7 @@ public string CurrentSymbolID()
 
 ***  
 
-## `FormatAvgSize`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatAvgSize`<a href="FormatAvgSize-m" id="FormatAvgSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -161,7 +161,7 @@ public string FormatAvgSize(double size, bool f = false)
 
 ***  
 
-## `FormatFullSize`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatFullSize`<a href="FormatFullSize-m" id="FormatFullSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -173,7 +173,7 @@ public string FormatFullSize(long size, bool f = false)
 
 ***  
 
-## `FormatFullSize`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatFullSize`<a href="FormatFullSize-m" id="FormatFullSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -192,7 +192,7 @@ public string FormatFullSize(long size, IFormatProvider provider, bool f = false
 
 ***  
 
-## `FormatFullSize`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatFullSize`<a href="FormatFullSize-m" id="FormatFullSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -212,7 +212,7 @@ public string FormatFullSize(long? size, bool f = false)
 
 ***  
 
-## `FormatPnl`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatPnl`<a href="FormatPnl-m" id="FormatPnl-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -224,7 +224,7 @@ public string FormatPnl(double pnl, bool f = false)
 
 ***  
 
-## `FormatPnl`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatPnl`<a href="FormatPnl-m" id="FormatPnl-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -240,7 +240,7 @@ public string FormatPnl(double? pnl, bool f = false)
 
 ***  
 
-## `FormatPrice`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatPrice`<a href="FormatPrice-m" id="FormatPrice-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -252,7 +252,7 @@ public string FormatPrice(long price, bool f = false)
 
 ***  
 
-## `FormatPrice`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatPrice`<a href="FormatPrice-m" id="FormatPrice-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -271,7 +271,7 @@ public string FormatPrice(long price, IFormatProvider provider, bool f = false)
 
 ***  
 
-## `FormatPrice`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatPrice`<a href="FormatPrice-m" id="FormatPrice-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -294,7 +294,7 @@ public string FormatPrice(double price, bool f = false)
 
 ***  
 
-## `FormatPrice`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatPrice`<a href="FormatPrice-m" id="FormatPrice-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -318,7 +318,7 @@ public string FormatPrice(double? price, bool f = false)
 
 ***  
 
-## `FormatSize`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatSize`<a href="FormatSize-m" id="FormatSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -330,7 +330,7 @@ public string FormatSize(long size)
 
 ***  
 
-## `FormatSize`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatSize`<a href="FormatSize-m" id="FormatSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -349,7 +349,7 @@ public string FormatSize(double size, bool f = false)
 
 ***  
 
-## `FormatTime`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatTime`<a href="FormatTime-m" id="FormatTime-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -364,7 +364,7 @@ public string FormatTime(DateTime dt, string format)
 
 ***  
 
-## `FormatTime`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `FormatTime`<a href="FormatTime-m" id="FormatTime-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -386,7 +386,7 @@ public string FormatTime(DateTime dt, string dateFormat, string timeFormat)
 
 ***  
 
-## `GetBaseCurrency`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `GetBaseCurrency`<a href="GetBaseCurrency-m" id="GetBaseCurrency-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -395,7 +395,7 @@ public string GetBaseCurrency()
 
 ***  
 
-## `GetContracts`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `GetContracts`<a href="GetContracts-m" id="GetContracts-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -404,7 +404,7 @@ public List<Symbol> GetContracts()
 
 ***  
 
-## `GetRealPrice`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `GetRealPrice`<a href="GetRealPrice-m" id="GetRealPrice-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -417,7 +417,7 @@ public double GetRealPrice(long price)
 
 ***  
 
-## `GetRealSize`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `GetRealSize`<a href="GetRealSize-m" id="GetRealSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -429,7 +429,7 @@ public double GetRealSize(long size)
 
 ***  
 
-## `GetShortPrice`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `GetShortPrice`<a href="GetShortPrice-m" id="GetShortPrice-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -441,7 +441,7 @@ public long GetShortPrice(double price)
 
 ***  
 
-## `GetShortSize`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `GetShortSize`<a href="GetShortSize-m" id="GetShortSize-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -453,7 +453,7 @@ public long GetShortSize(double size)
 
 ***  
 
-## `GetStepPrice`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `GetStepPrice`<a href="GetStepPrice-m" id="GetStepPrice-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -462,7 +462,7 @@ public double GetStepPrice()
 
 ***  
 
-## `GetSymbol`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `GetSymbol`<a href="GetSymbol-m" id="GetSymbol-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -471,7 +471,7 @@ public Symbol GetSymbol()
 
 ***  
 
-## `GetSymbol`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `GetSymbol`<a href="GetSymbol-m" id="GetSymbol-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -485,7 +485,7 @@ public Symbol GetSymbol(DateTime date)
 
 ***  
 
-## `ToString`<a href="UpdateFields-m" id="UpdateFields-m"></a>
+## `ToString`<a href="ToString-m" id="ToString-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -510,7 +510,7 @@ public void UpdateFields(Symbol symbol)
  ***  
 # Свойства
 
-## `AdditionalData`<a href="Type-p" id="Type-p"></a>
+## `AdditionalData`<a href="AdditionalData-p" id="AdditionalData-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -518,7 +518,7 @@ public Hashtable AdditionalData { get; set; }
 ```  
 ***
 
-## `ContactValue`<a href="Type-p" id="Type-p"></a>
+## `ContactValue`<a href="ContactValue-p" id="ContactValue-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -526,7 +526,7 @@ public double ContactValue { get; set; }
 ```  
 ***
 
-## `Currency`<a href="Type-p" id="Type-p"></a>
+## `Currency`<a href="Currency-p" id="Currency-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -534,7 +534,7 @@ public string Currency { get; internal set; }
 ```  
 ***
 
-## `Description`<a href="Type-p" id="Type-p"></a>
+## `Description`<a href="Description-p" id="Description-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -542,7 +542,7 @@ public string Description { get; internal set; }
 ```  
 ***
 
-## `Exchange`<a href="Type-p" id="Type-p"></a>
+## `Exchange`<a href="Exchange-p" id="Exchange-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -550,7 +550,7 @@ public string Exchange { get; internal set; }
 ```  
 ***
 
-## `Expiration`<a href="Type-p" id="Type-p"></a>
+## `Expiration`<a href="Expiration-p" id="Expiration-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -558,7 +558,7 @@ public DateTime Expiration { get; private set; }
 ```  
 ***
 
-## `ID`<a href="Type-p" id="Type-p"></a>
+## `ID`<a href="ID-p" id="ID-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -566,7 +566,7 @@ public string ID { get; }
 ```  
 ***
 
-## `IsBinance`<a href="Type-p" id="Type-p"></a>
+## `IsBinance`<a href="IsBinance-p" id="IsBinance-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -574,7 +574,7 @@ public bool IsBinance { get; }
 ```  
 ***
 
-## `IsBitFinex`<a href="Type-p" id="Type-p"></a>
+## `IsBitFinex`<a href="IsBitFinex-p" id="IsBitFinex-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -582,7 +582,7 @@ public bool IsBitFinex { get; }
 ```  
 ***
 
-## `IsBitMEX`<a href="Type-p" id="Type-p"></a>
+## `IsBitMEX`<a href="IsBitMEX-p" id="IsBitMEX-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -590,7 +590,7 @@ public bool IsBitMEX { get; }
 ```  
 ***
 
-## `IsBybit`<a href="Type-p" id="Type-p"></a>
+## `IsBybit`<a href="IsBybit-p" id="IsBybit-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -598,7 +598,7 @@ public bool IsBybit { get; }
 ```  
 ***
 
-## `IsCrypto`<a href="Type-p" id="Type-p"></a>
+## `IsCrypto`<a href="IsCrypto-p" id="IsCrypto-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -606,7 +606,7 @@ public bool IsCrypto { get; }
 ```  
 ***
 
-## `IsCryptoFuture`<a href="Type-p" id="Type-p"></a>
+## `IsCryptoFuture`<a href="IsCryptoFuture-p" id="IsCryptoFuture-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -614,7 +614,7 @@ public bool IsCryptoFuture { get; }
 ```  
 ***
 
-## `IsDeleted`<a href="Type-p" id="Type-p"></a>
+## `IsDeleted`<a href="IsDeleted-p" id="IsDeleted-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -622,7 +622,7 @@ public bool IsDeleted { get; set; }
 ```  
 ***
 
-## `IsDeribit`<a href="Type-p" id="Type-p"></a>
+## `IsDeribit`<a href="IsDeribit-p" id="IsDeribit-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -630,7 +630,7 @@ public bool IsDeribit { get; }
 ```  
 ***
 
-## `IsFTX`<a href="Type-p" id="Type-p"></a>
+## `IsFTX`<a href="IsFTX-p" id="IsFTX-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -638,7 +638,7 @@ public bool IsFTX { get; }
 ```  
 ***
 
-## `IsHitBTC`<a href="Type-p" id="Type-p"></a>
+## `IsHitBTC`<a href="IsHitBTC-p" id="IsHitBTC-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -646,7 +646,7 @@ public bool IsHitBTC { get; }
 ```  
 ***
 
-## `IsLinkable`<a href="Type-p" id="Type-p"></a>
+## `IsLinkable`<a href="IsLinkable-p" id="IsLinkable-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -654,7 +654,7 @@ public bool IsLinkable { get; }
 ```  
 ***
 
-## `IsMaster`<a href="Type-p" id="Type-p"></a>
+## `IsMaster`<a href="IsMaster-p" id="IsMaster-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -662,7 +662,7 @@ public bool IsMaster { get; }
 ```  
 ***
 
-## `IsOKX`<a href="Type-p" id="Type-p"></a>
+## `IsOKX`<a href="IsOKX-p" id="IsOKX-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -670,7 +670,7 @@ public bool IsOKX { get; }
 ```  
 ***
 
-## `IsSplicedFutures`<a href="Type-p" id="Type-p"></a>
+## `IsSplicedFutures`<a href="IsSplicedFutures-p" id="IsSplicedFutures-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -678,7 +678,7 @@ public bool IsSplicedFutures { get; private set; }
 ```  
 ***
 
-## `LongCode`<a href="Type-p" id="Type-p"></a>
+## `LongCode`<a href="LongCode-p" id="LongCode-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -686,7 +686,7 @@ public string LongCode { get; set; }
 ```  
 ***
 
-## `LotSize`<a href="Type-p" id="Type-p"></a>
+## `LotSize`<a href="LotSize-p" id="LotSize-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -694,7 +694,7 @@ public int LotSize { get; internal set; }
 ```  
 ***
 
-## `LotStep`<a href="Type-p" id="Type-p"></a>
+## `LotStep`<a href="LotStep-p" id="LotStep-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -702,7 +702,7 @@ public double LotStep { get; internal set; }
 ```  
 ***
 
-## `Mapping`<a href="Type-p" id="Type-p"></a>
+## `Mapping`<a href="Mapping-p" id="Mapping-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -710,7 +710,7 @@ public string Mapping { get; internal set; }
 ```  
 ***
 
-## `Master`<a href="Type-p" id="Type-p"></a>
+## `Master`<a href="Master-p" id="Master-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -718,7 +718,7 @@ public Symbol Master { get; }
 ```  
 ***
 
-## `MinNotional`<a href="Type-p" id="Type-p"></a>
+## `MinNotional`<a href="MinNotional-p" id="MinNotional-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -726,7 +726,7 @@ public double MinNotional { get; internal set; }
 ```  
 ***
 
-## `MinQty`<a href="Type-p" id="Type-p"></a>
+## `MinQty`<a href="MinQty-p" id="MinQty-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -734,7 +734,7 @@ public double MinQty { get; internal set; }
 ```  
 ***
 
-## `Name`<a href="Type-p" id="Type-p"></a>
+## `Name`<a href="Name-p" id="Name-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -742,7 +742,7 @@ public string Name { get; internal set; }
 ```  
 ***
 
-## `OptAsset`<a href="Type-p" id="Type-p"></a>
+## `OptAsset`<a href="OptAsset-p" id="OptAsset-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -750,7 +750,7 @@ public string OptAsset { get; set; }
 ```  
 ***
 
-## `OptStrike`<a href="Type-p" id="Type-p"></a>
+## `OptStrike`<a href="OptStrike-p" id="OptStrike-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -758,7 +758,7 @@ public double OptStrike { get; set; }
 ```  
 ***
 
-## `OptType`<a href="Type-p" id="Type-p"></a>
+## `OptType`<a href="OptType-p" id="OptType-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -766,7 +766,7 @@ public SymbolOptType OptType { get; set; }
 ```  
 ***
 
-## `PnlPrecision`<a href="Type-p" id="Type-p"></a>
+## `PnlPrecision`<a href="PnlPrecision-p" id="PnlPrecision-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -774,7 +774,7 @@ public int PnlPrecision { get; internal set; }
 ```  
 ***
 
-## `Precision`<a href="Type-p" id="Type-p"></a>
+## `Precision`<a href="Precision-p" id="Precision-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -782,7 +782,7 @@ public int Precision { get; internal set; }
 ```  
 ***
 
-## `SizePrecision`<a href="Type-p" id="Type-p"></a>
+## `SizePrecision`<a href="SizePrecision-p" id="SizePrecision-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -790,7 +790,7 @@ public int SizePrecision { get; set; }
 ```  
 ***
 
-## `SizeStep`<a href="Type-p" id="Type-p"></a>
+## `SizeStep`<a href="SizeStep-p" id="SizeStep-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -798,7 +798,7 @@ public double SizeStep { get; internal set; }
 ```  
 ***
 
-## `SpecChangeUtcDate`<a href="Type-p" id="Type-p"></a>
+## `SpecChangeUtcDate`<a href="SpecChangeUtcDate-p" id="SpecChangeUtcDate-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -806,7 +806,7 @@ public DateTime SpecChangeUtcDate { get; set; }
 ```  
 ***
 
-## `Step`<a href="Type-p" id="Type-p"></a>
+## `Step`<a href="Step-p" id="Step-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

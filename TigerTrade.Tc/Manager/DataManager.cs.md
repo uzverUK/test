@@ -81,7 +81,7 @@ public static class DataManager
 ***  
 # Методы
 
-## `AutoConnect`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `AutoConnect`<a href="AutoConnect-m" id="AutoConnect-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -90,7 +90,7 @@ public static void AutoConnect()
 
 ***  
 
-## `ClientCancelAllOrders`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `ClientCancelAllOrders`<a href="ClientCancelAllOrders-m" id="ClientCancelAllOrders-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -103,7 +103,7 @@ public static void ClientCancelAllOrders(OrderGroup group)
 
 ***  
 
-## `ClientCancelOrder`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `ClientCancelOrder`<a href="ClientCancelOrder-m" id="ClientCancelOrder-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public static void ClientCancelOrder(Order order)
 
 ***  
 
-## `ClientConnect`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `ClientConnect`<a href="ClientConnect-m" id="ClientConnect-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -127,7 +127,7 @@ public static void ClientConnect(string connectionID)
 
 ***  
 
-## `ClientDisconnect`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `ClientDisconnect`<a href="ClientDisconnect-m" id="ClientDisconnect-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -136,7 +136,7 @@ public static void ClientDisconnect(string connectionID)
 
 ***  
 
-## `ClientModifyOrder`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `ClientModifyOrder`<a href="ClientModifyOrder-m" id="ClientModifyOrder-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -149,7 +149,7 @@ public static void ClientModifyOrder(Order order)
 
 ***  
 
-## `ClientPlaceOrder`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `ClientPlaceOrder`<a href="ClientPlaceOrder-m" id="ClientPlaceOrder-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -158,7 +158,7 @@ public static void ClientPlaceOrder(Order order)
 
 ***  
 
-## `ClientUpdateUserPosition`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `ClientUpdateUserPosition`<a href="ClientUpdateUserPosition-m" id="ClientUpdateUserPosition-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -171,7 +171,7 @@ public static void ClientUpdateUserPosition(UserPositionData position)
 
 ***  
 
-## `FilterAccount`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `FilterAccount`<a href="FilterAccount-m" id="FilterAccount-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -183,7 +183,7 @@ public static bool FilterAccount(Account account)
 
 ***  
 
-## `FilterAccount`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `FilterAccount`<a href="FilterAccount-m" id="FilterAccount-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -199,7 +199,7 @@ public static bool FilterAccount(string accountID)
 
 ***  
 
-## `GetAccount`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetAccount`<a href="GetAccount-m" id="GetAccount-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -208,7 +208,7 @@ public static Account GetAccount(string accountID)
 
 ***  
 
-## `GetAccounts`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetAccounts`<a href="GetAccounts-m" id="GetAccounts-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -224,7 +224,7 @@ public static List<Account> GetAccounts(Symbol symbol, bool isOfflineAccount = f
 
 ***  
 
-## `GetAccounts`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetAccounts`<a href="GetAccounts-m" id="GetAccounts-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -241,7 +241,7 @@ public static List<Account> GetAccounts()
 
 ***  
 
-## `GetConnectionInfo`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetConnectionInfo`<a href="GetConnectionInfo-m" id="GetConnectionInfo-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -253,7 +253,7 @@ public static ConnectionInfo GetConnectionInfo(string id)
 
 ***  
 
-## `GetConnectionsInfo`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetConnectionsInfo`<a href="GetConnectionsInfo-m" id="GetConnectionsInfo-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -262,7 +262,7 @@ public static IEnumerable<ConnectionInfo> GetConnectionsInfo()
 
 ***  
 
-## `GetExecutions`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetExecutions`<a href="GetExecutions-m" id="GetExecutions-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -278,7 +278,7 @@ public static List<Execution> GetExecutions(Symbol symbol, Account account)
 
 ***  
 
-## `GetOrders`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetOrders`<a href="GetOrders-m" id="GetOrders-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -287,7 +287,7 @@ public static List<Order> GetOrders(Symbol symbol, Account account)
 
 ***  
 
-## `GetOrdersCount`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetOrdersCount`<a href="GetOrdersCount-m" id="GetOrdersCount-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -296,7 +296,7 @@ public static int GetOrdersCount()
 
 ***  
 
-## `GetPositionsCount`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetPositionsCount`<a href="GetPositionsCount-m" id="GetPositionsCount-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -305,7 +305,7 @@ public static int GetPositionsCount()
 
 ***  
 
-## `GetSimAccounts`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetSimAccounts`<a href="GetSimAccounts-m" id="GetSimAccounts-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -318,7 +318,7 @@ public static List<Account> GetSimAccounts()
 
 ***  
 
-## `GetUserPosition`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `GetUserPosition`<a href="GetUserPosition-m" id="GetUserPosition-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -333,7 +333,7 @@ public static UserPosition GetUserPosition(Symbol symbol, Account account)
 
 ***  
 
-## `IsClientConnected`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `IsClientConnected`<a href="IsClientConnected-m" id="IsClientConnected-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -345,7 +345,7 @@ public static bool IsClientConnected(string connectionID)
 
 ***  
 
-## `IsTradeAllowed`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `IsTradeAllowed`<a href="IsTradeAllowed-m" id="IsTradeAllowed-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -357,7 +357,7 @@ public static bool IsTradeAllowed(UserPosition position)
 
 ***  
 
-## `IsTradeAllowed`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `IsTradeAllowed`<a href="IsTradeAllowed-m" id="IsTradeAllowed-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -373,7 +373,7 @@ public static bool IsTradeAllowed(Symbol symbol)
 
 ***  
 
-## `LoadTrustAccounts`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `LoadTrustAccounts`<a href="LoadTrustAccounts-m" id="LoadTrustAccounts-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -382,7 +382,7 @@ public static void LoadTrustAccounts(List<TrustAccount> accounts)
 
 ***  
 
-## `ProcessMarketData`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `ProcessMarketData`<a href="ProcessMarketData-m" id="ProcessMarketData-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -391,7 +391,7 @@ public static void ProcessMarketData()
 
 ***  
 
-## `ProcessTradeData`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `ProcessTradeData`<a href="ProcessTradeData-m" id="ProcessTradeData-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -400,7 +400,7 @@ public static void ProcessTradeData()
 
 ***  
 
-## `SetTradeMode`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `SetTradeMode`<a href="SetTradeMode-m" id="SetTradeMode-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -416,7 +416,7 @@ public static void SetTradeMode(int tradeMode, bool init)
 
 ***  
 
-## `Subscribe`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `Subscribe`<a href="Subscribe-m" id="Subscribe-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -431,7 +431,7 @@ public static void Subscribe(SubscriptionFlags flags, params Symbol[] symbols)
 
 ***  
 
-## `SyncSlTp`<a href="UnSubscribe-m" id="UnSubscribe-m"></a>
+## `SyncSlTp`<a href="SyncSlTp-m" id="SyncSlTp-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -459,7 +459,7 @@ public static void UnSubscribe(SubscriptionFlags flags, params Symbol[] symbols)
  ***  
 # Свойства
 
-## `Player`<a href="Simulator-p" id="Simulator-p"></a>
+## `Player`<a href="Player-p" id="Player-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -478,140 +478,140 @@ public static bool Simulator { get; private set; }
  ***  
 # События
 
-## `Action`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `Action`<a href="Action-p" id="Action-p"></a>
 Описание
 
 ```csharp
 public static event Action OnUpdateAccount
 ```
 
-## `Action`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `Action`<a href="Action-p" id="Action-p"></a>
 Описание
 
 ```csharp
 public static event Action OnClearMarket
 ```
 
-## `Action`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `Action`<a href="Action-p" id="Action-p"></a>
 Описание
 
 ```csharp
 public static event Action OnUpdateFilters
 ```
 
-## `Action`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `Action`<a href="Action-p" id="Action-p"></a>
 Описание
 
 ```csharp
 public static event Action OnReferralDetected
 ```
 
-## `OnAccountsReady;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnAccountsReady;`<a href="OnAccountsReady;-p" id="OnAccountsReady;-p"></a>
 Описание
 
 ```csharp
 public static event Action<ConnectionInfo> OnAccountsReady;
 ```
 
-## `OnBarsObtained;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnBarsObtained;`<a href="OnBarsObtained;-p" id="OnBarsObtained;-p"></a>
 Описание
 
 ```csharp
 public static event Action<BarsResponce> OnBarsObtained;
 ```
 
-## `OnConnected;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnConnected;`<a href="OnConnected;-p" id="OnConnected;-p"></a>
 Описание
 
 ```csharp
 public static event Action<ConnectionInfo> OnConnected;
 ```
 
-## `OnDisconnected;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnDisconnected;`<a href="OnDisconnected;-p" id="OnDisconnected;-p"></a>
 Описание
 
 ```csharp
 public static event Action<ConnectionInfo> OnDisconnected;
 ```
 
-## `OnDom;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnDom;`<a href="OnDom;-p" id="OnDom;-p"></a>
 Описание
 
 ```csharp
 public static event Action<MarketDepth> OnDom;
 ```
 
-## `OnError;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnError;`<a href="OnError;-p" id="OnError;-p"></a>
 Описание
 
 ```csharp
 public static event Action<ConnectionInfo, string> OnError;
 ```
 
-## `OnExecution;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnExecution;`<a href="OnExecution;-p" id="OnExecution;-p"></a>
 Описание
 
 ```csharp
 public static event Action<Execution> OnExecution;
 ```
 
-## `OnInfo;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnInfo;`<a href="OnInfo;-p" id="OnInfo;-p"></a>
 Описание
 
 ```csharp
 public static event Action<ConnectionInfo, string> OnInfo;
 ```
 
-## `OnOrder;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnOrder;`<a href="OnOrder;-p" id="OnOrder;-p"></a>
 Описание
 
 ```csharp
 public static event Action<Order> OnOrder;
 ```
 
-## `OnOrderInfo;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnOrderInfo;`<a href="OnOrderInfo;-p" id="OnOrderInfo;-p"></a>
 Описание
 
 ```csharp
 public static event Action<OrderInfo> OnOrderInfo;
 ```
 
-## `OnPortfolio;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnPortfolio;`<a href="OnPortfolio;-p" id="OnPortfolio;-p"></a>
 Описание
 
 ```csharp
 public static event Action<Portfolio> OnPortfolio;
 ```
 
-## `OnPosition;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnPosition;`<a href="OnPosition;-p" id="OnPosition;-p"></a>
 Описание
 
 ```csharp
 public static event Action<Position> OnPosition;
 ```
 
-## `OnSecurity;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnSecurity;`<a href="OnSecurity;-p" id="OnSecurity;-p"></a>
 Описание
 
 ```csharp
 public static event Action<Security> OnSecurity;
 ```
 
-## `OnTick;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnTick;`<a href="OnTick;-p" id="OnTick;-p"></a>
 Описание
 
 ```csharp
 public static event Action<Tick> OnTick;
 ```
 
-## `OnTicksObtained;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnTicksObtained;`<a href="OnTicksObtained;-p" id="OnTicksObtained;-p"></a>
 Описание
 
 ```csharp
 public static event Action<TicksResponce> OnTicksObtained;
 ```
 
-## `OnUserDeal;`<a href="OnUserPosition;-p" id="OnUserPosition;-p"></a>
+## `OnUserDeal;`<a href="OnUserDeal;-p" id="OnUserDeal;-p"></a>
 Описание
 
 ```csharp

@@ -29,7 +29,7 @@ internal sealed class Symbols
 ***  
 # Методы
 
-## `Clear`<a href="y8kwthAHoBE-m" id="y8kwthAHoBE-m"></a>
+## `Clear`<a href="Clear-m" id="Clear-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -38,7 +38,7 @@ public void Clear()
 
 ***  
 
-## `GTewtrlbF6I`<a href="y8kwthAHoBE-m" id="y8kwthAHoBE-m"></a>
+## `GTewtrlbF6I`<a href="GTewtrlbF6I-m" id="GTewtrlbF6I-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public List<Symbol> GTewtrlbF6I()
 
 ***  
 
-## `NhtwtvK2C3l`<a href="y8kwthAHoBE-m" id="y8kwthAHoBE-m"></a>
+## `NhtwtvK2C3l`<a href="NhtwtvK2C3l-m" id="NhtwtvK2C3l-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public bool NhtwtvK2C3l(Symbol _param1)
 
 ***  
 
-## `Remove`<a href="y8kwthAHoBE-m" id="y8kwthAHoBE-m"></a>
+## `Remove`<a href="Remove-m" id="Remove-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public bool Remove(Symbol symbol)
 
 ***  
 
-## `Symbols`<a href="y8kwthAHoBE-m" id="y8kwthAHoBE-m"></a>
+## `Symbols`<a href="Symbols-m" id="Symbols-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public Symbols()
 
 ***  
 
-## `mk0wt1hLDB0`<a href="y8kwthAHoBE-m" id="y8kwthAHoBE-m"></a>
+## `mk0wt1hLDB0`<a href="mk0wt1hLDB0-m" id="mk0wt1hLDB0-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

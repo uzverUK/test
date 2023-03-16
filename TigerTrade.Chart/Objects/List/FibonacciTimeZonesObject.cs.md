@@ -33,7 +33,7 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 ***  
 # Методы
 
-## `CalcPoint`<a href="FibonacciTimeZonesObject-m" id="FibonacciTimeZonesObject-m"></a>
+## `CalcPoint`<a href="CalcPoint-m" id="CalcPoint-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -42,7 +42,7 @@ protected override void CalcPoint()
 
 ***  
 
-## `CopyTemplate`<a href="FibonacciTimeZonesObject-m" id="FibonacciTimeZonesObject-m"></a>
+## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="FibonacciTimeZonesObject-m" id="FibonacciTimeZonesObject-m"></a>
+## `Draw`<a href="Draw-m" id="Draw-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public FibonacciTimeZonesObject()
  ***  
 # Свойства
 
-## `MaxLines`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `MaxLines`<a href="MaxLines-p" id="MaxLines-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public int MaxLines { get; set; }
 ```  
 ***
 
-## `TextAlignment`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `TextAlignment`<a href="TextAlignment-p" id="TextAlignment-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

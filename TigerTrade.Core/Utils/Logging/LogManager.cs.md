@@ -42,7 +42,7 @@ public static class LogManager
 ***  
 # Методы
 
-## `BJ8cOSjDTKSexX17nQEk`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `BJ8cOSjDTKSexX17nQEk`<a href="BJ8cOSjDTKSexX17nQEk-m" id="BJ8cOSjDTKSexX17nQEk-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -55,7 +55,7 @@ public BJ8cOSjDTKSexX17nQEk(string _param1)
 
 ***  
 
-## `GetErrorLog`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `GetErrorLog`<a href="GetErrorLog-m" id="GetErrorLog-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public static string GetErrorLog()
 
 ***  
 
-## `GetWorkLog`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `GetWorkLog`<a href="GetWorkLog-m" id="GetWorkLog-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ public static string GetWorkLog()
 
 ***  
 
-## `Init`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `Init`<a href="Init-m" id="Init-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -92,7 +92,7 @@ public static void Init(string path, string appName, string appVersion)
 
 ***  
 
-## `MG3jDBcyfJj`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `MG3jDBcyfJj`<a href="MG3jDBcyfJj-m" id="MG3jDBcyfJj-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public DateTime MG3jDBcyfJj()
 
 ***  
 
-## `MiKjDEE8ZWn`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `MiKjDEE8ZWn`<a href="MiKjDEE8ZWn-m" id="MiKjDEE8ZWn-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -110,7 +110,7 @@ public int MiKjDEE8ZWn()
 
 ***  
 
-## `R6bjDetmRXl`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `R6bjDetmRXl`<a href="R6bjDetmRXl-m" id="R6bjDetmRXl-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -123,7 +123,7 @@ public void R6bjDetmRXl(int _param1)
 
 ***  
 
-## `VNKjDc6qvia`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `VNKjDc6qvia`<a href="VNKjDc6qvia-m" id="VNKjDc6qvia-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -132,7 +132,7 @@ public DateTime VNKjDc6qvia()
 
 ***  
 
-## `WriteError`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `WriteError`<a href="WriteError-m" id="WriteError-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -145,7 +145,7 @@ public static void WriteError(string e)
 
 ***  
 
-## `WriteError`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `WriteError`<a href="WriteError-m" id="WriteError-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -162,7 +162,7 @@ public static void WriteError(Exception e)
 
 ***  
 
-## `WriteError`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `WriteError`<a href="WriteError-m" id="WriteError-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -183,7 +183,7 @@ public static void WriteError(string errorInfo, Exception e)
 
 ***  
 
-## `WriteFake`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `WriteFake`<a href="WriteFake-m" id="WriteFake-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -192,7 +192,7 @@ public static void WriteFake()
 
 ***  
 
-## `WriteInfo`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `WriteInfo`<a href="WriteInfo-m" id="WriteInfo-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -205,7 +205,7 @@ public static void WriteInfo(string i)
 
 ***  
 
-## `WriteLogs`<a href="yHPwACjDsbb5k519doWX-m" id="yHPwACjDsbb5k519doWX-m"></a>
+## `WriteLogs`<a href="WriteLogs-m" id="WriteLogs-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -233,7 +233,7 @@ public yHPwACjDsbb5k519doWX(int _param1, string _param2)
  ***  
 # Свойства
 
-## `Message`<a href="Type-p" id="Type-p"></a>
+## `Message`<a href="Message-p" id="Message-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -241,7 +241,7 @@ public string Message { get; }
 ```  
 ***
 
-## `Message`<a href="Type-p" id="Type-p"></a>
+## `Message`<a href="Message-p" id="Message-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -48,7 +48,7 @@ public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
 ***  
 # Методы
 
-## `ChartSeries`<a href="ToString-m" id="ToString-m"></a>
+## `ChartSeries`<a href="ChartSeries-m" id="ChartSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public ChartSeries()
 
 ***  
 
-## `ChartSeries`<a href="ToString-m" id="ToString-m"></a>
+## `ChartSeries`<a href="ChartSeries-m" id="ChartSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public ChartSeries(ChartSeriesType type, XColor color)
 
 ***  
 
-## `ChartSeries`<a href="ToString-m" id="ToString-m"></a>
+## `ChartSeries`<a href="ChartSeries-m" id="ChartSeries-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -95,7 +95,7 @@ public ChartSeries(ChartSeriesType type, XColor color, XDashStyle style)
 
 ***  
 
-## `CopyTheme`<a href="ToString-m" id="ToString-m"></a>
+## `CopyTheme`<a href="CopyTheme-m" id="CopyTheme-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -107,7 +107,7 @@ public void CopyTheme(ChartSeries chartSeries)
 
 ***  
 
-## `GetPropertyHasStandardValues`<a href="ToString-m" id="ToString-m"></a>
+## `GetPropertyHasStandardValues`<a href="GetPropertyHasStandardValues-m" id="GetPropertyHasStandardValues-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -119,7 +119,7 @@ public bool GetPropertyHasStandardValues(string propertyName)
 
 ***  
 
-## `GetPropertyReadOnly`<a href="ToString-m" id="ToString-m"></a>
+## `GetPropertyReadOnly`<a href="GetPropertyReadOnly-m" id="GetPropertyReadOnly-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -128,7 +128,7 @@ public bool GetPropertyReadOnly(string propertyName)
 
 ***  
 
-## `GetPropertyStandardValues`<a href="ToString-m" id="ToString-m"></a>
+## `GetPropertyStandardValues`<a href="GetPropertyStandardValues-m" id="GetPropertyStandardValues-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -141,7 +141,7 @@ public IEnumerable<object> GetPropertyStandardValues(string propertyName)
 
 ***  
 
-## `GetPropertyVisibility`<a href="ToString-m" id="ToString-m"></a>
+## `GetPropertyVisibility`<a href="GetPropertyVisibility-m" id="GetPropertyVisibility-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -162,7 +162,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `AllColors`<a href="Width-p" id="Width-p"></a>
+## `AllColors`<a href="AllColors-p" id="AllColors-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -170,7 +170,7 @@ public XColor AllColors {set; }
 ```  
 ***
 
-## `Color`<a href="Width-p" id="Width-p"></a>
+## `Color`<a href="Color-p" id="Color-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -178,7 +178,7 @@ public XColor Color { get; set; }
 ```  
 ***
 
-## `Color2`<a href="Width-p" id="Width-p"></a>
+## `Color2`<a href="Color2-p" id="Color2-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -186,7 +186,7 @@ public XColor Color2 { get; set; }
 ```  
 ***
 
-## `ColorSplit`<a href="Width-p" id="Width-p"></a>
+## `ColorSplit`<a href="ColorSplit-p" id="ColorSplit-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -194,7 +194,7 @@ public ChartSeriesColorSplit ColorSplit { get; set; }
 ```  
 ***
 
-## `DotStyle`<a href="Width-p" id="Width-p"></a>
+## `DotStyle`<a href="DotStyle-p" id="DotStyle-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -202,7 +202,7 @@ public ChartSeriesDotStyle DotStyle { get; set; }
 ```  
 ***
 
-## `ShowMarker`<a href="Width-p" id="Width-p"></a>
+## `ShowMarker`<a href="ShowMarker-p" id="ShowMarker-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -210,7 +210,7 @@ public bool ShowMarker { get; set; }
 ```  
 ***
 
-## `Style`<a href="Width-p" id="Width-p"></a>
+## `Style`<a href="Style-p" id="Style-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -218,7 +218,7 @@ public XDashStyle Style { get; set; }
 ```  
 ***
 
-## `Type`<a href="Width-p" id="Width-p"></a>
+## `Type`<a href="Type-p" id="Type-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -226,7 +226,7 @@ public ChartSeriesType Type { get; set; }
 ```  
 ***
 
-## `Visible`<a href="Width-p" id="Width-p"></a>
+## `Visible`<a href="Visible-p" id="Visible-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

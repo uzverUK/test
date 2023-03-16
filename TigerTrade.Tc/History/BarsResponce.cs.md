@@ -45,7 +45,7 @@ public BarsResponce(BarsRequest request, IDataReader<Bar> reader)
  ***  
 # Свойства
 
-## `Reader`<a href="Request-p" id="Request-p"></a>
+## `Reader`<a href="Reader-p" id="Reader-p"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

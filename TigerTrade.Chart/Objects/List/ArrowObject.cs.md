@@ -30,7 +30,7 @@ public sealed class ArrowObject : LineObjectBase
 ***  
 # Методы
 
-## `ArrowObject`<a href="InObject-m" id="InObject-m"></a>
+## `ArrowObject`<a href="ArrowObject-m" id="ArrowObject-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -39,7 +39,7 @@ public ArrowObject()
 
 ***  
 
-## `Draw`<a href="InObject-m" id="InObject-m"></a>
+## `Draw`<a href="Draw-m" id="Draw-m"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
