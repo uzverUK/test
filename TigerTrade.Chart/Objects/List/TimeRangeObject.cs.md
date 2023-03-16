@@ -13,12 +13,12 @@ public sealed class TimeRangeObject : PolygonObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Draw`](./TimeRangeObject.cs/Методы/Draw.md) | *Описание* |
-| [`DrawControlPoints`](./TimeRangeObject.cs/Методы/DrawControlPoints.md) | *Описание* |
-| [`GetControlPoint`](./TimeRangeObject.cs/Методы/GetControlPoint.md) | *Описание* |
-| [`InObject`](./TimeRangeObject.cs/Методы/InObject.md) | *Описание* |
-| [`TimeRangeObject`](./TimeRangeObject.cs/Методы/TimeRangeObject.md) | *Описание* |
-| [`ey9wOk3RwAcjmml8vF1J`](./TimeRangeObject.cs/Методы/ey9wOk3RwAcjmml8vF1J.md) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`DrawControlPoints`](#test) | *Описание* |
+| [`GetControlPoint`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
+| [`TimeRangeObject`](#test) | *Описание* |
+| [`ey9wOk3RwAcjmml8vF1J`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -38,7 +38,7 @@ public sealed class TimeRangeObject : PolygonObjectBase
 ***  
 # Методы
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `DrawControlPoints<a href="test" id="test"></a>`
+## `DrawControlPoints`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 ***  
 
-## `GetControlPoint<a href="test" id="test"></a>`
+## `GetControlPoint`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public override int GetControlPoint(int x, int y)
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `TimeRangeObject<a href="test" id="test"></a>`
+## `TimeRangeObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public TimeRangeObject()
 
 ***  
 
-## `ey9wOk3RwAcjmml8vF1J<a href="test" id="test"></a>`
+## `ey9wOk3RwAcjmml8vF1J`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

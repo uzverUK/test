@@ -13,15 +13,15 @@ public sealed class PriceRangeObject : PolygonObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CQTqeP3bJqxWKjH4hGUt`](./PriceRangeObject.cs/Методы/CQTqeP3bJqxWKjH4hGUt.md) | *Описание* |
-| [`CheckAlert`](./PriceRangeObject.cs/Методы/CheckAlert.md) | *Описание* |
-| [`CopyTemplate`](./PriceRangeObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./PriceRangeObject.cs/Методы/Draw.md) | *Описание* |
-| [`DrawControlPoints`](./PriceRangeObject.cs/Методы/DrawControlPoints.md) | *Описание* |
-| [`GetControlPoint`](./PriceRangeObject.cs/Методы/GetControlPoint.md) | *Описание* |
-| [`InObject`](./PriceRangeObject.cs/Методы/InObject.md) | *Описание* |
-| [`IsObjectOnChart`](./PriceRangeObject.cs/Методы/IsObjectOnChart.md) | *Описание* |
-| [`PriceRangeObject`](./PriceRangeObject.cs/Методы/PriceRangeObject.md) | *Описание* |
+| [`CQTqeP3bJqxWKjH4hGUt`](#test) | *Описание* |
+| [`CheckAlert`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`DrawControlPoints`](#test) | *Описание* |
+| [`GetControlPoint`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
+| [`IsObjectOnChart`](#test) | *Описание* |
+| [`PriceRangeObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -49,7 +49,7 @@ public sealed class PriceRangeObject : PolygonObjectBase
 ***  
 # Методы
 
-## `CQTqeP3bJqxWKjH4hGUt<a href="test" id="test"></a>`
+## `CQTqeP3bJqxWKjH4hGUt`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public CQTqeP3bJqxWKjH4hGUt()
 
 ***  
 
-## `CheckAlert<a href="test" id="test"></a>`
+## `CheckAlert`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> i
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -98,7 +98,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `DrawControlPoints<a href="test" id="test"></a>`
+## `DrawControlPoints`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -107,7 +107,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 ***  
 
-## `GetControlPoint<a href="test" id="test"></a>`
+## `GetControlPoint`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -123,7 +123,7 @@ public override int GetControlPoint(int x, int y)
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -132,7 +132,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `IsObjectOnChart<a href="test" id="test"></a>`
+## `IsObjectOnChart`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -141,7 +141,7 @@ protected override bool IsObjectOnChart()
 
 ***  
 
-## `PriceRangeObject<a href="test" id="test"></a>`
+## `PriceRangeObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

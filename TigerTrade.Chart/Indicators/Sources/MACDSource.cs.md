@@ -13,11 +13,11 @@ public sealed class MACDSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](./MACDSource.cs/Методы/CopySettings.md) | *Описание* |
-| [`GetSeries`](./MACDSource.cs/Методы/GetSeries.md) | *Описание* |
-| [`GetSeriesList`](./MACDSource.cs/Методы/GetSeriesList.md) | *Описание* |
-| [`MACDSource`](./MACDSource.cs/Методы/MACDSource.md) | *Описание* |
-| [`ToString`](./MACDSource.cs/Методы/ToString.md) | *Описание* |
+| [`CopySettings`](#test) | *Описание* |
+| [`GetSeries`](#test) | *Описание* |
+| [`GetSeriesList`](#test) | *Описание* |
+| [`MACDSource`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -35,7 +35,7 @@ public sealed class MACDSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings<a href="test" id="test"></a>`
+## `CopySettings`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries<a href="test" id="test"></a>`
+## `GetSeries`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList<a href="test" id="test"></a>`
+## `GetSeriesList`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `MACDSource<a href="test" id="test"></a>`
+## `MACDSource`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public MACDSource()
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

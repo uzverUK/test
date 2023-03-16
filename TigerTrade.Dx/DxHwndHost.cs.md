@@ -13,14 +13,14 @@ public sealed class DxHwndHost : DxHwndHostBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Dispose`](./DxHwndHost.cs/Методы/Dispose.md) | *Описание* |
-| [`DxHwndHost`](./DxHwndHost.cs/Методы/DxHwndHost.md) | *Описание* |
-| [`InvalidateSecondVisual`](./DxHwndHost.cs/Методы/InvalidateSecondVisual.md) | *Описание* |
-| [`InvalidateVisual`](./DxHwndHost.cs/Методы/InvalidateVisual.md) | *Описание* |
-| [`OnPaintBackground`](./DxHwndHost.cs/Методы/OnPaintBackground.md) | *Описание* |
-| [`OnRenderSizeChanged`](./DxHwndHost.cs/Методы/OnRenderSizeChanged.md) | *Описание* |
-| [`Render`](./DxHwndHost.cs/Методы/Render.md) | *Описание* |
-| [`StartTimer`](./DxHwndHost.cs/Методы/StartTimer.md) | *Описание* |
+| [`Dispose`](#test) | *Описание* |
+| [`DxHwndHost`](#test) | *Описание* |
+| [`InvalidateSecondVisual`](#test) | *Описание* |
+| [`InvalidateVisual`](#test) | *Описание* |
+| [`OnPaintBackground`](#test) | *Описание* |
+| [`OnRenderSizeChanged`](#test) | *Описание* |
+| [`Render`](#test) | *Описание* |
+| [`StartTimer`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -43,7 +43,7 @@ public sealed class DxHwndHost : DxHwndHostBase
 ***  
 # Методы
 
-## `Dispose<a href="test" id="test"></a>`
+## `Dispose`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ protected override void Dispose(bool disposing)
 
 ***  
 
-## `DxHwndHost<a href="test" id="test"></a>`
+## `DxHwndHost`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ public DxHwndHost()
 
 ***  
 
-## `InvalidateSecondVisual<a href="test" id="test"></a>`
+## `InvalidateSecondVisual`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public void InvalidateSecondVisual()
 
 ***  
 
-## `InvalidateVisual<a href="test" id="test"></a>`
+## `InvalidateVisual`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ public void InvalidateVisual(bool full = false)
 
 ***  
 
-## `OnPaintBackground<a href="test" id="test"></a>`
+## `OnPaintBackground`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -96,7 +96,7 @@ protected override void OnPaintBackground()
 
 ***  
 
-## `OnRenderSizeChanged<a href="test" id="test"></a>`
+## `OnRenderSizeChanged`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ protected override void OnRenderSizeChanged(SizeChangedInfo sizeInfo)
 
 ***  
 
-## `Render<a href="test" id="test"></a>`
+## `Render`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -124,7 +124,7 @@ public void Render(DxVisualQueue queue1, DxVisualQueue queue2)
 
 ***  
 
-## `StartTimer<a href="test" id="test"></a>`
+## `StartTimer`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

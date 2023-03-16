@@ -13,11 +13,11 @@ public sealed class EnvelopesSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](./EnvelopesSource.cs/Методы/CopySettings.md) | *Описание* |
-| [`EnvelopesSource`](./EnvelopesSource.cs/Методы/EnvelopesSource.md) | *Описание* |
-| [`GetSeries`](./EnvelopesSource.cs/Методы/GetSeries.md) | *Описание* |
-| [`GetSeriesList`](./EnvelopesSource.cs/Методы/GetSeriesList.md) | *Описание* |
-| [`ToString`](./EnvelopesSource.cs/Методы/ToString.md) | *Описание* |
+| [`CopySettings`](#test) | *Описание* |
+| [`EnvelopesSource`](#test) | *Описание* |
+| [`GetSeries`](#test) | *Описание* |
+| [`GetSeriesList`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -35,7 +35,7 @@ public sealed class EnvelopesSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings<a href="test" id="test"></a>`
+## `CopySettings`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `EnvelopesSource<a href="test" id="test"></a>`
+## `EnvelopesSource`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public EnvelopesSource()
 
 ***  
 
-## `GetSeries<a href="test" id="test"></a>`
+## `GetSeries`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList<a href="test" id="test"></a>`
+## `GetSeriesList`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -82,7 +82,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,9 +13,9 @@ public sealed class ObjectPeriodItem
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CheckInterval`](./ObjectPeriodItem.cs/Методы/CheckInterval.md) | *Описание* |
-| [`Equals`](./ObjectPeriodItem.cs/Методы/Equals.md) | *Описание* |
-| [`ObjectPeriodItem`](./ObjectPeriodItem.cs/Методы/ObjectPeriodItem.md) | *Описание* |
+| [`CheckInterval`](#test) | *Описание* |
+| [`Equals`](#test) | *Описание* |
+| [`ObjectPeriodItem`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -32,7 +32,7 @@ public sealed class ObjectPeriodItem
 ***  
 # Методы
 
-## `CheckInterval<a href="test" id="test"></a>`
+## `CheckInterval`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public bool CheckInterval(int interval)
 
 ***  
 
-## `Equals<a href="test" id="test"></a>`
+## `Equals`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public override bool Equals(object obj)
 
 ***  
 
-## `ObjectPeriodItem<a href="test" id="test"></a>`
+## `ObjectPeriodItem`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

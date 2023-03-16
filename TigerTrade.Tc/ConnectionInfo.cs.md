@@ -13,8 +13,8 @@ public sealed class ConnectionInfo : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`SetLogsPath`](./ConnectionInfo.cs/Методы/SetLogsPath.md) | *Описание* |
-| [`ToString`](./ConnectionInfo.cs/Методы/ToString.md) | *Описание* |
+| [`SetLogsPath`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -52,7 +52,7 @@ public sealed class ConnectionInfo : INotifyPropertyChanged
 ***  
 # Методы
 
-## `SetLogsPath<a href="test" id="test"></a>`
+## `SetLogsPath`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ public void SetLogsPath(string path)
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

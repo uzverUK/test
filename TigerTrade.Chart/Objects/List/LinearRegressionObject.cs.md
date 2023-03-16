@@ -13,10 +13,10 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CalcPoint`](./LinearRegressionObject.cs/Методы/CalcPoint.md) | *Описание* |
-| [`CopyTemplate`](./LinearRegressionObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./LinearRegressionObject.cs/Методы/Draw.md) | *Описание* |
-| [`LinearRegressionObject`](./LinearRegressionObject.cs/Методы/LinearRegressionObject.md) | *Описание* |
+| [`CalcPoint`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`LinearRegressionObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -37,7 +37,7 @@ public sealed class LinearRegressionObject : LineGroupObjectBaseEx
 ***  
 # Методы
 
-## `CalcPoint<a href="test" id="test"></a>`
+## `CalcPoint`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -46,7 +46,7 @@ protected override void CalcPoint()
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `LinearRegressionObject<a href="test" id="test"></a>`
+## `LinearRegressionObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

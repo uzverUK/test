@@ -13,11 +13,11 @@ public sealed class ExitStrategyTarget
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ClearSl`](./ExitStrategyTarget.cs/Методы/ClearSl.md) | *Описание* |
-| [`ClearTp`](./ExitStrategyTarget.cs/Методы/ClearTp.md) | *Описание* |
-| [`ExitStrategyTarget`](./ExitStrategyTarget.cs/Методы/ExitStrategyTarget.md) | *Описание* |
-| [`RemoveSlTrailing`](./ExitStrategyTarget.cs/Методы/RemoveSlTrailing.md) | *Описание* |
-| [`RemoveTpTrailing`](./ExitStrategyTarget.cs/Методы/RemoveTpTrailing.md) | *Описание* |
+| [`ClearSl`](#test) | *Описание* |
+| [`ClearTp`](#test) | *Описание* |
+| [`ExitStrategyTarget`](#test) | *Описание* |
+| [`RemoveSlTrailing`](#test) | *Описание* |
+| [`RemoveTpTrailing`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -53,7 +53,7 @@ public sealed class ExitStrategyTarget
 ***  
 # Методы
 
-## `ClearSl<a href="test" id="test"></a>`
+## `ClearSl`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public void ClearSl()
 
 ***  
 
-## `ClearTp<a href="test" id="test"></a>`
+## `ClearTp`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public void ClearTp()
 
 ***  
 
-## `ExitStrategyTarget<a href="test" id="test"></a>`
+## `ExitStrategyTarget`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -80,7 +80,7 @@ public ExitStrategyTarget()
 
 ***  
 
-## `RemoveSlTrailing<a href="test" id="test"></a>`
+## `RemoveSlTrailing`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -89,7 +89,7 @@ public void RemoveSlTrailing()
 
 ***  
 
-## `RemoveTpTrailing<a href="test" id="test"></a>`
+## `RemoveTpTrailing`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

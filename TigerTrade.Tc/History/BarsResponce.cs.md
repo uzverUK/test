@@ -13,7 +13,7 @@ public sealed class BarsResponce
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`BarsResponce`](./BarsResponce.cs/Методы/BarsResponce.md) | *Описание* |
+| [`BarsResponce`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -29,7 +29,7 @@ public sealed class BarsResponce
 ***  
 # Методы
 
-## `BarsResponce<a href="test" id="test"></a>`
+## `BarsResponce`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

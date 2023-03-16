@@ -13,7 +13,7 @@ public sealed class Execution
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Execution`](./Execution.cs/Методы/Execution.md) | *Описание* |
+| [`Execution`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -40,7 +40,7 @@ public sealed class Execution
 ***  
 # Методы
 
-## `Execution<a href="test" id="test"></a>`
+## `Execution`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

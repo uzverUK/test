@@ -13,11 +13,11 @@ public sealed class MomentumSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](./MomentumSource.cs/Методы/CopySettings.md) | *Описание* |
-| [`GetSeries`](./MomentumSource.cs/Методы/GetSeries.md) | *Описание* |
-| [`GetSeriesList`](./MomentumSource.cs/Методы/GetSeriesList.md) | *Описание* |
-| [`MomentumSource`](./MomentumSource.cs/Методы/MomentumSource.md) | *Описание* |
-| [`ToString`](./MomentumSource.cs/Методы/ToString.md) | *Описание* |
+| [`CopySettings`](#test) | *Описание* |
+| [`GetSeries`](#test) | *Описание* |
+| [`GetSeriesList`](#test) | *Описание* |
+| [`MomentumSource`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -33,7 +33,7 @@ public sealed class MomentumSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings<a href="test" id="test"></a>`
+## `CopySettings`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -46,7 +46,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries<a href="test" id="test"></a>`
+## `GetSeries`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList<a href="test" id="test"></a>`
+## `GetSeriesList`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `MomentumSource<a href="test" id="test"></a>`
+## `MomentumSource`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public MomentumSource()
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

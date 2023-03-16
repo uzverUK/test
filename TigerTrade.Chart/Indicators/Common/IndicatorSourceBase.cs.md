@@ -13,14 +13,14 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CloneSource`](./IndicatorSourceBase.cs/Методы/CloneSource.md) | *Описание* |
-| [`CopySettings`](./IndicatorSourceBase.cs/Методы/CopySettings.md) | *Описание* |
-| [`GetSeries`](./IndicatorSourceBase.cs/Методы/GetSeries.md) | *Описание* |
-| [`GetSeriesList`](./IndicatorSourceBase.cs/Методы/GetSeriesList.md) | *Описание* |
-| [`IndicatorSourceBase`](./IndicatorSourceBase.cs/Методы/IndicatorSourceBase.md) | *Описание* |
-| [`OnPropertyChanged`](./IndicatorSourceBase.cs/Методы/OnPropertyChanged.md) | *Описание* |
-| [`SetSources`](./IndicatorSourceBase.cs/Методы/SetSources.md) | *Описание* |
-| [`ToString`](./IndicatorSourceBase.cs/Методы/ToString.md) | *Описание* |
+| [`CloneSource`](#test) | *Описание* |
+| [`CopySettings`](#test) | *Описание* |
+| [`GetSeries`](#test) | *Описание* |
+| [`GetSeriesList`](#test) | *Описание* |
+| [`IndicatorSourceBase`](#test) | *Описание* |
+| [`OnPropertyChanged`](#test) | *Описание* |
+| [`SetSources`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -41,7 +41,7 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 ***  
 # Методы
 
-## `CloneSource<a href="test" id="test"></a>`
+## `CloneSource`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public IndicatorSourceBase CloneSource()
 
 ***  
 
-## `CopySettings<a href="test" id="test"></a>`
+## `CopySettings`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public abstract void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries<a href="test" id="test"></a>`
+## `GetSeries`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -75,7 +75,7 @@ public abstract double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList<a href="test" id="test"></a>`
+## `GetSeriesList`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -84,7 +84,7 @@ public abstract IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `IndicatorSourceBase<a href="test" id="test"></a>`
+## `IndicatorSourceBase`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ protected IndicatorSourceBase()
 
 ***  
 
-## `OnPropertyChanged<a href="test" id="test"></a>`
+## `OnPropertyChanged`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ protected virtual void OnPropertyChanged([CallerMemberName] string propertyName 
 
 ***  
 
-## `SetSources<a href="test" id="test"></a>`
+## `SetSources`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public static void SetSources(List<Type> sources)
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

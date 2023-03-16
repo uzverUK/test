@@ -13,11 +13,11 @@ public sealed class UserPosition
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetMoneyPnl`](./UserPosition.cs/Методы/GetMoneyPnl.md) | *Описание* |
-| [`GetPercentPnl`](./UserPosition.cs/Методы/GetPercentPnl.md) | *Описание* |
-| [`GetPointsPnl`](./UserPosition.cs/Методы/GetPointsPnl.md) | *Описание* |
-| [`InitStrategy`](./UserPosition.cs/Методы/InitStrategy.md) | *Описание* |
-| [`UserPosition`](./UserPosition.cs/Методы/UserPosition.md) | *Описание* |
+| [`GetMoneyPnl`](#test) | *Описание* |
+| [`GetPercentPnl`](#test) | *Описание* |
+| [`GetPointsPnl`](#test) | *Описание* |
+| [`InitStrategy`](#test) | *Описание* |
+| [`UserPosition`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -62,7 +62,7 @@ public sealed class UserPosition
 ***  
 # Методы
 
-## `GetMoneyPnl<a href="test" id="test"></a>`
+## `GetMoneyPnl`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public double GetMoneyPnl()
 
 ***  
 
-## `GetMoneyPnl<a href="test" id="test"></a>`
+## `GetMoneyPnl`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public double GetMoneyPnl(long exitPrice)
 
 ***  
 
-## `GetMoneyPnl<a href="test" id="test"></a>`
+## `GetMoneyPnl`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ public double GetMoneyPnl(long entryPrice, long exitPrice, long size)
 
 ***  
 
-## `GetPercentPnl<a href="test" id="test"></a>`
+## `GetPercentPnl`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public double GetPercentPnl()
 
 ***  
 
-## `GetPercentPnl<a href="test" id="test"></a>`
+## `GetPercentPnl`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -129,7 +129,7 @@ public double GetPercentPnl(long exitPrice)
 
 ***  
 
-## `GetPointsPnl<a href="test" id="test"></a>`
+## `GetPointsPnl`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -138,7 +138,7 @@ public double GetPointsPnl()
 
 ***  
 
-## `GetPointsPnl<a href="test" id="test"></a>`
+## `GetPointsPnl`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -152,7 +152,7 @@ public double GetPointsPnl(long exitPrice)
 
 ***  
 
-## `InitStrategy<a href="test" id="test"></a>`
+## `InitStrategy`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -164,7 +164,7 @@ public void InitStrategy(ExitStrategy strategy)
 
 ***  
 
-## `UserPosition<a href="test" id="test"></a>`
+## `UserPosition`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -173,7 +173,7 @@ public UserPosition()
 
 ***  
 
-## `UserPosition<a href="test" id="test"></a>`
+## `UserPosition`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

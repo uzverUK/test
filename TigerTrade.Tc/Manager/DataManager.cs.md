@@ -13,34 +13,34 @@ public static class DataManager
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`AutoConnect`](./DataManager.cs/Методы/AutoConnect.md) | *Описание* |
-| [`ClientCancelAllOrders`](./DataManager.cs/Методы/ClientCancelAllOrders.md) | *Описание* |
-| [`ClientCancelOrder`](./DataManager.cs/Методы/ClientCancelOrder.md) | *Описание* |
-| [`ClientConnect`](./DataManager.cs/Методы/ClientConnect.md) | *Описание* |
-| [`ClientDisconnect`](./DataManager.cs/Методы/ClientDisconnect.md) | *Описание* |
-| [`ClientModifyOrder`](./DataManager.cs/Методы/ClientModifyOrder.md) | *Описание* |
-| [`ClientPlaceOrder`](./DataManager.cs/Методы/ClientPlaceOrder.md) | *Описание* |
-| [`ClientUpdateUserPosition`](./DataManager.cs/Методы/ClientUpdateUserPosition.md) | *Описание* |
-| [`FilterAccount`](./DataManager.cs/Методы/FilterAccount.md) | *Описание* |
-| [`GetAccount`](./DataManager.cs/Методы/GetAccount.md) | *Описание* |
-| [`GetAccounts`](./DataManager.cs/Методы/GetAccounts.md) | *Описание* |
-| [`GetConnectionInfo`](./DataManager.cs/Методы/GetConnectionInfo.md) | *Описание* |
-| [`GetConnectionsInfo`](./DataManager.cs/Методы/GetConnectionsInfo.md) | *Описание* |
-| [`GetExecutions`](./DataManager.cs/Методы/GetExecutions.md) | *Описание* |
-| [`GetOrders`](./DataManager.cs/Методы/GetOrders.md) | *Описание* |
-| [`GetOrdersCount`](./DataManager.cs/Методы/GetOrdersCount.md) | *Описание* |
-| [`GetPositionsCount`](./DataManager.cs/Методы/GetPositionsCount.md) | *Описание* |
-| [`GetSimAccounts`](./DataManager.cs/Методы/GetSimAccounts.md) | *Описание* |
-| [`GetUserPosition`](./DataManager.cs/Методы/GetUserPosition.md) | *Описание* |
-| [`IsClientConnected`](./DataManager.cs/Методы/IsClientConnected.md) | *Описание* |
-| [`IsTradeAllowed`](./DataManager.cs/Методы/IsTradeAllowed.md) | *Описание* |
-| [`LoadTrustAccounts`](./DataManager.cs/Методы/LoadTrustAccounts.md) | *Описание* |
-| [`ProcessMarketData`](./DataManager.cs/Методы/ProcessMarketData.md) | *Описание* |
-| [`ProcessTradeData`](./DataManager.cs/Методы/ProcessTradeData.md) | *Описание* |
-| [`SetTradeMode`](./DataManager.cs/Методы/SetTradeMode.md) | *Описание* |
-| [`Subscribe`](./DataManager.cs/Методы/Subscribe.md) | *Описание* |
-| [`SyncSlTp`](./DataManager.cs/Методы/SyncSlTp.md) | *Описание* |
-| [`UnSubscribe`](./DataManager.cs/Методы/UnSubscribe.md) | *Описание* |
+| [`AutoConnect`](#test) | *Описание* |
+| [`ClientCancelAllOrders`](#test) | *Описание* |
+| [`ClientCancelOrder`](#test) | *Описание* |
+| [`ClientConnect`](#test) | *Описание* |
+| [`ClientDisconnect`](#test) | *Описание* |
+| [`ClientModifyOrder`](#test) | *Описание* |
+| [`ClientPlaceOrder`](#test) | *Описание* |
+| [`ClientUpdateUserPosition`](#test) | *Описание* |
+| [`FilterAccount`](#test) | *Описание* |
+| [`GetAccount`](#test) | *Описание* |
+| [`GetAccounts`](#test) | *Описание* |
+| [`GetConnectionInfo`](#test) | *Описание* |
+| [`GetConnectionsInfo`](#test) | *Описание* |
+| [`GetExecutions`](#test) | *Описание* |
+| [`GetOrders`](#test) | *Описание* |
+| [`GetOrdersCount`](#test) | *Описание* |
+| [`GetPositionsCount`](#test) | *Описание* |
+| [`GetSimAccounts`](#test) | *Описание* |
+| [`GetUserPosition`](#test) | *Описание* |
+| [`IsClientConnected`](#test) | *Описание* |
+| [`IsTradeAllowed`](#test) | *Описание* |
+| [`LoadTrustAccounts`](#test) | *Описание* |
+| [`ProcessMarketData`](#test) | *Описание* |
+| [`ProcessTradeData`](#test) | *Описание* |
+| [`SetTradeMode`](#test) | *Описание* |
+| [`Subscribe`](#test) | *Описание* |
+| [`SyncSlTp`](#test) | *Описание* |
+| [`UnSubscribe`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -81,7 +81,7 @@ public static class DataManager
 ***  
 # Методы
 
-## `AutoConnect<a href="test" id="test"></a>`
+## `AutoConnect`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -90,7 +90,7 @@ public static void AutoConnect()
 
 ***  
 
-## `ClientCancelAllOrders<a href="test" id="test"></a>`
+## `ClientCancelAllOrders`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -103,7 +103,7 @@ public static void ClientCancelAllOrders(OrderGroup group)
 
 ***  
 
-## `ClientCancelOrder<a href="test" id="test"></a>`
+## `ClientCancelOrder`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public static void ClientCancelOrder(Order order)
 
 ***  
 
-## `ClientConnect<a href="test" id="test"></a>`
+## `ClientConnect`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -127,7 +127,7 @@ public static void ClientConnect(string connectionID)
 
 ***  
 
-## `ClientDisconnect<a href="test" id="test"></a>`
+## `ClientDisconnect`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -136,7 +136,7 @@ public static void ClientDisconnect(string connectionID)
 
 ***  
 
-## `ClientModifyOrder<a href="test" id="test"></a>`
+## `ClientModifyOrder`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -149,7 +149,7 @@ public static void ClientModifyOrder(Order order)
 
 ***  
 
-## `ClientPlaceOrder<a href="test" id="test"></a>`
+## `ClientPlaceOrder`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -158,7 +158,7 @@ public static void ClientPlaceOrder(Order order)
 
 ***  
 
-## `ClientUpdateUserPosition<a href="test" id="test"></a>`
+## `ClientUpdateUserPosition`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -171,7 +171,7 @@ public static void ClientUpdateUserPosition(UserPositionData position)
 
 ***  
 
-## `FilterAccount<a href="test" id="test"></a>`
+## `FilterAccount`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -183,7 +183,7 @@ public static bool FilterAccount(Account account)
 
 ***  
 
-## `FilterAccount<a href="test" id="test"></a>`
+## `FilterAccount`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -199,7 +199,7 @@ public static bool FilterAccount(string accountID)
 
 ***  
 
-## `GetAccount<a href="test" id="test"></a>`
+## `GetAccount`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -208,7 +208,7 @@ public static Account GetAccount(string accountID)
 
 ***  
 
-## `GetAccounts<a href="test" id="test"></a>`
+## `GetAccounts`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -224,7 +224,7 @@ public static List<Account> GetAccounts(Symbol symbol, bool isOfflineAccount = f
 
 ***  
 
-## `GetAccounts<a href="test" id="test"></a>`
+## `GetAccounts`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -241,7 +241,7 @@ public static List<Account> GetAccounts()
 
 ***  
 
-## `GetConnectionInfo<a href="test" id="test"></a>`
+## `GetConnectionInfo`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -253,7 +253,7 @@ public static ConnectionInfo GetConnectionInfo(string id)
 
 ***  
 
-## `GetConnectionsInfo<a href="test" id="test"></a>`
+## `GetConnectionsInfo`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -262,7 +262,7 @@ public static IEnumerable<ConnectionInfo> GetConnectionsInfo()
 
 ***  
 
-## `GetExecutions<a href="test" id="test"></a>`
+## `GetExecutions`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -278,7 +278,7 @@ public static List<Execution> GetExecutions(Symbol symbol, Account account)
 
 ***  
 
-## `GetOrders<a href="test" id="test"></a>`
+## `GetOrders`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -287,7 +287,7 @@ public static List<Order> GetOrders(Symbol symbol, Account account)
 
 ***  
 
-## `GetOrdersCount<a href="test" id="test"></a>`
+## `GetOrdersCount`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -296,7 +296,7 @@ public static int GetOrdersCount()
 
 ***  
 
-## `GetPositionsCount<a href="test" id="test"></a>`
+## `GetPositionsCount`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -305,7 +305,7 @@ public static int GetPositionsCount()
 
 ***  
 
-## `GetSimAccounts<a href="test" id="test"></a>`
+## `GetSimAccounts`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -318,7 +318,7 @@ public static List<Account> GetSimAccounts()
 
 ***  
 
-## `GetUserPosition<a href="test" id="test"></a>`
+## `GetUserPosition`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -333,7 +333,7 @@ public static UserPosition GetUserPosition(Symbol symbol, Account account)
 
 ***  
 
-## `IsClientConnected<a href="test" id="test"></a>`
+## `IsClientConnected`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -345,7 +345,7 @@ public static bool IsClientConnected(string connectionID)
 
 ***  
 
-## `IsTradeAllowed<a href="test" id="test"></a>`
+## `IsTradeAllowed`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -357,7 +357,7 @@ public static bool IsTradeAllowed(UserPosition position)
 
 ***  
 
-## `IsTradeAllowed<a href="test" id="test"></a>`
+## `IsTradeAllowed`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -373,7 +373,7 @@ public static bool IsTradeAllowed(Symbol symbol)
 
 ***  
 
-## `LoadTrustAccounts<a href="test" id="test"></a>`
+## `LoadTrustAccounts`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -382,7 +382,7 @@ public static void LoadTrustAccounts(List<TrustAccount> accounts)
 
 ***  
 
-## `ProcessMarketData<a href="test" id="test"></a>`
+## `ProcessMarketData`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -391,7 +391,7 @@ public static void ProcessMarketData()
 
 ***  
 
-## `ProcessTradeData<a href="test" id="test"></a>`
+## `ProcessTradeData`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -400,7 +400,7 @@ public static void ProcessTradeData()
 
 ***  
 
-## `SetTradeMode<a href="test" id="test"></a>`
+## `SetTradeMode`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -416,7 +416,7 @@ public static void SetTradeMode(int tradeMode, bool init)
 
 ***  
 
-## `Subscribe<a href="test" id="test"></a>`
+## `Subscribe`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -431,7 +431,7 @@ public static void Subscribe(SubscriptionFlags flags, params Symbol[] symbols)
 
 ***  
 
-## `SyncSlTp<a href="test" id="test"></a>`
+## `SyncSlTp`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -440,7 +440,7 @@ public static void SyncSlTp()
 
 ***  
 
-## `UnSubscribe<a href="test" id="test"></a>`
+## `UnSubscribe`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

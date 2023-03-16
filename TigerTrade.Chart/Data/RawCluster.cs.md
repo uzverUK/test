@@ -13,13 +13,13 @@ public sealed class RawCluster : IRawCluster
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`AddCluster`](./RawCluster.cs/Методы/AddCluster.md) | *Описание* |
-| [`AddItem`](./RawCluster.cs/Методы/AddItem.md) | *Описание* |
-| [`AddTick`](./RawCluster.cs/Методы/AddTick.md) | *Описание* |
-| [`GetItem`](./RawCluster.cs/Методы/GetItem.md) | *Описание* |
-| [`GetValueArea`](./RawCluster.cs/Методы/GetValueArea.md) | *Описание* |
-| [`RawCluster`](./RawCluster.cs/Методы/RawCluster.md) | *Описание* |
-| [`UpdateData`](./RawCluster.cs/Методы/UpdateData.md) | *Описание* |
+| [`AddCluster`](#test) | *Описание* |
+| [`AddItem`](#test) | *Описание* |
+| [`AddTick`](#test) | *Описание* |
+| [`GetItem`](#test) | *Описание* |
+| [`GetValueArea`](#test) | *Описание* |
+| [`RawCluster`](#test) | *Описание* |
+| [`UpdateData`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -58,7 +58,7 @@ public sealed class RawCluster : IRawCluster
 ***  
 # Методы
 
-## `AddCluster<a href="test" id="test"></a>`
+## `AddCluster`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public void AddCluster(IRawCluster cluster)
 
 ***  
 
-## `AddItem<a href="test" id="test"></a>`
+## `AddItem`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public void AddItem(IRawClusterItem item)
 
 ***  
 
-## `AddTick<a href="test" id="test"></a>`
+## `AddTick`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -98,7 +98,7 @@ public void AddTick(IRawTick tick, int scale)
 
 ***  
 
-## `GetItem<a href="test" id="test"></a>`
+## `GetItem`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -110,7 +110,7 @@ public IRawClusterItem GetItem(long price)
 
 ***  
 
-## `GetValueArea<a href="test" id="test"></a>`
+## `GetValueArea`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -122,7 +122,7 @@ public IRawClusterValueArea GetValueArea(int valueArea)
 
 ***  
 
-## `RawCluster<a href="test" id="test"></a>`
+## `RawCluster`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -134,7 +134,7 @@ public RawCluster(DateTime time)
 
 ***  
 
-## `UpdateData<a href="test" id="test"></a>`
+## `UpdateData`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

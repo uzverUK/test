@@ -13,7 +13,7 @@ public sealed class ChartAlertInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartAlertInfo`](./ChartAlertInfo.cs/Методы/ChartAlertInfo.md) | *Описание* |
+| [`ChartAlertInfo`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -34,7 +34,7 @@ public sealed class ChartAlertInfo
 ***  
 # Методы
 
-## `ChartAlertInfo<a href="test" id="test"></a>`
+## `ChartAlertInfo`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

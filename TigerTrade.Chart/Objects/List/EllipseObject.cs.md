@@ -13,10 +13,10 @@ public sealed class EllipseObject : PolygonObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Draw`](./EllipseObject.cs/Методы/Draw.md) | *Описание* |
-| [`EllipseObject`](./EllipseObject.cs/Методы/EllipseObject.md) | *Описание* |
-| [`GetMinDist`](./EllipseObject.cs/Методы/GetMinDist.md) | *Описание* |
-| [`InObject`](./EllipseObject.cs/Методы/InObject.md) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`EllipseObject`](#test) | *Описание* |
+| [`GetMinDist`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -31,7 +31,7 @@ public sealed class EllipseObject : PolygonObjectBase
 ***  
 # Методы
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `EllipseObject<a href="test" id="test"></a>`
+## `EllipseObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public EllipseObject()
 
 ***  
 
-## `GetMinDist<a href="test" id="test"></a>`
+## `GetMinDist`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ protected override int GetMinDist(int x, int y)
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

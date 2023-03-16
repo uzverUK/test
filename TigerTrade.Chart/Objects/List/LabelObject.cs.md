@@ -13,11 +13,11 @@ public sealed class LabelObject : PolygonObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](./LabelObject.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./LabelObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./LabelObject.cs/Методы/Draw.md) | *Описание* |
-| [`InObject`](./LabelObject.cs/Методы/InObject.md) | *Описание* |
-| [`LabelObject`](./LabelObject.cs/Методы/LabelObject.md) | *Описание* |
+| [`ApplyTheme`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
+| [`LabelObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -35,7 +35,7 @@ public sealed class LabelObject : PolygonObjectBase
 ***  
 # Методы
 
-## `ApplyTheme<a href="test" id="test"></a>`
+## `ApplyTheme`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -78,7 +78,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `LabelObject<a href="test" id="test"></a>`
+## `LabelObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,7 +13,7 @@ public sealed class TicksResponce
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`TicksResponce`](./TicksResponce.cs/Методы/TicksResponce.md) | *Описание* |
+| [`TicksResponce`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -29,7 +29,7 @@ public sealed class TicksResponce
 ***  
 # Методы
 
-## `TicksResponce<a href="test" id="test"></a>`
+## `TicksResponce`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

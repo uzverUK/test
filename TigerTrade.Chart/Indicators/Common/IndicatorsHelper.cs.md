@@ -13,54 +13,54 @@ public sealed class IndicatorsHelper
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`AC`](./IndicatorsHelper.cs/Методы/AC.md) | *Описание* |
-| [`AD`](./IndicatorsHelper.cs/Методы/AD.md) | *Описание* |
-| [`ADX`](./IndicatorsHelper.cs/Методы/ADX.md) | *Описание* |
-| [`AO`](./IndicatorsHelper.cs/Методы/AO.md) | *Описание* |
-| [`ATR`](./IndicatorsHelper.cs/Методы/ATR.md) | *Описание* |
-| [`Aroon`](./IndicatorsHelper.cs/Методы/Aroon.md) | *Описание* |
-| [`BWMFI`](./IndicatorsHelper.cs/Методы/BWMFI.md) | *Описание* |
-| [`BearsPower`](./IndicatorsHelper.cs/Методы/BearsPower.md) | *Описание* |
-| [`BullsPower`](./IndicatorsHelper.cs/Методы/BullsPower.md) | *Описание* |
-| [`CCI`](./IndicatorsHelper.cs/Методы/CCI.md) | *Описание* |
-| [`CMF`](./IndicatorsHelper.cs/Методы/CMF.md) | *Описание* |
-| [`CMO`](./IndicatorsHelper.cs/Методы/CMO.md) | *Описание* |
-| [`CO`](./IndicatorsHelper.cs/Методы/CO.md) | *Описание* |
-| [`ChaikinsVolatility`](./IndicatorsHelper.cs/Методы/ChaikinsVolatility.md) | *Описание* |
-| [`CumDelta`](./IndicatorsHelper.cs/Методы/CumDelta.md) | *Описание* |
-| [`EFI`](./IndicatorsHelper.cs/Методы/EFI.md) | *Описание* |
-| [`Fractal`](./IndicatorsHelper.cs/Методы/Fractal.md) | *Описание* |
-| [`IndicatorsHelper`](./IndicatorsHelper.cs/Методы/IndicatorsHelper.md) | *Описание* |
-| [`LinReg`](./IndicatorsHelper.cs/Методы/LinReg.md) | *Описание* |
-| [`MFI`](./IndicatorsHelper.cs/Методы/MFI.md) | *Описание* |
-| [`Max`](./IndicatorsHelper.cs/Методы/Max.md) | *Описание* |
-| [`MedianPrice`](./IndicatorsHelper.cs/Методы/MedianPrice.md) | *Описание* |
-| [`Min`](./IndicatorsHelper.cs/Методы/Min.md) | *Описание* |
-| [`MinusDI`](./IndicatorsHelper.cs/Методы/MinusDI.md) | *Описание* |
-| [`Momentum`](./IndicatorsHelper.cs/Методы/Momentum.md) | *Описание* |
-| [`MovingAverage`](./IndicatorsHelper.cs/Методы/MovingAverage.md) | *Описание* |
-| [`OBV`](./IndicatorsHelper.cs/Методы/OBV.md) | *Описание* |
-| [`PPO`](./IndicatorsHelper.cs/Методы/PPO.md) | *Описание* |
-| [`PlusDI`](./IndicatorsHelper.cs/Методы/PlusDI.md) | *Описание* |
-| [`Price`](./IndicatorsHelper.cs/Методы/Price.md) | *Описание* |
-| [`PriceChannel`](./IndicatorsHelper.cs/Методы/PriceChannel.md) | *Описание* |
-| [`ROC`](./IndicatorsHelper.cs/Методы/ROC.md) | *Описание* |
-| [`RSI`](./IndicatorsHelper.cs/Методы/RSI.md) | *Описание* |
-| [`SAR`](./IndicatorsHelper.cs/Методы/SAR.md) | *Описание* |
-| [`SMMA`](./IndicatorsHelper.cs/Методы/SMMA.md) | *Описание* |
-| [`SetDataProvider`](./IndicatorsHelper.cs/Методы/SetDataProvider.md) | *Описание* |
-| [`ShiftData`](./IndicatorsHelper.cs/Методы/ShiftData.md) | *Описание* |
-| [`StdDev`](./IndicatorsHelper.cs/Методы/StdDev.md) | *Описание* |
-| [`Subtraction`](./IndicatorsHelper.cs/Методы/Subtraction.md) | *Описание* |
-| [`TRIX`](./IndicatorsHelper.cs/Методы/TRIX.md) | *Описание* |
-| [`TypicalPrice`](./IndicatorsHelper.cs/Методы/TypicalPrice.md) | *Описание* |
-| [`UltOsc`](./IndicatorsHelper.cs/Методы/UltOsc.md) | *Описание* |
-| [`VHF`](./IndicatorsHelper.cs/Методы/VHF.md) | *Описание* |
-| [`Variance`](./IndicatorsHelper.cs/Методы/Variance.md) | *Описание* |
-| [`VolumeOscillator`](./IndicatorsHelper.cs/Методы/VolumeOscillator.md) | *Описание* |
-| [`WilliamsAD`](./IndicatorsHelper.cs/Методы/WilliamsAD.md) | *Описание* |
-| [`WilliamsR`](./IndicatorsHelper.cs/Методы/WilliamsR.md) | *Описание* |
-| [`ZIGZAG`](./IndicatorsHelper.cs/Методы/ZIGZAG.md) | *Описание* |
+| [`AC`](#test) | *Описание* |
+| [`AD`](#test) | *Описание* |
+| [`ADX`](#test) | *Описание* |
+| [`AO`](#test) | *Описание* |
+| [`ATR`](#test) | *Описание* |
+| [`Aroon`](#test) | *Описание* |
+| [`BWMFI`](#test) | *Описание* |
+| [`BearsPower`](#test) | *Описание* |
+| [`BullsPower`](#test) | *Описание* |
+| [`CCI`](#test) | *Описание* |
+| [`CMF`](#test) | *Описание* |
+| [`CMO`](#test) | *Описание* |
+| [`CO`](#test) | *Описание* |
+| [`ChaikinsVolatility`](#test) | *Описание* |
+| [`CumDelta`](#test) | *Описание* |
+| [`EFI`](#test) | *Описание* |
+| [`Fractal`](#test) | *Описание* |
+| [`IndicatorsHelper`](#test) | *Описание* |
+| [`LinReg`](#test) | *Описание* |
+| [`MFI`](#test) | *Описание* |
+| [`Max`](#test) | *Описание* |
+| [`MedianPrice`](#test) | *Описание* |
+| [`Min`](#test) | *Описание* |
+| [`MinusDI`](#test) | *Описание* |
+| [`Momentum`](#test) | *Описание* |
+| [`MovingAverage`](#test) | *Описание* |
+| [`OBV`](#test) | *Описание* |
+| [`PPO`](#test) | *Описание* |
+| [`PlusDI`](#test) | *Описание* |
+| [`Price`](#test) | *Описание* |
+| [`PriceChannel`](#test) | *Описание* |
+| [`ROC`](#test) | *Описание* |
+| [`RSI`](#test) | *Описание* |
+| [`SAR`](#test) | *Описание* |
+| [`SMMA`](#test) | *Описание* |
+| [`SetDataProvider`](#test) | *Описание* |
+| [`ShiftData`](#test) | *Описание* |
+| [`StdDev`](#test) | *Описание* |
+| [`Subtraction`](#test) | *Описание* |
+| [`TRIX`](#test) | *Описание* |
+| [`TypicalPrice`](#test) | *Описание* |
+| [`UltOsc`](#test) | *Описание* |
+| [`VHF`](#test) | *Описание* |
+| [`Variance`](#test) | *Описание* |
+| [`VolumeOscillator`](#test) | *Описание* |
+| [`WilliamsAD`](#test) | *Описание* |
+| [`WilliamsR`](#test) | *Описание* |
+| [`ZIGZAG`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -91,7 +91,7 @@ public sealed class IndicatorsHelper
 ***  
 # Методы
 
-## `AC<a href="test" id="test"></a>`
+## `AC`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -110,7 +110,7 @@ public double[] AC(IndicatorMaType type, int shortN, int longN)
 
 ***  
 
-## `AD<a href="test" id="test"></a>`
+## `AD`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -119,7 +119,7 @@ public double[] AD()
 
 ***  
 
-## `ADX<a href="test" id="test"></a>`
+## `ADX`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -132,7 +132,7 @@ public double[] ADX(int period)
 
 ***  
 
-## `AO<a href="test" id="test"></a>`
+## `AO`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -150,7 +150,7 @@ public double[] AO(IndicatorMaType type, int shortN, int longN)
 
 ***  
 
-## `ATR<a href="test" id="test"></a>`
+## `ATR`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -162,7 +162,7 @@ public double[] ATR(int period)
 
 ***  
 
-## `Aroon<a href="test" id="test"></a>`
+## `Aroon`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -177,7 +177,7 @@ public void Aroon(int period, out double[] aroonUp, out double[] aroonDown)
 
 ***  
 
-## `BWMFI<a href="test" id="test"></a>`
+## `BWMFI`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -189,7 +189,7 @@ public double[] BWMFI(IndicatorBWMFIType volumeType = IndicatorBWMFIType.Ticks)
 
 ***  
 
-## `BearsPower<a href="test" id="test"></a>`
+## `BearsPower`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -201,7 +201,7 @@ public double[] BearsPower(int n)
 
 ***  
 
-## `BullsPower<a href="test" id="test"></a>`
+## `BullsPower`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -210,7 +210,7 @@ public double[] BullsPower(int n)
 
 ***  
 
-## `CCI<a href="test" id="test"></a>`
+## `CCI`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -223,7 +223,7 @@ public double[] CCI(int period)
 
 ***  
 
-## `CMF<a href="test" id="test"></a>`
+## `CMF`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -235,7 +235,7 @@ public double[] CMF(int n)
 
 ***  
 
-## `CMO<a href="test" id="test"></a>`
+## `CMO`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -247,7 +247,7 @@ public double[] CMO(double[] d, int period)
 
 ***  
 
-## `CO<a href="test" id="test"></a>`
+## `CO`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -265,7 +265,7 @@ public double[] CO(IndicatorMaType maType, int shortPeriod, int longPeriod)
 
 ***  
 
-## `ChaikinsVolatility<a href="test" id="test"></a>`
+## `ChaikinsVolatility`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -280,7 +280,7 @@ public double[] ChaikinsVolatility(IndicatorMaType type, int n)
 
 ***  
 
-## `CumDelta<a href="test" id="test"></a>`
+## `CumDelta`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -289,7 +289,7 @@ public double[] CumDelta()
 
 ***  
 
-## `EFI<a href="test" id="test"></a>`
+## `EFI`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -305,7 +305,7 @@ public double[] EFI(double[] d, IndicatorMaType type, int n)
 
 ***  
 
-## `Fractal<a href="test" id="test"></a>`
+## `Fractal`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -320,7 +320,7 @@ public void Fractal(int n, out double[] up, out double[] down)
 
 ***  
 
-## `IndicatorsHelper<a href="test" id="test"></a>`
+## `IndicatorsHelper`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -329,7 +329,7 @@ public IndicatorsHelper()
 
 ***  
 
-## `LinReg<a href="test" id="test"></a>`
+## `LinReg`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -342,7 +342,7 @@ public double[] LinReg(double[] d, int period)
 
 ***  
 
-## `MFI<a href="test" id="test"></a>`
+## `MFI`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -351,7 +351,7 @@ public double[] MFI(int period)
 
 ***  
 
-## `Max<a href="test" id="test"></a>`
+## `Max`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -364,7 +364,7 @@ public double[] Max(double[] d, int period)
 
 ***  
 
-## `MedianPrice<a href="test" id="test"></a>`
+## `MedianPrice`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -373,7 +373,7 @@ public double[] MedianPrice()
 
 ***  
 
-## `Min<a href="test" id="test"></a>`
+## `Min`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -386,7 +386,7 @@ public double[] Min(double[] d, int period)
 
 ***  
 
-## `MinusDI<a href="test" id="test"></a>`
+## `MinusDI`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -395,7 +395,7 @@ public double[] MinusDI(int period)
 
 ***  
 
-## `Momentum<a href="test" id="test"></a>`
+## `Momentum`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -408,7 +408,7 @@ public double[] Momentum(double[] d, int period)
 
 ***  
 
-## `MovingAverage<a href="test" id="test"></a>`
+## `MovingAverage`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -420,7 +420,7 @@ public double[] MovingAverage(IndicatorMaType maType, double[] d, int period)
 
 ***  
 
-## `OBV<a href="test" id="test"></a>`
+## `OBV`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -429,7 +429,7 @@ public double[] OBV()
 
 ***  
 
-## `PPO<a href="test" id="test"></a>`
+## `PPO`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -448,7 +448,7 @@ public double[] PPO(IndicatorMaType maType, double[] d, int shortPeriod, int lon
 
 ***  
 
-## `PlusDI<a href="test" id="test"></a>`
+## `PlusDI`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -460,7 +460,7 @@ public double[] PlusDI(int period)
 
 ***  
 
-## `Price<a href="test" id="test"></a>`
+## `Price`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -472,7 +472,7 @@ public double[] Price(IndicatorPriceType priceField)
 
 ***  
 
-## `PriceChannel<a href="test" id="test"></a>`
+## `PriceChannel`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -493,7 +493,7 @@ public void PriceChannel(int n, out double[] avg, out double[] upper, out double
 
 ***  
 
-## `ROC<a href="test" id="test"></a>`
+## `ROC`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -505,7 +505,7 @@ public double[] ROC(double[] d, int period)
 
 ***  
 
-## `RSI<a href="test" id="test"></a>`
+## `RSI`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -514,7 +514,7 @@ public double[] RSI(double[] d, int period)
 
 ***  
 
-## `SAR<a href="test" id="test"></a>`
+## `SAR`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -530,7 +530,7 @@ public double[] SAR(double step, double maxp)
 
 ***  
 
-## `SMMA<a href="test" id="test"></a>`
+## `SMMA`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -542,7 +542,7 @@ public double[] SMMA(double[] d, int period)
 
 ***  
 
-## `SetDataProvider<a href="test" id="test"></a>`
+## `SetDataProvider`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -554,7 +554,7 @@ public void SetDataProvider(IChartDataProvider dp)
 
 ***  
 
-## `ShiftData<a href="test" id="test"></a>`
+## `ShiftData`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -566,7 +566,7 @@ public double[] ShiftData(double[] data, int shift)
 
 ***  
 
-## `StdDev<a href="test" id="test"></a>`
+## `StdDev`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -578,7 +578,7 @@ public double[] StdDev(double[] d, int period)
 
 ***  
 
-## `Subtraction<a href="test" id="test"></a>`
+## `Subtraction`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -587,7 +587,7 @@ public double[] Subtraction(double[] d1, double[] d2)
 
 ***  
 
-## `TRIX<a href="test" id="test"></a>`
+## `TRIX`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -600,7 +600,7 @@ public double[] TRIX(int period)
 
 ***  
 
-## `TypicalPrice<a href="test" id="test"></a>`
+## `TypicalPrice`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -609,7 +609,7 @@ public double[] TypicalPrice()
 
 ***  
 
-## `UltOsc<a href="test" id="test"></a>`
+## `UltOsc`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -628,7 +628,7 @@ public double[] UltOsc(int period1, int period2, int period3)
 
 ***  
 
-## `VHF<a href="test" id="test"></a>`
+## `VHF`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -640,7 +640,7 @@ public double[] VHF(int n)
 
 ***  
 
-## `Variance<a href="test" id="test"></a>`
+## `Variance`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -655,7 +655,7 @@ public double[] Variance(double[] d, int period, double dev)
 
 ***  
 
-## `VolumeOscillator<a href="test" id="test"></a>`
+## `VolumeOscillator`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -673,7 +673,7 @@ public double[] VolumeOscillator(IndicatorMaType type, int shortN, int longN)
 
 ***  
 
-## `WilliamsAD<a href="test" id="test"></a>`
+## `WilliamsAD`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -682,7 +682,7 @@ public double[] WilliamsAD()
 
 ***  
 
-## `WilliamsR<a href="test" id="test"></a>`
+## `WilliamsR`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -695,7 +695,7 @@ public double[] WilliamsR(int period)
 
 ***  
 
-## `ZIGZAG<a href="test" id="test"></a>`
+## `ZIGZAG`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

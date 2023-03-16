@@ -13,17 +13,17 @@ public static class TimeHelper
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ConvertFromExchangeTimeToUtc`](./TimeHelper.cs/Методы/ConvertFromExchangeTimeToUtc.md) | *Описание* |
-| [`CorrectLocalTime`](./TimeHelper.cs/Методы/CorrectLocalTime.md) | *Описание* |
-| [`CorrectUtcTime`](./TimeHelper.cs/Методы/CorrectUtcTime.md) | *Описание* |
-| [`FormatTime`](./TimeHelper.cs/Методы/FormatTime.md) | *Описание* |
-| [`GetCityTime`](./TimeHelper.cs/Методы/GetCityTime.md) | *Описание* |
-| [`GetCurrDate`](./TimeHelper.cs/Методы/GetCurrDate.md) | *Описание* |
-| [`GetCurrTime`](./TimeHelper.cs/Методы/GetCurrTime.md) | *Описание* |
-| [`GetSessionDate`](./TimeHelper.cs/Методы/GetSessionDate.md) | *Описание* |
-| [`GetSessionOffset`](./TimeHelper.cs/Методы/GetSessionOffset.md) | *Описание* |
-| [`GetSessionOffsetTs`](./TimeHelper.cs/Методы/GetSessionOffsetTs.md) | *Описание* |
-| [`IsInvalidTime`](./TimeHelper.cs/Методы/IsInvalidTime.md) | *Описание* |
+| [`ConvertFromExchangeTimeToUtc`](#test) | *Описание* |
+| [`CorrectLocalTime`](#test) | *Описание* |
+| [`CorrectUtcTime`](#test) | *Описание* |
+| [`FormatTime`](#test) | *Описание* |
+| [`GetCityTime`](#test) | *Описание* |
+| [`GetCurrDate`](#test) | *Описание* |
+| [`GetCurrTime`](#test) | *Описание* |
+| [`GetSessionDate`](#test) | *Описание* |
+| [`GetSessionOffset`](#test) | *Описание* |
+| [`GetSessionOffsetTs`](#test) | *Описание* |
+| [`IsInvalidTime`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -43,7 +43,7 @@ public static class TimeHelper
 ***  
 # Методы
 
-## `ConvertFromExchangeTimeToUtc<a href="test" id="test"></a>`
+## `ConvertFromExchangeTimeToUtc`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public static DateTime ConvertFromExchangeTimeToUtc(DateTime dt, string exchange
 
 ***  
 
-## `CorrectLocalTime<a href="test" id="test"></a>`
+## `CorrectLocalTime`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public static DateTime CorrectLocalTime(DateTime localTime, string exchange)
 
 ***  
 
-## `CorrectUtcTime<a href="test" id="test"></a>`
+## `CorrectUtcTime`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -86,7 +86,7 @@ public static DateTime CorrectUtcTime(DateTime utcTime, string exchange)
 
 ***  
 
-## `FormatTime<a href="test" id="test"></a>`
+## `FormatTime`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public static string FormatTime(DateTime dt, string format, string exchange)
 
 ***  
 
-## `GetCityTime<a href="test" id="test"></a>`
+## `GetCityTime`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public static DateTime GetCityTime(string city)
 
 ***  
 
-## `GetCurrDate<a href="test" id="test"></a>`
+## `GetCurrDate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -125,7 +125,7 @@ public static DateTime GetCurrDate(string exchange)
 
 ***  
 
-## `GetCurrTime<a href="test" id="test"></a>`
+## `GetCurrTime`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -134,7 +134,7 @@ public static DateTime GetCurrTime(string exchange)
 
 ***  
 
-## `GetSessionDate<a href="test" id="test"></a>`
+## `GetSessionDate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -147,7 +147,7 @@ public static DateTime GetSessionDate(string exchange)
 
 ***  
 
-## `GetSessionDate<a href="test" id="test"></a>`
+## `GetSessionDate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -164,7 +164,7 @@ public static DateTime GetSessionDate(DateTime dt, string exchange)
 
 ***  
 
-## `GetSessionOffset<a href="test" id="test"></a>`
+## `GetSessionOffset`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -173,7 +173,7 @@ public static double GetSessionOffset(string exchange)
 
 ***  
 
-## `GetSessionOffsetTs<a href="test" id="test"></a>`
+## `GetSessionOffsetTs`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -186,7 +186,7 @@ public static TimeSpan GetSessionOffsetTs(string exchange)
 
 ***  
 
-## `IsInvalidTime<a href="test" id="test"></a>`
+## `IsInvalidTime`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

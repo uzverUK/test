@@ -13,11 +13,11 @@ public abstract class ElliottWaveObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopyTemplate`](./ElliottWaveObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./ElliottWaveObject.cs/Методы/Draw.md) | *Описание* |
-| [`ElliottWaveObject`](./ElliottWaveObject.cs/Методы/ElliottWaveObject.md) | *Описание* |
-| [`GetDegreeText`](./ElliottWaveObject.cs/Методы/GetDegreeText.md) | *Описание* |
-| [`InObject`](./ElliottWaveObject.cs/Методы/InObject.md) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`ElliottWaveObject`](#test) | *Описание* |
+| [`GetDegreeText`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -34,7 +34,7 @@ public abstract class ElliottWaveObject : LineObjectBase
 ***  
 # Методы
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `ElliottWaveObject<a href="test" id="test"></a>`
+## `ElliottWaveObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ protected ElliottWaveObject()
 
 ***  
 
-## `GetDegreeText<a href="test" id="test"></a>`
+## `GetDegreeText`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ protected abstract string GetDegreeText(int num)
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

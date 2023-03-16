@@ -13,7 +13,7 @@ public sealed class OrderModifyParams
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`OrderModifyParams`](./OrderModifyParams.cs/Методы/OrderModifyParams.md) | *Описание* |
+| [`OrderModifyParams`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -30,7 +30,7 @@ public sealed class OrderModifyParams
 ***  
 # Методы
 
-## `OrderModifyParams<a href="test" id="test"></a>`
+## `OrderModifyParams`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

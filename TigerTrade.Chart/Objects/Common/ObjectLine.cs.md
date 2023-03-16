@@ -13,8 +13,8 @@ public sealed class ObjectLine : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ObjectLine`](./ObjectLine.cs/Методы/ObjectLine.md) | *Описание* |
-| [`ToString`](./ObjectLine.cs/Методы/ToString.md) | *Описание* |
+| [`ObjectLine`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -40,7 +40,7 @@ public sealed class ObjectLine : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ObjectLine<a href="test" id="test"></a>`
+## `ObjectLine`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public ObjectLine()
 
 ***  
 
-## `ObjectLine<a href="test" id="test"></a>`
+## `ObjectLine`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -66,7 +66,7 @@ public ObjectLine(double value, XColor color)
 
 ***  
 
-## `ObjectLine<a href="test" id="test"></a>`
+## `ObjectLine`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ public ObjectLine(ObjectLine line)
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

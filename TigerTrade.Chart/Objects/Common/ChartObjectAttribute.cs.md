@@ -13,7 +13,7 @@ public class ChartObjectAttribute : Attribute
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartObjectAttribute`](./ChartObjectAttribute.cs/Методы/ChartObjectAttribute.md) | *Описание* |
+| [`ChartObjectAttribute`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -31,7 +31,7 @@ public class ChartObjectAttribute : Attribute
 ***  
 # Методы
 
-## `ChartObjectAttribute<a href="test" id="test"></a>`
+## `ChartObjectAttribute`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

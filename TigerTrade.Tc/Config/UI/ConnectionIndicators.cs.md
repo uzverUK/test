@@ -13,9 +13,9 @@ internal class ConnectionIndicators : UserControl, IComponentConnector
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ConnectionIndicators`](./ConnectionIndicators.cs/Методы/ConnectionIndicators.md) | *Описание* |
-| [`InitializeComponent`](./ConnectionIndicators.cs/Методы/InitializeComponent.md) | *Описание* |
-| [`roXwis3djh0(ogXycEOqcMglr0u6UVcN)`](./ConnectionIndicators.cs/Методы/roXwis3djh0(ogXycEOqcMglr0u6UVcN).md) | *Описание* |
+| [`ConnectionIndicators`](#test) | *Описание* |
+| [`InitializeComponent`](#test) | *Описание* |
+| [`roXwis3djh0(ogXycEOqcMglr0u6UVcN)`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -40,7 +40,7 @@ internal class ConnectionIndicators : UserControl, IComponentConnector
 ***  
 # Методы
 
-## `ConnectionIndicators<a href="test" id="test"></a>`
+## `ConnectionIndicators`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public ConnectionIndicators()
 
 ***  
 
-## `InitializeComponent<a href="test" id="test"></a>`
+## `InitializeComponent`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public void InitializeComponent()
 
 ***  
 
-## `roXwis3djh0(ogXycEOqcMglr0u6UVcN)<a href="test" id="test"></a>`
+## `roXwis3djh0(ogXycEOqcMglr0u6UVcN)`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

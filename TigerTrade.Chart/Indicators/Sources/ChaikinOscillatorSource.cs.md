@@ -13,11 +13,11 @@ public sealed class ChaikinOscillatorSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChaikinOscillatorSource`](./ChaikinOscillatorSource.cs/Методы/ChaikinOscillatorSource.md) | *Описание* |
-| [`CopySettings`](./ChaikinOscillatorSource.cs/Методы/CopySettings.md) | *Описание* |
-| [`GetSeries`](./ChaikinOscillatorSource.cs/Методы/GetSeries.md) | *Описание* |
-| [`GetSeriesList`](./ChaikinOscillatorSource.cs/Методы/GetSeriesList.md) | *Описание* |
-| [`ToString`](./ChaikinOscillatorSource.cs/Методы/ToString.md) | *Описание* |
+| [`ChaikinOscillatorSource`](#test) | *Описание* |
+| [`CopySettings`](#test) | *Описание* |
+| [`GetSeries`](#test) | *Описание* |
+| [`GetSeriesList`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -34,7 +34,7 @@ public sealed class ChaikinOscillatorSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `ChaikinOscillatorSource<a href="test" id="test"></a>`
+## `ChaikinOscillatorSource`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public ChaikinOscillatorSource()
 
 ***  
 
-## `CopySettings<a href="test" id="test"></a>`
+## `CopySettings`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries<a href="test" id="test"></a>`
+## `GetSeries`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList<a href="test" id="test"></a>`
+## `GetSeriesList`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -80,7 +80,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

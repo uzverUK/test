@@ -13,8 +13,8 @@ public interface IRawCluster
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetItem`](./IRawCluster.cs/Методы/GetItem.md) | *Описание* |
-| [`GetValueArea`](./IRawCluster.cs/Методы/GetValueArea.md) | *Описание* |
+| [`GetItem`](#test) | *Описание* |
+| [`GetValueArea`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -52,7 +52,7 @@ public interface IRawCluster
 ***  
 # Методы
 
-## `GetItem<a href="test" id="test"></a>`
+## `GetItem`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ IRawClusterItem GetItem(long price)
 
 ***  
 
-## `GetValueArea<a href="test" id="test"></a>`
+## `GetValueArea`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

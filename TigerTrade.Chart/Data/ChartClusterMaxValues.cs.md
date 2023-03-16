@@ -13,8 +13,8 @@ public sealed class ChartClusterMaxValues : IChartClusterMaxValues
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartClusterMaxValues`](./ChartClusterMaxValues.cs/Методы/ChartClusterMaxValues.md) | *Описание* |
-| [`Update`](./ChartClusterMaxValues.cs/Методы/Update.md) | *Описание* |
+| [`ChartClusterMaxValues`](#test) | *Описание* |
+| [`Update`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -37,7 +37,7 @@ public sealed class ChartClusterMaxValues : IChartClusterMaxValues
 ***  
 # Методы
 
-## `ChartClusterMaxValues<a href="test" id="test"></a>`
+## `ChartClusterMaxValues`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -46,7 +46,7 @@ public ChartClusterMaxValues()
 
 ***  
 
-## `Update<a href="test" id="test"></a>`
+## `Update`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

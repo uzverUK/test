@@ -13,7 +13,7 @@ public sealed class OrderInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`OrderInfo`](./OrderInfo.cs/Методы/OrderInfo.md) | *Описание* |
+| [`OrderInfo`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -31,7 +31,7 @@ public sealed class OrderInfo
 ***  
 # Методы
 
-## `OrderInfo<a href="test" id="test"></a>`
+## `OrderInfo`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

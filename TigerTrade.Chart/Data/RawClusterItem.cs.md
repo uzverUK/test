@@ -13,8 +13,8 @@ public sealed class RawClusterItem : IRawClusterItem
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Add`](./RawClusterItem.cs/Методы/Add.md) | *Описание* |
-| [`RawClusterItem`](./RawClusterItem.cs/Методы/RawClusterItem.md) | *Описание* |
+| [`Add`](#test) | *Описание* |
+| [`RawClusterItem`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -39,7 +39,7 @@ public sealed class RawClusterItem : IRawClusterItem
 ***  
 # Методы
 
-## `Add<a href="test" id="test"></a>`
+## `Add`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public void Add(IRawClusterItem item)
 
 ***  
 
-## `RawClusterItem<a href="test" id="test"></a>`
+## `RawClusterItem`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public RawClusterItem(long price)
 
 ***  
 
-## `RawClusterItem<a href="test" id="test"></a>`
+## `RawClusterItem`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

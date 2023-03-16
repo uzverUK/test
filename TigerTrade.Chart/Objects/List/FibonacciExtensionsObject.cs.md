@@ -13,11 +13,11 @@ public sealed class FibonacciExtensionsObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](./FibonacciExtensionsObject.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./FibonacciExtensionsObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./FibonacciExtensionsObject.cs/Методы/Draw.md) | *Описание* |
-| [`FibonacciExtensionsObject`](./FibonacciExtensionsObject.cs/Методы/FibonacciExtensionsObject.md) | *Описание* |
-| [`InObject`](./FibonacciExtensionsObject.cs/Методы/InObject.md) | *Описание* |
+| [`ApplyTheme`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`FibonacciExtensionsObject`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -41,7 +41,7 @@ public sealed class FibonacciExtensionsObject : LineObjectBase
 ***  
 # Методы
 
-## `ApplyTheme<a href="test" id="test"></a>`
+## `ApplyTheme`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -84,7 +84,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `FibonacciExtensionsObject<a href="test" id="test"></a>`
+## `FibonacciExtensionsObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public FibonacciExtensionsObject()
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

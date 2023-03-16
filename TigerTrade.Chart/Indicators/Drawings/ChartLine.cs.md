@@ -13,9 +13,9 @@ public sealed class ChartLine : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartLine`](./ChartLine.cs/Методы/ChartLine.md) | *Описание* |
-| [`CopyTheme`](./ChartLine.cs/Методы/CopyTheme.md) | *Описание* |
-| [`ToString`](./ChartLine.cs/Методы/ToString.md) | *Описание* |
+| [`ChartLine`](#test) | *Описание* |
+| [`CopyTheme`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -39,7 +39,7 @@ public sealed class ChartLine : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ChartLine<a href="test" id="test"></a>`
+## `ChartLine`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public ChartLine()
 
 ***  
 
-## `CopyTheme<a href="test" id="test"></a>`
+## `CopyTheme`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public void CopyTheme(ChartLine chartLine)
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

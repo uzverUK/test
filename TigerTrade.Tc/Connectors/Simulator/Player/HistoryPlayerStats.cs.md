@@ -13,7 +13,7 @@ public sealed class HistoryPlayerStats
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`HistoryPlayerStats`](./HistoryPlayerStats.cs/Методы/HistoryPlayerStats.md) | *Описание* |
+| [`HistoryPlayerStats`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -31,7 +31,7 @@ public sealed class HistoryPlayerStats
 ***  
 # Методы
 
-## `HistoryPlayerStats<a href="test" id="test"></a>`
+## `HistoryPlayerStats`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

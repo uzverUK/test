@@ -13,9 +13,9 @@ public sealed class ChartRegion : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartRegion`](./ChartRegion.cs/Методы/ChartRegion.md) | *Описание* |
-| [`CopyTheme`](./ChartRegion.cs/Методы/CopyTheme.md) | *Описание* |
-| [`ToString`](./ChartRegion.cs/Методы/ToString.md) | *Описание* |
+| [`ChartRegion`](#test) | *Описание* |
+| [`CopyTheme`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -36,7 +36,7 @@ public sealed class ChartRegion : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ChartRegion<a href="test" id="test"></a>`
+## `ChartRegion`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public ChartRegion()
 
 ***  
 
-## `ChartRegion<a href="test" id="test"></a>`
+## `ChartRegion`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public ChartRegion(XColor color)
 
 ***  
 
-## `CopyTheme<a href="test" id="test"></a>`
+## `CopyTheme`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public void CopyTheme(ChartRegion chartRegion)
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

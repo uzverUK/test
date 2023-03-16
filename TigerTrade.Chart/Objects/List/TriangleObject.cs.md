@@ -13,10 +13,10 @@ public sealed class TriangleObject : PolygonObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Draw`](./TriangleObject.cs/Методы/Draw.md) | *Описание* |
-| [`GetMinDist`](./TriangleObject.cs/Методы/GetMinDist.md) | *Описание* |
-| [`InObject`](./TriangleObject.cs/Методы/InObject.md) | *Описание* |
-| [`TriangleObject`](./TriangleObject.cs/Методы/TriangleObject.md) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`GetMinDist`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
+| [`TriangleObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -31,7 +31,7 @@ public sealed class TriangleObject : PolygonObjectBase
 ***  
 # Методы
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `GetMinDist<a href="test" id="test"></a>`
+## `GetMinDist`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ protected override int GetMinDist(int x, int y)
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `TriangleObject<a href="test" id="test"></a>`
+## `TriangleObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

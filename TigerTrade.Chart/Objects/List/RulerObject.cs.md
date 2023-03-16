@@ -13,12 +13,12 @@ public sealed class RulerObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](./RulerObject.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./RulerObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./RulerObject.cs/Методы/Draw.md) | *Описание* |
-| [`InObject`](./RulerObject.cs/Методы/InObject.md) | *Описание* |
-| [`PrettyFormatTimeSpan`](./RulerObject.cs/Методы/PrettyFormatTimeSpan.md) | *Описание* |
-| [`RulerObject`](./RulerObject.cs/Методы/RulerObject.md) | *Описание* |
+| [`ApplyTheme`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
+| [`PrettyFormatTimeSpan`](#test) | *Описание* |
+| [`RulerObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -44,7 +44,7 @@ public sealed class RulerObject : LineObjectBase
 ***  
 # Методы
 
-## `ApplyTheme<a href="test" id="test"></a>`
+## `ApplyTheme`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -102,7 +102,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `PrettyFormatTimeSpan<a href="test" id="test"></a>`
+## `PrettyFormatTimeSpan`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -114,7 +114,7 @@ public string PrettyFormatTimeSpan(TimeSpan span)
 
 ***  
 
-## `RulerObject<a href="test" id="test"></a>`
+## `RulerObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

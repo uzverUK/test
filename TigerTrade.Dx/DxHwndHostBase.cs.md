@@ -13,10 +13,10 @@ public class DxHwndHostBase : HwndHost
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`BuildWindowCore`](./DxHwndHostBase.cs/Методы/BuildWindowCore.md) | *Описание* |
-| [`DestroyWindowCore`](./DxHwndHostBase.cs/Методы/DestroyWindowCore.md) | *Описание* |
-| [`DxHwndHostBase`](./DxHwndHostBase.cs/Методы/DxHwndHostBase.md) | *Описание* |
-| [`OnPaintBackground`](./DxHwndHostBase.cs/Методы/OnPaintBackground.md) | *Описание* |
+| [`BuildWindowCore`](#test) | *Описание* |
+| [`DestroyWindowCore`](#test) | *Описание* |
+| [`DxHwndHostBase`](#test) | *Описание* |
+| [`OnPaintBackground`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -40,7 +40,7 @@ public class DxHwndHostBase : HwndHost
 ***  
 # Методы
 
-## `BuildWindowCore<a href="test" id="test"></a>`
+## `BuildWindowCore`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ protected override HandleRef BuildWindowCore(HandleRef hwndParent)
 
 ***  
 
-## `DestroyWindowCore<a href="test" id="test"></a>`
+## `DestroyWindowCore`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ protected override void DestroyWindowCore(HandleRef hwnd)
 
 ***  
 
-## `DxHwndHostBase<a href="test" id="test"></a>`
+## `DxHwndHostBase`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public DxHwndHostBase()
 
 ***  
 
-## `OnPaintBackground<a href="test" id="test"></a>`
+## `OnPaintBackground`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

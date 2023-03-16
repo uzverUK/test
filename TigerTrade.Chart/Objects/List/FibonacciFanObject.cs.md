@@ -13,11 +13,11 @@ public sealed class FibonacciFanObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](./FibonacciFanObject.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./FibonacciFanObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./FibonacciFanObject.cs/Методы/Draw.md) | *Описание* |
-| [`FibonacciFanObject`](./FibonacciFanObject.cs/Методы/FibonacciFanObject.md) | *Описание* |
-| [`InObject`](./FibonacciFanObject.cs/Методы/InObject.md) | *Описание* |
+| [`ApplyTheme`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`FibonacciFanObject`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -34,7 +34,7 @@ public sealed class FibonacciFanObject : LineObjectBase
 ***  
 # Методы
 
-## `ApplyTheme<a href="test" id="test"></a>`
+## `ApplyTheme`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `FibonacciFanObject<a href="test" id="test"></a>`
+## `FibonacciFanObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -86,7 +86,7 @@ public FibonacciFanObject()
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

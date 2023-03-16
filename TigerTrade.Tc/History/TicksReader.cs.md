@@ -13,8 +13,8 @@ public sealed class TicksReader : BinReader<Tick>, IDataReader<Tick>
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ReadItem`](./TicksReader.cs/Методы/ReadItem.md) | *Описание* |
-| [`Reset`](./TicksReader.cs/Методы/Reset.md) | *Описание* |
+| [`ReadItem`](#test) | *Описание* |
+| [`Reset`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -31,7 +31,7 @@ public sealed class TicksReader : BinReader<Tick>, IDataReader<Tick>
 ***  
 # Методы
 
-## `ReadItem<a href="test" id="test"></a>`
+## `ReadItem`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ protected override Tick ReadItem()
 
 ***  
 
-## `Reset<a href="test" id="test"></a>`
+## `Reset`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

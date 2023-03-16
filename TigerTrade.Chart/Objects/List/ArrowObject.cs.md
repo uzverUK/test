@@ -13,9 +13,9 @@ public sealed class ArrowObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ArrowObject`](./ArrowObject.cs/Методы/ArrowObject.md) | *Описание* |
-| [`Draw`](./ArrowObject.cs/Методы/Draw.md) | *Описание* |
-| [`InObject`](./ArrowObject.cs/Методы/InObject.md) | *Описание* |
+| [`ArrowObject`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -30,7 +30,7 @@ public sealed class ArrowObject : LineObjectBase
 ***  
 # Методы
 
-## `ArrowObject<a href="test" id="test"></a>`
+## `ArrowObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -39,7 +39,7 @@ public ArrowObject()
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -55,7 +55,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

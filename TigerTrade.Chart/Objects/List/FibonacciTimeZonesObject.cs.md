@@ -13,10 +13,10 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CalcPoint`](./FibonacciTimeZonesObject.cs/Методы/CalcPoint.md) | *Описание* |
-| [`CopyTemplate`](./FibonacciTimeZonesObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./FibonacciTimeZonesObject.cs/Методы/Draw.md) | *Описание* |
-| [`FibonacciTimeZonesObject`](./FibonacciTimeZonesObject.cs/Методы/FibonacciTimeZonesObject.md) | *Описание* |
+| [`CalcPoint`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`FibonacciTimeZonesObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -33,7 +33,7 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 ***  
 # Методы
 
-## `CalcPoint<a href="test" id="test"></a>`
+## `CalcPoint`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -42,7 +42,7 @@ protected override void CalcPoint()
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `FibonacciTimeZonesObject<a href="test" id="test"></a>`
+## `FibonacciTimeZonesObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,12 +13,12 @@ public sealed class VerticalLineObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CheckAlert`](./VerticalLineObject.cs/Методы/CheckAlert.md) | *Описание* |
-| [`CopyTemplate`](./VerticalLineObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./VerticalLineObject.cs/Методы/Draw.md) | *Описание* |
-| [`DrawControlPoints`](./VerticalLineObject.cs/Методы/DrawControlPoints.md) | *Описание* |
-| [`InObject`](./VerticalLineObject.cs/Методы/InObject.md) | *Описание* |
-| [`VerticalLineObject`](./VerticalLineObject.cs/Методы/VerticalLineObject.md) | *Описание* |
+| [`CheckAlert`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`DrawControlPoints`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
+| [`VerticalLineObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -34,7 +34,7 @@ public sealed class VerticalLineObject : LineObjectBase
 ***  
 # Методы
 
-## `CheckAlert<a href="test" id="test"></a>`
+## `CheckAlert`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> i
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `DrawControlPoints<a href="test" id="test"></a>`
+## `DrawControlPoints`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public override void DrawControlPoints(DxVisualQueue visual)
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `VerticalLineObject<a href="test" id="test"></a>`
+## `VerticalLineObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

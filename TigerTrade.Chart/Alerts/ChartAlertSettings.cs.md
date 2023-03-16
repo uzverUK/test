@@ -13,10 +13,10 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartAlertSettings`](./ChartAlertSettings.cs/Методы/ChartAlertSettings.md) | *Описание* |
-| [`Copy`](./ChartAlertSettings.cs/Методы/Copy.md) | *Описание* |
-| [`Equals`](./ChartAlertSettings.cs/Методы/Equals.md) | *Описание* |
-| [`GetHashCode`](./ChartAlertSettings.cs/Методы/GetHashCode.md) | *Описание* |
+| [`ChartAlertSettings`](#test) | *Описание* |
+| [`Copy`](#test) | *Описание* |
+| [`Equals`](#test) | *Описание* |
+| [`GetHashCode`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -47,7 +47,7 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ChartAlertSettings<a href="test" id="test"></a>`
+## `ChartAlertSettings`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public ChartAlertSettings()
 
 ***  
 
-## `Copy<a href="test" id="test"></a>`
+## `Copy`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public void Copy(ChartAlertSettings alert, bool copyActive = false)
 
 ***  
 
-## `Equals<a href="test" id="test"></a>`
+## `Equals`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -84,7 +84,7 @@ public bool Equals(ChartAlertSettings other)
 
 ***  
 
-## `GetHashCode<a href="test" id="test"></a>`
+## `GetHashCode`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

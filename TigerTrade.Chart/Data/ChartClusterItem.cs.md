@@ -13,8 +13,8 @@ public sealed class ChartClusterItem : IChartClusterItem
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Add`](./ChartClusterItem.cs/Методы/Add.md) | *Описание* |
-| [`ChartClusterItem`](./ChartClusterItem.cs/Методы/ChartClusterItem.md) | *Описание* |
+| [`Add`](#test) | *Описание* |
+| [`ChartClusterItem`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -39,7 +39,7 @@ public sealed class ChartClusterItem : IChartClusterItem
 ***  
 # Методы
 
-## `Add<a href="test" id="test"></a>`
+## `Add`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public void Add(IChartClusterItem item)
 
 ***  
 
-## `ChartClusterItem<a href="test" id="test"></a>`
+## `ChartClusterItem`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public ChartClusterItem(Decimal price)
 
 ***  
 
-## `ChartClusterItem<a href="test" id="test"></a>`
+## `ChartClusterItem`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

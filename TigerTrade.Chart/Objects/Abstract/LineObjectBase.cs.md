@@ -13,9 +13,9 @@ public abstract class LineObjectBase : ObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](./LineObjectBase.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./LineObjectBase.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`LineObjectBase`](./LineObjectBase.cs/Методы/LineObjectBase.md) | *Описание* |
+| [`ApplyTheme`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`LineObjectBase`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -35,7 +35,7 @@ public abstract class LineObjectBase : ObjectBase
 ***  
 # Методы
 
-## `ApplyTheme<a href="test" id="test"></a>`
+## `ApplyTheme`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `LineObjectBase<a href="test" id="test"></a>`
+## `LineObjectBase`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

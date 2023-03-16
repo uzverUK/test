@@ -13,8 +13,8 @@ public sealed class Portfolio
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Portfolio`](./Portfolio.cs/Методы/Portfolio.md) | *Описание* |
-| [`ToString`](./Portfolio.cs/Методы/ToString.md) | *Описание* |
+| [`Portfolio`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -42,7 +42,7 @@ public sealed class Portfolio
 ***  
 # Методы
 
-## `Portfolio<a href="test" id="test"></a>`
+## `Portfolio`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public Portfolio(ConnectionInfo connection, string uniqueID)
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

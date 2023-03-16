@@ -13,8 +13,8 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ObjectPointInfo`](./ObjectPointInfo.cs/Методы/ObjectPointInfo.md) | *Описание* |
-| [`ToString`](./ObjectPointInfo.cs/Методы/ToString.md) | *Описание* |
+| [`ObjectPointInfo`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -35,7 +35,7 @@ public sealed class ObjectPointInfo : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ObjectPointInfo<a href="test" id="test"></a>`
+## `ObjectPointInfo`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public ObjectPointInfo(ObjectPoint[] points, int index)
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

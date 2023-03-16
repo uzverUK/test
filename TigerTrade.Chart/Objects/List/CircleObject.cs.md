@@ -13,10 +13,10 @@ public sealed class CircleObject : PolygonObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CircleObject`](./CircleObject.cs/Методы/CircleObject.md) | *Описание* |
-| [`Draw`](./CircleObject.cs/Методы/Draw.md) | *Описание* |
-| [`GetMinDist`](./CircleObject.cs/Методы/GetMinDist.md) | *Описание* |
-| [`InObject`](./CircleObject.cs/Методы/InObject.md) | *Описание* |
+| [`CircleObject`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`GetMinDist`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -31,7 +31,7 @@ public sealed class CircleObject : PolygonObjectBase
 ***  
 # Методы
 
-## `CircleObject<a href="test" id="test"></a>`
+## `CircleObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ public CircleObject()
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `GetMinDist<a href="test" id="test"></a>`
+## `GetMinDist`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ protected override int GetMinDist(int x, int y)
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

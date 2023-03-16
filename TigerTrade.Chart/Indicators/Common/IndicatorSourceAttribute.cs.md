@@ -13,7 +13,7 @@ public class IndicatorSourceAttribute : Attribute
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorSourceAttribute`](./IndicatorSourceAttribute.cs/Методы/IndicatorSourceAttribute.md) | *Описание* |
+| [`IndicatorSourceAttribute`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -29,7 +29,7 @@ public class IndicatorSourceAttribute : Attribute
 ***  
 # Методы
 
-## `IndicatorSourceAttribute<a href="test" id="test"></a>`
+## `IndicatorSourceAttribute`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

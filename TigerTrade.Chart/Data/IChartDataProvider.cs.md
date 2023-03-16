@@ -13,12 +13,12 @@ public interface IChartDataProvider
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetCluster`](./IChartDataProvider.cs/Методы/GetCluster.md) | *Описание* |
-| [`GetMarketDepth`](./IChartDataProvider.cs/Методы/GetMarketDepth.md) | *Описание* |
-| [`GetRawCluster`](./IChartDataProvider.cs/Методы/GetRawCluster.md) | *Описание* |
-| [`GetRawMarketDepth`](./IChartDataProvider.cs/Методы/GetRawMarketDepth.md) | *Описание* |
-| [`GetRawSecurity`](./IChartDataProvider.cs/Методы/GetRawSecurity.md) | *Описание* |
-| [`GetSecurity`](./IChartDataProvider.cs/Методы/GetSecurity.md) | *Описание* |
+| [`GetCluster`](#test) | *Описание* |
+| [`GetMarketDepth`](#test) | *Описание* |
+| [`GetRawCluster`](#test) | *Описание* |
+| [`GetRawMarketDepth`](#test) | *Описание* |
+| [`GetRawSecurity`](#test) | *Описание* |
+| [`GetSecurity`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -37,7 +37,7 @@ public interface IChartDataProvider
 ***  
 # Методы
 
-## `GetCluster<a href="test" id="test"></a>`
+## `GetCluster`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ IChartCluster GetCluster(int i)
 
 ***  
 
-## `GetMarketDepth<a href="test" id="test"></a>`
+## `GetMarketDepth`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ IChartMarketDepth GetMarketDepth()
 
 ***  
 
-## `GetRawCluster<a href="test" id="test"></a>`
+## `GetRawCluster`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ IRawCluster GetRawCluster(int i)
 
 ***  
 
-## `GetRawMarketDepth<a href="test" id="test"></a>`
+## `GetRawMarketDepth`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ IRawMarketDepth GetRawMarketDepth()
 
 ***  
 
-## `GetRawSecurity<a href="test" id="test"></a>`
+## `GetRawSecurity`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -90,7 +90,7 @@ IRawSecurity GetRawSecurity()
 
 ***  
 
-## `GetSecurity<a href="test" id="test"></a>`
+## `GetSecurity`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

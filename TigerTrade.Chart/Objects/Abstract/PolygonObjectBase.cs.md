@@ -13,9 +13,9 @@ public abstract class PolygonObjectBase : ObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](./PolygonObjectBase.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`CopyTemplate`](./PolygonObjectBase.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`PolygonObjectBase`](./PolygonObjectBase.cs/Методы/PolygonObjectBase.md) | *Описание* |
+| [`ApplyTheme`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`PolygonObjectBase`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -39,7 +39,7 @@ public abstract class PolygonObjectBase : ObjectBase
 ***  
 # Методы
 
-## `ApplyTheme<a href="test" id="test"></a>`
+## `ApplyTheme`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `PolygonObjectBase<a href="test" id="test"></a>`
+## `PolygonObjectBase`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

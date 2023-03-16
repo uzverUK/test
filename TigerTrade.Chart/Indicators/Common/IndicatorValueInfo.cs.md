@@ -13,7 +13,7 @@ public sealed class IndicatorValueInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorValueInfo`](./IndicatorValueInfo.cs/Методы/IndicatorValueInfo.md) | *Описание* |
+| [`IndicatorValueInfo`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -29,7 +29,7 @@ public sealed class IndicatorValueInfo
 ***  
 # Методы
 
-## `IndicatorValueInfo<a href="test" id="test"></a>`
+## `IndicatorValueInfo`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public IndicatorValueInfo(string value, XBrush brush)
 
 ***  
 
-## `IndicatorValueInfo<a href="test" id="test"></a>`
+## `IndicatorValueInfo`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,19 +13,19 @@ public static class TcManager
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetMarketDataConnections`](./TcManager.cs/Методы/GetMarketDataConnections.md) | *Описание* |
-| [`Load`](./TcManager.cs/Методы/Load.md) | *Описание* |
-| [`LoadSimulator`](./TcManager.cs/Методы/LoadSimulator.md) | *Описание* |
-| [`Save`](./TcManager.cs/Методы/Save.md) | *Описание* |
-| [`SaveSettings`](./TcManager.cs/Методы/SaveSettings.md) | *Описание* |
-| [`SetCancelOrdersOnClose`](./TcManager.cs/Методы/SetCancelOrdersOnClose.md) | *Описание* |
-| [`SetDynamicStopLoss`](./TcManager.cs/Методы/SetDynamicStopLoss.md) | *Описание* |
-| [`SetDynamicTakeProfit`](./TcManager.cs/Методы/SetDynamicTakeProfit.md) | *Описание* |
-| [`SetPositionPartClose`](./TcManager.cs/Методы/SetPositionPartClose.md) | *Описание* |
-| [`SetServerStopLoss`](./TcManager.cs/Методы/SetServerStopLoss.md) | *Описание* |
-| [`SetServerTakeProfit`](./TcManager.cs/Методы/SetServerTakeProfit.md) | *Описание* |
-| [`SetViewDeletedSymbols`](./TcManager.cs/Методы/SetViewDeletedSymbols.md) | *Описание* |
-| [`SetViewOptionsSymbols`](./TcManager.cs/Методы/SetViewOptionsSymbols.md) | *Описание* |
+| [`GetMarketDataConnections`](#test) | *Описание* |
+| [`Load`](#test) | *Описание* |
+| [`LoadSimulator`](#test) | *Описание* |
+| [`Save`](#test) | *Описание* |
+| [`SaveSettings`](#test) | *Описание* |
+| [`SetCancelOrdersOnClose`](#test) | *Описание* |
+| [`SetDynamicStopLoss`](#test) | *Описание* |
+| [`SetDynamicTakeProfit`](#test) | *Описание* |
+| [`SetPositionPartClose`](#test) | *Описание* |
+| [`SetServerStopLoss`](#test) | *Описание* |
+| [`SetServerTakeProfit`](#test) | *Описание* |
+| [`SetViewDeletedSymbols`](#test) | *Описание* |
+| [`SetViewOptionsSymbols`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -42,7 +42,7 @@ public static class TcManager
 ***  
 # Методы
 
-## `GetMarketDataConnections<a href="test" id="test"></a>`
+## `GetMarketDataConnections`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -55,7 +55,7 @@ public static ConnectionInfo[] GetMarketDataConnections(string symbolId)
 
 ***  
 
-## `Load<a href="test" id="test"></a>`
+## `Load`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public static void Load(byte[] clients)
 
 ***  
 
-## `LoadSimulator<a href="test" id="test"></a>`
+## `LoadSimulator`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ public static void LoadSimulator()
 
 ***  
 
-## `Save<a href="test" id="test"></a>`
+## `Save`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -82,7 +82,7 @@ public static void Save()
 
 ***  
 
-## `SaveSettings<a href="test" id="test"></a>`
+## `SaveSettings`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public static void SaveSettings()
 
 ***  
 
-## `SetCancelOrdersOnClose<a href="test" id="test"></a>`
+## `SetCancelOrdersOnClose`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -104,7 +104,7 @@ public static void SetCancelOrdersOnClose(bool value)
 
 ***  
 
-## `SetDynamicStopLoss<a href="test" id="test"></a>`
+## `SetDynamicStopLoss`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public static void SetDynamicStopLoss(bool value)
 
 ***  
 
-## `SetDynamicTakeProfit<a href="test" id="test"></a>`
+## `SetDynamicTakeProfit`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -126,7 +126,7 @@ public static void SetDynamicTakeProfit(bool value)
 
 ***  
 
-## `SetPositionPartClose<a href="test" id="test"></a>`
+## `SetPositionPartClose`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -135,7 +135,7 @@ public static void SetPositionPartClose(bool value)
 
 ***  
 
-## `SetServerStopLoss<a href="test" id="test"></a>`
+## `SetServerStopLoss`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -148,7 +148,7 @@ public static void SetServerStopLoss(bool value)
 
 ***  
 
-## `SetServerTakeProfit<a href="test" id="test"></a>`
+## `SetServerTakeProfit`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -157,7 +157,7 @@ public static void SetServerTakeProfit(bool value)
 
 ***  
 
-## `SetViewDeletedSymbols<a href="test" id="test"></a>`
+## `SetViewDeletedSymbols`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -170,7 +170,7 @@ public static void SetViewDeletedSymbols(bool value)
 
 ***  
 
-## `SetViewOptionsSymbols<a href="test" id="test"></a>`
+## `SetViewOptionsSymbols`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

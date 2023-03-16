@@ -13,9 +13,9 @@ public sealed class ChartLevel : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartLevel`](./ChartLevel.cs/Методы/ChartLevel.md) | *Описание* |
-| [`CopyTheme`](./ChartLevel.cs/Методы/CopyTheme.md) | *Описание* |
-| [`ToString`](./ChartLevel.cs/Методы/ToString.md) | *Описание* |
+| [`ChartLevel`](#test) | *Описание* |
+| [`CopyTheme`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -41,7 +41,7 @@ public sealed class ChartLevel : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ChartLevel<a href="test" id="test"></a>`
+## `ChartLevel`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public ChartLevel()
 
 ***  
 
-## `ChartLevel<a href="test" id="test"></a>`
+## `ChartLevel`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public ChartLevel(Decimal level, XColor color)
 
 ***  
 
-## `CopyTheme<a href="test" id="test"></a>`
+## `CopyTheme`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public void CopyTheme(ChartLevel chartLevel)
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

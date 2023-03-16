@@ -13,7 +13,7 @@ public interface IChartCluster
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetItem`](./IChartCluster.cs/Методы/GetItem.md) | *Описание* |
+| [`GetItem`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -51,7 +51,7 @@ public interface IChartCluster
 ***  
 # Методы
 
-## `GetItem<a href="test" id="test"></a>`
+## `GetItem`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

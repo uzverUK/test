@@ -13,9 +13,9 @@ public sealed class UserPositionData
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ClearPosition`](./UserPositionData.cs/Методы/ClearPosition.md) | *Описание* |
-| [`ClosePosition`](./UserPositionData.cs/Методы/ClosePosition.md) | *Описание* |
-| [`HidePosition`](./UserPositionData.cs/Методы/HidePosition.md) | *Описание* |
+| [`ClearPosition`](#test) | *Описание* |
+| [`ClosePosition`](#test) | *Описание* |
+| [`HidePosition`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -32,7 +32,7 @@ public sealed class UserPositionData
 ***  
 # Методы
 
-## `ClearPosition<a href="test" id="test"></a>`
+## `ClearPosition`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ public static UserPositionData ClearPosition(string connectionID, string positio
 
 ***  
 
-## `ClosePosition<a href="test" id="test"></a>`
+## `ClosePosition`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public static UserPositionData ClosePosition(string connectionID, string positio
 
 ***  
 
-## `HidePosition<a href="test" id="test"></a>`
+## `HidePosition`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

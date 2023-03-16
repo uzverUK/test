@@ -13,9 +13,9 @@ public sealed class IndicatorSeriesStyle
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`DisableAll`](./IndicatorSeriesStyle.cs/Методы/DisableAll.md) | *Описание* |
-| [`IndicatorSeriesStyle`](./IndicatorSeriesStyle.cs/Методы/IndicatorSeriesStyle.md) | *Описание* |
-| [`Set`](./IndicatorSeriesStyle.cs/Методы/Set.md) | *Описание* |
+| [`DisableAll`](#test) | *Описание* |
+| [`IndicatorSeriesStyle`](#test) | *Описание* |
+| [`Set`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -45,7 +45,7 @@ public sealed class IndicatorSeriesStyle
 ***  
 # Методы
 
-## `DisableAll<a href="test" id="test"></a>`
+## `DisableAll`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ public void DisableAll()
 
 ***  
 
-## `IndicatorSeriesStyle<a href="test" id="test"></a>`
+## `IndicatorSeriesStyle`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public IndicatorSeriesStyle()
 
 ***  
 
-## `Set<a href="test" id="test"></a>`
+## `Set`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public void Set(ChartSeries series, string name = "")
 
 ***  
 
-## `Set<a href="test" id="test"></a>`
+## `Set`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ public void Set(ChartRegion region)
 
 ***  
 
-## `Set<a href="test" id="test"></a>`
+## `Set`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

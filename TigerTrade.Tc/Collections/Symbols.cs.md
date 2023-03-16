@@ -13,13 +13,13 @@ internal sealed class Symbols
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Clear`](./Symbols.cs/Методы/Clear.md) | *Описание* |
-| [`GTewtrlbF6I`](./Symbols.cs/Методы/GTewtrlbF6I.md) | *Описание* |
-| [`NhtwtvK2C3l`](./Symbols.cs/Методы/NhtwtvK2C3l.md) | *Описание* |
-| [`Remove`](./Symbols.cs/Методы/Remove.md) | *Описание* |
-| [`Symbols`](./Symbols.cs/Методы/Symbols.md) | *Описание* |
-| [`mk0wt1hLDB0`](./Symbols.cs/Методы/mk0wt1hLDB0.md) | *Описание* |
-| [`y8kwthAHoBE`](./Symbols.cs/Методы/y8kwthAHoBE.md) | *Описание* |
+| [`Clear`](#test) | *Описание* |
+| [`GTewtrlbF6I`](#test) | *Описание* |
+| [`NhtwtvK2C3l`](#test) | *Описание* |
+| [`Remove`](#test) | *Описание* |
+| [`Symbols`](#test) | *Описание* |
+| [`mk0wt1hLDB0`](#test) | *Описание* |
+| [`y8kwthAHoBE`](#test) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ internal sealed class Symbols
 ***  
 # Методы
 
-## `Clear<a href="test" id="test"></a>`
+## `Clear`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -38,7 +38,7 @@ public void Clear()
 
 ***  
 
-## `GTewtrlbF6I<a href="test" id="test"></a>`
+## `GTewtrlbF6I`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public List<Symbol> GTewtrlbF6I()
 
 ***  
 
-## `NhtwtvK2C3l<a href="test" id="test"></a>`
+## `NhtwtvK2C3l`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public bool NhtwtvK2C3l(Symbol _param1)
 
 ***  
 
-## `Remove<a href="test" id="test"></a>`
+## `Remove`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public bool Remove(Symbol symbol)
 
 ***  
 
-## `Symbols<a href="test" id="test"></a>`
+## `Symbols`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public Symbols()
 
 ***  
 
-## `mk0wt1hLDB0<a href="test" id="test"></a>`
+## `mk0wt1hLDB0`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -94,7 +94,7 @@ public Symbol mk0wt1hLDB0(string _param1)
 
 ***  
 
-## `y8kwthAHoBE<a href="test" id="test"></a>`
+## `y8kwthAHoBE`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

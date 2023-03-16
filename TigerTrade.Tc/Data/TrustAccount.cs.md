@@ -13,7 +13,7 @@ public sealed class TrustAccount
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`TrustAccount`](./TrustAccount.cs/Методы/TrustAccount.md) | *Описание* |
+| [`TrustAccount`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -30,7 +30,7 @@ public sealed class TrustAccount
 ***  
 # Методы
 
-## `TrustAccount<a href="test" id="test"></a>`
+## `TrustAccount`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

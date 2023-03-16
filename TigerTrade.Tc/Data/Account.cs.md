@@ -13,10 +13,10 @@ public sealed class Account
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Account`](./Account.cs/Методы/Account.md) | *Описание* |
-| [`GetConnectionID`](./Account.cs/Методы/GetConnectionID.md) | *Описание* |
-| [`GetUniqueID`](./Account.cs/Методы/GetUniqueID.md) | *Описание* |
-| [`ToString`](./Account.cs/Методы/ToString.md) | *Описание* |
+| [`Account`](#test) | *Описание* |
+| [`GetConnectionID`](#test) | *Описание* |
+| [`GetUniqueID`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -41,7 +41,7 @@ public sealed class Account
 ***  
 # Методы
 
-## `Account<a href="test" id="test"></a>`
+## `Account`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public Account(ConnectionInfo connection, string uniqueID)
 
 ***  
 
-## `GetConnectionID<a href="test" id="test"></a>`
+## `GetConnectionID`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public static string GetConnectionID(string id)
 
 ***  
 
-## `GetUniqueID<a href="test" id="test"></a>`
+## `GetUniqueID`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -78,7 +78,7 @@ public static string GetUniqueID(string id)
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

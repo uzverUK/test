@@ -13,9 +13,9 @@ public sealed class RelayCommand : ICommand
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CanExecute`](./RelayCommand.cs/Методы/CanExecute.md) | *Описание* |
-| [`Execute`](./RelayCommand.cs/Методы/Execute.md) | *Описание* |
-| [`RelayCommand`](./RelayCommand.cs/Методы/RelayCommand.md) | *Описание* |
+| [`CanExecute`](#test) | *Описание* |
+| [`Execute`](#test) | *Описание* |
+| [`RelayCommand`](#test) | *Описание* |
 
 # Список событий
 | Название | Описание |
@@ -30,7 +30,7 @@ public sealed class RelayCommand : ICommand
 ***  
 # Методы
 
-## `CanExecute<a href="test" id="test"></a>`
+## `CanExecute`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public bool CanExecute(object parameter)
 
 ***  
 
-## `Execute<a href="test" id="test"></a>`
+## `Execute`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public void Execute(object parameter)
 
 ***  
 
-## `RelayCommand<a href="test" id="test"></a>`
+## `RelayCommand`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public RelayCommand(Action<object> execute)
 
 ***  
 
-## `RelayCommand<a href="test" id="test"></a>`
+## `RelayCommand`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

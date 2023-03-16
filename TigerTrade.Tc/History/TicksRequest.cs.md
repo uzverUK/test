@@ -13,7 +13,7 @@ public sealed class TicksRequest
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`TicksRequest`](./TicksRequest.cs/Методы/TicksRequest.md) | *Описание* |
+| [`TicksRequest`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -31,7 +31,7 @@ public sealed class TicksRequest
 ***  
 # Методы
 
-## `TicksRequest<a href="test" id="test"></a>`
+## `TicksRequest`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

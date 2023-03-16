@@ -13,13 +13,13 @@ public sealed class BrushObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`AddPoint`](./BrushObject.cs/Методы/AddPoint.md) | *Описание* |
-| [`ApplyTheme`](./BrushObject.cs/Методы/ApplyTheme.md) | *Описание* |
-| [`BrushObject`](./BrushObject.cs/Методы/BrushObject.md) | *Описание* |
-| [`CopyTemplate`](./BrushObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./BrushObject.cs/Методы/Draw.md) | *Описание* |
-| [`GetMinDist`](./BrushObject.cs/Методы/GetMinDist.md) | *Описание* |
-| [`InObject`](./BrushObject.cs/Методы/InObject.md) | *Описание* |
+| [`AddPoint`](#test) | *Описание* |
+| [`ApplyTheme`](#test) | *Описание* |
+| [`BrushObject`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`GetMinDist`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -35,7 +35,7 @@ public sealed class BrushObject : LineObjectBase
 ***  
 # Методы
 
-## `AddPoint<a href="test" id="test"></a>`
+## `AddPoint`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public void AddPoint(ObjectPoint op)
 
 ***  
 
-## `ApplyTheme<a href="test" id="test"></a>`
+## `ApplyTheme`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `BrushObject<a href="test" id="test"></a>`
+## `BrushObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public BrushObject()
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -100,7 +100,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `GetMinDist<a href="test" id="test"></a>`
+## `GetMinDist`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ protected override int GetMinDist(int x, int y)
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

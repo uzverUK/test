@@ -13,11 +13,11 @@ public sealed class LineObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CheckAlert`](./LineObject.cs/Методы/CheckAlert.md) | *Описание* |
-| [`CopyTemplate`](./LineObject.cs/Методы/CopyTemplate.md) | *Описание* |
-| [`Draw`](./LineObject.cs/Методы/Draw.md) | *Описание* |
-| [`InObject`](./LineObject.cs/Методы/InObject.md) | *Описание* |
-| [`LineObject`](./LineObject.cs/Методы/LineObject.md) | *Описание* |
+| [`CheckAlert`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
+| [`LineObject`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -37,7 +37,7 @@ public sealed class LineObject : LineObjectBase
 ***  
 # Методы
 
-## `CheckAlert<a href="test" id="test"></a>`
+## `CheckAlert`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -46,7 +46,7 @@ public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> i
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -92,7 +92,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `LineObject<a href="test" id="test"></a>`
+## `LineObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

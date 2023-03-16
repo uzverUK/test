@@ -13,10 +13,10 @@ public abstract class LineGroupObjectBase : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CalcPoint`](./LineGroupObjectBase.cs/Методы/CalcPoint.md) | *Описание* |
-| [`Draw`](./LineGroupObjectBase.cs/Методы/Draw.md) | *Описание* |
-| [`InObject`](./LineGroupObjectBase.cs/Методы/InObject.md) | *Описание* |
-| [`LineGroupObjectBase`](./LineGroupObjectBase.cs/Методы/LineGroupObjectBase.md) | *Описание* |
+| [`CalcPoint`](#test) | *Описание* |
+| [`Draw`](#test) | *Описание* |
+| [`InObject`](#test) | *Описание* |
+| [`LineGroupObjectBase`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -32,7 +32,7 @@ public abstract class LineGroupObjectBase : LineObjectBase
 ***  
 # Методы
 
-## `CalcPoint<a href="test" id="test"></a>`
+## `CalcPoint`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -41,7 +41,7 @@ protected virtual void CalcPoint()
 
 ***  
 
-## `Draw<a href="test" id="test"></a>`
+## `Draw`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ protected override void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> lab
 
 ***  
 
-## `InObject<a href="test" id="test"></a>`
+## `InObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `LineGroupObjectBase<a href="test" id="test"></a>`
+## `LineGroupObjectBase`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

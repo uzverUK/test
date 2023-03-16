@@ -13,13 +13,13 @@ public sealed class ExitStrategy
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Clear`](./ExitStrategy.cs/Методы/Clear.md) | *Описание* |
-| [`ExitStrategy`](./ExitStrategy.cs/Методы/ExitStrategy.md) | *Описание* |
-| [`GetStrategySingleTarget`](./ExitStrategy.cs/Методы/GetStrategySingleTarget.md) | *Описание* |
-| [`GetTarget`](./ExitStrategy.cs/Методы/GetTarget.md) | *Описание* |
-| [`GetTargets`](./ExitStrategy.cs/Методы/GetTargets.md) | *Описание* |
-| [`GetUpdateTime`](./ExitStrategy.cs/Методы/GetUpdateTime.md) | *Описание* |
-| [`Init`](./ExitStrategy.cs/Методы/Init.md) | *Описание* |
+| [`Clear`](#test) | *Описание* |
+| [`ExitStrategy`](#test) | *Описание* |
+| [`GetStrategySingleTarget`](#test) | *Описание* |
+| [`GetTarget`](#test) | *Описание* |
+| [`GetTargets`](#test) | *Описание* |
+| [`GetUpdateTime`](#test) | *Описание* |
+| [`Init`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -35,7 +35,7 @@ public sealed class ExitStrategy
 ***  
 # Методы
 
-## `Clear<a href="test" id="test"></a>`
+## `Clear`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public void Clear(bool isClosePosition = false)
 
 ***  
 
-## `ExitStrategy<a href="test" id="test"></a>`
+## `ExitStrategy`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public ExitStrategy()
 
 ***  
 
-## `GetStrategySingleTarget<a href="test" id="test"></a>`
+## `GetStrategySingleTarget`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public ExitStrategyTarget GetStrategySingleTarget(bool create)
 
 ***  
 
-## `GetTarget<a href="test" id="test"></a>`
+## `GetTarget`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ public ExitStrategyTarget GetTarget(string id)
 
 ***  
 
-## `GetTargets<a href="test" id="test"></a>`
+## `GetTargets`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public List<ExitStrategyTarget> GetTargets()
 
 ***  
 
-## `GetUpdateTime<a href="test" id="test"></a>`
+## `GetUpdateTime`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ public DateTime GetUpdateTime()
 
 ***  
 
-## `Init<a href="test" id="test"></a>`
+## `Init`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

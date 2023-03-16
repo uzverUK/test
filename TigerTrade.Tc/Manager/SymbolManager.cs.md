@@ -13,15 +13,15 @@ public static class SymbolManager
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Clear`](./SymbolManager.cs/Методы/Clear.md) | *Описание* |
-| [`FindSwitchPair`](./SymbolManager.cs/Методы/FindSwitchPair.md) | *Описание* |
-| [`FireSymbolUpdatedEvent`](./SymbolManager.cs/Методы/FireSymbolUpdatedEvent.md) | *Описание* |
-| [`Get`](./SymbolManager.cs/Методы/Get.md) | *Описание* |
-| [`GetAll`](./SymbolManager.cs/Методы/GetAll.md) | *Описание* |
-| [`GetAllOptions`](./SymbolManager.cs/Методы/GetAllOptions.md) | *Описание* |
-| [`LoadOrUpdate`](./SymbolManager.cs/Методы/LoadOrUpdate.md) | *Описание* |
-| [`RiseFavoritesReady`](./SymbolManager.cs/Методы/RiseFavoritesReady.md) | *Описание* |
-| [`RiseSymbolsReady`](./SymbolManager.cs/Методы/RiseSymbolsReady.md) | *Описание* |
+| [`Clear`](#test) | *Описание* |
+| [`FindSwitchPair`](#test) | *Описание* |
+| [`FireSymbolUpdatedEvent`](#test) | *Описание* |
+| [`Get`](#test) | *Описание* |
+| [`GetAll`](#test) | *Описание* |
+| [`GetAllOptions`](#test) | *Описание* |
+| [`LoadOrUpdate`](#test) | *Описание* |
+| [`RiseFavoritesReady`](#test) | *Описание* |
+| [`RiseSymbolsReady`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -44,7 +44,7 @@ public static class SymbolManager
 ***  
 # Методы
 
-## `Clear<a href="test" id="test"></a>`
+## `Clear`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ public static void Clear()
 
 ***  
 
-## `FindSwitchPair<a href="test" id="test"></a>`
+## `FindSwitchPair`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -66,7 +66,7 @@ public static Symbol FindSwitchPair(Symbol symbol, Func<Symbol, bool> isExcludeS
 
 ***  
 
-## `FireSymbolUpdatedEvent<a href="test" id="test"></a>`
+## `FireSymbolUpdatedEvent`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public static void FireSymbolUpdatedEvent(Symbol symbol)
 
 ***  
 
-## `Get<a href="test" id="test"></a>`
+## `Get`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public static Symbol Get(string id)
 
 ***  
 
-## `Get<a href="test" id="test"></a>`
+## `Get`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ public static Symbol[] Get(params string[] ids)
 
 ***  
 
-## `GetAll<a href="test" id="test"></a>`
+## `GetAll`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -121,7 +121,7 @@ public static List<Symbol> GetAll(bool includeDeleted = false)
 
 ***  
 
-## `GetAllOptions<a href="test" id="test"></a>`
+## `GetAllOptions`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -130,7 +130,7 @@ public static List<Symbol> GetAllOptions()
 
 ***  
 
-## `LoadOrUpdate<a href="test" id="test"></a>`
+## `LoadOrUpdate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -143,7 +143,7 @@ public static void LoadOrUpdate(byte[] data, DateTime utcSpecChangedTime)
 
 ***  
 
-## `RiseFavoritesReady<a href="test" id="test"></a>`
+## `RiseFavoritesReady`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -152,7 +152,7 @@ public static void RiseFavoritesReady()
 
 ***  
 
-## `RiseSymbolsReady<a href="test" id="test"></a>`
+## `RiseSymbolsReady`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

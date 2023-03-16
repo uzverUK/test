@@ -13,11 +13,11 @@ public sealed class BWMFISource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`BWMFISource`](./BWMFISource.cs/Методы/BWMFISource.md) | *Описание* |
-| [`CopySettings`](./BWMFISource.cs/Методы/CopySettings.md) | *Описание* |
-| [`GetSeries`](./BWMFISource.cs/Методы/GetSeries.md) | *Описание* |
-| [`GetSeriesList`](./BWMFISource.cs/Методы/GetSeriesList.md) | *Описание* |
-| [`ToString`](./BWMFISource.cs/Методы/ToString.md) | *Описание* |
+| [`BWMFISource`](#test) | *Описание* |
+| [`CopySettings`](#test) | *Описание* |
+| [`GetSeries`](#test) | *Описание* |
+| [`GetSeriesList`](#test) | *Описание* |
+| [`ToString`](#test) | *Описание* |
 
 
 
@@ -27,7 +27,7 @@ public sealed class BWMFISource : IndicatorSourceBase
 ***  
 # Методы
 
-## `BWMFISource<a href="test" id="test"></a>`
+## `BWMFISource`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -36,7 +36,7 @@ public BWMFISource()
 
 ***  
 
-## `CopySettings<a href="test" id="test"></a>`
+## `CopySettings`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries<a href="test" id="test"></a>`
+## `GetSeries`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList<a href="test" id="test"></a>`
+## `GetSeriesList`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString<a href="test" id="test"></a>`
+## `ToString`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,7 +13,7 @@ public sealed class BarsRequest
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`BarsRequest`](./BarsRequest.cs/Методы/BarsRequest.md) | *Описание* |
+| [`BarsRequest`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -30,7 +30,7 @@ public sealed class BarsRequest
 ***  
 # Методы
 
-## `BarsRequest<a href="test" id="test"></a>`
+## `BarsRequest`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

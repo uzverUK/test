@@ -13,9 +13,9 @@ public sealed class ChannelObject : LineGroupObjectBaseEx
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CalcPoint`](./ChannelObject.cs/Методы/CalcPoint.md) | *Описание* |
-| [`ChannelObject`](./ChannelObject.cs/Методы/ChannelObject.md) | *Описание* |
-| [`CopyTemplate`](./ChannelObject.cs/Методы/CopyTemplate.md) | *Описание* |
+| [`CalcPoint`](#test) | *Описание* |
+| [`ChannelObject`](#test) | *Описание* |
+| [`CopyTemplate`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -31,7 +31,7 @@ public sealed class ChannelObject : LineGroupObjectBaseEx
 ***  
 # Методы
 
-## `CalcPoint<a href="test" id="test"></a>`
+## `CalcPoint`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ protected override void CalcPoint()
 
 ***  
 
-## `ChannelObject<a href="test" id="test"></a>`
+## `ChannelObject`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public ChannelObject()
 
 ***  
 
-## `CopyTemplate<a href="test" id="test"></a>`
+## `CopyTemplate`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

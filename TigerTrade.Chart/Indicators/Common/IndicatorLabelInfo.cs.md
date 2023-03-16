@@ -13,7 +13,7 @@ public sealed class IndicatorLabelInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorLabelInfo`](./IndicatorLabelInfo.cs/Методы/IndicatorLabelInfo.md) | *Описание* |
+| [`IndicatorLabelInfo`](#test) | *Описание* |
 
 # Список свойств
 | Название | Описание |
@@ -30,7 +30,7 @@ public sealed class IndicatorLabelInfo
 ***  
 # Методы
 
-## `IndicatorLabelInfo<a href="test" id="test"></a>`
+## `IndicatorLabelInfo`<a href="test" id="test"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
