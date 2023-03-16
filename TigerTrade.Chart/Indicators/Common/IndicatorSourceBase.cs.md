@@ -10,7 +10,7 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CloneSource`](./IndicatorSourceBase.cs/Методы/CloneSource.md) | *Описание* |
@@ -22,13 +22,13 @@ public abstract class IndicatorSourceBase : INotifyPropertyChanged
 | [`SetSources`](./IndicatorSourceBase.cs/Методы/SetSources.md) | *Описание* |
 | [`ToString`](./IndicatorSourceBase.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Name`](./IndicatorSourceBase.cs/Свойства/Name.md) | *Описание* |
 | [`SelectedSeries`](./IndicatorSourceBase.cs/Свойства/SelectedSeries.md) | *Описание* |
 
-# Таблица событий
+# Список событий
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./IndicatorSourceBase.cs/События/PropertyChanged.md) | *Описание* |

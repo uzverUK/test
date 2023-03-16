@@ -10,7 +10,7 @@ public sealed class CumulativeDeltaSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./CumulativeDeltaSource.cs/Методы/CopySettings.md) | *Описание* |

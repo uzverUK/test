@@ -10,7 +10,7 @@ public sealed class RawCluster : IRawCluster
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`AddCluster`](./RawCluster.cs/Методы/AddCluster.md) | *Описание* |
@@ -21,7 +21,7 @@ public sealed class RawCluster : IRawCluster
 | [`RawCluster`](./RawCluster.cs/Методы/RawCluster.md) | *Описание* |
 | [`UpdateData`](./RawCluster.cs/Методы/UpdateData.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Ask`](./RawCluster.cs/Свойства/Ask.md) | *Описание* |

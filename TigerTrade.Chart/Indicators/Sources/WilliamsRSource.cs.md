@@ -10,7 +10,7 @@ public sealed class WilliamsRSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./WilliamsRSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class WilliamsRSource : IndicatorSourceBase
 | [`ToString`](./WilliamsRSource.cs/Методы/ToString.md) | *Описание* |
 | [`WilliamsRSource`](./WilliamsRSource.cs/Методы/WilliamsRSource.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./WilliamsRSource.cs/Свойства/Period.md) | *Описание* |

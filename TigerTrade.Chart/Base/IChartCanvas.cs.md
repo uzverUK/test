@@ -10,7 +10,7 @@ public interface IChartCanvas
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ConvertTimeFromLocal`](./IChartCanvas.cs/Методы/ConvertTimeFromLocal.md) | *Описание* |
@@ -27,7 +27,7 @@ public interface IChartCanvas
 | [`GetY`](./IChartCanvas.cs/Методы/GetY.md) | *Описание* |
 | [`IndexToDate`](./IChartCanvas.cs/Методы/IndexToDate.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`AfterBars`](./IChartCanvas.cs/Свойства/AfterBars.md) | *Описание* |

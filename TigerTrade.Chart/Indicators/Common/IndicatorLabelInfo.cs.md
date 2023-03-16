@@ -10,12 +10,12 @@ public sealed class IndicatorLabelInfo
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`IndicatorLabelInfo`](./IndicatorLabelInfo.cs/Методы/IndicatorLabelInfo.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Color`](./IndicatorLabelInfo.cs/Свойства/Color.md) | *Описание* |

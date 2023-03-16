@@ -10,13 +10,13 @@ public sealed class RawClusterItem : IRawClusterItem
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`Add`](./RawClusterItem.cs/Методы/Add.md) | *Описание* |
 | [`RawClusterItem`](./RawClusterItem.cs/Методы/RawClusterItem.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Ask`](./RawClusterItem.cs/Свойства/Ask.md) | *Описание* |

@@ -10,7 +10,7 @@ public sealed class PriceRangeObject : PolygonObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CQTqeP3bJqxWKjH4hGUt`](./PriceRangeObject.cs/Методы/CQTqeP3bJqxWKjH4hGUt.md) | *Описание* |
@@ -23,7 +23,7 @@ public sealed class PriceRangeObject : PolygonObjectBase
 | [`IsObjectOnChart`](./PriceRangeObject.cs/Методы/IsObjectOnChart.md) | *Описание* |
 | [`PriceRangeObject`](./PriceRangeObject.cs/Методы/PriceRangeObject.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Alert`](./PriceRangeObject.cs/Свойства/Alert.md) | *Описание* |

@@ -10,7 +10,7 @@ public interface IChartDataProvider
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`GetCluster`](./IChartDataProvider.cs/Методы/GetCluster.md) | *Описание* |
@@ -20,7 +20,7 @@ public interface IChartDataProvider
 | [`GetRawSecurity`](./IChartDataProvider.cs/Методы/GetRawSecurity.md) | *Описание* |
 | [`GetSecurity`](./IChartDataProvider.cs/Методы/GetSecurity.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Count`](./IChartDataProvider.cs/Свойства/Count.md) | *Описание* |

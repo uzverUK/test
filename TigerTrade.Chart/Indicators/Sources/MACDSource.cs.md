@@ -10,7 +10,7 @@ public sealed class MACDSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./MACDSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class MACDSource : IndicatorSourceBase
 | [`MACDSource`](./MACDSource.cs/Методы/MACDSource.md) | *Описание* |
 | [`ToString`](./MACDSource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Fast`](./MACDSource.cs/Свойства/Fast.md) | *Описание* |

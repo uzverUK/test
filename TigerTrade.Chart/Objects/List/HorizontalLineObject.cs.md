@@ -10,7 +10,7 @@ public class HorizontalLineObject : LineObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CheckAlert`](./HorizontalLineObject.cs/Методы/CheckAlert.md) | *Описание* |
@@ -22,7 +22,7 @@ public class HorizontalLineObject : LineObjectBase
 | [`InObject`](./HorizontalLineObject.cs/Методы/InObject.md) | *Описание* |
 | [`IsObjectOnChart`](./HorizontalLineObject.cs/Методы/IsObjectOnChart.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Alert`](./HorizontalLineObject.cs/Свойства/Alert.md) | *Описание* |

@@ -10,7 +10,7 @@ public sealed class CircleObject : PolygonObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CircleObject`](./CircleObject.cs/Методы/CircleObject.md) | *Описание* |
@@ -18,7 +18,7 @@ public sealed class CircleObject : PolygonObjectBase
 | [`GetMinDist`](./CircleObject.cs/Методы/GetMinDist.md) | *Описание* |
 | [`InObject`](./CircleObject.cs/Методы/InObject.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./CircleObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

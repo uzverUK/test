@@ -10,7 +10,7 @@ public sealed class ObjectPeriods
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CheckPeriod`](./ObjectPeriods.cs/Методы/CheckPeriod.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class ObjectPeriods
 | [`ObjectPeriods`](./ObjectPeriods.cs/Методы/ObjectPeriods.md) | *Описание* |
 | [`Update`](./ObjectPeriods.cs/Методы/Update.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Periods`](./ObjectPeriods.cs/Свойства/Periods.md) | *Описание* |

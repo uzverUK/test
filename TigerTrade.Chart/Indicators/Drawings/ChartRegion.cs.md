@@ -10,20 +10,20 @@ public sealed class ChartRegion : INotifyPropertyChanged
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ChartRegion`](./ChartRegion.cs/Методы/ChartRegion.md) | *Описание* |
 | [`CopyTheme`](./ChartRegion.cs/Методы/CopyTheme.md) | *Описание* |
 | [`ToString`](./ChartRegion.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Color`](./ChartRegion.cs/Свойства/Color.md) | *Описание* |
 | [`Visible`](./ChartRegion.cs/Свойства/Visible.md) | *Описание* |
 
-# Таблица событий
+# Список событий
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ChartRegion.cs/События/PropertyChanged.md) | *Описание* |

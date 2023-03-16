@@ -10,7 +10,7 @@ public sealed class BollingerBandsSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`BollingerBandsSource`](./BollingerBandsSource.cs/Методы/BollingerBandsSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class BollingerBandsSource : IndicatorSourceBase
 | [`GetSeriesList`](./BollingerBandsSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./BollingerBandsSource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`MaType`](./BollingerBandsSource.cs/Свойства/MaType.md) | *Описание* |

@@ -10,14 +10,14 @@ public sealed class ArrowObject : LineObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ArrowObject`](./ArrowObject.cs/Методы/ArrowObject.md) | *Описание* |
 | [`Draw`](./ArrowObject.cs/Методы/Draw.md) | *Описание* |
 | [`InObject`](./ArrowObject.cs/Методы/InObject.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`xsuJlZ3bylFkXacpNF53`](./ArrowObject.cs/Свойства/xsuJlZ3bylFkXacpNF53.md) | *Описание* |

@@ -10,7 +10,7 @@ public interface IChartSymbol
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ConvertTimeFromLocal`](./IChartSymbol.cs/Методы/ConvertTimeFromLocal.md) | *Описание* |
@@ -29,7 +29,7 @@ public interface IChartSymbol
 | [`GetPrice`](./IChartSymbol.cs/Методы/GetPrice.md) | *Описание* |
 | [`GetSize`](./IChartSymbol.cs/Методы/GetSize.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Code`](./IChartSymbol.cs/Свойства/Code.md) | *Описание* |

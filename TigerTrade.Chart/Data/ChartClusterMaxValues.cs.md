@@ -10,13 +10,13 @@ public sealed class ChartClusterMaxValues : IChartClusterMaxValues
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ChartClusterMaxValues`](./ChartClusterMaxValues.cs/Методы/ChartClusterMaxValues.md) | *Описание* |
 | [`Update`](./ChartClusterMaxValues.cs/Методы/Update.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`MaxAsk`](./ChartClusterMaxValues.cs/Свойства/MaxAsk.md) | *Описание* |

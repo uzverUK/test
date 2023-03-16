@@ -10,12 +10,12 @@ public class ChartObjectAttribute : Attribute
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ChartObjectAttribute`](./ChartObjectAttribute.cs/Методы/ChartObjectAttribute.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`ID`](./ChartObjectAttribute.cs/Свойства/ID.md) | *Описание* |

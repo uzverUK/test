@@ -10,7 +10,7 @@ public interface IRawClusterItem
 ```
 
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Ask`](./IRawClusterItem.cs/Свойства/Ask.md) | *Описание* |

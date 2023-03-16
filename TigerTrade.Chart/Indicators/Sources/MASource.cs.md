@@ -10,7 +10,7 @@ public sealed class MASource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./MASource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class MASource : IndicatorSourceBase
 | [`MASource`](./MASource.cs/Методы/MASource.md) | *Описание* |
 | [`ToString`](./MASource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`MaType`](./MASource.cs/Свойства/MaType.md) | *Описание* |

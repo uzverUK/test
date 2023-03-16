@@ -10,7 +10,7 @@ public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ChartSeries`](./ChartSeries.cs/Методы/ChartSeries.md) | *Описание* |
@@ -21,7 +21,7 @@ public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
 | [`GetPropertyVisibility`](./ChartSeries.cs/Методы/GetPropertyVisibility.md) | *Описание* |
 | [`ToString`](./ChartSeries.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`AllColors`](./ChartSeries.cs/Свойства/AllColors.md) | *Описание* |
@@ -35,7 +35,7 @@ public sealed class ChartSeries : INotifyPropertyChanged, IDynamicProperty
 | [`Visible`](./ChartSeries.cs/Свойства/Visible.md) | *Описание* |
 | [`Width`](./ChartSeries.cs/Свойства/Width.md) | *Описание* |
 
-# Таблица событий
+# Список событий
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ChartSeries.cs/События/PropertyChanged.md) | *Описание* |

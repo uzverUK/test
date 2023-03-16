@@ -10,7 +10,7 @@ public sealed class VHFSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./VHFSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class VHFSource : IndicatorSourceBase
 | [`ToString`](./VHFSource.cs/Методы/ToString.md) | *Описание* |
 | [`VHFSource`](./VHFSource.cs/Методы/VHFSource.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./VHFSource.cs/Свойства/Period.md) | *Описание* |

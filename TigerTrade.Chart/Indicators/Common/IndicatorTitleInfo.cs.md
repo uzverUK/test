@@ -10,12 +10,12 @@ public sealed class IndicatorTitleInfo
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`IndicatorTitleInfo`](./IndicatorTitleInfo.cs/Методы/IndicatorTitleInfo.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Brush`](./IndicatorTitleInfo.cs/Свойства/Brush.md) | *Описание* |

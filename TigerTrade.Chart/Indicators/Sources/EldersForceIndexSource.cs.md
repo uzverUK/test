@@ -10,7 +10,7 @@ public sealed class EldersForceIndexSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./EldersForceIndexSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class EldersForceIndexSource : IndicatorSourceBase
 | [`GetSeriesList`](./EldersForceIndexSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./EldersForceIndexSource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`MaType`](./EldersForceIndexSource.cs/Свойства/MaType.md) | *Описание* |

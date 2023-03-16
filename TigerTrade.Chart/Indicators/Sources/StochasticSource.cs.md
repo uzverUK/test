@@ -10,7 +10,7 @@ public sealed class StochasticSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./StochasticSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class StochasticSource : IndicatorSourceBase
 | [`StochasticSource`](./StochasticSource.cs/Методы/StochasticSource.md) | *Описание* |
 | [`ToString`](./StochasticSource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`FastK`](./StochasticSource.cs/Свойства/FastK.md) | *Описание* |

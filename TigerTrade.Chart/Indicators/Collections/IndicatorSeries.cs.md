@@ -10,7 +10,7 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`Add`](./IndicatorSeries.cs/Методы/Add.md) | *Описание* |
@@ -18,7 +18,7 @@ public sealed class IndicatorSeries : IEnumerable<IndicatorSeriesData>, IEnumera
 | [`GetEnumerator`](./IndicatorSeries.cs/Методы/GetEnumerator.md) | *Описание* |
 | [`IndicatorSeries`](./IndicatorSeries.cs/Методы/IndicatorSeries.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Count`](./IndicatorSeries.cs/Свойства/Count.md) | *Описание* |

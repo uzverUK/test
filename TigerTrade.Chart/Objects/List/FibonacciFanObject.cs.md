@@ -10,7 +10,7 @@ public sealed class FibonacciFanObject : LineObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ApplyTheme`](./FibonacciFanObject.cs/Методы/ApplyTheme.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class FibonacciFanObject : LineObjectBase
 | [`FibonacciFanObject`](./FibonacciFanObject.cs/Методы/FibonacciFanObject.md) | *Описание* |
 | [`InObject`](./FibonacciFanObject.cs/Методы/InObject.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`CustomLevels`](./FibonacciFanObject.cs/Свойства/CustomLevels.md) | *Описание* |

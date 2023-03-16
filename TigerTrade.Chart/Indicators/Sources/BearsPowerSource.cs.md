@@ -10,7 +10,7 @@ public sealed class BearsPowerSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`BearsPowerSource`](./BearsPowerSource.cs/Методы/BearsPowerSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class BearsPowerSource : IndicatorSourceBase
 | [`GetSeriesList`](./BearsPowerSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./BearsPowerSource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./BearsPowerSource.cs/Свойства/Period.md) | *Описание* |

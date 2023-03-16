@@ -10,7 +10,7 @@ public class IconObject : ObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ApplyTheme`](./IconObject.cs/Методы/ApplyTheme.md) | *Описание* |
@@ -19,7 +19,7 @@ public class IconObject : ObjectBase
 | [`IconObject`](./IconObject.cs/Методы/IconObject.md) | *Описание* |
 | [`InObject`](./IconObject.cs/Методы/InObject.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Brush`](./IconObject.cs/Свойства/Brush.md) | *Описание* |

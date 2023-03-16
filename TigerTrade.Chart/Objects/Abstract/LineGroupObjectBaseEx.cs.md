@@ -10,14 +10,14 @@ public abstract class LineGroupObjectBaseEx : LineGroupObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopyTemplate`](./LineGroupObjectBaseEx.cs/Методы/CopyTemplate.md) | *Описание* |
 | [`LineGroupObjectBaseEx`](./LineGroupObjectBaseEx.cs/Методы/LineGroupObjectBaseEx.md) | *Описание* |
 | [`OpenStartEnd`](./LineGroupObjectBaseEx.cs/Методы/OpenStartEnd.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`OpenEnd`](./LineGroupObjectBaseEx.cs/Свойства/OpenEnd.md) | *Описание* |

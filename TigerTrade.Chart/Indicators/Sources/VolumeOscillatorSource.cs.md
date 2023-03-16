@@ -10,7 +10,7 @@ public sealed class VolumeOscillatorSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./VolumeOscillatorSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class VolumeOscillatorSource : IndicatorSourceBase
 | [`ToString`](./VolumeOscillatorSource.cs/Методы/ToString.md) | *Описание* |
 | [`VolumeOscillatorSource`](./VolumeOscillatorSource.cs/Методы/VolumeOscillatorSource.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`LongPeriod`](./VolumeOscillatorSource.cs/Свойства/LongPeriod.md) | *Описание* |

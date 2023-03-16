@@ -10,7 +10,7 @@ public interface IChartSettings
 ```
 
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`TransformHorLines`](./IChartSettings.cs/Свойства/TransformHorLines.md) | *Описание* |

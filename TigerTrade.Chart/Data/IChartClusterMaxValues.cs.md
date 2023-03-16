@@ -10,7 +10,7 @@ public interface IChartClusterMaxValues
 ```
 
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`MaxAsk`](./IChartClusterMaxValues.cs/Свойства/MaxAsk.md) | *Описание* |

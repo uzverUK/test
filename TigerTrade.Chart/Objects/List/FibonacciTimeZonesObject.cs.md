@@ -10,7 +10,7 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CalcPoint`](./FibonacciTimeZonesObject.cs/Методы/CalcPoint.md) | *Описание* |
@@ -18,7 +18,7 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 | [`Draw`](./FibonacciTimeZonesObject.cs/Методы/Draw.md) | *Описание* |
 | [`FibonacciTimeZonesObject`](./FibonacciTimeZonesObject.cs/Методы/FibonacciTimeZonesObject.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`MaxLines`](./FibonacciTimeZonesObject.cs/Свойства/MaxLines.md) | *Описание* |

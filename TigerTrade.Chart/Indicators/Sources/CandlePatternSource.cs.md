@@ -10,7 +10,7 @@ public sealed class CandlePatternSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CandlePatternSource`](./CandlePatternSource.cs/Методы/CandlePatternSource.md) | *Описание* |
@@ -20,7 +20,7 @@ public sealed class CandlePatternSource : IndicatorSourceBase
 | [`SearchPattern`](./CandlePatternSource.cs/Методы/SearchPattern.md) | *Описание* |
 | [`ToString`](./CandlePatternSource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`PatternType`](./CandlePatternSource.cs/Свойства/PatternType.md) | *Описание* |

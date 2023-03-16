@@ -10,12 +10,12 @@ public sealed class ChartAlertInfo
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ChartAlertInfo`](./ChartAlertInfo.cs/Методы/ChartAlertInfo.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Duration`](./ChartAlertInfo.cs/Свойства/Duration.md) | *Описание* |

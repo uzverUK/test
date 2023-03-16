@@ -10,7 +10,7 @@ public sealed class CCISource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CCISource`](./CCISource.cs/Методы/CCISource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class CCISource : IndicatorSourceBase
 | [`GetSeriesList`](./CCISource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./CCISource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./CCISource.cs/Свойства/Period.md) | *Описание* |

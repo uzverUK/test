@@ -10,7 +10,7 @@ public sealed class BWMFISource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`BWMFISource`](./BWMFISource.cs/Методы/BWMFISource.md) | *Описание* |

@@ -10,14 +10,14 @@ public abstract class PolygonObjectBase : ObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ApplyTheme`](./PolygonObjectBase.cs/Методы/ApplyTheme.md) | *Описание* |
 | [`CopyTemplate`](./PolygonObjectBase.cs/Методы/CopyTemplate.md) | *Описание* |
 | [`PolygonObjectBase`](./PolygonObjectBase.cs/Методы/PolygonObjectBase.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`BackBrush`](./PolygonObjectBase.cs/Свойства/BackBrush.md) | *Описание* |

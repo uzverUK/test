@@ -10,14 +10,14 @@ public sealed class IndicatorSeriesStyle
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`DisableAll`](./IndicatorSeriesStyle.cs/Методы/DisableAll.md) | *Описание* |
 | [`IndicatorSeriesStyle`](./IndicatorSeriesStyle.cs/Методы/IndicatorSeriesStyle.md) | *Описание* |
 | [`Set`](./IndicatorSeriesStyle.cs/Методы/Set.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Color2;`](./IndicatorSeriesStyle.cs/Свойства/Color2;.md) | *Описание* |

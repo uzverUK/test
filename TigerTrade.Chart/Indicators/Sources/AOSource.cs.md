@@ -10,7 +10,7 @@ public sealed class AOSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`AOSource`](./AOSource.cs/Методы/AOSource.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class AOSource : IndicatorSourceBase
 | [`GetSeriesList`](./AOSource.cs/Методы/GetSeriesList.md) | *Описание* |
 | [`ToString`](./AOSource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`LongPeriod`](./AOSource.cs/Свойства/LongPeriod.md) | *Описание* |

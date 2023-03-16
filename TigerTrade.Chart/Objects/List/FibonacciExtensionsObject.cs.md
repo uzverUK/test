@@ -10,7 +10,7 @@ public sealed class FibonacciExtensionsObject : LineObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ApplyTheme`](./FibonacciExtensionsObject.cs/Методы/ApplyTheme.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class FibonacciExtensionsObject : LineObjectBase
 | [`FibonacciExtensionsObject`](./FibonacciExtensionsObject.cs/Методы/FibonacciExtensionsObject.md) | *Описание* |
 | [`InObject`](./FibonacciExtensionsObject.cs/Методы/InObject.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`CustomLevels`](./FibonacciExtensionsObject.cs/Свойства/CustomLevels.md) | *Описание* |

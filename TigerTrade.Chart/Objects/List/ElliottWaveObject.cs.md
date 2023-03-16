@@ -10,7 +10,7 @@ public abstract class ElliottWaveObject : LineObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopyTemplate`](./ElliottWaveObject.cs/Методы/CopyTemplate.md) | *Описание* |
@@ -19,7 +19,7 @@ public abstract class ElliottWaveObject : LineObjectBase
 | [`GetDegreeText`](./ElliottWaveObject.cs/Методы/GetDegreeText.md) | *Описание* |
 | [`InObject`](./ElliottWaveObject.cs/Методы/InObject.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Degree`](./ElliottWaveObject.cs/Свойства/Degree.md) | *Описание* |

@@ -10,7 +10,7 @@ public sealed class StockSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./StockSource.cs/Методы/CopySettings.md) | *Описание* |

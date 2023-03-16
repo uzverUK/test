@@ -10,7 +10,7 @@ public sealed class IndicatorSettingsSlider : INotifyPropertyChanged
 ```
 
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`LargeChange`](./IndicatorSettingsSlider.cs/Свойства/LargeChange.md) | *Описание* |
@@ -20,7 +20,7 @@ public sealed class IndicatorSettingsSlider : INotifyPropertyChanged
 | [`TickFrequency`](./IndicatorSettingsSlider.cs/Свойства/TickFrequency.md) | *Описание* |
 | [`Value`](./IndicatorSettingsSlider.cs/Свойства/Value.md) | *Описание* |
 
-# Таблица событий
+# Список событий
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./IndicatorSettingsSlider.cs/События/PropertyChanged.md) | *Описание* |

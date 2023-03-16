@@ -10,14 +10,14 @@ public sealed class ChannelObject : LineGroupObjectBaseEx
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CalcPoint`](./ChannelObject.cs/Методы/CalcPoint.md) | *Описание* |
 | [`ChannelObject`](./ChannelObject.cs/Методы/ChannelObject.md) | *Описание* |
 | [`CopyTemplate`](./ChannelObject.cs/Методы/CopyTemplate.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`MiddleLine`](./ChannelObject.cs/Свойства/MiddleLine.md) | *Описание* |

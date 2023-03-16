@@ -10,13 +10,13 @@ public sealed class ObjectLine : INotifyPropertyChanged
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ObjectLine`](./ObjectLine.cs/Методы/ObjectLine.md) | *Описание* |
 | [`ToString`](./ObjectLine.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`LineBrush`](./ObjectLine.cs/Свойства/LineBrush.md) | *Описание* |
@@ -27,7 +27,7 @@ public sealed class ObjectLine : INotifyPropertyChanged
 | [`ShowLine`](./ObjectLine.cs/Свойства/ShowLine.md) | *Описание* |
 | [`Value`](./ObjectLine.cs/Свойства/Value.md) | *Описание* |
 
-# Таблица событий
+# Список событий
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./ObjectLine.cs/События/PropertyChanged.md) | *Описание* |

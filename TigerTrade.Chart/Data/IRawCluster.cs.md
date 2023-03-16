@@ -10,13 +10,13 @@ public interface IRawCluster
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`GetItem`](./IRawCluster.cs/Методы/GetItem.md) | *Описание* |
 | [`GetValueArea`](./IRawCluster.cs/Методы/GetValueArea.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Ask`](./IRawCluster.cs/Свойства/Ask.md) | *Описание* |

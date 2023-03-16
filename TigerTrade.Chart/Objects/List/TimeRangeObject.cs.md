@@ -10,7 +10,7 @@ public sealed class TimeRangeObject : PolygonObjectBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`Draw`](./TimeRangeObject.cs/Методы/Draw.md) | *Описание* |
@@ -20,7 +20,7 @@ public sealed class TimeRangeObject : PolygonObjectBase
 | [`TimeRangeObject`](./TimeRangeObject.cs/Методы/TimeRangeObject.md) | *Описание* |
 | [`ey9wOk3RwAcjmml8vF1J`](./TimeRangeObject.cs/Методы/ey9wOk3RwAcjmml8vF1J.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Center;`](./TimeRangeObject.cs/Свойства/Center;.md) | *Описание* |

@@ -10,7 +10,7 @@ public sealed class IndicatorSeriesData
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CachePoints`](./IndicatorSeriesData.cs/Методы/CachePoints.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class IndicatorSeriesData
 | [`MaxValue`](./IndicatorSeriesData.cs/Методы/MaxValue.md) | *Описание* |
 | [`MinValue`](./IndicatorSeriesData.cs/Методы/MinValue.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Data`](./IndicatorSeriesData.cs/Свойства/Data.md) | *Описание* |

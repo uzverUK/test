@@ -10,7 +10,7 @@ public sealed class MomentumSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./MomentumSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class MomentumSource : IndicatorSourceBase
 | [`MomentumSource`](./MomentumSource.cs/Методы/MomentumSource.md) | *Описание* |
 | [`ToString`](./MomentumSource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./MomentumSource.cs/Свойства/Period.md) | *Описание* |

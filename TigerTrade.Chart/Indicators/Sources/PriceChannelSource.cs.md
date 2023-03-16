@@ -10,7 +10,7 @@ public sealed class PriceChannelSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./PriceChannelSource.cs/Методы/CopySettings.md) | *Описание* |
@@ -19,7 +19,7 @@ public sealed class PriceChannelSource : IndicatorSourceBase
 | [`PriceChannelSource`](./PriceChannelSource.cs/Методы/PriceChannelSource.md) | *Описание* |
 | [`ToString`](./PriceChannelSource.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Period`](./PriceChannelSource.cs/Свойства/Period.md) | *Описание* |

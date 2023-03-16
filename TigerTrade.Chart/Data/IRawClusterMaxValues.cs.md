@@ -10,7 +10,7 @@ public interface IRawClusterMaxValues
 ```
 
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`MaxAsk`](./IRawClusterMaxValues.cs/Свойства/MaxAsk.md) | *Описание* |

@@ -10,7 +10,7 @@ public sealed class ADSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`ADSource`](./ADSource.cs/Методы/ADSource.md) | *Описание* |

@@ -10,7 +10,7 @@ public sealed class OBVSource : IndicatorSourceBase
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`CopySettings`](./OBVSource.cs/Методы/CopySettings.md) | *Описание* |

@@ -10,7 +10,7 @@ public interface IRawMarketDepth
 ```
 
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`MaxAskPrice`](./IRawMarketDepth.cs/Свойства/MaxAskPrice.md) | *Описание* |

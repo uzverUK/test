@@ -10,7 +10,7 @@ public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 ```
 
 
-# Таблица методов
+# Список методов
 | Название | Описание |
 | --- | --- |
 | [`AddAlert`](./IndicatorBase.cs/Методы/AddAlert.md) | *Описание* |
@@ -39,7 +39,7 @@ public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 | [`SetSettingsParam`](./IndicatorBase.cs/Методы/SetSettingsParam.md) | *Описание* |
 | [`ToString`](./IndicatorBase.cs/Методы/ToString.md) | *Описание* |
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`Calculation`](./IndicatorBase.cs/Свойства/Calculation.md) | *Описание* |
@@ -70,7 +70,7 @@ public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 | [`ShowIndicatorValuesParam`](./IndicatorBase.cs/Свойства/ShowIndicatorValuesParam.md) | *Описание* |
 | [`Title`](./IndicatorBase.cs/Свойства/Title.md) | *Описание* |
 
-# Таблица событий
+# Список событий
 | Название | Описание |
 | --- | --- |
 | [`PropertyChanged`](./IndicatorBase.cs/События/PropertyChanged.md) | *Описание* |

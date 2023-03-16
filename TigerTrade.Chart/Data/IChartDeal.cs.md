@@ -10,7 +10,7 @@ public interface IChartDeal
 ```
 
 
-# Таблица свойств
+# Список свойств
 | Название | Описание |
 | --- | --- |
 | [`ClosePrice`](./IChartDeal.cs/Свойства/ClosePrice.md) | *Описание* |
