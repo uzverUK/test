@@ -29,7 +29,7 @@ public sealed class SelectFolderWindow : Window, IComponentConnector
 ***  
 # Методы
 
-## `InitializeComponent`
+## `InitializeComponent<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -38,7 +38,7 @@ public void InitializeComponent()
 
 ***  
 
-## `SelectFolderWindow`
+## `SelectFolderWindow<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -40,7 +40,7 @@ public class DxHwndHostBase : HwndHost
 ***  
 # Методы
 
-## `BuildWindowCore`
+## `BuildWindowCore<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ protected override HandleRef BuildWindowCore(HandleRef hwndParent)
 
 ***  
 
-## `DestroyWindowCore`
+## `DestroyWindowCore<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ protected override void DestroyWindowCore(HandleRef hwnd)
 
 ***  
 
-## `DxHwndHostBase`
+## `DxHwndHostBase<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public DxHwndHostBase()
 
 ***  
 
-## `OnPaintBackground`
+## `OnPaintBackground<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

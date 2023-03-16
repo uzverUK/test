@@ -43,7 +43,7 @@ public sealed class DxHwndHost : DxHwndHostBase
 ***  
 # Методы
 
-## `Dispose`
+## `Dispose<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ protected override void Dispose(bool disposing)
 
 ***  
 
-## `DxHwndHost`
+## `DxHwndHost<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ public DxHwndHost()
 
 ***  
 
-## `InvalidateSecondVisual`
+## `InvalidateSecondVisual<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public void InvalidateSecondVisual()
 
 ***  
 
-## `InvalidateVisual`
+## `InvalidateVisual<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ public void InvalidateVisual(bool full = false)
 
 ***  
 
-## `OnPaintBackground`
+## `OnPaintBackground<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -96,7 +96,7 @@ protected override void OnPaintBackground()
 
 ***  
 
-## `OnRenderSizeChanged`
+## `OnRenderSizeChanged<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ protected override void OnRenderSizeChanged(SizeChangedInfo sizeInfo)
 
 ***  
 
-## `Render`
+## `Render<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -124,7 +124,7 @@ public void Render(DxVisualQueue queue1, DxVisualQueue queue2)
 
 ***  
 
-## `StartTimer`
+## `StartTimer<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

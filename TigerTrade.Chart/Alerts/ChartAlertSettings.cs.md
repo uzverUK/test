@@ -47,7 +47,7 @@ public sealed class ChartAlertSettings : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ChartAlertSettings`
+## `ChartAlertSettings<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public ChartAlertSettings()
 
 ***  
 
-## `Copy`
+## `Copy<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public void Copy(ChartAlertSettings alert, bool copyActive = false)
 
 ***  
 
-## `Equals`
+## `Equals<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -84,7 +84,7 @@ public bool Equals(ChartAlertSettings other)
 
 ***  
 
-## `GetHashCode`
+## `GetHashCode<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

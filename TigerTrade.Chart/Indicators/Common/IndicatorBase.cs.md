@@ -83,7 +83,7 @@ public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 ***  
 # Методы
 
-## `AddAlert`
+## `AddAlert<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ protected void AddAlert(ChartAlertSettings settings, string message)
 
 ***  
 
-## `ApplyColors`
+## `ApplyColors<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -111,7 +111,7 @@ public virtual void ApplyColors(IChartTheme palette)
 
 ***  
 
-## `CheckNeedRedraw`
+## `CheckNeedRedraw<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -120,7 +120,7 @@ public virtual bool CheckNeedRedraw()
 
 ***  
 
-## `CopyTemplate`
+## `CopyTemplate<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -136,7 +136,7 @@ public virtual void CopyTemplate(IndicatorBase indicator, bool style)
 
 ***  
 
-## `Execute`
+## `Execute<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -145,7 +145,7 @@ protected abstract void Execute()
 
 ***  
 
-## `GetAlerts`
+## `GetAlerts<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -154,7 +154,7 @@ public List<ChartAlertInfo> GetAlerts()
 
 ***  
 
-## `GetDistance`
+## `GetDistance<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -170,7 +170,7 @@ public virtual double GetDistance(double x, double y)
 
 ***  
 
-## `GetLabels`
+## `GetLabels<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -182,7 +182,7 @@ public virtual void GetLabels(ref List<IndicatorLabelInfo> labels)
 
 ***  
 
-## `GetMinMax`
+## `GetMinMax<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -197,7 +197,7 @@ public virtual bool GetMinMax(out double min, out double max)
 
 ***  
 
-## `GetPoints`
+## `GetPoints<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -212,7 +212,7 @@ protected Point[] GetPoints(IndicatorSeriesData seriesData, string name = null)
 
 ***  
 
-## `GetPropertyHasStandardValues`
+## `GetPropertyHasStandardValues<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -224,7 +224,7 @@ public virtual bool GetPropertyHasStandardValues(string propertyName)
 
 ***  
 
-## `GetPropertyReadOnly`
+## `GetPropertyReadOnly<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -233,7 +233,7 @@ public virtual bool GetPropertyReadOnly(string propertyName)
 
 ***  
 
-## `GetPropertyStandardValues`
+## `GetPropertyStandardValues<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -246,7 +246,7 @@ public virtual IEnumerable<object> GetPropertyStandardValues(string propertyName
 
 ***  
 
-## `GetPropertyVisibility`
+## `GetPropertyVisibility<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -255,7 +255,7 @@ public virtual bool GetPropertyVisibility(string propertyName)
 
 ***  
 
-## `GetTitle`
+## `GetTitle<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -268,7 +268,7 @@ public virtual IndicatorTitleInfo GetTitle()
 
 ***  
 
-## `GetValues`
+## `GetValues<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -280,7 +280,7 @@ public virtual List<IndicatorValueInfo> GetValues(int cursorPos)
 
 ***  
 
-## `GetX`
+## `GetX<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -292,7 +292,7 @@ protected double GetX(int i)
 
 ***  
 
-## `GetY`
+## `GetY<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -304,7 +304,7 @@ protected double GetY(double d)
 
 ***  
 
-## `GetY`
+## `GetY<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -320,7 +320,7 @@ protected double GetY(Decimal d)
 
 ***  
 
-## `IndicatorBase`
+## `IndicatorBase<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -329,7 +329,7 @@ protected IndicatorBase()
 
 ***  
 
-## `OnPropertyChanged`
+## `OnPropertyChanged<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -342,7 +342,7 @@ protected virtual void OnPropertyChanged([CallerMemberName] string propertyName 
 
 ***  
 
-## `PropChanged`
+## `PropChanged<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -351,7 +351,7 @@ public void PropChanged()
 
 ***  
 
-## `Render`
+## `Render<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -364,7 +364,7 @@ public virtual void Render(DxVisualQueue visual)
 
 ***  
 
-## `Run`
+## `Run<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -385,7 +385,7 @@ public void Run(IChartDataProvider dp, string longKey, string shortKey, string r
 
 ***  
 
-## `SetSettingsParam`
+## `SetSettingsParam<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -400,7 +400,7 @@ public virtual void SetSettingsParam(string name, object param)
 
 ***  
 
-## `ToString`
+## `ToString<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

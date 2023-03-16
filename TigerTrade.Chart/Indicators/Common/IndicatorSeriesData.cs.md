@@ -35,7 +35,7 @@ public sealed class IndicatorSeriesData
 ***  
 # Методы
 
-## `CachePoints`
+## `CachePoints<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public void CachePoints(Point[] points, string pointsName)
 
 ***  
 
-## `GetDistance`
+## `GetDistance<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public double GetDistance(double x, double y)
 
 ***  
 
-## `IndicatorSeriesData`
+## `IndicatorSeriesData<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public IndicatorSeriesData(double[] data)
 
 ***  
 
-## `IndicatorSeriesData`
+## `IndicatorSeriesData<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -89,7 +89,7 @@ public IndicatorSeriesData(double[] data, ChartSeries style, string name = "")
 
 ***  
 
-## `IndicatorSeriesData`
+## `IndicatorSeriesData<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -110,7 +110,7 @@ public IndicatorSeriesData(double[] data, ChartRegion style)
 
 ***  
 
-## `IndicatorSeriesData`
+## `IndicatorSeriesData<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -135,7 +135,7 @@ public IndicatorSeriesData(double[] data, ChartLine style)
 
 ***  
 
-## `MaxValue`
+## `MaxValue<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -144,7 +144,7 @@ public double MaxValue()
 
 ***  
 
-## `MaxValue`
+## `MaxValue<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -161,7 +161,7 @@ public double MaxValue(int start, int count)
 
 ***  
 
-## `MinValue`
+## `MinValue<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -170,7 +170,7 @@ public double MinValue()
 
 ***  
 
-## `MinValue`
+## `MinValue<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

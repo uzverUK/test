@@ -33,7 +33,7 @@ public sealed class ObjectLabelInfo
 ***  
 # Методы
 
-## `ObjectLabelInfo`
+## `ObjectLabelInfo<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public ObjectLabelInfo(double value, XColor color, double? position = null)
 
 ***  
 
-## `ObjectLabelInfo`
+## `ObjectLabelInfo<a href="test" id="test"></a>`
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
