@@ -13,7 +13,7 @@ public static class StaticFunctions
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Round`](#Round-m) | *Описание* |
+| [`Round`](#method-round) | *Описание* |
 
 
 
@@ -23,7 +23,7 @@ public static class StaticFunctions
 ***  
 # Методы
 
-## `Round`<a href="Round-m" id="Round-m"></a>
+## `Round`<a href="method-round" id="method-round"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,14 +13,14 @@ internal class EqualParameterToVisibilityConverter : IValueConverter
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Convert`](#Convert-m) | *Описание* |
-| [`ConvertBack`](#ConvertBack-m) | *Описание* |
-| [`EqualParameterToVisibilityConverter`](#EqualParameterToVisibilityConverter-m) | *Описание* |
+| [`Convert`](#method-convert) | *Описание* |
+| [`ConvertBack`](#method-convertback) | *Описание* |
+| [`EqualParameterToVisibilityConverter`](#method-equalparametertovisibilityconverter) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`IsInverted`](#IsInverted-p) | *Описание* |
+| [`IsInverted`](#property-isinverted) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ internal class EqualParameterToVisibilityConverter : IValueConverter
 ***  
 # Методы
 
-## `Convert`<a href="Convert-m" id="Convert-m"></a>
+## `Convert`<a href="method-convert" id="method-convert"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public object Convert(object _param1, Type _param2, object _param3, CultureInfo 
 
 ***  
 
-## `ConvertBack`<a href="ConvertBack-m" id="ConvertBack-m"></a>
+## `ConvertBack`<a href="method-convertback" id="method-convertback"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public object ConvertBack(object _param1, Type _param2, object _param3, CultureI
 
 ***  
 
-## `EqualParameterToVisibilityConverter`<a href="EqualParameterToVisibilityConverter-m" id="EqualParameterToVisibilityConverter-m"></a>
+## `EqualParameterToVisibilityConverter`<a href="method-equalparametertovisibilityconverter" id="method-equalparametertovisibilityconverter"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ public EqualParameterToVisibilityConverter()
  ***  
 # Свойства
 
-## `IsInverted`<a href="IsInverted-p" id="IsInverted-p"></a>
+## `IsInverted`<a href="property-isinverted" id="property-isinverted"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

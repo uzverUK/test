@@ -13,11 +13,11 @@ internal sealed class Connections
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Add`](#Add-m) | *Описание* |
-| [`Connections`](#Connections-m) | *Описание* |
-| [`Get`](#Get-m) | *Описание* |
-| [`GetAll`](#GetAll-m) | *Описание* |
-| [`Remove`](#Remove-m) | *Описание* |
+| [`Add`](#method-add) | *Описание* |
+| [`Connections`](#method-connections) | *Описание* |
+| [`Get`](#method-get) | *Описание* |
+| [`GetAll`](#method-getall) | *Описание* |
+| [`Remove`](#method-remove) | *Описание* |
 
 
 
@@ -27,7 +27,7 @@ internal sealed class Connections
 ***  
 # Методы
 
-## `Add`<a href="Add-m" id="Add-m"></a>
+## `Add`<a href="method-add" id="method-add"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ public void Add(U81cMgjWlqphcZEdk6RV client)
 
 ***  
 
-## `Connections`<a href="Connections-m" id="Connections-m"></a>
+## `Connections`<a href="method-connections" id="method-connections"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public Connections()
 
 ***  
 
-## `Get`<a href="Get-m" id="Get-m"></a>
+## `Get`<a href="method-get" id="method-get"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public U81cMgjWlqphcZEdk6RV Get(string connectionID)
 
 ***  
 
-## `GetAll`<a href="GetAll-m" id="GetAll-m"></a>
+## `GetAll`<a href="method-getall" id="method-getall"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public IList<U81cMgjWlqphcZEdk6RV> GetAll()
 
 ***  
 
-## `GetAll`<a href="GetAll-m" id="GetAll-m"></a>
+## `GetAll`<a href="method-getall" id="method-getall"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public IList<U81cMgjWlqphcZEdk6RV> GetAll(bool isConnected)
 
 ***  
 
-## `Remove`<a href="Remove-m" id="Remove-m"></a>
+## `Remove`<a href="method-remove" id="method-remove"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

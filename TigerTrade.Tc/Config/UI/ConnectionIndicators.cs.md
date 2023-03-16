@@ -13,24 +13,24 @@ internal class ConnectionIndicators : UserControl, IComponentConnector
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ConnectionIndicators`](#ConnectionIndicators-m) | *Описание* |
-| [`InitializeComponent`](#InitializeComponent-m) | *Описание* |
-| [`roXwis3djh0(ogXycEOqcMglr0u6UVcN)`](#roXwis3djh0(ogXycEOqcMglr0u6UVcN)-m) | *Описание* |
+| [`ConnectionIndicators`](#method-connectionindicators) | *Описание* |
+| [`InitializeComponent`](#method-initializecomponent) | *Описание* |
+| [`roXwis3djh0(ogXycEOqcMglr0u6UVcN)`](#method-roxwis3djh0(ogxyceoqcmglr0u6uvcn)) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`ConnectionID`](#ConnectionID-p) | *Описание* |
-| [`DependencyProperty`](#DependencyProperty-p) | *Описание* |
-| [`DependencyProperty`](#DependencyProperty-p) | *Описание* |
-| [`Indicator`](#Indicator-p) | *Описание* |
-| [`IndicatorClickedCommand`](#IndicatorClickedCommand-p) | *Описание* |
-| [`Indicators`](#Indicators-p) | *Описание* |
+| [`ConnectionID`](#property-connectionid) | *Описание* |
+| [`DependencyProperty`](#property-dependencyproperty) | *Описание* |
+| [`DependencyProperty`](#property-dependencyproperty) | *Описание* |
+| [`Indicator`](#property-indicator) | *Описание* |
+| [`IndicatorClickedCommand`](#property-indicatorclickedcommand) | *Описание* |
+| [`Indicators`](#property-indicators) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`IndicatorChanged;`](#IndicatorChanged;-p) | *Описание* |
+| [`IndicatorChanged;`](#event-indicatorchanged;) | *Описание* |
 
 
 
@@ -40,7 +40,7 @@ internal class ConnectionIndicators : UserControl, IComponentConnector
 ***  
 # Методы
 
-## `ConnectionIndicators`<a href="ConnectionIndicators-m" id="ConnectionIndicators-m"></a>
+## `ConnectionIndicators`<a href="method-connectionindicators" id="method-connectionindicators"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public ConnectionIndicators()
 
 ***  
 
-## `InitializeComponent`<a href="InitializeComponent-m" id="InitializeComponent-m"></a>
+## `InitializeComponent`<a href="method-initializecomponent" id="method-initializecomponent"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public void InitializeComponent()
 
 ***  
 
-## `roXwis3djh0(ogXycEOqcMglr0u6UVcN)`<a href="roXwis3djh0(ogXycEOqcMglr0u6UVcN)-m" id="roXwis3djh0(ogXycEOqcMglr0u6UVcN)-m"></a>
+## `roXwis3djh0(ogXycEOqcMglr0u6UVcN)`<a href="method-roxwis3djh0(ogxyceoqcmglr0u6uvcn)" id="method-roxwis3djh0(ogxyceoqcmglr0u6uvcn)"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public static ogXycEOqcMglr0u6UVcN roXwis3djh0<ogXycEOqcMglr0u6UVcN>(DependencyO
  ***  
 # Свойства
 
-## `ConnectionID`<a href="ConnectionID-p" id="ConnectionID-p"></a>
+## `ConnectionID`<a href="property-connectionid" id="property-connectionid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public string ConnectionID { get; set; }
 ```  
 ***
 
-## `DependencyProperty`<a href="DependencyProperty-p" id="DependencyProperty-p"></a>
+## `DependencyProperty`<a href="property-dependencyproperty" id="property-dependencyproperty"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public static readonly DependencyProperty Hn2wiExPrWk; {}
 ```  
 ***
 
-## `DependencyProperty`<a href="DependencyProperty-p" id="DependencyProperty-p"></a>
+## `DependencyProperty`<a href="property-dependencyproperty" id="property-dependencyproperty"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public static readonly DependencyProperty BoCwiesxd77; {}
 ```  
 ***
 
-## `Indicator`<a href="Indicator-p" id="Indicator-p"></a>
+## `Indicator`<a href="property-indicator" id="property-indicator"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ public int Indicator { get; set; }
 ```  
 ***
 
-## `IndicatorClickedCommand`<a href="IndicatorClickedCommand-p" id="IndicatorClickedCommand-p"></a>
+## `IndicatorClickedCommand`<a href="property-indicatorclickedcommand" id="property-indicatorclickedcommand"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -117,7 +117,7 @@ public ICommand IndicatorClickedCommand { get; }
 ```  
 ***
 
-## `Indicators`<a href="Indicators-p" id="Indicators-p"></a>
+## `Indicators`<a href="property-indicators" id="property-indicators"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -128,7 +128,7 @@ public ObservableCollection<j1dmkSwia5NwC6FQfLYQ> Indicators { get; }
  ***  
 # События
 
-## `IndicatorChanged;`<a href="IndicatorChanged;-p" id="IndicatorChanged;-p"></a>
+## `IndicatorChanged;`<a href="event-indicatorchanged;" id="event-indicatorchanged;"></a>
 Описание
 
 ```csharp

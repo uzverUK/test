@@ -13,12 +13,12 @@ internal sealed class Settings : ApplicationSettingsBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Settings`](#Settings-m) | *Описание* |
+| [`Settings`](#method-settings) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Default`](#Default-p) | *Описание* |
+| [`Default`](#property-default) | *Описание* |
 
 
 
@@ -28,7 +28,7 @@ internal sealed class Settings : ApplicationSettingsBase
 ***  
 # Методы
 
-## `Settings`<a href="Settings-m" id="Settings-m"></a>
+## `Settings`<a href="method-settings" id="method-settings"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ public Settings()
  ***  
 # Свойства
 
-## `Default`<a href="Default-p" id="Default-p"></a>
+## `Default`<a href="property-default" id="property-default"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

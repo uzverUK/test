@@ -13,8 +13,8 @@ public static class TcEvents
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`TrackAddConnection;`](#TrackAddConnection;-p) | *Описание* |
-| [`TrackWindow;`](#TrackWindow;-p) | *Описание* |
+| [`TrackAddConnection;`](#event-trackaddconnection;) | *Описание* |
+| [`TrackWindow;`](#event-trackwindow;) | *Описание* |
 
 
 
@@ -23,14 +23,14 @@ public static class TcEvents
  ***  
 # События
 
-## `TrackAddConnection;`<a href="TrackAddConnection;-p" id="TrackAddConnection;-p"></a>
+## `TrackAddConnection;`<a href="event-trackaddconnection;" id="event-trackaddconnection;"></a>
 Описание
 
 ```csharp
 public static event Action<string> TrackAddConnection;
 ```
 
-## `TrackWindow;`<a href="TrackWindow;-p" id="TrackWindow;-p"></a>
+## `TrackWindow;`<a href="event-trackwindow;" id="event-trackwindow;"></a>
 Описание
 
 ```csharp

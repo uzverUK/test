@@ -13,27 +13,27 @@ public static class TimeHelper
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ConvertFromExchangeTimeToUtc`](#ConvertFromExchangeTimeToUtc-m) | *Описание* |
-| [`CorrectLocalTime`](#CorrectLocalTime-m) | *Описание* |
-| [`CorrectUtcTime`](#CorrectUtcTime-m) | *Описание* |
-| [`FormatTime`](#FormatTime-m) | *Описание* |
-| [`GetCityTime`](#GetCityTime-m) | *Описание* |
-| [`GetCurrDate`](#GetCurrDate-m) | *Описание* |
-| [`GetCurrTime`](#GetCurrTime-m) | *Описание* |
-| [`GetSessionDate`](#GetSessionDate-m) | *Описание* |
-| [`GetSessionOffset`](#GetSessionOffset-m) | *Описание* |
-| [`GetSessionOffsetTs`](#GetSessionOffsetTs-m) | *Описание* |
-| [`IsInvalidTime`](#IsInvalidTime-m) | *Описание* |
+| [`ConvertFromExchangeTimeToUtc`](#method-convertfromexchangetimetoutc) | *Описание* |
+| [`CorrectLocalTime`](#method-correctlocaltime) | *Описание* |
+| [`CorrectUtcTime`](#method-correctutctime) | *Описание* |
+| [`FormatTime`](#method-formattime) | *Описание* |
+| [`GetCityTime`](#method-getcitytime) | *Описание* |
+| [`GetCurrDate`](#method-getcurrdate) | *Описание* |
+| [`GetCurrTime`](#method-getcurrtime) | *Описание* |
+| [`GetSessionDate`](#method-getsessiondate) | *Описание* |
+| [`GetSessionOffset`](#method-getsessionoffset) | *Описание* |
+| [`GetSessionOffsetTs`](#method-getsessionoffsetts) | *Описание* |
+| [`IsInvalidTime`](#method-isinvalidtime) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`AppLocalTime`](#AppLocalTime-p) | *Описание* |
-| [`CentralTimeOffsetUtc`](#CentralTimeOffsetUtc-p) | *Описание* |
-| [`EasternTimeOffsetUtc`](#EasternTimeOffsetUtc-p) | *Описание* |
-| [`LocalTime`](#LocalTime-p) | *Описание* |
-| [`MoscowTimeOffsetUtc`](#MoscowTimeOffsetUtc-p) | *Описание* |
-| [`PlayerTimeProvider`](#PlayerTimeProvider-p) | *Описание* |
+| [`AppLocalTime`](#property-applocaltime) | *Описание* |
+| [`CentralTimeOffsetUtc`](#property-centraltimeoffsetutc) | *Описание* |
+| [`EasternTimeOffsetUtc`](#property-easterntimeoffsetutc) | *Описание* |
+| [`LocalTime`](#property-localtime) | *Описание* |
+| [`MoscowTimeOffsetUtc`](#property-moscowtimeoffsetutc) | *Описание* |
+| [`PlayerTimeProvider`](#property-playertimeprovider) | *Описание* |
 
 
 
@@ -43,7 +43,7 @@ public static class TimeHelper
 ***  
 # Методы
 
-## `ConvertFromExchangeTimeToUtc`<a href="ConvertFromExchangeTimeToUtc-m" id="ConvertFromExchangeTimeToUtc-m"></a>
+## `ConvertFromExchangeTimeToUtc`<a href="method-convertfromexchangetimetoutc" id="method-convertfromexchangetimetoutc"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public static DateTime ConvertFromExchangeTimeToUtc(DateTime dt, string exchange
 
 ***  
 
-## `CorrectLocalTime`<a href="CorrectLocalTime-m" id="CorrectLocalTime-m"></a>
+## `CorrectLocalTime`<a href="method-correctlocaltime" id="method-correctlocaltime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public static DateTime CorrectLocalTime(DateTime localTime, string exchange)
 
 ***  
 
-## `CorrectUtcTime`<a href="CorrectUtcTime-m" id="CorrectUtcTime-m"></a>
+## `CorrectUtcTime`<a href="method-correctutctime" id="method-correctutctime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -86,7 +86,7 @@ public static DateTime CorrectUtcTime(DateTime utcTime, string exchange)
 
 ***  
 
-## `FormatTime`<a href="FormatTime-m" id="FormatTime-m"></a>
+## `FormatTime`<a href="method-formattime" id="method-formattime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public static string FormatTime(DateTime dt, string format, string exchange)
 
 ***  
 
-## `GetCityTime`<a href="GetCityTime-m" id="GetCityTime-m"></a>
+## `GetCityTime`<a href="method-getcitytime" id="method-getcitytime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public static DateTime GetCityTime(string city)
 
 ***  
 
-## `GetCurrDate`<a href="GetCurrDate-m" id="GetCurrDate-m"></a>
+## `GetCurrDate`<a href="method-getcurrdate" id="method-getcurrdate"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -125,7 +125,7 @@ public static DateTime GetCurrDate(string exchange)
 
 ***  
 
-## `GetCurrTime`<a href="GetCurrTime-m" id="GetCurrTime-m"></a>
+## `GetCurrTime`<a href="method-getcurrtime" id="method-getcurrtime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -134,7 +134,7 @@ public static DateTime GetCurrTime(string exchange)
 
 ***  
 
-## `GetSessionDate`<a href="GetSessionDate-m" id="GetSessionDate-m"></a>
+## `GetSessionDate`<a href="method-getsessiondate" id="method-getsessiondate"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -147,7 +147,7 @@ public static DateTime GetSessionDate(string exchange)
 
 ***  
 
-## `GetSessionDate`<a href="GetSessionDate-m" id="GetSessionDate-m"></a>
+## `GetSessionDate`<a href="method-getsessiondate" id="method-getsessiondate"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -164,7 +164,7 @@ public static DateTime GetSessionDate(DateTime dt, string exchange)
 
 ***  
 
-## `GetSessionOffset`<a href="GetSessionOffset-m" id="GetSessionOffset-m"></a>
+## `GetSessionOffset`<a href="method-getsessionoffset" id="method-getsessionoffset"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -173,7 +173,7 @@ public static double GetSessionOffset(string exchange)
 
 ***  
 
-## `GetSessionOffsetTs`<a href="GetSessionOffsetTs-m" id="GetSessionOffsetTs-m"></a>
+## `GetSessionOffsetTs`<a href="method-getsessionoffsetts" id="method-getsessionoffsetts"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -186,7 +186,7 @@ public static TimeSpan GetSessionOffsetTs(string exchange)
 
 ***  
 
-## `IsInvalidTime`<a href="IsInvalidTime-m" id="IsInvalidTime-m"></a>
+## `IsInvalidTime`<a href="method-isinvalidtime" id="method-isinvalidtime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -201,7 +201,7 @@ public static bool IsInvalidTime(DateTime dt, string exchange)
  ***  
 # Свойства
 
-## `AppLocalTime`<a href="AppLocalTime-p" id="AppLocalTime-p"></a>
+## `AppLocalTime`<a href="property-applocaltime" id="property-applocaltime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -209,7 +209,7 @@ public static bool AppLocalTime { get; set; }
 ```  
 ***
 
-## `CentralTimeOffsetUtc`<a href="CentralTimeOffsetUtc-p" id="CentralTimeOffsetUtc-p"></a>
+## `CentralTimeOffsetUtc`<a href="property-centraltimeoffsetutc" id="property-centraltimeoffsetutc"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -217,7 +217,7 @@ public static TimeSpan CentralTimeOffsetUtc { get; }
 ```  
 ***
 
-## `EasternTimeOffsetUtc`<a href="EasternTimeOffsetUtc-p" id="EasternTimeOffsetUtc-p"></a>
+## `EasternTimeOffsetUtc`<a href="property-easterntimeoffsetutc" id="property-easterntimeoffsetutc"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -225,7 +225,7 @@ public static TimeSpan EasternTimeOffsetUtc { get; }
 ```  
 ***
 
-## `LocalTime`<a href="LocalTime-p" id="LocalTime-p"></a>
+## `LocalTime`<a href="property-localtime" id="property-localtime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -233,7 +233,7 @@ public static DateTime LocalTime { get; }
 ```  
 ***
 
-## `MoscowTimeOffsetUtc`<a href="MoscowTimeOffsetUtc-p" id="MoscowTimeOffsetUtc-p"></a>
+## `MoscowTimeOffsetUtc`<a href="property-moscowtimeoffsetutc" id="property-moscowtimeoffsetutc"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -241,7 +241,7 @@ public static TimeSpan MoscowTimeOffsetUtc { get; }
 ```  
 ***
 
-## `PlayerTimeProvider`<a href="PlayerTimeProvider-p" id="PlayerTimeProvider-p"></a>
+## `PlayerTimeProvider`<a href="property-playertimeprovider" id="property-playertimeprovider"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

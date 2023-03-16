@@ -13,14 +13,14 @@ public sealed class YesNoWindow : Window, IComponentConnector
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`InitializeComponent`](#InitializeComponent-m) | *Описание* |
-| [`ShowWindow`](#ShowWindow-m) | *Описание* |
-| [`YesNoWindow`](#YesNoWindow-m) | *Описание* |
+| [`InitializeComponent`](#method-initializecomponent) | *Описание* |
+| [`ShowWindow`](#method-showwindow) | *Описание* |
+| [`YesNoWindow`](#method-yesnowindow) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Message`](#Message-p) | *Описание* |
+| [`Message`](#property-message) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class YesNoWindow : Window, IComponentConnector
 ***  
 # Методы
 
-## `InitializeComponent`<a href="InitializeComponent-m" id="InitializeComponent-m"></a>
+## `InitializeComponent`<a href="method-initializecomponent" id="method-initializecomponent"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -39,7 +39,7 @@ public void InitializeComponent()
 
 ***  
 
-## `ShowWindow`<a href="ShowWindow-m" id="ShowWindow-m"></a>
+## `ShowWindow`<a href="method-showwindow" id="method-showwindow"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public static bool ShowWindow(Window owner, string title, string message)
 
 ***  
 
-## `YesNoWindow`<a href="YesNoWindow-m" id="YesNoWindow-m"></a>
+## `YesNoWindow`<a href="method-yesnowindow" id="method-yesnowindow"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public YesNoWindow()
  ***  
 # Свойства
 
-## `Message`<a href="Message-p" id="Message-p"></a>
+## `Message`<a href="property-message" id="property-message"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

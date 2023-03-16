@@ -13,18 +13,18 @@ public sealed class CandlePatternSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CandlePatternSource`](#CandlePatternSource-m) | *Описание* |
-| [`CopySettings`](#CopySettings-m) | *Описание* |
-| [`GetSeries`](#GetSeries-m) | *Описание* |
-| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
-| [`SearchPattern`](#SearchPattern-m) | *Описание* |
-| [`ToString`](#ToString-m) | *Описание* |
+| [`CandlePatternSource`](#method-candlepatternsource) | *Описание* |
+| [`CopySettings`](#method-copysettings) | *Описание* |
+| [`GetSeries`](#method-getseries) | *Описание* |
+| [`GetSeriesList`](#method-getserieslist) | *Описание* |
+| [`SearchPattern`](#method-searchpattern) | *Описание* |
+| [`ToString`](#method-tostring) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`PatternType`](#PatternType-p) | *Описание* |
-| [`Penetration`](#Penetration-p) | *Описание* |
+| [`PatternType`](#property-patterntype) | *Описание* |
+| [`Penetration`](#property-penetration) | *Описание* |
 
 
 
@@ -34,7 +34,7 @@ public sealed class CandlePatternSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CandlePatternSource`<a href="CandlePatternSource-m" id="CandlePatternSource-m"></a>
+## `CandlePatternSource`<a href="method-candlepatternsource" id="method-candlepatternsource"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public CandlePatternSource()
 
 ***  
 
-## `CopySettings`<a href="CopySettings-m" id="CopySettings-m"></a>
+## `CopySettings`<a href="method-copysettings" id="method-copysettings"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="GetSeries-m" id="GetSeries-m"></a>
+## `GetSeries`<a href="method-getseries" id="method-getseries"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="GetSeriesList-m" id="GetSeriesList-m"></a>
+## `GetSeriesList`<a href="method-getserieslist" id="method-getserieslist"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -80,7 +80,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `SearchPattern`<a href="SearchPattern-m" id="SearchPattern-m"></a>
+## `SearchPattern`<a href="method-searchpattern" id="method-searchpattern"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -95,7 +95,7 @@ public double[] SearchPattern(IndicatorsHelper helper, CandlePatternSourcePatter
 
 ***  
 
-## `ToString`<a href="ToString-m" id="ToString-m"></a>
+## `ToString`<a href="method-tostring" id="method-tostring"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -107,7 +107,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `PatternType`<a href="PatternType-p" id="PatternType-p"></a>
+## `PatternType`<a href="property-patterntype" id="property-patterntype"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public CandlePatternSourcePatternType PatternType { get; set; }
 ```  
 ***
 
-## `Penetration`<a href="Penetration-p" id="Penetration-p"></a>
+## `Penetration`<a href="property-penetration" id="property-penetration"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,14 +13,14 @@ public sealed class UserPositions
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Add`](#Add-m) | *Описание* |
-| [`AddExecution`](#AddExecution-m) | *Описание* |
-| [`Clear`](#Clear-m) | *Описание* |
-| [`Create`](#Create-m) | *Описание* |
-| [`GetAll`](#GetAll-m) | *Описание* |
-| [`GetBySymbol`](#GetBySymbol-m) | *Описание* |
-| [`Remove`](#Remove-m) | *Описание* |
-| [`UserPositions`](#UserPositions-m) | *Описание* |
+| [`Add`](#method-add) | *Описание* |
+| [`AddExecution`](#method-addexecution) | *Описание* |
+| [`Clear`](#method-clear) | *Описание* |
+| [`Create`](#method-create) | *Описание* |
+| [`GetAll`](#method-getall) | *Описание* |
+| [`GetBySymbol`](#method-getbysymbol) | *Описание* |
+| [`Remove`](#method-remove) | *Описание* |
+| [`UserPositions`](#method-userpositions) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class UserPositions
 ***  
 # Методы
 
-## `Add`<a href="Add-m" id="Add-m"></a>
+## `Add`<a href="method-add" id="method-add"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public void Add(UserPosition position)
 
 ***  
 
-## `AddExecution`<a href="AddExecution-m" id="AddExecution-m"></a>
+## `AddExecution`<a href="method-addexecution" id="method-addexecution"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public UserPosition AddExecution(Execution execution, out UserDeal deal, out boo
 
 ***  
 
-## `Clear`<a href="Clear-m" id="Clear-m"></a>
+## `Clear`<a href="method-clear" id="method-clear"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public void Clear()
 
 ***  
 
-## `Create`<a href="Create-m" id="Create-m"></a>
+## `Create`<a href="method-create" id="method-create"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -86,7 +86,7 @@ public UserPosition Create(Symbol symbol, Account account)
 
 ***  
 
-## `GetAll`<a href="GetAll-m" id="GetAll-m"></a>
+## `GetAll`<a href="method-getall" id="method-getall"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -95,7 +95,7 @@ public List<UserPosition> GetAll()
 
 ***  
 
-## `GetBySymbol`<a href="GetBySymbol-m" id="GetBySymbol-m"></a>
+## `GetBySymbol`<a href="method-getbysymbol" id="method-getbysymbol"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -108,7 +108,7 @@ public List<UserPosition> GetBySymbol(string symbolID)
 
 ***  
 
-## `Remove`<a href="Remove-m" id="Remove-m"></a>
+## `Remove`<a href="method-remove" id="method-remove"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -120,7 +120,7 @@ public void Remove(UserPosition position)
 
 ***  
 
-## `UserPositions`<a href="UserPositions-m" id="UserPositions-m"></a>
+## `UserPositions`<a href="method-userpositions" id="method-userpositions"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

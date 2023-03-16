@@ -13,15 +13,15 @@ public sealed class RoundTrip
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`RoundTrip`](#RoundTrip-m) | *Описание* |
-| [`Start`](#Start-m) | *Описание* |
-| [`Stop`](#Stop-m) | *Описание* |
-| [`ToString`](#ToString-m) | *Описание* |
+| [`RoundTrip`](#method-roundtrip) | *Описание* |
+| [`Start`](#method-start) | *Описание* |
+| [`Stop`](#method-stop) | *Описание* |
+| [`ToString`](#method-tostring) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Value`](#Value-p) | *Описание* |
+| [`Value`](#property-value) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public sealed class RoundTrip
 ***  
 # Методы
 
-## `RoundTrip`<a href="RoundTrip-m" id="RoundTrip-m"></a>
+## `RoundTrip`<a href="method-roundtrip" id="method-roundtrip"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ public RoundTrip()
 
 ***  
 
-## `Start`<a href="Start-m" id="Start-m"></a>
+## `Start`<a href="method-start" id="method-start"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public void Start()
 
 ***  
 
-## `Stop`<a href="Stop-m" id="Stop-m"></a>
+## `Stop`<a href="method-stop" id="method-stop"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public void Stop()
 
 ***  
 
-## `ToString`<a href="ToString-m" id="ToString-m"></a>
+## `ToString`<a href="method-tostring" id="method-tostring"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Value`<a href="Value-p" id="Value-p"></a>
+## `Value`<a href="property-value" id="property-value"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

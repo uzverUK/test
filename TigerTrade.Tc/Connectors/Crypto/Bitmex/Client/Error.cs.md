@@ -13,13 +13,13 @@ internal sealed class Error
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Error`](#Error-m) | *Описание* |
+| [`Error`](#method-error) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Message`](#Message-p) | *Описание* |
-| [`Name`](#Name-p) | *Описание* |
+| [`Message`](#property-message) | *Описание* |
+| [`Name`](#property-name) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ internal sealed class Error
 ***  
 # Методы
 
-## `Error`<a href="Error-m" id="Error-m"></a>
+## `Error`<a href="method-error" id="method-error"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -41,7 +41,7 @@ public Error()
  ***  
 # Свойства
 
-## `Message`<a href="Message-p" id="Message-p"></a>
+## `Message`<a href="property-message" id="property-message"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public string Message { get; set; }
 ```  
 ***
 
-## `Name`<a href="Name-p" id="Name-p"></a>
+## `Name`<a href="property-name" id="property-name"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

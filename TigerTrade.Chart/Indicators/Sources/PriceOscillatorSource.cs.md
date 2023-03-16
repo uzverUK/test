@@ -13,19 +13,19 @@ public sealed class PriceOscillatorSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](#CopySettings-m) | *Описание* |
-| [`GetSeries`](#GetSeries-m) | *Описание* |
-| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
-| [`PriceOscillatorSource`](#PriceOscillatorSource-m) | *Описание* |
-| [`ToString`](#ToString-m) | *Описание* |
+| [`CopySettings`](#method-copysettings) | *Описание* |
+| [`GetSeries`](#method-getseries) | *Описание* |
+| [`GetSeriesList`](#method-getserieslist) | *Описание* |
+| [`PriceOscillatorSource`](#method-priceoscillatorsource) | *Описание* |
+| [`ToString`](#method-tostring) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`LongPeriod`](#LongPeriod-p) | *Описание* |
-| [`MaType`](#MaType-p) | *Описание* |
-| [`ShortPeriod`](#ShortPeriod-p) | *Описание* |
-| [`Source`](#Source-p) | *Описание* |
+| [`LongPeriod`](#property-longperiod) | *Описание* |
+| [`MaType`](#property-matype) | *Описание* |
+| [`ShortPeriod`](#property-shortperiod) | *Описание* |
+| [`Source`](#property-source) | *Описание* |
 
 
 
@@ -35,7 +35,7 @@ public sealed class PriceOscillatorSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="CopySettings-m" id="CopySettings-m"></a>
+## `CopySettings`<a href="method-copysettings" id="method-copysettings"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="GetSeries-m" id="GetSeries-m"></a>
+## `GetSeries`<a href="method-getseries" id="method-getseries"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="GetSeriesList-m" id="GetSeriesList-m"></a>
+## `GetSeriesList`<a href="method-getserieslist" id="method-getserieslist"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `PriceOscillatorSource`<a href="PriceOscillatorSource-m" id="PriceOscillatorSource-m"></a>
+## `PriceOscillatorSource`<a href="method-priceoscillatorsource" id="method-priceoscillatorsource"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public PriceOscillatorSource()
 
 ***  
 
-## `ToString`<a href="ToString-m" id="ToString-m"></a>
+## `ToString`<a href="method-tostring" id="method-tostring"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `LongPeriod`<a href="LongPeriod-p" id="LongPeriod-p"></a>
+## `LongPeriod`<a href="property-longperiod" id="property-longperiod"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -105,7 +105,7 @@ public int LongPeriod { get; set; }
 ```  
 ***
 
-## `MaType`<a href="MaType-p" id="MaType-p"></a>
+## `MaType`<a href="property-matype" id="property-matype"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public IndicatorMaType MaType { get; set; }
 ```  
 ***
 
-## `ShortPeriod`<a href="ShortPeriod-p" id="ShortPeriod-p"></a>
+## `ShortPeriod`<a href="property-shortperiod" id="property-shortperiod"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -121,7 +121,7 @@ public int ShortPeriod { get; set; }
 ```  
 ***
 
-## `Source`<a href="Source-p" id="Source-p"></a>
+## `Source`<a href="property-source" id="property-source"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

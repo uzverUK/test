@@ -13,7 +13,7 @@ public interface IContainsConditions
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetBrush`](#GetBrush-m) | *Описание* |
+| [`GetBrush`](#method-getbrush) | *Описание* |
 
 
 
@@ -23,7 +23,7 @@ public interface IContainsConditions
 ***  
 # Методы
 
-## `GetBrush`<a href="GetBrush-m" id="GetBrush-m"></a>
+## `GetBrush`<a href="method-getbrush" id="method-getbrush"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

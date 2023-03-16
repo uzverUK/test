@@ -13,17 +13,17 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CalcPoint`](#CalcPoint-m) | *Описание* |
-| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
-| [`Draw`](#Draw-m) | *Описание* |
-| [`FibonacciTimeZonesObject`](#FibonacciTimeZonesObject-m) | *Описание* |
+| [`CalcPoint`](#method-calcpoint) | *Описание* |
+| [`CopyTemplate`](#method-copytemplate) | *Описание* |
+| [`Draw`](#method-draw) | *Описание* |
+| [`FibonacciTimeZonesObject`](#method-fibonaccitimezonesobject) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`MaxLines`](#MaxLines-p) | *Описание* |
-| [`TextAlignment`](#TextAlignment-p) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
+| [`MaxLines`](#property-maxlines) | *Описание* |
+| [`TextAlignment`](#property-textalignment) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#property-xsujlz3bylfkxacpnf53) | *Описание* |
 
 
 
@@ -33,7 +33,7 @@ public sealed class FibonacciTimeZonesObject : LineGroupObjectBase
 ***  
 # Методы
 
-## `CalcPoint`<a href="CalcPoint-m" id="CalcPoint-m"></a>
+## `CalcPoint`<a href="method-calcpoint" id="method-calcpoint"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -42,7 +42,7 @@ protected override void CalcPoint()
 
 ***  
 
-## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
+## `CopyTemplate`<a href="method-copytemplate" id="method-copytemplate"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="Draw-m" id="Draw-m"></a>
+## `Draw`<a href="method-draw" id="method-draw"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `FibonacciTimeZonesObject`<a href="FibonacciTimeZonesObject-m" id="FibonacciTimeZonesObject-m"></a>
+## `FibonacciTimeZonesObject`<a href="method-fibonaccitimezonesobject" id="method-fibonaccitimezonesobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public FibonacciTimeZonesObject()
  ***  
 # Свойства
 
-## `MaxLines`<a href="MaxLines-p" id="MaxLines-p"></a>
+## `MaxLines`<a href="property-maxlines" id="property-maxlines"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public int MaxLines { get; set; }
 ```  
 ***
 
-## `TextAlignment`<a href="TextAlignment-p" id="TextAlignment-p"></a>
+## `TextAlignment`<a href="property-textalignment" id="property-textalignment"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public ObjectTextAlignment TextAlignment { get; set; }
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `xsuJlZ3bylFkXacpNF53`<a href="property-xsujlz3bylfkxacpnf53" id="property-xsujlz3bylfkxacpnf53"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

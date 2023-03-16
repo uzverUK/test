@@ -13,7 +13,7 @@ public static class ClientInfo
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`LicenseID`](#LicenseID-p) | *Описание* |
+| [`LicenseID`](#property-licenseid) | *Описание* |
 
 
 
@@ -22,7 +22,7 @@ public static class ClientInfo
  ***  
 # Свойства
 
-## `LicenseID`<a href="LicenseID-p" id="LicenseID-p"></a>
+## `LicenseID`<a href="property-licenseid" id="property-licenseid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

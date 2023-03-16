@@ -13,17 +13,17 @@ public abstract class IndicatorParam<T>
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Clear`](#Clear-m) | *Описание* |
-| [`Copy`](#Copy-m) | *Описание* |
-| [`Get`](#Get-m) | *Описание* |
-| [`IndicatorParam`](#IndicatorParam-m) | *Описание* |
-| [`Set`](#Set-m) | *Описание* |
+| [`Clear`](#method-clear) | *Описание* |
+| [`Copy`](#method-copy) | *Описание* |
+| [`Get`](#method-get) | *Описание* |
+| [`IndicatorParam`](#method-indicatorparam) | *Описание* |
+| [`Set`](#method-set) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Value`](#Value-p) | *Описание* |
-| [`Values`](#Values-p) | *Описание* |
+| [`Value`](#property-value) | *Описание* |
+| [`Values`](#property-values) | *Описание* |
 
 
 
@@ -33,7 +33,7 @@ public abstract class IndicatorParam<T>
 ***  
 # Методы
 
-## `Clear`<a href="Clear-m" id="Clear-m"></a>
+## `Clear`<a href="method-clear" id="method-clear"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -42,7 +42,7 @@ public void Clear()
 
 ***  
 
-## `Copy`<a href="Copy-m" id="Copy-m"></a>
+## `Copy`<a href="method-copy" id="method-copy"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ public void Copy(IndicatorParam<T> p)
 
 ***  
 
-## `Get`<a href="Get-m" id="Get-m"></a>
+## `Get`<a href="method-get" id="method-get"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public T Get(string key, T defaultValue)
 
 ***  
 
-## `Get`<a href="Get-m" id="Get-m"></a>
+## `Get`<a href="method-get" id="method-get"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -84,7 +84,7 @@ public T Get(string key)
 
 ***  
 
-## `IndicatorParam`<a href="IndicatorParam-m" id="IndicatorParam-m"></a>
+## `IndicatorParam`<a href="method-indicatorparam" id="method-indicatorparam"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ protected IndicatorParam()
 
 ***  
 
-## `Set`<a href="Set-m" id="Set-m"></a>
+## `Set`<a href="method-set" id="method-set"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -112,7 +112,7 @@ protected bool Set(string key, T value)
  ***  
 # Свойства
 
-## `Value`<a href="Value-p" id="Value-p"></a>
+## `Value`<a href="property-value" id="property-value"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -120,7 +120,7 @@ public T Value { get; set; }
 ```  
 ***
 
-## `Values`<a href="Values-p" id="Values-p"></a>
+## `Values`<a href="property-values" id="property-values"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

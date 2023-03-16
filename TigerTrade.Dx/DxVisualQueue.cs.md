@@ -13,30 +13,30 @@ public sealed class DxVisualQueue
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Clear`](#Clear-m) | *Описание* |
-| [`DrawArc`](#DrawArc-m) | *Описание* |
-| [`DrawEllipse`](#DrawEllipse-m) | *Описание* |
-| [`DrawLine`](#DrawLine-m) | *Описание* |
-| [`DrawLines`](#DrawLines-m) | *Описание* |
-| [`DrawPolygon`](#DrawPolygon-m) | *Описание* |
-| [`DrawRectangle`](#DrawRectangle-m) | *Описание* |
-| [`DrawRectangles`](#DrawRectangles-m) | *Описание* |
-| [`DrawRoundedRectangle`](#DrawRoundedRectangle-m) | *Описание* |
-| [`DrawSmoothLines`](#DrawSmoothLines-m) | *Описание* |
-| [`DxVisualQueue`](#DxVisualQueue-m) | *Описание* |
-| [`FillEllipse`](#FillEllipse-m) | *Описание* |
-| [`FillGradientRectangle`](#FillGradientRectangle-m) | *Описание* |
-| [`FillPolygon`](#FillPolygon-m) | *Описание* |
-| [`FillRectangle`](#FillRectangle-m) | *Описание* |
-| [`FillRectangles`](#FillRectangles-m) | *Описание* |
-| [`FillRoundedRectangle`](#FillRoundedRectangle-m) | *Описание* |
-| [`ResetClip`](#ResetClip-m) | *Описание* |
-| [`SetClip`](#SetClip-m) | *Описание* |
+| [`Clear`](#method-clear) | *Описание* |
+| [`DrawArc`](#method-drawarc) | *Описание* |
+| [`DrawEllipse`](#method-drawellipse) | *Описание* |
+| [`DrawLine`](#method-drawline) | *Описание* |
+| [`DrawLines`](#method-drawlines) | *Описание* |
+| [`DrawPolygon`](#method-drawpolygon) | *Описание* |
+| [`DrawRectangle`](#method-drawrectangle) | *Описание* |
+| [`DrawRectangles`](#method-drawrectangles) | *Описание* |
+| [`DrawRoundedRectangle`](#method-drawroundedrectangle) | *Описание* |
+| [`DrawSmoothLines`](#method-drawsmoothlines) | *Описание* |
+| [`DxVisualQueue`](#method-dxvisualqueue) | *Описание* |
+| [`FillEllipse`](#method-fillellipse) | *Описание* |
+| [`FillGradientRectangle`](#method-fillgradientrectangle) | *Описание* |
+| [`FillPolygon`](#method-fillpolygon) | *Описание* |
+| [`FillRectangle`](#method-fillrectangle) | *Описание* |
+| [`FillRectangles`](#method-fillrectangles) | *Описание* |
+| [`FillRoundedRectangle`](#method-fillroundedrectangle) | *Описание* |
+| [`ResetClip`](#method-resetclip) | *Описание* |
+| [`SetClip`](#method-setclip) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Empty`](#Empty-p) | *Описание* |
+| [`Empty`](#property-empty) | *Описание* |
 
 
 
@@ -46,7 +46,7 @@ public sealed class DxVisualQueue
 ***  
 # Методы
 
-## `Clear`<a href="Clear-m" id="Clear-m"></a>
+## `Clear`<a href="method-clear" id="method-clear"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public void Clear(XColor color)
 
 ***  
 
-## `DrawArc`<a href="DrawArc-m" id="DrawArc-m"></a>
+## `DrawArc`<a href="method-drawarc" id="method-drawarc"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public void DrawArc(XPen pen, Point p1, Point p2, double radius, double angle)
 
 ***  
 
-## `DrawEllipse`<a href="DrawEllipse-m" id="DrawEllipse-m"></a>
+## `DrawEllipse`<a href="method-drawellipse" id="method-drawellipse"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public void DrawEllipse(XPen pen, Point center, double radiusX, double radiusY)
 
 ***  
 
-## `DrawLine`<a href="DrawLine-m" id="DrawLine-m"></a>
+## `DrawLine`<a href="method-drawline" id="method-drawline"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -119,7 +119,7 @@ public void DrawLine(XPen pen, Point p1, Point p2)
 
 ***  
 
-## `DrawLine`<a href="DrawLine-m" id="DrawLine-m"></a>
+## `DrawLine`<a href="method-drawline" id="method-drawline"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -156,7 +156,7 @@ public void DrawLine(XPen pen, double x1, double y1, double x2, double y2)
 
 ***  
 
-## `DrawLines`<a href="DrawLines-m" id="DrawLines-m"></a>
+## `DrawLines`<a href="method-drawlines" id="method-drawlines"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -165,7 +165,7 @@ public void DrawLines(XPen pen, Point[] points)
 
 ***  
 
-## `DrawLines`<a href="DrawLines-m" id="DrawLines-m"></a>
+## `DrawLines`<a href="method-drawlines" id="method-drawlines"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -182,7 +182,7 @@ public void DrawLines(XPen pen, Point[] points, int pointsLength)
 
 ***  
 
-## `DrawPolygon`<a href="DrawPolygon-m" id="DrawPolygon-m"></a>
+## `DrawPolygon`<a href="method-drawpolygon" id="method-drawpolygon"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -191,7 +191,7 @@ public void DrawPolygon(XPen pen, Point[] points)
 
 ***  
 
-## `DrawRectangle`<a href="DrawRectangle-m" id="DrawRectangle-m"></a>
+## `DrawRectangle`<a href="method-drawrectangle" id="method-drawrectangle"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -207,7 +207,7 @@ public void DrawRectangle(XPen pen, Rect rect)
 
 ***  
 
-## `DrawRectangles`<a href="DrawRectangles-m" id="DrawRectangles-m"></a>
+## `DrawRectangles`<a href="method-drawrectangles" id="method-drawrectangles"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -216,7 +216,7 @@ public void DrawRectangles(XPen pen, Rect[] rects)
 
 ***  
 
-## `DrawRoundedRectangle`<a href="DrawRoundedRectangle-m" id="DrawRoundedRectangle-m"></a>
+## `DrawRoundedRectangle`<a href="method-drawroundedrectangle" id="method-drawroundedrectangle"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -235,7 +235,7 @@ public void DrawRoundedRectangle(XPen pen, Rect rect, Point radius)
 
 ***  
 
-## `DrawSmoothLines`<a href="DrawSmoothLines-m" id="DrawSmoothLines-m"></a>
+## `DrawSmoothLines`<a href="method-drawsmoothlines" id="method-drawsmoothlines"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -244,7 +244,7 @@ public void DrawSmoothLines(XPen pen, Point[] points)
 
 ***  
 
-## `DxVisualQueue`<a href="DxVisualQueue-m" id="DxVisualQueue-m"></a>
+## `DxVisualQueue`<a href="method-dxvisualqueue" id="method-dxvisualqueue"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -257,7 +257,7 @@ public DxVisualQueue(Rect rect)
 
 ***  
 
-## `FillEllipse`<a href="FillEllipse-m" id="FillEllipse-m"></a>
+## `FillEllipse`<a href="method-fillellipse" id="method-fillellipse"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -278,7 +278,7 @@ public void FillEllipse(XBrush brush, Point center, double radiusX, double radiu
 
 ***  
 
-## `FillGradientRectangle`<a href="FillGradientRectangle-m" id="FillGradientRectangle-m"></a>
+## `FillGradientRectangle`<a href="method-fillgradientrectangle" id="method-fillgradientrectangle"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -296,7 +296,7 @@ public void FillGradientRectangle(XBrush brush, XBrush brush2, int dir, Rect rec
 
 ***  
 
-## `FillPolygon`<a href="FillPolygon-m" id="FillPolygon-m"></a>
+## `FillPolygon`<a href="method-fillpolygon" id="method-fillpolygon"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -308,7 +308,7 @@ public void FillPolygon(XBrush brush, Point[] points)
 
 ***  
 
-## `FillRectangle`<a href="FillRectangle-m" id="FillRectangle-m"></a>
+## `FillRectangle`<a href="method-fillrectangle" id="method-fillrectangle"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -320,7 +320,7 @@ public void FillRectangle(XBrush brush, Rect rect)
 
 ***  
 
-## `FillRectangles`<a href="FillRectangles-m" id="FillRectangles-m"></a>
+## `FillRectangles`<a href="method-fillrectangles" id="method-fillrectangles"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -332,7 +332,7 @@ public void FillRectangles(XBrush brush, Rect[] rects)
 
 ***  
 
-## `FillRoundedRectangle`<a href="FillRoundedRectangle-m" id="FillRoundedRectangle-m"></a>
+## `FillRoundedRectangle`<a href="method-fillroundedrectangle" id="method-fillroundedrectangle"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -347,7 +347,7 @@ public void FillRoundedRectangle(XBrush brush, Rect rect, Point radius)
 
 ***  
 
-## `ResetClip`<a href="ResetClip-m" id="ResetClip-m"></a>
+## `ResetClip`<a href="method-resetclip" id="method-resetclip"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -356,7 +356,7 @@ public void ResetClip()
 
 ***  
 
-## `SetClip`<a href="SetClip-m" id="SetClip-m"></a>
+## `SetClip`<a href="method-setclip" id="method-setclip"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -372,7 +372,7 @@ public void SetClip(Rect rect)
  ***  
 # Свойства
 
-## `Empty`<a href="Empty-p" id="Empty-p"></a>
+## `Empty`<a href="property-empty" id="property-empty"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

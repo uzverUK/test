@@ -13,27 +13,27 @@ public abstract class BinReader<T> : IDisposable
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`BinReader`](#BinReader-m) | *Описание* |
-| [`Dispose`](#Dispose-m) | *Описание* |
-| [`Read`](#Read-m) | *Описание* |
-| [`ReadBool`](#ReadBool-m) | *Описание* |
-| [`ReadByte`](#ReadByte-m) | *Описание* |
-| [`ReadDouble`](#ReadDouble-m) | *Описание* |
-| [`ReadInt32`](#ReadInt32-m) | *Описание* |
-| [`ReadItem`](#ReadItem-m) | *Описание* |
-| [`ReadLeb128`](#ReadLeb128-m) | *Описание* |
-| [`ReadLong`](#ReadLong-m) | *Описание* |
-| [`ReadString`](#ReadString-m) | *Описание* |
-| [`ReadStringAsBytes`](#ReadStringAsBytes-m) | *Описание* |
-| [`ReadUInt16`](#ReadUInt16-m) | *Описание* |
-| [`Reset`](#Reset-m) | *Описание* |
+| [`BinReader`](#method-binreader) | *Описание* |
+| [`Dispose`](#method-dispose) | *Описание* |
+| [`Read`](#method-read) | *Описание* |
+| [`ReadBool`](#method-readbool) | *Описание* |
+| [`ReadByte`](#method-readbyte) | *Описание* |
+| [`ReadDouble`](#method-readdouble) | *Описание* |
+| [`ReadInt32`](#method-readint32) | *Описание* |
+| [`ReadItem`](#method-readitem) | *Описание* |
+| [`ReadLeb128`](#method-readleb128) | *Описание* |
+| [`ReadLong`](#method-readlong) | *Описание* |
+| [`ReadString`](#method-readstring) | *Описание* |
+| [`ReadStringAsBytes`](#method-readstringasbytes) | *Описание* |
+| [`ReadUInt16`](#method-readuint16) | *Описание* |
+| [`Reset`](#method-reset) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`IsEmpty`](#IsEmpty-p) | *Описание* |
-| [`LastItem`](#LastItem-p) | *Описание* |
-| [`PrevItem`](#PrevItem-p) | *Описание* |
+| [`IsEmpty`](#property-isempty) | *Описание* |
+| [`LastItem`](#property-lastitem) | *Описание* |
+| [`PrevItem`](#property-previtem) | *Описание* |
 
 
 
@@ -43,7 +43,7 @@ public abstract class BinReader<T> : IDisposable
 ***  
 # Методы
 
-## `BinReader`<a href="BinReader-m" id="BinReader-m"></a>
+## `BinReader`<a href="method-binreader" id="method-binreader"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ protected BinReader(byte[] data)
 
 ***  
 
-## `Dispose`<a href="Dispose-m" id="Dispose-m"></a>
+## `Dispose`<a href="method-dispose" id="method-dispose"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public void Dispose()
 
 ***  
 
-## `Read`<a href="Read-m" id="Read-m"></a>
+## `Read`<a href="method-read" id="method-read"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public bool Read()
 
 ***  
 
-## `ReadBool`<a href="ReadBool-m" id="ReadBool-m"></a>
+## `ReadBool`<a href="method-readbool" id="method-readbool"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ protected bool ReadBool()
 
 ***  
 
-## `ReadByte`<a href="ReadByte-m" id="ReadByte-m"></a>
+## `ReadByte`<a href="method-readbyte" id="method-readbyte"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ protected byte ReadByte()
 
 ***  
 
-## `ReadDouble`<a href="ReadDouble-m" id="ReadDouble-m"></a>
+## `ReadDouble`<a href="method-readdouble" id="method-readdouble"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ protected double ReadDouble()
 
 ***  
 
-## `ReadInt32`<a href="ReadInt32-m" id="ReadInt32-m"></a>
+## `ReadInt32`<a href="method-readint32" id="method-readint32"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -106,7 +106,7 @@ protected int ReadInt32()
 
 ***  
 
-## `ReadItem`<a href="ReadItem-m" id="ReadItem-m"></a>
+## `ReadItem`<a href="method-readitem" id="method-readitem"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ protected abstract T ReadItem()
 
 ***  
 
-## `ReadLeb128`<a href="ReadLeb128-m" id="ReadLeb128-m"></a>
+## `ReadLeb128`<a href="method-readleb128" id="method-readleb128"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -124,7 +124,7 @@ protected long ReadLeb128()
 
 ***  
 
-## `ReadLong`<a href="ReadLong-m" id="ReadLong-m"></a>
+## `ReadLong`<a href="method-readlong" id="method-readlong"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -133,7 +133,7 @@ protected long ReadLong()
 
 ***  
 
-## `ReadString`<a href="ReadString-m" id="ReadString-m"></a>
+## `ReadString`<a href="method-readstring" id="method-readstring"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -142,7 +142,7 @@ protected string ReadString()
 
 ***  
 
-## `ReadStringAsBytes`<a href="ReadStringAsBytes-m" id="ReadStringAsBytes-m"></a>
+## `ReadStringAsBytes`<a href="method-readstringasbytes" id="method-readstringasbytes"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -151,7 +151,7 @@ protected byte[] ReadStringAsBytes()
 
 ***  
 
-## `ReadUInt16`<a href="ReadUInt16-m" id="ReadUInt16-m"></a>
+## `ReadUInt16`<a href="method-readuint16" id="method-readuint16"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -160,7 +160,7 @@ protected ushort ReadUInt16()
 
 ***  
 
-## `Reset`<a href="Reset-m" id="Reset-m"></a>
+## `Reset`<a href="method-reset" id="method-reset"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -172,7 +172,7 @@ public virtual void Reset()
  ***  
 # Свойства
 
-## `IsEmpty`<a href="IsEmpty-p" id="IsEmpty-p"></a>
+## `IsEmpty`<a href="property-isempty" id="property-isempty"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -180,7 +180,7 @@ public bool IsEmpty { get; }
 ```  
 ***
 
-## `LastItem`<a href="LastItem-p" id="LastItem-p"></a>
+## `LastItem`<a href="property-lastitem" id="property-lastitem"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -188,7 +188,7 @@ public T LastItem { get; private set; }
 ```  
 ***
 
-## `PrevItem`<a href="PrevItem-p" id="PrevItem-p"></a>
+## `PrevItem`<a href="property-previtem" id="property-previtem"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

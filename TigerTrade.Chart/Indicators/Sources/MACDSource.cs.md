@@ -13,19 +13,19 @@ public sealed class MACDSource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CopySettings`](#CopySettings-m) | *Описание* |
-| [`GetSeries`](#GetSeries-m) | *Описание* |
-| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
-| [`MACDSource`](#MACDSource-m) | *Описание* |
-| [`ToString`](#ToString-m) | *Описание* |
+| [`CopySettings`](#method-copysettings) | *Описание* |
+| [`GetSeries`](#method-getseries) | *Описание* |
+| [`GetSeriesList`](#method-getserieslist) | *Описание* |
+| [`MACDSource`](#method-macdsource) | *Описание* |
+| [`ToString`](#method-tostring) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Fast`](#Fast-p) | *Описание* |
-| [`Signal`](#Signal-p) | *Описание* |
-| [`Slow`](#Slow-p) | *Описание* |
-| [`Source`](#Source-p) | *Описание* |
+| [`Fast`](#property-fast) | *Описание* |
+| [`Signal`](#property-signal) | *Описание* |
+| [`Slow`](#property-slow) | *Описание* |
+| [`Source`](#property-source) | *Описание* |
 
 
 
@@ -35,7 +35,7 @@ public sealed class MACDSource : IndicatorSourceBase
 ***  
 # Методы
 
-## `CopySettings`<a href="CopySettings-m" id="CopySettings-m"></a>
+## `CopySettings`<a href="method-copysettings" id="method-copysettings"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="GetSeries-m" id="GetSeries-m"></a>
+## `GetSeries`<a href="method-getseries" id="method-getseries"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="GetSeriesList-m" id="GetSeriesList-m"></a>
+## `GetSeriesList`<a href="method-getserieslist" id="method-getserieslist"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `MACDSource`<a href="MACDSource-m" id="MACDSource-m"></a>
+## `MACDSource`<a href="method-macdsource" id="method-macdsource"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public MACDSource()
 
 ***  
 
-## `ToString`<a href="ToString-m" id="ToString-m"></a>
+## `ToString`<a href="method-tostring" id="method-tostring"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Fast`<a href="Fast-p" id="Fast-p"></a>
+## `Fast`<a href="property-fast" id="property-fast"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public int Fast { get; set; }
 ```  
 ***
 
-## `Signal`<a href="Signal-p" id="Signal-p"></a>
+## `Signal`<a href="property-signal" id="property-signal"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ public int Signal { get; set; }
 ```  
 ***
 
-## `Slow`<a href="Slow-p" id="Slow-p"></a>
+## `Slow`<a href="property-slow" id="property-slow"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -117,7 +117,7 @@ public int Slow { get; set; }
 ```  
 ***
 
-## `Source`<a href="Source-p" id="Source-p"></a>
+## `Source`<a href="property-source" id="property-source"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

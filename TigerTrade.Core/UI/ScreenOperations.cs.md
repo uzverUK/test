@@ -13,7 +13,7 @@ public static class ScreenOperations
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`WindowCorrect`](#WindowCorrect-m) | *Описание* |
+| [`WindowCorrect`](#method-windowcorrect) | *Описание* |
 
 
 
@@ -23,7 +23,7 @@ public static class ScreenOperations
 ***  
 # Методы
 
-## `WindowCorrect`<a href="WindowCorrect-m" id="WindowCorrect-m"></a>
+## `WindowCorrect`<a href="method-windowcorrect" id="method-windowcorrect"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

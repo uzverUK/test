@@ -13,23 +13,23 @@ public sealed class ChartLine : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartLine`](#ChartLine-m) | *Описание* |
-| [`CopyTheme`](#CopyTheme-m) | *Описание* |
-| [`ToString`](#ToString-m) | *Описание* |
+| [`ChartLine`](#method-chartline) | *Описание* |
+| [`CopyTheme`](#method-copytheme) | *Описание* |
+| [`ToString`](#method-tostring) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Color`](#Color-p) | *Описание* |
-| [`ShowMarker`](#ShowMarker-p) | *Описание* |
-| [`Style`](#Style-p) | *Описание* |
-| [`Visible`](#Visible-p) | *Описание* |
-| [`Width`](#Width-p) | *Описание* |
+| [`Color`](#property-color) | *Описание* |
+| [`ShowMarker`](#property-showmarker) | *Описание* |
+| [`Style`](#property-style) | *Описание* |
+| [`Visible`](#property-visible) | *Описание* |
+| [`Width`](#property-width) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](#PropertyChanged-p) | *Описание* |
+| [`PropertyChanged`](#event-propertychanged) | *Описание* |
 
 
 
@@ -39,7 +39,7 @@ public sealed class ChartLine : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ChartLine`<a href="ChartLine-m" id="ChartLine-m"></a>
+## `ChartLine`<a href="method-chartline" id="method-chartline"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public ChartLine()
 
 ***  
 
-## `CopyTheme`<a href="CopyTheme-m" id="CopyTheme-m"></a>
+## `CopyTheme`<a href="method-copytheme" id="method-copytheme"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public void CopyTheme(ChartLine chartLine)
 
 ***  
 
-## `ToString`<a href="ToString-m" id="ToString-m"></a>
+## `ToString`<a href="method-tostring" id="method-tostring"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -73,7 +73,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Color`<a href="Color-p" id="Color-p"></a>
+## `Color`<a href="property-color" id="property-color"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -81,7 +81,7 @@ public XColor Color { get; set; }
 ```  
 ***
 
-## `ShowMarker`<a href="ShowMarker-p" id="ShowMarker-p"></a>
+## `ShowMarker`<a href="property-showmarker" id="property-showmarker"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -89,7 +89,7 @@ public bool ShowMarker { get; set; }
 ```  
 ***
 
-## `Style`<a href="Style-p" id="Style-p"></a>
+## `Style`<a href="property-style" id="property-style"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public XDashStyle Style { get; set; }
 ```  
 ***
 
-## `Visible`<a href="Visible-p" id="Visible-p"></a>
+## `Visible`<a href="property-visible" id="property-visible"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -105,7 +105,7 @@ public bool Visible { get; set; }
 ```  
 ***
 
-## `Width`<a href="Width-p" id="Width-p"></a>
+## `Width`<a href="property-width" id="property-width"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -116,7 +116,7 @@ public int Width { get; set; }
  ***  
 # События
 
-## `PropertyChanged`<a href="PropertyChanged-p" id="PropertyChanged-p"></a>
+## `PropertyChanged`<a href="event-propertychanged" id="event-propertychanged"></a>
 Описание
 
 ```csharp

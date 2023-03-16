@@ -13,37 +13,37 @@ public sealed class ExitStrategyTarget
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ClearSl`](#ClearSl-m) | *Описание* |
-| [`ClearTp`](#ClearTp-m) | *Описание* |
-| [`ExitStrategyTarget`](#ExitStrategyTarget-m) | *Описание* |
-| [`RemoveSlTrailing`](#RemoveSlTrailing-m) | *Описание* |
-| [`RemoveTpTrailing`](#RemoveTpTrailing-m) | *Описание* |
+| [`ClearSl`](#method-clearsl) | *Описание* |
+| [`ClearTp`](#method-cleartp) | *Описание* |
+| [`ExitStrategyTarget`](#method-exitstrategytarget) | *Описание* |
+| [`RemoveSlTrailing`](#method-removesltrailing) | *Описание* |
+| [`RemoveTpTrailing`](#method-removetptrailing) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`ID`](#ID-p) | *Описание* |
-| [`IsServerOrderSl`](#IsServerOrderSl-p) | *Описание* |
-| [`IsServerOrderTP`](#IsServerOrderTP-p) | *Описание* |
-| [`Quantity`](#Quantity-p) | *Описание* |
-| [`SlOrderID`](#SlOrderID-p) | *Описание* |
-| [`SlSynchronized`](#SlSynchronized-p) | *Описание* |
-| [`SlTpUpdateTime`](#SlTpUpdateTime-p) | *Описание* |
-| [`StopLossBreakevenPlus`](#StopLossBreakevenPlus-p) | *Описание* |
-| [`StopLossBreakevenProfit`](#StopLossBreakevenProfit-p) | *Описание* |
-| [`StopLossOffset`](#StopLossOffset-p) | *Описание* |
-| [`StopLossPrice`](#StopLossPrice-p) | *Описание* |
-| [`StopLossSize`](#StopLossSize-p) | *Описание* |
-| [`StopLossTrailingRange`](#StopLossTrailingRange-p) | *Описание* |
-| [`StopLossTrailingStep`](#StopLossTrailingStep-p) | *Описание* |
-| [`TakeProfitOffset`](#TakeProfitOffset-p) | *Описание* |
-| [`TakeProfitPrice`](#TakeProfitPrice-p) | *Описание* |
-| [`TakeProfitRange`](#TakeProfitRange-p) | *Описание* |
-| [`TakeProfitSize`](#TakeProfitSize-p) | *Описание* |
-| [`TakeProfitStopActive`](#TakeProfitStopActive-p) | *Описание* |
-| [`TpOrderID`](#TpOrderID-p) | *Описание* |
-| [`TpSynchronized`](#TpSynchronized-p) | *Описание* |
-| [`UpdateTime`](#UpdateTime-p) | *Описание* |
+| [`ID`](#property-id) | *Описание* |
+| [`IsServerOrderSl`](#property-isserverordersl) | *Описание* |
+| [`IsServerOrderTP`](#property-isserverordertp) | *Описание* |
+| [`Quantity`](#property-quantity) | *Описание* |
+| [`SlOrderID`](#property-slorderid) | *Описание* |
+| [`SlSynchronized`](#property-slsynchronized) | *Описание* |
+| [`SlTpUpdateTime`](#property-sltpupdatetime) | *Описание* |
+| [`StopLossBreakevenPlus`](#property-stoplossbreakevenplus) | *Описание* |
+| [`StopLossBreakevenProfit`](#property-stoplossbreakevenprofit) | *Описание* |
+| [`StopLossOffset`](#property-stoplossoffset) | *Описание* |
+| [`StopLossPrice`](#property-stoplossprice) | *Описание* |
+| [`StopLossSize`](#property-stoplosssize) | *Описание* |
+| [`StopLossTrailingRange`](#property-stoplosstrailingrange) | *Описание* |
+| [`StopLossTrailingStep`](#property-stoplosstrailingstep) | *Описание* |
+| [`TakeProfitOffset`](#property-takeprofitoffset) | *Описание* |
+| [`TakeProfitPrice`](#property-takeprofitprice) | *Описание* |
+| [`TakeProfitRange`](#property-takeprofitrange) | *Описание* |
+| [`TakeProfitSize`](#property-takeprofitsize) | *Описание* |
+| [`TakeProfitStopActive`](#property-takeprofitstopactive) | *Описание* |
+| [`TpOrderID`](#property-tporderid) | *Описание* |
+| [`TpSynchronized`](#property-tpsynchronized) | *Описание* |
+| [`UpdateTime`](#property-updatetime) | *Описание* |
 
 
 
@@ -53,7 +53,7 @@ public sealed class ExitStrategyTarget
 ***  
 # Методы
 
-## `ClearSl`<a href="ClearSl-m" id="ClearSl-m"></a>
+## `ClearSl`<a href="method-clearsl" id="method-clearsl"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public void ClearSl()
 
 ***  
 
-## `ClearTp`<a href="ClearTp-m" id="ClearTp-m"></a>
+## `ClearTp`<a href="method-cleartp" id="method-cleartp"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public void ClearTp()
 
 ***  
 
-## `ExitStrategyTarget`<a href="ExitStrategyTarget-m" id="ExitStrategyTarget-m"></a>
+## `ExitStrategyTarget`<a href="method-exitstrategytarget" id="method-exitstrategytarget"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -80,7 +80,7 @@ public ExitStrategyTarget()
 
 ***  
 
-## `RemoveSlTrailing`<a href="RemoveSlTrailing-m" id="RemoveSlTrailing-m"></a>
+## `RemoveSlTrailing`<a href="method-removesltrailing" id="method-removesltrailing"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -89,7 +89,7 @@ public void RemoveSlTrailing()
 
 ***  
 
-## `RemoveTpTrailing`<a href="RemoveTpTrailing-m" id="RemoveTpTrailing-m"></a>
+## `RemoveTpTrailing`<a href="method-removetptrailing" id="method-removetptrailing"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public void RemoveTpTrailing()
  ***  
 # Свойства
 
-## `ID`<a href="ID-p" id="ID-p"></a>
+## `ID`<a href="property-id" id="property-id"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ public string ID { get; set; }
 ```  
 ***
 
-## `IsServerOrderSl`<a href="IsServerOrderSl-p" id="IsServerOrderSl-p"></a>
+## `IsServerOrderSl`<a href="property-isserverordersl" id="property-isserverordersl"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -117,7 +117,7 @@ public bool IsServerOrderSl { get; set; }
 ```  
 ***
 
-## `IsServerOrderTP`<a href="IsServerOrderTP-p" id="IsServerOrderTP-p"></a>
+## `IsServerOrderTP`<a href="property-isserverordertp" id="property-isserverordertp"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -125,7 +125,7 @@ public bool IsServerOrderTP { get; set; }
 ```  
 ***
 
-## `Quantity`<a href="Quantity-p" id="Quantity-p"></a>
+## `Quantity`<a href="property-quantity" id="property-quantity"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -133,7 +133,7 @@ public long Quantity { get; set; }
 ```  
 ***
 
-## `SlOrderID`<a href="SlOrderID-p" id="SlOrderID-p"></a>
+## `SlOrderID`<a href="property-slorderid" id="property-slorderid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -141,7 +141,7 @@ public string SlOrderID { get; set; }
 ```  
 ***
 
-## `SlSynchronized`<a href="SlSynchronized-p" id="SlSynchronized-p"></a>
+## `SlSynchronized`<a href="property-slsynchronized" id="property-slsynchronized"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -149,7 +149,7 @@ public bool SlSynchronized { get; set; }
 ```  
 ***
 
-## `SlTpUpdateTime`<a href="SlTpUpdateTime-p" id="SlTpUpdateTime-p"></a>
+## `SlTpUpdateTime`<a href="property-sltpupdatetime" id="property-sltpupdatetime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -157,7 +157,7 @@ public DateTime SlTpUpdateTime { get; set; }
 ```  
 ***
 
-## `StopLossBreakevenPlus`<a href="StopLossBreakevenPlus-p" id="StopLossBreakevenPlus-p"></a>
+## `StopLossBreakevenPlus`<a href="property-stoplossbreakevenplus" id="property-stoplossbreakevenplus"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -165,7 +165,7 @@ public long StopLossBreakevenPlus { get; set; }
 ```  
 ***
 
-## `StopLossBreakevenProfit`<a href="StopLossBreakevenProfit-p" id="StopLossBreakevenProfit-p"></a>
+## `StopLossBreakevenProfit`<a href="property-stoplossbreakevenprofit" id="property-stoplossbreakevenprofit"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -173,7 +173,7 @@ public long StopLossBreakevenProfit { get; set; }
 ```  
 ***
 
-## `StopLossOffset`<a href="StopLossOffset-p" id="StopLossOffset-p"></a>
+## `StopLossOffset`<a href="property-stoplossoffset" id="property-stoplossoffset"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -181,7 +181,7 @@ public int? StopLossOffset { get; set; }
 ```  
 ***
 
-## `StopLossPrice`<a href="StopLossPrice-p" id="StopLossPrice-p"></a>
+## `StopLossPrice`<a href="property-stoplossprice" id="property-stoplossprice"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -189,7 +189,7 @@ public long StopLossPrice { get; set; }
 ```  
 ***
 
-## `StopLossSize`<a href="StopLossSize-p" id="StopLossSize-p"></a>
+## `StopLossSize`<a href="property-stoplosssize" id="property-stoplosssize"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -197,7 +197,7 @@ public long? StopLossSize { get; set; }
 ```  
 ***
 
-## `StopLossTrailingRange`<a href="StopLossTrailingRange-p" id="StopLossTrailingRange-p"></a>
+## `StopLossTrailingRange`<a href="property-stoplosstrailingrange" id="property-stoplosstrailingrange"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -205,7 +205,7 @@ public long StopLossTrailingRange { get; set; }
 ```  
 ***
 
-## `StopLossTrailingStep`<a href="StopLossTrailingStep-p" id="StopLossTrailingStep-p"></a>
+## `StopLossTrailingStep`<a href="property-stoplosstrailingstep" id="property-stoplosstrailingstep"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -213,7 +213,7 @@ public long StopLossTrailingStep { get; set; }
 ```  
 ***
 
-## `TakeProfitOffset`<a href="TakeProfitOffset-p" id="TakeProfitOffset-p"></a>
+## `TakeProfitOffset`<a href="property-takeprofitoffset" id="property-takeprofitoffset"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -221,7 +221,7 @@ public int? TakeProfitOffset { get; set; }
 ```  
 ***
 
-## `TakeProfitPrice`<a href="TakeProfitPrice-p" id="TakeProfitPrice-p"></a>
+## `TakeProfitPrice`<a href="property-takeprofitprice" id="property-takeprofitprice"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -229,7 +229,7 @@ public long TakeProfitPrice { get; set; }
 ```  
 ***
 
-## `TakeProfitRange`<a href="TakeProfitRange-p" id="TakeProfitRange-p"></a>
+## `TakeProfitRange`<a href="property-takeprofitrange" id="property-takeprofitrange"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -237,7 +237,7 @@ public long TakeProfitRange { get; set; }
 ```  
 ***
 
-## `TakeProfitSize`<a href="TakeProfitSize-p" id="TakeProfitSize-p"></a>
+## `TakeProfitSize`<a href="property-takeprofitsize" id="property-takeprofitsize"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -245,7 +245,7 @@ public long? TakeProfitSize { get; set; }
 ```  
 ***
 
-## `TakeProfitStopActive`<a href="TakeProfitStopActive-p" id="TakeProfitStopActive-p"></a>
+## `TakeProfitStopActive`<a href="property-takeprofitstopactive" id="property-takeprofitstopactive"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -253,7 +253,7 @@ public bool TakeProfitStopActive { get; set; }
 ```  
 ***
 
-## `TpOrderID`<a href="TpOrderID-p" id="TpOrderID-p"></a>
+## `TpOrderID`<a href="property-tporderid" id="property-tporderid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -261,7 +261,7 @@ public string TpOrderID { get; set; }
 ```  
 ***
 
-## `TpSynchronized`<a href="TpSynchronized-p" id="TpSynchronized-p"></a>
+## `TpSynchronized`<a href="property-tpsynchronized" id="property-tpsynchronized"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -269,7 +269,7 @@ public bool TpSynchronized { get; set; }
 ```  
 ***
 
-## `UpdateTime`<a href="UpdateTime-p" id="UpdateTime-p"></a>
+## `UpdateTime`<a href="property-updatetime" id="property-updatetime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

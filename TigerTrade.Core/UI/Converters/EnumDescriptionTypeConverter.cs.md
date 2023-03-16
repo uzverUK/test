@@ -13,9 +13,9 @@ public sealed class EnumDescriptionTypeConverter : EnumConverter
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`EnumDescriptionTypeConverter`](#EnumDescriptionTypeConverter-m) | *Описание* |
-| [`GetDescription`](#GetDescription-m) | *Описание* |
-| [`GetValue`](#GetValue-m) | *Описание* |
+| [`EnumDescriptionTypeConverter`](#method-enumdescriptiontypeconverter) | *Описание* |
+| [`GetDescription`](#method-getdescription) | *Описание* |
+| [`GetValue`](#method-getvalue) | *Описание* |
 
 
 
@@ -25,7 +25,7 @@ public sealed class EnumDescriptionTypeConverter : EnumConverter
 ***  
 # Методы
 
-## `EnumDescriptionTypeConverter`<a href="EnumDescriptionTypeConverter-m" id="EnumDescriptionTypeConverter-m"></a>
+## `EnumDescriptionTypeConverter`<a href="method-enumdescriptiontypeconverter" id="method-enumdescriptiontypeconverter"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -38,7 +38,7 @@ public EnumDescriptionTypeConverter(Type type)
 
 ***  
 
-## `GetDescription`<a href="GetDescription-m" id="GetDescription-m"></a>
+## `GetDescription`<a href="method-getdescription" id="method-getdescription"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ public static string GetDescription(Type type, string fieldName)
 
 ***  
 
-## `GetValue`<a href="GetValue-m" id="GetValue-m"></a>
+## `GetValue`<a href="method-getvalue" id="method-getvalue"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

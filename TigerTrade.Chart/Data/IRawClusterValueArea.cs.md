@@ -13,8 +13,8 @@ public interface IRawClusterValueArea
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Vah`](#Vah-p) | *Описание* |
-| [`Val`](#Val-p) | *Описание* |
+| [`Vah`](#property-vah) | *Описание* |
+| [`Val`](#property-val) | *Описание* |
 
 
 
@@ -23,7 +23,7 @@ public interface IRawClusterValueArea
  ***  
 # Свойства
 
-## `Vah`<a href="Vah-p" id="Vah-p"></a>
+## `Vah`<a href="property-vah" id="property-vah"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -31,7 +31,7 @@ long Vah { get; }
 ```  
 ***
 
-## `Val`<a href="Val-p" id="Val-p"></a>
+## `Val`<a href="property-val" id="property-val"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

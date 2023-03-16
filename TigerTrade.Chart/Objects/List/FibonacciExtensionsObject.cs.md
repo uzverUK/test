@@ -13,25 +13,25 @@ public sealed class FibonacciExtensionsObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](#ApplyTheme-m) | *Описание* |
-| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
-| [`Draw`](#Draw-m) | *Описание* |
-| [`FibonacciExtensionsObject`](#FibonacciExtensionsObject-m) | *Описание* |
-| [`InObject`](#InObject-m) | *Описание* |
+| [`ApplyTheme`](#method-applytheme) | *Описание* |
+| [`CopyTemplate`](#method-copytemplate) | *Описание* |
+| [`Draw`](#method-draw) | *Описание* |
+| [`FibonacciExtensionsObject`](#method-fibonacciextensionsobject) | *Описание* |
+| [`InObject`](#method-inobject) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`CustomLevels`](#CustomLevels-p) | *Описание* |
-| [`Levels`](#Levels-p) | *Описание* |
-| [`LevelsLineColor`](#LevelsLineColor-p) | *Описание* |
-| [`LevelsLineStyle`](#LevelsLineStyle-p) | *Описание* |
-| [`LevelsLineWidth`](#LevelsLineWidth-p) | *Описание* |
-| [`LevelsWidth`](#LevelsWidth-p) | *Описание* |
-| [`OpenEnd`](#OpenEnd-p) | *Описание* |
-| [`OpenStart`](#OpenStart-p) | *Описание* |
-| [`TextAlignment`](#TextAlignment-p) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
+| [`CustomLevels`](#property-customlevels) | *Описание* |
+| [`Levels`](#property-levels) | *Описание* |
+| [`LevelsLineColor`](#property-levelslinecolor) | *Описание* |
+| [`LevelsLineStyle`](#property-levelslinestyle) | *Описание* |
+| [`LevelsLineWidth`](#property-levelslinewidth) | *Описание* |
+| [`LevelsWidth`](#property-levelswidth) | *Описание* |
+| [`OpenEnd`](#property-openend) | *Описание* |
+| [`OpenStart`](#property-openstart) | *Описание* |
+| [`TextAlignment`](#property-textalignment) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#property-xsujlz3bylfkxacpnf53) | *Описание* |
 
 
 
@@ -41,7 +41,7 @@ public sealed class FibonacciExtensionsObject : LineObjectBase
 ***  
 # Методы
 
-## `ApplyTheme`<a href="ApplyTheme-m" id="ApplyTheme-m"></a>
+## `ApplyTheme`<a href="method-applytheme" id="method-applytheme"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
+## `CopyTemplate`<a href="method-copytemplate" id="method-copytemplate"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="Draw-m" id="Draw-m"></a>
+## `Draw`<a href="method-draw" id="method-draw"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -84,7 +84,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `FibonacciExtensionsObject`<a href="FibonacciExtensionsObject-m" id="FibonacciExtensionsObject-m"></a>
+## `FibonacciExtensionsObject`<a href="method-fibonacciextensionsobject" id="method-fibonacciextensionsobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public FibonacciExtensionsObject()
 
 ***  
 
-## `InObject`<a href="InObject-m" id="InObject-m"></a>
+## `InObject`<a href="method-inobject" id="method-inobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -112,7 +112,7 @@ protected override bool InObject(int x, int y)
  ***  
 # Свойства
 
-## `CustomLevels`<a href="CustomLevels-p" id="CustomLevels-p"></a>
+## `CustomLevels`<a href="property-customlevels" id="property-customlevels"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -120,7 +120,7 @@ public bool CustomLevels { get; set; }
 ```  
 ***
 
-## `Levels`<a href="Levels-p" id="Levels-p"></a>
+## `Levels`<a href="property-levels" id="property-levels"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -128,7 +128,7 @@ public System.Collections.Generic.List<ObjectLine> Levels { get; set; }
 ```  
 ***
 
-## `LevelsLineColor`<a href="LevelsLineColor-p" id="LevelsLineColor-p"></a>
+## `LevelsLineColor`<a href="property-levelslinecolor" id="property-levelslinecolor"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -136,7 +136,7 @@ public XColor LevelsLineColor { get; set; }
 ```  
 ***
 
-## `LevelsLineStyle`<a href="LevelsLineStyle-p" id="LevelsLineStyle-p"></a>
+## `LevelsLineStyle`<a href="property-levelslinestyle" id="property-levelslinestyle"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -144,7 +144,7 @@ public XDashStyle LevelsLineStyle { get; set; }
 ```  
 ***
 
-## `LevelsLineWidth`<a href="LevelsLineWidth-p" id="LevelsLineWidth-p"></a>
+## `LevelsLineWidth`<a href="property-levelslinewidth" id="property-levelslinewidth"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -152,7 +152,7 @@ public int LevelsLineWidth { get; set; }
 ```  
 ***
 
-## `LevelsWidth`<a href="LevelsWidth-p" id="LevelsWidth-p"></a>
+## `LevelsWidth`<a href="property-levelswidth" id="property-levelswidth"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -160,7 +160,7 @@ public int LevelsWidth { get; set; }
 ```  
 ***
 
-## `OpenEnd`<a href="OpenEnd-p" id="OpenEnd-p"></a>
+## `OpenEnd`<a href="property-openend" id="property-openend"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -168,7 +168,7 @@ public bool OpenEnd { get; set; }
 ```  
 ***
 
-## `OpenStart`<a href="OpenStart-p" id="OpenStart-p"></a>
+## `OpenStart`<a href="property-openstart" id="property-openstart"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -176,7 +176,7 @@ public bool OpenStart { get; set; }
 ```  
 ***
 
-## `TextAlignment`<a href="TextAlignment-p" id="TextAlignment-p"></a>
+## `TextAlignment`<a href="property-textalignment" id="property-textalignment"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -184,7 +184,7 @@ public ObjectTextAlignment TextAlignment { get; set; }
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `xsuJlZ3bylFkXacpNF53`<a href="property-xsujlz3bylfkxacpnf53" id="property-xsujlz3bylfkxacpnf53"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

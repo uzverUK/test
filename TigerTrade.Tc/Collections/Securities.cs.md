@@ -13,10 +13,10 @@ internal sealed class Securities
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`HOnwta15FOp`](#HOnwta15FOp-m) | *Описание* |
-| [`Securities`](#Securities-m) | *Описание* |
-| [`rHswtun8WR7`](#rHswtun8WR7-m) | *Описание* |
-| [`xbEwt8V85aD`](#xbEwt8V85aD-m) | *Описание* |
+| [`HOnwta15FOp`](#method-honwta15fop) | *Описание* |
+| [`Securities`](#method-securities) | *Описание* |
+| [`rHswtun8WR7`](#method-rhswtun8wr7) | *Описание* |
+| [`xbEwt8V85aD`](#method-xbewt8v85ad) | *Описание* |
 
 
 
@@ -26,7 +26,7 @@ internal sealed class Securities
 ***  
 # Методы
 
-## `HOnwta15FOp`<a href="HOnwta15FOp-m" id="HOnwta15FOp-m"></a>
+## `HOnwta15FOp`<a href="method-honwta15fop" id="method-honwta15fop"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -35,7 +35,7 @@ public int HOnwta15FOp()
 
 ***  
 
-## `Securities`<a href="Securities-m" id="Securities-m"></a>
+## `Securities`<a href="method-securities" id="method-securities"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -44,7 +44,7 @@ public Securities()
 
 ***  
 
-## `rHswtun8WR7`<a href="rHswtun8WR7-m" id="rHswtun8WR7-m"></a>
+## `rHswtun8WR7`<a href="method-rhswtun8wr7" id="method-rhswtun8wr7"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ public List<Security> rHswtun8WR7()
 
 ***  
 
-## `xbEwt8V85aD`<a href="xbEwt8V85aD-m" id="xbEwt8V85aD-m"></a>
+## `xbEwt8V85aD`<a href="method-xbewt8v85ad" id="method-xbewt8v85ad"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

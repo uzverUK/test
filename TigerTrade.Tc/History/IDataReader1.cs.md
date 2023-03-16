@@ -13,16 +13,16 @@ public interface IDataReader<out T>
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Dispose`](#Dispose-m) | *Описание* |
-| [`Read`](#Read-m) | *Описание* |
-| [`Reset`](#Reset-m) | *Описание* |
+| [`Dispose`](#method-dispose) | *Описание* |
+| [`Read`](#method-read) | *Описание* |
+| [`Reset`](#method-reset) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`IsEmpty`](#IsEmpty-p) | *Описание* |
-| [`LastItem`](#LastItem-p) | *Описание* |
-| [`PrevItem`](#PrevItem-p) | *Описание* |
+| [`IsEmpty`](#property-isempty) | *Описание* |
+| [`LastItem`](#property-lastitem) | *Описание* |
+| [`PrevItem`](#property-previtem) | *Описание* |
 
 
 
@@ -32,7 +32,7 @@ public interface IDataReader<out T>
 ***  
 # Методы
 
-## `Dispose`<a href="Dispose-m" id="Dispose-m"></a>
+## `Dispose`<a href="method-dispose" id="method-dispose"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -41,7 +41,7 @@ void Dispose()
 
 ***  
 
-## `Read`<a href="Read-m" id="Read-m"></a>
+## `Read`<a href="method-read" id="method-read"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ bool Read()
 
 ***  
 
-## `Reset`<a href="Reset-m" id="Reset-m"></a>
+## `Reset`<a href="method-reset" id="method-reset"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ void Reset()
  ***  
 # Свойства
 
-## `IsEmpty`<a href="IsEmpty-p" id="IsEmpty-p"></a>
+## `IsEmpty`<a href="property-isempty" id="property-isempty"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ bool IsEmpty { get; }
 ```  
 ***
 
-## `LastItem`<a href="LastItem-p" id="LastItem-p"></a>
+## `LastItem`<a href="property-lastitem" id="property-lastitem"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -78,7 +78,7 @@ T LastItem { get; }
 ```  
 ***
 
-## `PrevItem`<a href="PrevItem-p" id="PrevItem-p"></a>
+## `PrevItem`<a href="property-previtem" id="property-previtem"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

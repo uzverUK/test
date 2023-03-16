@@ -13,38 +13,38 @@ public interface IChartCanvas
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ConvertTimeFromLocal`](#ConvertTimeFromLocal-m) | *Описание* |
-| [`ConvertTimeToLocal`](#ConvertTimeToLocal-m) | *Описание* |
-| [`DateToIndex`](#DateToIndex-m) | *Описание* |
-| [`FormatTime`](#FormatTime-m) | *Описание* |
-| [`FormatValue`](#FormatValue-m) | *Описание* |
-| [`GetIndex`](#GetIndex-m) | *Описание* |
-| [`GetValue`](#GetValue-m) | *Описание* |
-| [`GetValueFromPos`](#GetValueFromPos-m) | *Описание* |
-| [`GetX`](#GetX-m) | *Описание* |
-| [`GetXScreen`](#GetXScreen-m) | *Описание* |
-| [`GetXX`](#GetXX-m) | *Описание* |
-| [`GetY`](#GetY-m) | *Описание* |
-| [`IndexToDate`](#IndexToDate-m) | *Описание* |
+| [`ConvertTimeFromLocal`](#method-converttimefromlocal) | *Описание* |
+| [`ConvertTimeToLocal`](#method-converttimetolocal) | *Описание* |
+| [`DateToIndex`](#method-datetoindex) | *Описание* |
+| [`FormatTime`](#method-formattime) | *Описание* |
+| [`FormatValue`](#method-formatvalue) | *Описание* |
+| [`GetIndex`](#method-getindex) | *Описание* |
+| [`GetValue`](#method-getvalue) | *Описание* |
+| [`GetValueFromPos`](#method-getvaluefrompos) | *Описание* |
+| [`GetX`](#method-getx) | *Описание* |
+| [`GetXScreen`](#method-getxscreen) | *Описание* |
+| [`GetXX`](#method-getxx) | *Описание* |
+| [`GetY`](#method-gety) | *Описание* |
+| [`IndexToDate`](#method-indextodate) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`AfterBars`](#AfterBars-p) | *Описание* |
-| [`ChartFont`](#ChartFont-p) | *Описание* |
-| [`ChartFontBold`](#ChartFontBold-p) | *Описание* |
-| [`ColumnPercent`](#ColumnPercent-p) | *Описание* |
-| [`ColumnWidth`](#ColumnWidth-p) | *Описание* |
-| [`Count`](#Count-p) | *Описание* |
-| [`IsStock`](#IsStock-p) | *Описание* |
-| [`MaxY`](#MaxY-p) | *Описание* |
-| [`MinY`](#MinY-p) | *Описание* |
-| [`Rect`](#Rect-p) | *Описание* |
-| [`Start`](#Start-p) | *Описание* |
-| [`StepHeight`](#StepHeight-p) | *Описание* |
-| [`StockType`](#StockType-p) | *Описание* |
-| [`Stop`](#Stop-p) | *Описание* |
-| [`Theme`](#Theme-p) | *Описание* |
+| [`AfterBars`](#property-afterbars) | *Описание* |
+| [`ChartFont`](#property-chartfont) | *Описание* |
+| [`ChartFontBold`](#property-chartfontbold) | *Описание* |
+| [`ColumnPercent`](#property-columnpercent) | *Описание* |
+| [`ColumnWidth`](#property-columnwidth) | *Описание* |
+| [`Count`](#property-count) | *Описание* |
+| [`IsStock`](#property-isstock) | *Описание* |
+| [`MaxY`](#property-maxy) | *Описание* |
+| [`MinY`](#property-miny) | *Описание* |
+| [`Rect`](#property-rect) | *Описание* |
+| [`Start`](#property-start) | *Описание* |
+| [`StepHeight`](#property-stepheight) | *Описание* |
+| [`StockType`](#property-stocktype) | *Описание* |
+| [`Stop`](#property-stop) | *Описание* |
+| [`Theme`](#property-theme) | *Описание* |
 
 
 
@@ -54,7 +54,7 @@ public interface IChartCanvas
 ***  
 # Методы
 
-## `ConvertTimeFromLocal`<a href="ConvertTimeFromLocal-m" id="ConvertTimeFromLocal-m"></a>
+## `ConvertTimeFromLocal`<a href="method-converttimefromlocal" id="method-converttimefromlocal"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ DateTime ConvertTimeFromLocal(DateTime dt)
 
 ***  
 
-## `ConvertTimeToLocal`<a href="ConvertTimeToLocal-m" id="ConvertTimeToLocal-m"></a>
+## `ConvertTimeToLocal`<a href="method-converttimetolocal" id="method-converttimetolocal"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -76,7 +76,7 @@ DateTime ConvertTimeToLocal(DateTime dt)
 
 ***  
 
-## `DateToIndex`<a href="DateToIndex-m" id="DateToIndex-m"></a>
+## `DateToIndex`<a href="method-datetoindex" id="method-datetoindex"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -92,7 +92,7 @@ int DateToIndex(DateTime dt, int dir)
 
 ***  
 
-## `DateToIndex`<a href="DateToIndex-m" id="DateToIndex-m"></a>
+## `DateToIndex`<a href="method-datetoindex" id="method-datetoindex"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -112,7 +112,7 @@ int DateToIndex(double dt, int dir)
 
 ***  
 
-## `FormatTime`<a href="FormatTime-m" id="FormatTime-m"></a>
+## `FormatTime`<a href="method-formattime" id="method-formattime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -124,7 +124,7 @@ string FormatTime(DateTime dt, string format)
 
 ***  
 
-## `FormatValue`<a href="FormatValue-m" id="FormatValue-m"></a>
+## `FormatValue`<a href="method-formatvalue" id="method-formatvalue"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -136,7 +136,7 @@ string FormatValue(double d)
 
 ***  
 
-## `GetIndex`<a href="GetIndex-m" id="GetIndex-m"></a>
+## `GetIndex`<a href="method-getindex" id="method-getindex"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -148,7 +148,7 @@ int GetIndex(int i)
 
 ***  
 
-## `GetValue`<a href="GetValue-m" id="GetValue-m"></a>
+## `GetValue`<a href="method-getvalue" id="method-getvalue"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -160,7 +160,7 @@ double GetValue(double y)
 
 ***  
 
-## `GetValueFromPos`<a href="GetValueFromPos-m" id="GetValueFromPos-m"></a>
+## `GetValueFromPos`<a href="method-getvaluefrompos" id="method-getvaluefrompos"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -172,7 +172,7 @@ Point GetValueFromPos(double x, double y)
 
 ***  
 
-## `GetValueFromPos`<a href="GetValueFromPos-m" id="GetValueFromPos-m"></a>
+## `GetValueFromPos`<a href="method-getvaluefrompos" id="method-getvaluefrompos"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -191,7 +191,7 @@ Point GetValueFromPos(double x, double y, bool snapToGrid)
 
 ***  
 
-## `GetX`<a href="GetX-m" id="GetX-m"></a>
+## `GetX`<a href="method-getx" id="method-getx"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -203,7 +203,7 @@ double GetX(int i)
 
 ***  
 
-## `GetXScreen`<a href="GetXScreen-m" id="GetXScreen-m"></a>
+## `GetXScreen`<a href="method-getxscreen" id="method-getxscreen"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -215,7 +215,7 @@ double GetXScreen(double x)
 
 ***  
 
-## `GetXX`<a href="GetXX-m" id="GetXX-m"></a>
+## `GetXX`<a href="method-getxx" id="method-getxx"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -227,7 +227,7 @@ double GetXX(int i)
 
 ***  
 
-## `GetY`<a href="GetY-m" id="GetY-m"></a>
+## `GetY`<a href="method-gety" id="method-gety"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -239,7 +239,7 @@ double GetY(double d)
 
 ***  
 
-## `IndexToDate`<a href="IndexToDate-m" id="IndexToDate-m"></a>
+## `IndexToDate`<a href="method-indextodate" id="method-indextodate"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -254,7 +254,7 @@ DateTime IndexToDate(int i)
  ***  
 # Свойства
 
-## `AfterBars`<a href="AfterBars-p" id="AfterBars-p"></a>
+## `AfterBars`<a href="property-afterbars" id="property-afterbars"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -262,7 +262,7 @@ int AfterBars { get; }
 ```  
 ***
 
-## `ChartFont`<a href="ChartFont-p" id="ChartFont-p"></a>
+## `ChartFont`<a href="property-chartfont" id="property-chartfont"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -270,7 +270,7 @@ XFont ChartFont { get; }
 ```  
 ***
 
-## `ChartFontBold`<a href="ChartFontBold-p" id="ChartFontBold-p"></a>
+## `ChartFontBold`<a href="property-chartfontbold" id="property-chartfontbold"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -278,7 +278,7 @@ XFont ChartFontBold { get; }
 ```  
 ***
 
-## `ColumnPercent`<a href="ColumnPercent-p" id="ColumnPercent-p"></a>
+## `ColumnPercent`<a href="property-columnpercent" id="property-columnpercent"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -286,7 +286,7 @@ double ColumnPercent { get; }
 ```  
 ***
 
-## `ColumnWidth`<a href="ColumnWidth-p" id="ColumnWidth-p"></a>
+## `ColumnWidth`<a href="property-columnwidth" id="property-columnwidth"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -294,7 +294,7 @@ double ColumnWidth { get; }
 ```  
 ***
 
-## `Count`<a href="Count-p" id="Count-p"></a>
+## `Count`<a href="property-count" id="property-count"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -302,7 +302,7 @@ int Count { get; }
 ```  
 ***
 
-## `IsStock`<a href="IsStock-p" id="IsStock-p"></a>
+## `IsStock`<a href="property-isstock" id="property-isstock"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -310,7 +310,7 @@ bool IsStock { get; }
 ```  
 ***
 
-## `MaxY`<a href="MaxY-p" id="MaxY-p"></a>
+## `MaxY`<a href="property-maxy" id="property-maxy"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -318,7 +318,7 @@ double MaxY { get; }
 ```  
 ***
 
-## `MinY`<a href="MinY-p" id="MinY-p"></a>
+## `MinY`<a href="property-miny" id="property-miny"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -326,7 +326,7 @@ double MinY { get; }
 ```  
 ***
 
-## `Rect`<a href="Rect-p" id="Rect-p"></a>
+## `Rect`<a href="property-rect" id="property-rect"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -334,7 +334,7 @@ Rect Rect { get; }
 ```  
 ***
 
-## `Start`<a href="Start-p" id="Start-p"></a>
+## `Start`<a href="property-start" id="property-start"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -342,7 +342,7 @@ int Start { get; }
 ```  
 ***
 
-## `StepHeight`<a href="StepHeight-p" id="StepHeight-p"></a>
+## `StepHeight`<a href="property-stepheight" id="property-stepheight"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -350,7 +350,7 @@ double StepHeight { get; }
 ```  
 ***
 
-## `StockType`<a href="StockType-p" id="StockType-p"></a>
+## `StockType`<a href="property-stocktype" id="property-stocktype"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -358,7 +358,7 @@ ChartStockType StockType { get; }
 ```  
 ***
 
-## `Stop`<a href="Stop-p" id="Stop-p"></a>
+## `Stop`<a href="property-stop" id="property-stop"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -366,7 +366,7 @@ int Stop { get; }
 ```  
 ***
 
-## `Theme`<a href="Theme-p" id="Theme-p"></a>
+## `Theme`<a href="property-theme" id="property-theme"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

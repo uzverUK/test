@@ -13,71 +13,71 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`AddAlert`](#AddAlert-m) | *Описание* |
-| [`ApplyTheme`](#ApplyTheme-m) | *Описание* |
-| [`BeginDrag`](#BeginDrag-m) | *Описание* |
-| [`CheckAlert`](#CheckAlert-m) | *Описание* |
-| [`ControlPointEditing`](#ControlPointEditing-m) | *Описание* |
-| [`ControlPointsChanged`](#ControlPointsChanged-m) | *Описание* |
-| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
-| [`DragObject`](#DragObject-m) | *Описание* |
-| [`Draw`](#Draw-m) | *Описание* |
-| [`DrawControlPoint`](#DrawControlPoint-m) | *Описание* |
-| [`DrawControlPoints`](#DrawControlPoints-m) | *Описание* |
-| [`DrawObject`](#DrawObject-m) | *Описание* |
-| [`ExtraPointChanged`](#ExtraPointChanged-m) | *Описание* |
-| [`GetAlerts`](#GetAlerts-m) | *Описание* |
-| [`GetControlPoint`](#GetControlPoint-m) | *Описание* |
-| [`GetExtraPoint`](#GetExtraPoint-m) | *Описание* |
-| [`GetMinDist`](#GetMinDist-m) | *Описание* |
-| [`GetMinDistance`](#GetMinDistance-m) | *Описание* |
-| [`GetPropertyHasStandardValues`](#GetPropertyHasStandardValues-m) | *Описание* |
-| [`GetPropertyReadOnly`](#GetPropertyReadOnly-m) | *Описание* |
-| [`GetPropertyStandardValues`](#GetPropertyStandardValues-m) | *Описание* |
-| [`GetPropertyVisibility`](#GetPropertyVisibility-m) | *Описание* |
-| [`GetX`](#GetX-m) | *Описание* |
-| [`GetY`](#GetY-m) | *Описание* |
-| [`InObject`](#InObject-m) | *Описание* |
-| [`IsObjectInArea`](#IsObjectInArea-m) | *Описание* |
-| [`IsObjectOnChart`](#IsObjectOnChart-m) | *Описание* |
-| [`ObjectBase`](#ObjectBase-m) | *Описание* |
-| [`OnPropertyChanged`](#OnPropertyChanged-m) | *Описание* |
-| [`Prepare`](#Prepare-m) | *Описание* |
-| [`SetCanvas`](#SetCanvas-m) | *Описание* |
-| [`SetDataProvider`](#SetDataProvider-m) | *Описание* |
-| [`SetSettings`](#SetSettings-m) | *Описание* |
-| [`ToPoint`](#ToPoint-m) | *Описание* |
-| [`ToPoints`](#ToPoints-m) | *Описание* |
-| [`ToString`](#ToString-m) | *Описание* |
+| [`AddAlert`](#method-addalert) | *Описание* |
+| [`ApplyTheme`](#method-applytheme) | *Описание* |
+| [`BeginDrag`](#method-begindrag) | *Описание* |
+| [`CheckAlert`](#method-checkalert) | *Описание* |
+| [`ControlPointEditing`](#method-controlpointediting) | *Описание* |
+| [`ControlPointsChanged`](#method-controlpointschanged) | *Описание* |
+| [`CopyTemplate`](#method-copytemplate) | *Описание* |
+| [`DragObject`](#method-dragobject) | *Описание* |
+| [`Draw`](#method-draw) | *Описание* |
+| [`DrawControlPoint`](#method-drawcontrolpoint) | *Описание* |
+| [`DrawControlPoints`](#method-drawcontrolpoints) | *Описание* |
+| [`DrawObject`](#method-drawobject) | *Описание* |
+| [`ExtraPointChanged`](#method-extrapointchanged) | *Описание* |
+| [`GetAlerts`](#method-getalerts) | *Описание* |
+| [`GetControlPoint`](#method-getcontrolpoint) | *Описание* |
+| [`GetExtraPoint`](#method-getextrapoint) | *Описание* |
+| [`GetMinDist`](#method-getmindist) | *Описание* |
+| [`GetMinDistance`](#method-getmindistance) | *Описание* |
+| [`GetPropertyHasStandardValues`](#method-getpropertyhasstandardvalues) | *Описание* |
+| [`GetPropertyReadOnly`](#method-getpropertyreadonly) | *Описание* |
+| [`GetPropertyStandardValues`](#method-getpropertystandardvalues) | *Описание* |
+| [`GetPropertyVisibility`](#method-getpropertyvisibility) | *Описание* |
+| [`GetX`](#method-getx) | *Описание* |
+| [`GetY`](#method-gety) | *Описание* |
+| [`InObject`](#method-inobject) | *Описание* |
+| [`IsObjectInArea`](#method-isobjectinarea) | *Описание* |
+| [`IsObjectOnChart`](#method-isobjectonchart) | *Описание* |
+| [`ObjectBase`](#method-objectbase) | *Описание* |
+| [`OnPropertyChanged`](#method-onpropertychanged) | *Описание* |
+| [`Prepare`](#method-prepare) | *Описание* |
+| [`SetCanvas`](#method-setcanvas) | *Описание* |
+| [`SetDataProvider`](#method-setdataprovider) | *Описание* |
+| [`SetSettings`](#method-setsettings) | *Описание* |
+| [`ToPoint`](#method-topoint) | *Описание* |
+| [`ToPoints`](#method-topoints) | *Описание* |
+| [`ToString`](#method-tostring) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Canvas`](#Canvas-p) | *Описание* |
-| [`ChartDataType`](#ChartDataType-p) | *Описание* |
-| [`ControlPointNum`](#ControlPointNum-p) | *Описание* |
-| [`ControlPoints`](#ControlPoints-p) | *Описание* |
-| [`ControlPointsList`](#ControlPointsList-p) | *Описание* |
-| [`DataProvider`](#DataProvider-p) | *Описание* |
-| [`ID`](#ID-p) | *Описание* |
-| [`InMove;`](#InMove;-p) | *Описание* |
-| [`InSetup;`](#InSetup;-p) | *Описание* |
-| [`Lock`](#Lock-p) | *Описание* |
-| [`Name`](#Name-p) | *Описание* |
-| [`ObjectID`](#ObjectID-p) | *Описание* |
-| [`PenWidth`](#PenWidth-p) | *Описание* |
-| [`Periods`](#Periods-p) | *Описание* |
-| [`Position`](#Position-p) | *Описание* |
-| [`Settings`](#Settings-p) | *Описание* |
-| [`SnapGrid`](#SnapGrid-p) | *Описание* |
-| [`SymbolID`](#SymbolID-p) | *Описание* |
-| [`Theme`](#Theme-p) | *Описание* |
-| [`Title`](#Title-p) | *Описание* |
+| [`Canvas`](#property-canvas) | *Описание* |
+| [`ChartDataType`](#property-chartdatatype) | *Описание* |
+| [`ControlPointNum`](#property-controlpointnum) | *Описание* |
+| [`ControlPoints`](#property-controlpoints) | *Описание* |
+| [`ControlPointsList`](#property-controlpointslist) | *Описание* |
+| [`DataProvider`](#property-dataprovider) | *Описание* |
+| [`ID`](#property-id) | *Описание* |
+| [`InMove;`](#property-inmove;) | *Описание* |
+| [`InSetup;`](#property-insetup;) | *Описание* |
+| [`Lock`](#property-lock) | *Описание* |
+| [`Name`](#property-name) | *Описание* |
+| [`ObjectID`](#property-objectid) | *Описание* |
+| [`PenWidth`](#property-penwidth) | *Описание* |
+| [`Periods`](#property-periods) | *Описание* |
+| [`Position`](#property-position) | *Описание* |
+| [`Settings`](#property-settings) | *Описание* |
+| [`SnapGrid`](#property-snapgrid) | *Описание* |
+| [`SymbolID`](#property-symbolid) | *Описание* |
+| [`Theme`](#property-theme) | *Описание* |
+| [`Title`](#property-title) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](#PropertyChanged-p) | *Описание* |
+| [`PropertyChanged`](#event-propertychanged) | *Описание* |
 
 
 
@@ -87,7 +87,7 @@ public abstract class ObjectBase : INotifyPropertyChanged, IDynamicProperty
 ***  
 # Методы
 
-## `AddAlert`<a href="AddAlert-m" id="AddAlert-m"></a>
+## `AddAlert`<a href="method-addalert" id="method-addalert"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -103,7 +103,7 @@ protected void AddAlert(ChartAlertSettings settings, string message)
 
 ***  
 
-## `ApplyTheme`<a href="ApplyTheme-m" id="ApplyTheme-m"></a>
+## `ApplyTheme`<a href="method-applytheme" id="method-applytheme"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public virtual void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `BeginDrag`<a href="BeginDrag-m" id="BeginDrag-m"></a>
+## `BeginDrag`<a href="method-begindrag" id="method-begindrag"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -124,7 +124,7 @@ public virtual void BeginDrag()
 
 ***  
 
-## `CheckAlert`<a href="CheckAlert-m" id="CheckAlert-m"></a>
+## `CheckAlert`<a href="method-checkalert" id="method-checkalert"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -133,7 +133,7 @@ public virtual void CheckAlert(List<IndicatorBase> indicators)
 
 ***  
 
-## `ControlPointEditing`<a href="ControlPointEditing-m" id="ControlPointEditing-m"></a>
+## `ControlPointEditing`<a href="method-controlpointediting" id="method-controlpointediting"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -146,7 +146,7 @@ public virtual void ControlPointEditing(int index)
 
 ***  
 
-## `ControlPointsChanged`<a href="ControlPointsChanged-m" id="ControlPointsChanged-m"></a>
+## `ControlPointsChanged`<a href="method-controlpointschanged" id="method-controlpointschanged"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -155,7 +155,7 @@ public virtual void ControlPointsChanged()
 
 ***  
 
-## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
+## `CopyTemplate`<a href="method-copytemplate" id="method-copytemplate"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -171,7 +171,7 @@ public virtual void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `DragObject`<a href="DragObject-m" id="DragObject-m"></a>
+## `DragObject`<a href="method-dragobject" id="method-dragobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -186,7 +186,7 @@ public virtual void DragObject(double dx, double dy)
 
 ***  
 
-## `Draw`<a href="Draw-m" id="Draw-m"></a>
+## `Draw`<a href="method-draw" id="method-draw"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -201,7 +201,7 @@ protected abstract void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> lab
 
 ***  
 
-## `DrawControlPoint`<a href="DrawControlPoint-m" id="DrawControlPoint-m"></a>
+## `DrawControlPoint`<a href="method-drawcontrolpoint" id="method-drawcontrolpoint"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -213,7 +213,7 @@ protected void DrawControlPoint(DxVisualQueue visual, Point point)
 
 ***  
 
-## `DrawControlPoints`<a href="DrawControlPoints-m" id="DrawControlPoints-m"></a>
+## `DrawControlPoints`<a href="method-drawcontrolpoints" id="method-drawcontrolpoints"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -225,7 +225,7 @@ public virtual void DrawControlPoints(DxVisualQueue visual)
 
 ***  
 
-## `DrawObject`<a href="DrawObject-m" id="DrawObject-m"></a>
+## `DrawObject`<a href="method-drawobject" id="method-drawobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -237,7 +237,7 @@ public void DrawObject(DxVisualQueue visual, ref List<ObjectLabelInfo> labels)
 
 ***  
 
-## `ExtraPointChanged`<a href="ExtraPointChanged-m" id="ExtraPointChanged-m"></a>
+## `ExtraPointChanged`<a href="method-extrapointchanged" id="method-extrapointchanged"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -252,7 +252,7 @@ public virtual void ExtraPointChanged(int index, ObjectPoint op)
 
 ***  
 
-## `GetAlerts`<a href="GetAlerts-m" id="GetAlerts-m"></a>
+## `GetAlerts`<a href="method-getalerts" id="method-getalerts"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -261,7 +261,7 @@ public List<ChartAlertInfo> GetAlerts()
 
 ***  
 
-## `GetControlPoint`<a href="GetControlPoint-m" id="GetControlPoint-m"></a>
+## `GetControlPoint`<a href="method-getcontrolpoint" id="method-getcontrolpoint"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -277,7 +277,7 @@ public virtual int GetControlPoint(int x, int y)
 
 ***  
 
-## `GetExtraPoint`<a href="GetExtraPoint-m" id="GetExtraPoint-m"></a>
+## `GetExtraPoint`<a href="method-getextrapoint" id="method-getextrapoint"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -286,7 +286,7 @@ public virtual int GetExtraPoint(int x, int y)
 
 ***  
 
-## `GetMinDist`<a href="GetMinDist-m" id="GetMinDist-m"></a>
+## `GetMinDist`<a href="method-getmindist" id="method-getmindist"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -302,7 +302,7 @@ protected virtual int GetMinDist(int x, int y)
 
 ***  
 
-## `GetMinDistance`<a href="GetMinDistance-m" id="GetMinDistance-m"></a>
+## `GetMinDistance`<a href="method-getmindistance" id="method-getmindistance"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -311,7 +311,7 @@ public int GetMinDistance(int x, int y)
 
 ***  
 
-## `GetPropertyHasStandardValues`<a href="GetPropertyHasStandardValues-m" id="GetPropertyHasStandardValues-m"></a>
+## `GetPropertyHasStandardValues`<a href="method-getpropertyhasstandardvalues" id="method-getpropertyhasstandardvalues"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -324,7 +324,7 @@ public virtual bool GetPropertyHasStandardValues(string propertyName)
 
 ***  
 
-## `GetPropertyReadOnly`<a href="GetPropertyReadOnly-m" id="GetPropertyReadOnly-m"></a>
+## `GetPropertyReadOnly`<a href="method-getpropertyreadonly" id="method-getpropertyreadonly"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -333,7 +333,7 @@ public virtual bool GetPropertyReadOnly(string propertyName)
 
 ***  
 
-## `GetPropertyStandardValues`<a href="GetPropertyStandardValues-m" id="GetPropertyStandardValues-m"></a>
+## `GetPropertyStandardValues`<a href="method-getpropertystandardvalues" id="method-getpropertystandardvalues"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -346,7 +346,7 @@ public virtual IEnumerable<object> GetPropertyStandardValues(string propertyName
 
 ***  
 
-## `GetPropertyVisibility`<a href="GetPropertyVisibility-m" id="GetPropertyVisibility-m"></a>
+## `GetPropertyVisibility`<a href="method-getpropertyvisibility" id="method-getpropertyvisibility"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -355,7 +355,7 @@ public virtual bool GetPropertyVisibility(string propertyName)
 
 ***  
 
-## `GetX`<a href="GetX-m" id="GetX-m"></a>
+## `GetX`<a href="method-getx" id="method-getx"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -368,7 +368,7 @@ protected double GetX(int i)
 
 ***  
 
-## `GetY`<a href="GetY-m" id="GetY-m"></a>
+## `GetY`<a href="method-gety" id="method-gety"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -380,7 +380,7 @@ protected double GetY(double d)
 
 ***  
 
-## `InObject`<a href="InObject-m" id="InObject-m"></a>
+## `InObject`<a href="method-inobject" id="method-inobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -395,7 +395,7 @@ protected virtual bool InObject(int x, int y)
 
 ***  
 
-## `IsObjectInArea`<a href="IsObjectInArea-m" id="IsObjectInArea-m"></a>
+## `IsObjectInArea`<a href="method-isobjectinarea" id="method-isobjectinarea"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -404,7 +404,7 @@ protected virtual bool IsObjectInArea()
 
 ***  
 
-## `IsObjectOnChart`<a href="IsObjectOnChart-m" id="IsObjectOnChart-m"></a>
+## `IsObjectOnChart`<a href="method-isobjectonchart" id="method-isobjectonchart"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -413,7 +413,7 @@ protected virtual bool IsObjectOnChart()
 
 ***  
 
-## `ObjectBase`<a href="ObjectBase-m" id="ObjectBase-m"></a>
+## `ObjectBase`<a href="method-objectbase" id="method-objectbase"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -422,7 +422,7 @@ protected ObjectBase()
 
 ***  
 
-## `OnPropertyChanged`<a href="OnPropertyChanged-m" id="OnPropertyChanged-m"></a>
+## `OnPropertyChanged`<a href="method-onpropertychanged" id="method-onpropertychanged"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -435,7 +435,7 @@ protected virtual void OnPropertyChanged([CallerMemberName] string propertyName 
 
 ***  
 
-## `Prepare`<a href="Prepare-m" id="Prepare-m"></a>
+## `Prepare`<a href="method-prepare" id="method-prepare"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -444,7 +444,7 @@ protected virtual void Prepare()
 
 ***  
 
-## `SetCanvas`<a href="SetCanvas-m" id="SetCanvas-m"></a>
+## `SetCanvas`<a href="method-setcanvas" id="method-setcanvas"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -457,7 +457,7 @@ public void SetCanvas(IChartCanvas canvas)
 
 ***  
 
-## `SetDataProvider`<a href="SetDataProvider-m" id="SetDataProvider-m"></a>
+## `SetDataProvider`<a href="method-setdataprovider" id="method-setdataprovider"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -469,7 +469,7 @@ public void SetDataProvider(IChartDataProvider dp)
 
 ***  
 
-## `SetSettings`<a href="SetSettings-m" id="SetSettings-m"></a>
+## `SetSettings`<a href="method-setsettings" id="method-setsettings"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -481,7 +481,7 @@ public void SetSettings(IChartSettings settings)
 
 ***  
 
-## `ToPoint`<a href="ToPoint-m" id="ToPoint-m"></a>
+## `ToPoint`<a href="method-topoint" id="method-topoint"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -493,7 +493,7 @@ public Point ToPoint(ObjectPoint op)
 
 ***  
 
-## `ToPoints`<a href="ToPoints-m" id="ToPoints-m"></a>
+## `ToPoints`<a href="method-topoints" id="method-topoints"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -502,7 +502,7 @@ protected Point[] ToPoints(ObjectPoint[] ops)
 
 ***  
 
-## `ToString`<a href="ToString-m" id="ToString-m"></a>
+## `ToString`<a href="method-tostring" id="method-tostring"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -514,7 +514,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `Canvas`<a href="Canvas-p" id="Canvas-p"></a>
+## `Canvas`<a href="property-canvas" id="property-canvas"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -522,7 +522,7 @@ protected IChartCanvas Canvas { get; private set; }
 ```  
 ***
 
-## `ChartDataType`<a href="ChartDataType-p" id="ChartDataType-p"></a>
+## `ChartDataType`<a href="property-chartdatatype" id="property-chartdatatype"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -530,7 +530,7 @@ public virtual xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 ```  
 ***
 
-## `ControlPointNum`<a href="ControlPointNum-p" id="ControlPointNum-p"></a>
+## `ControlPointNum`<a href="property-controlpointnum" id="property-controlpointnum"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -538,7 +538,7 @@ public int ControlPointNum { get; }
 ```  
 ***
 
-## `ControlPoints`<a href="ControlPoints-p" id="ControlPoints-p"></a>
+## `ControlPoints`<a href="property-controlpoints" id="property-controlpoints"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -546,7 +546,7 @@ public ObjectPoint[] ControlPoints { get; set; }
 ```  
 ***
 
-## `ControlPointsList`<a href="ControlPointsList-p" id="ControlPointsList-p"></a>
+## `ControlPointsList`<a href="property-controlpointslist" id="property-controlpointslist"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -554,7 +554,7 @@ public ObjectPointInfo[] ControlPointsList { get; }
 ```  
 ***
 
-## `DataProvider`<a href="DataProvider-p" id="DataProvider-p"></a>
+## `DataProvider`<a href="property-dataprovider" id="property-dataprovider"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -562,7 +562,7 @@ protected IChartDataProvider DataProvider { get; private set; }
 ```  
 ***
 
-## `ID`<a href="ID-p" id="ID-p"></a>
+## `ID`<a href="property-id" id="property-id"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -570,7 +570,7 @@ public string ID { get; }
 ```  
 ***
 
-## `InMove;`<a href="InMove;-p" id="InMove;-p"></a>
+## `InMove;`<a href="property-inmove;" id="property-inmove;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -578,7 +578,7 @@ public bool InMove; {}
 ```  
 ***
 
-## `InSetup;`<a href="InSetup;-p" id="InSetup;-p"></a>
+## `InSetup;`<a href="property-insetup;" id="property-insetup;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -586,7 +586,7 @@ public bool InSetup; {}
 ```  
 ***
 
-## `Lock`<a href="Lock-p" id="Lock-p"></a>
+## `Lock`<a href="property-lock" id="property-lock"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -594,7 +594,7 @@ public bool Lock { get; set; }
 ```  
 ***
 
-## `Name`<a href="Name-p" id="Name-p"></a>
+## `Name`<a href="property-name" id="property-name"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -602,7 +602,7 @@ public string Name { get; }
 ```  
 ***
 
-## `ObjectID`<a href="ObjectID-p" id="ObjectID-p"></a>
+## `ObjectID`<a href="property-objectid" id="property-objectid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -610,7 +610,7 @@ public string ObjectID { get; set; }
 ```  
 ***
 
-## `PenWidth`<a href="PenWidth-p" id="PenWidth-p"></a>
+## `PenWidth`<a href="property-penwidth" id="property-penwidth"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -618,7 +618,7 @@ protected virtual int PenWidth { get; }
 ```  
 ***
 
-## `Periods`<a href="Periods-p" id="Periods-p"></a>
+## `Periods`<a href="property-periods" id="property-periods"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -626,7 +626,7 @@ public ObjectPeriods Periods { get; set; }
 ```  
 ***
 
-## `Position`<a href="Position-p" id="Position-p"></a>
+## `Position`<a href="property-position" id="property-position"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -634,7 +634,7 @@ public ObjectPosition Position { get; set; }
 ```  
 ***
 
-## `Settings`<a href="Settings-p" id="Settings-p"></a>
+## `Settings`<a href="property-settings" id="property-settings"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -642,7 +642,7 @@ protected IChartSettings Settings { get; private set; }
 ```  
 ***
 
-## `SnapGrid`<a href="SnapGrid-p" id="SnapGrid-p"></a>
+## `SnapGrid`<a href="property-snapgrid" id="property-snapgrid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -650,7 +650,7 @@ public virtual bool SnapGrid { get; }
 ```  
 ***
 
-## `SymbolID`<a href="SymbolID-p" id="SymbolID-p"></a>
+## `SymbolID`<a href="property-symbolid" id="property-symbolid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -658,7 +658,7 @@ public string SymbolID { get; set; }
 ```  
 ***
 
-## `Theme`<a href="Theme-p" id="Theme-p"></a>
+## `Theme`<a href="property-theme" id="property-theme"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -666,7 +666,7 @@ protected IChartTheme Theme { get; private set; }
 ```  
 ***
 
-## `Title`<a href="Title-p" id="Title-p"></a>
+## `Title`<a href="property-title" id="property-title"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -677,7 +677,7 @@ public string Title { get; }
  ***  
 # События
 
-## `PropertyChanged`<a href="PropertyChanged-p" id="PropertyChanged-p"></a>
+## `PropertyChanged`<a href="event-propertychanged" id="event-propertychanged"></a>
 Описание
 
 ```csharp

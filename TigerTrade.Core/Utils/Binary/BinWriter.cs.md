@@ -13,10 +13,10 @@ public abstract class BinWriter
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`BinWriter`](#BinWriter-m) | *Описание* |
-| [`GetStreamData`](#GetStreamData-m) | *Описание* |
-| [`Write`](#Write-m) | *Описание* |
-| [`WriteLeb128`](#WriteLeb128-m) | *Описание* |
+| [`BinWriter`](#method-binwriter) | *Описание* |
+| [`GetStreamData`](#method-getstreamdata) | *Описание* |
+| [`Write`](#method-write) | *Описание* |
+| [`WriteLeb128`](#method-writeleb128) | *Описание* |
 
 
 
@@ -26,7 +26,7 @@ public abstract class BinWriter
 ***  
 # Методы
 
-## `BinWriter`<a href="BinWriter-m" id="BinWriter-m"></a>
+## `BinWriter`<a href="method-binwriter" id="method-binwriter"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -35,7 +35,7 @@ protected BinWriter()
 
 ***  
 
-## `GetStreamData`<a href="GetStreamData-m" id="GetStreamData-m"></a>
+## `GetStreamData`<a href="method-getstreamdata" id="method-getstreamdata"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ protected byte[] GetStreamData()
 
 ***  
 
-## `Write`<a href="Write-m" id="Write-m"></a>
+## `Write`<a href="method-write" id="method-write"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ protected void Write(bool value)
 
 ***  
 
-## `Write`<a href="Write-m" id="Write-m"></a>
+## `Write`<a href="method-write" id="method-write"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ protected void Write(byte value)
 
 ***  
 
-## `Write`<a href="Write-m" id="Write-m"></a>
+## `Write`<a href="method-write" id="method-write"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ protected void Write(int value)
 
 ***  
 
-## `Write`<a href="Write-m" id="Write-m"></a>
+## `Write`<a href="method-write" id="method-write"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -123,7 +123,7 @@ protected void Write(long value)
 
 ***  
 
-## `Write`<a href="Write-m" id="Write-m"></a>
+## `Write`<a href="method-write" id="method-write"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -151,7 +151,7 @@ protected void Write(double value)
 
 ***  
 
-## `Write`<a href="Write-m" id="Write-m"></a>
+## `Write`<a href="method-write" id="method-write"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -183,7 +183,7 @@ protected void Write(string value)
 
 ***  
 
-## `WriteLeb128`<a href="WriteLeb128-m" id="WriteLeb128-m"></a>
+## `WriteLeb128`<a href="method-writeleb128" id="method-writeleb128"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

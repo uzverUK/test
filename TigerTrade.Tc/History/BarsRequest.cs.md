@@ -13,14 +13,14 @@ public sealed class BarsRequest
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`BarsRequest`](#BarsRequest-m) | *Описание* |
+| [`BarsRequest`](#method-barsrequest) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`RequestID`](#RequestID-p) | *Описание* |
-| [`Symbol`](#Symbol-p) | *Описание* |
-| [`TargetID`](#TargetID-p) | *Описание* |
+| [`RequestID`](#property-requestid) | *Описание* |
+| [`Symbol`](#property-symbol) | *Описание* |
+| [`TargetID`](#property-targetid) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class BarsRequest
 ***  
 # Методы
 
-## `BarsRequest`<a href="BarsRequest-m" id="BarsRequest-m"></a>
+## `BarsRequest`<a href="method-barsrequest" id="method-barsrequest"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public BarsRequest(Symbol symbol, string requestID, string targetID)
  ***  
 # Свойства
 
-## `RequestID`<a href="RequestID-p" id="RequestID-p"></a>
+## `RequestID`<a href="property-requestid" id="property-requestid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -60,7 +60,7 @@ public string RequestID { get; set; }
 ```  
 ***
 
-## `Symbol`<a href="Symbol-p" id="Symbol-p"></a>
+## `Symbol`<a href="property-symbol" id="property-symbol"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public Symbol Symbol { get; set; }
 ```  
 ***
 
-## `TargetID`<a href="TargetID-p" id="TargetID-p"></a>
+## `TargetID`<a href="property-targetid" id="property-targetid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

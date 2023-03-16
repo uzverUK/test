@@ -13,9 +13,9 @@ public interface IDynamicProperty
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetPropertyHasStandardValues`](#GetPropertyHasStandardValues-m) | *Описание* |
-| [`GetPropertyReadOnly`](#GetPropertyReadOnly-m) | *Описание* |
-| [`GetPropertyVisibility`](#GetPropertyVisibility-m) | *Описание* |
+| [`GetPropertyHasStandardValues`](#method-getpropertyhasstandardvalues) | *Описание* |
+| [`GetPropertyReadOnly`](#method-getpropertyreadonly) | *Описание* |
+| [`GetPropertyVisibility`](#method-getpropertyvisibility) | *Описание* |
 
 
 
@@ -25,7 +25,7 @@ public interface IDynamicProperty
 ***  
 # Методы
 
-## `GetPropertyHasStandardValues`<a href="GetPropertyHasStandardValues-m" id="GetPropertyHasStandardValues-m"></a>
+## `GetPropertyHasStandardValues`<a href="method-getpropertyhasstandardvalues" id="method-getpropertyhasstandardvalues"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -38,7 +38,7 @@ bool GetPropertyHasStandardValues(string propertyName)
 
 ***  
 
-## `GetPropertyReadOnly`<a href="GetPropertyReadOnly-m" id="GetPropertyReadOnly-m"></a>
+## `GetPropertyReadOnly`<a href="method-getpropertyreadonly" id="method-getpropertyreadonly"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ bool GetPropertyReadOnly(string propertyName)
 
 ***  
 
-## `GetPropertyVisibility`<a href="GetPropertyVisibility-m" id="GetPropertyVisibility-m"></a>
+## `GetPropertyVisibility`<a href="method-getpropertyvisibility" id="method-getpropertyvisibility"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

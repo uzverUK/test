@@ -13,14 +13,14 @@ public sealed class XBrush
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`XBrush`](#XBrush-m) | *Описание* |
+| [`XBrush`](#method-xbrush) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Black`](#Black-p) | *Описание* |
-| [`Color`](#Color-p) | *Описание* |
-| [`White`](#White-p) | *Описание* |
+| [`Black`](#property-black) | *Описание* |
+| [`Color`](#property-color) | *Описание* |
+| [`White`](#property-white) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class XBrush
 ***  
 # Методы
 
-## `XBrush`<a href="XBrush-m" id="XBrush-m"></a>
+## `XBrush`<a href="method-xbrush" id="method-xbrush"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public XBrush(XColor color)
 
 ***  
 
-## `XBrush`<a href="XBrush-m" id="XBrush-m"></a>
+## `XBrush`<a href="method-xbrush" id="method-xbrush"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public XBrush(XColor color, int alpha)
  ***  
 # Свойства
 
-## `Black`<a href="Black-p" id="Black-p"></a>
+## `Black`<a href="property-black" id="property-black"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public static XBrush Black { get; }
 ```  
 ***
 
-## `Color`<a href="Color-p" id="Color-p"></a>
+## `Color`<a href="property-color" id="property-color"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public XColor Color { get; }
 ```  
 ***
 
-## `White`<a href="White-p" id="White-p"></a>
+## `White`<a href="property-white" id="property-white"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

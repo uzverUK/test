@@ -13,13 +13,13 @@ public sealed class BarsResponce
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`BarsResponce`](#BarsResponce-m) | *Описание* |
+| [`BarsResponce`](#method-barsresponce) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Reader`](#Reader-p) | *Описание* |
-| [`Request`](#Request-p) | *Описание* |
+| [`Reader`](#property-reader) | *Описание* |
+| [`Request`](#property-request) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ public sealed class BarsResponce
 ***  
 # Методы
 
-## `BarsResponce`<a href="BarsResponce-m" id="BarsResponce-m"></a>
+## `BarsResponce`<a href="method-barsresponce" id="method-barsresponce"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public BarsResponce(BarsRequest request, IDataReader<Bar> reader)
  ***  
 # Свойства
 
-## `Reader`<a href="Reader-p" id="Reader-p"></a>
+## `Reader`<a href="property-reader" id="property-reader"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ public IDataReader<Bar> Reader { get; }
 ```  
 ***
 
-## `Request`<a href="Request-p" id="Request-p"></a>
+## `Request`<a href="property-request" id="property-request"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

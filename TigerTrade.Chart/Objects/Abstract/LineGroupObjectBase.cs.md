@@ -13,16 +13,16 @@ public abstract class LineGroupObjectBase : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CalcPoint`](#CalcPoint-m) | *Описание* |
-| [`Draw`](#Draw-m) | *Описание* |
-| [`InObject`](#InObject-m) | *Описание* |
-| [`LineGroupObjectBase`](#LineGroupObjectBase-m) | *Описание* |
+| [`CalcPoint`](#method-calcpoint) | *Описание* |
+| [`Draw`](#method-draw) | *Описание* |
+| [`InObject`](#method-inobject) | *Описание* |
+| [`LineGroupObjectBase`](#method-linegroupobjectbase) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`EndPoints;`](#EndPoints;-p) | *Описание* |
-| [`StartPoints;`](#StartPoints;-p) | *Описание* |
+| [`EndPoints;`](#property-endpoints;) | *Описание* |
+| [`StartPoints;`](#property-startpoints;) | *Описание* |
 
 
 
@@ -32,7 +32,7 @@ public abstract class LineGroupObjectBase : LineObjectBase
 ***  
 # Методы
 
-## `CalcPoint`<a href="CalcPoint-m" id="CalcPoint-m"></a>
+## `CalcPoint`<a href="method-calcpoint" id="method-calcpoint"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -41,7 +41,7 @@ protected virtual void CalcPoint()
 
 ***  
 
-## `Draw`<a href="Draw-m" id="Draw-m"></a>
+## `Draw`<a href="method-draw" id="method-draw"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ protected override void Draw(DxVisualQueue visual, ref List<ObjectLabelInfo> lab
 
 ***  
 
-## `InObject`<a href="InObject-m" id="InObject-m"></a>
+## `InObject`<a href="method-inobject" id="method-inobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `LineGroupObjectBase`<a href="LineGroupObjectBase-m" id="LineGroupObjectBase-m"></a>
+## `LineGroupObjectBase`<a href="method-linegroupobjectbase" id="method-linegroupobjectbase"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -84,7 +84,7 @@ protected LineGroupObjectBase()
  ***  
 # Свойства
 
-## `EndPoints;`<a href="EndPoints;-p" id="EndPoints;-p"></a>
+## `EndPoints;`<a href="property-endpoints;" id="property-endpoints;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -92,7 +92,7 @@ protected Point[] EndPoints; {}
 ```  
 ***
 
-## `StartPoints;`<a href="StartPoints;-p" id="StartPoints;-p"></a>
+## `StartPoints;`<a href="property-startpoints;" id="property-startpoints;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

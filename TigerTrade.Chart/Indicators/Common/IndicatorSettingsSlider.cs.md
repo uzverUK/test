@@ -13,17 +13,17 @@ public sealed class IndicatorSettingsSlider : INotifyPropertyChanged
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`LargeChange`](#LargeChange-p) | *Описание* |
-| [`Maximum`](#Maximum-p) | *Описание* |
-| [`Minimum`](#Minimum-p) | *Описание* |
-| [`SmallChange`](#SmallChange-p) | *Описание* |
-| [`TickFrequency`](#TickFrequency-p) | *Описание* |
-| [`Value`](#Value-p) | *Описание* |
+| [`LargeChange`](#property-largechange) | *Описание* |
+| [`Maximum`](#property-maximum) | *Описание* |
+| [`Minimum`](#property-minimum) | *Описание* |
+| [`SmallChange`](#property-smallchange) | *Описание* |
+| [`TickFrequency`](#property-tickfrequency) | *Описание* |
+| [`Value`](#property-value) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](#PropertyChanged-p) | *Описание* |
+| [`PropertyChanged`](#event-propertychanged) | *Описание* |
 
 
 
@@ -32,7 +32,7 @@ public sealed class IndicatorSettingsSlider : INotifyPropertyChanged
  ***  
 # Свойства
 
-## `LargeChange`<a href="LargeChange-p" id="LargeChange-p"></a>
+## `LargeChange`<a href="property-largechange" id="property-largechange"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -40,7 +40,7 @@ public double LargeChange { get; set; }
 ```  
 ***
 
-## `Maximum`<a href="Maximum-p" id="Maximum-p"></a>
+## `Maximum`<a href="property-maximum" id="property-maximum"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public double Maximum { get; }
 ```  
 ***
 
-## `Minimum`<a href="Minimum-p" id="Minimum-p"></a>
+## `Minimum`<a href="property-minimum" id="property-minimum"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ public double Minimum { get; }
 ```  
 ***
 
-## `SmallChange`<a href="SmallChange-p" id="SmallChange-p"></a>
+## `SmallChange`<a href="property-smallchange" id="property-smallchange"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -64,7 +64,7 @@ public double SmallChange { get; set; }
 ```  
 ***
 
-## `TickFrequency`<a href="TickFrequency-p" id="TickFrequency-p"></a>
+## `TickFrequency`<a href="property-tickfrequency" id="property-tickfrequency"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -72,7 +72,7 @@ public double TickFrequency { get; set; }
 ```  
 ***
 
-## `Value`<a href="Value-p" id="Value-p"></a>
+## `Value`<a href="property-value" id="property-value"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -83,7 +83,7 @@ public double Value { get; set; }
  ***  
 # События
 
-## `PropertyChanged`<a href="PropertyChanged-p" id="PropertyChanged-p"></a>
+## `PropertyChanged`<a href="event-propertychanged" id="event-propertychanged"></a>
 Описание
 
 ```csharp

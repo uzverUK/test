@@ -13,42 +13,42 @@ public sealed class Order
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Order`](#Order-m) | *Описание* |
+| [`Order`](#method-order) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Account`](#Account-p) | *Описание* |
-| [`AvgFillPrice`](#AvgFillPrice-p) | *Описание* |
-| [`CancelInitiator`](#CancelInitiator-p) | *Описание* |
-| [`Comment`](#Comment-p) | *Описание* |
-| [`Connection`](#Connection-p) | *Описание* |
-| [`DisplayQty`](#DisplayQty-p) | *Описание* |
-| [`Filled`](#Filled-p) | *Описание* |
-| [`ID`](#ID-p) | *Описание* |
-| [`IsActive`](#IsActive-p) | *Описание* |
-| [`IsInactive`](#IsInactive-p) | *Описание* |
-| [`IsSplicedFuturesSymbol`](#IsSplicedFuturesSymbol-p) | *Описание* |
-| [`ModifyInitiator`](#ModifyInitiator-p) | *Описание* |
-| [`ModifyParams`](#ModifyParams-p) | *Описание* |
-| [`Options`](#Options-p) | *Описание* |
-| [`OrderID`](#OrderID-p) | *Описание* |
-| [`PlaceInitiator`](#PlaceInitiator-p) | *Описание* |
-| [`PosClose`](#PosClose-p) | *Описание* |
-| [`Price`](#Price-p) | *Описание* |
-| [`Quantity`](#Quantity-p) | *Описание* |
-| [`QuantityReal`](#QuantityReal-p) | *Описание* |
-| [`Remaining`](#Remaining-p) | *Описание* |
-| [`RoundTrip`](#RoundTrip-p) | *Описание* |
-| [`Side`](#Side-p) | *Описание* |
-| [`State`](#State-p) | *Описание* |
-| [`StopPrice`](#StopPrice-p) | *Описание* |
-| [`Symbol`](#Symbol-p) | *Описание* |
-| [`TakePrice`](#TakePrice-p) | *Описание* |
-| [`Time`](#Time-p) | *Описание* |
-| [`TransID`](#TransID-p) | *Описание* |
-| [`Type`](#Type-p) | *Описание* |
-| [`Validity`](#Validity-p) | *Описание* |
+| [`Account`](#property-account) | *Описание* |
+| [`AvgFillPrice`](#property-avgfillprice) | *Описание* |
+| [`CancelInitiator`](#property-cancelinitiator) | *Описание* |
+| [`Comment`](#property-comment) | *Описание* |
+| [`Connection`](#property-connection) | *Описание* |
+| [`DisplayQty`](#property-displayqty) | *Описание* |
+| [`Filled`](#property-filled) | *Описание* |
+| [`ID`](#property-id) | *Описание* |
+| [`IsActive`](#property-isactive) | *Описание* |
+| [`IsInactive`](#property-isinactive) | *Описание* |
+| [`IsSplicedFuturesSymbol`](#property-issplicedfuturessymbol) | *Описание* |
+| [`ModifyInitiator`](#property-modifyinitiator) | *Описание* |
+| [`ModifyParams`](#property-modifyparams) | *Описание* |
+| [`Options`](#property-options) | *Описание* |
+| [`OrderID`](#property-orderid) | *Описание* |
+| [`PlaceInitiator`](#property-placeinitiator) | *Описание* |
+| [`PosClose`](#property-posclose) | *Описание* |
+| [`Price`](#property-price) | *Описание* |
+| [`Quantity`](#property-quantity) | *Описание* |
+| [`QuantityReal`](#property-quantityreal) | *Описание* |
+| [`Remaining`](#property-remaining) | *Описание* |
+| [`RoundTrip`](#property-roundtrip) | *Описание* |
+| [`Side`](#property-side) | *Описание* |
+| [`State`](#property-state) | *Описание* |
+| [`StopPrice`](#property-stopprice) | *Описание* |
+| [`Symbol`](#property-symbol) | *Описание* |
+| [`TakePrice`](#property-takeprice) | *Описание* |
+| [`Time`](#property-time) | *Описание* |
+| [`TransID`](#property-transid) | *Описание* |
+| [`Type`](#property-type) | *Описание* |
+| [`Validity`](#property-validity) | *Описание* |
 
 
 
@@ -58,7 +58,7 @@ public sealed class Order
 ***  
 # Методы
 
-## `Order`<a href="Order-m" id="Order-m"></a>
+## `Order`<a href="method-order" id="method-order"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public Order(Symbol symbol, Account account)
 
 ***  
 
-## `Order`<a href="Order-m" id="Order-m"></a>
+## `Order`<a href="method-order" id="method-order"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -97,7 +97,7 @@ public Order(Symbol symbol, Account account, Hashtable options)
  ***  
 # Свойства
 
-## `Account`<a href="Account-p" id="Account-p"></a>
+## `Account`<a href="property-account" id="property-account"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -105,7 +105,7 @@ public Account Account { get; }
 ```  
 ***
 
-## `AvgFillPrice`<a href="AvgFillPrice-p" id="AvgFillPrice-p"></a>
+## `AvgFillPrice`<a href="property-avgfillprice" id="property-avgfillprice"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public double? AvgFillPrice { get; set; }
 ```  
 ***
 
-## `CancelInitiator`<a href="CancelInitiator-p" id="CancelInitiator-p"></a>
+## `CancelInitiator`<a href="property-cancelinitiator" id="property-cancelinitiator"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -121,7 +121,7 @@ public string CancelInitiator { get; set; }
 ```  
 ***
 
-## `Comment`<a href="Comment-p" id="Comment-p"></a>
+## `Comment`<a href="property-comment" id="property-comment"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -129,7 +129,7 @@ public string Comment { get; set; }
 ```  
 ***
 
-## `Connection`<a href="Connection-p" id="Connection-p"></a>
+## `Connection`<a href="property-connection" id="property-connection"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -137,7 +137,7 @@ public ConnectionInfo Connection { get; }
 ```  
 ***
 
-## `DisplayQty`<a href="DisplayQty-p" id="DisplayQty-p"></a>
+## `DisplayQty`<a href="property-displayqty" id="property-displayqty"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -145,7 +145,7 @@ public long? DisplayQty { get; set; }
 ```  
 ***
 
-## `Filled`<a href="Filled-p" id="Filled-p"></a>
+## `Filled`<a href="property-filled" id="property-filled"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -153,7 +153,7 @@ public long Filled { get; set; }
 ```  
 ***
 
-## `ID`<a href="ID-p" id="ID-p"></a>
+## `ID`<a href="property-id" id="property-id"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -161,7 +161,7 @@ public string ID { get; }
 ```  
 ***
 
-## `IsActive`<a href="IsActive-p" id="IsActive-p"></a>
+## `IsActive`<a href="property-isactive" id="property-isactive"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -169,7 +169,7 @@ public bool IsActive { get; }
 ```  
 ***
 
-## `IsInactive`<a href="IsInactive-p" id="IsInactive-p"></a>
+## `IsInactive`<a href="property-isinactive" id="property-isinactive"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -177,7 +177,7 @@ public bool IsInactive { get; }
 ```  
 ***
 
-## `IsSplicedFuturesSymbol`<a href="IsSplicedFuturesSymbol-p" id="IsSplicedFuturesSymbol-p"></a>
+## `IsSplicedFuturesSymbol`<a href="property-issplicedfuturessymbol" id="property-issplicedfuturessymbol"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -185,7 +185,7 @@ public bool IsSplicedFuturesSymbol { get; private set; }
 ```  
 ***
 
-## `ModifyInitiator`<a href="ModifyInitiator-p" id="ModifyInitiator-p"></a>
+## `ModifyInitiator`<a href="property-modifyinitiator" id="property-modifyinitiator"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -193,7 +193,7 @@ public string ModifyInitiator { get; set; }
 ```  
 ***
 
-## `ModifyParams`<a href="ModifyParams-p" id="ModifyParams-p"></a>
+## `ModifyParams`<a href="property-modifyparams" id="property-modifyparams"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -201,7 +201,7 @@ public OrderModifyParams ModifyParams { get; set; }
 ```  
 ***
 
-## `Options`<a href="Options-p" id="Options-p"></a>
+## `Options`<a href="property-options" id="property-options"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -209,7 +209,7 @@ public Hashtable Options { get; }
 ```  
 ***
 
-## `OrderID`<a href="OrderID-p" id="OrderID-p"></a>
+## `OrderID`<a href="property-orderid" id="property-orderid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -217,7 +217,7 @@ public string OrderID { get; internal set; }
 ```  
 ***
 
-## `PlaceInitiator`<a href="PlaceInitiator-p" id="PlaceInitiator-p"></a>
+## `PlaceInitiator`<a href="property-placeinitiator" id="property-placeinitiator"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -225,7 +225,7 @@ public string PlaceInitiator { get; set; }
 ```  
 ***
 
-## `PosClose`<a href="PosClose-p" id="PosClose-p"></a>
+## `PosClose`<a href="property-posclose" id="property-posclose"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -233,7 +233,7 @@ public bool PosClose { get; set; }
 ```  
 ***
 
-## `Price`<a href="Price-p" id="Price-p"></a>
+## `Price`<a href="property-price" id="property-price"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -241,7 +241,7 @@ public long Price { get; set; }
 ```  
 ***
 
-## `Quantity`<a href="Quantity-p" id="Quantity-p"></a>
+## `Quantity`<a href="property-quantity" id="property-quantity"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -249,7 +249,7 @@ public long Quantity { get; set; }
 ```  
 ***
 
-## `QuantityReal`<a href="QuantityReal-p" id="QuantityReal-p"></a>
+## `QuantityReal`<a href="property-quantityreal" id="property-quantityreal"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -257,7 +257,7 @@ public double QuantityReal { get; set; }
 ```  
 ***
 
-## `Remaining`<a href="Remaining-p" id="Remaining-p"></a>
+## `Remaining`<a href="property-remaining" id="property-remaining"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -265,7 +265,7 @@ public long Remaining { get; set; }
 ```  
 ***
 
-## `RoundTrip`<a href="RoundTrip-p" id="RoundTrip-p"></a>
+## `RoundTrip`<a href="property-roundtrip" id="property-roundtrip"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -273,7 +273,7 @@ public RoundTrip RoundTrip { get; }
 ```  
 ***
 
-## `Side`<a href="Side-p" id="Side-p"></a>
+## `Side`<a href="property-side" id="property-side"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -281,7 +281,7 @@ public Side Side { get; set; }
 ```  
 ***
 
-## `State`<a href="State-p" id="State-p"></a>
+## `State`<a href="property-state" id="property-state"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -289,7 +289,7 @@ public OrderState State { get; set; }
 ```  
 ***
 
-## `StopPrice`<a href="StopPrice-p" id="StopPrice-p"></a>
+## `StopPrice`<a href="property-stopprice" id="property-stopprice"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -297,7 +297,7 @@ public long StopPrice { get; set; }
 ```  
 ***
 
-## `Symbol`<a href="Symbol-p" id="Symbol-p"></a>
+## `Symbol`<a href="property-symbol" id="property-symbol"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -305,7 +305,7 @@ public Symbol Symbol { get; }
 ```  
 ***
 
-## `TakePrice`<a href="TakePrice-p" id="TakePrice-p"></a>
+## `TakePrice`<a href="property-takeprice" id="property-takeprice"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -313,7 +313,7 @@ public long TakePrice { get; set; }
 ```  
 ***
 
-## `Time`<a href="Time-p" id="Time-p"></a>
+## `Time`<a href="property-time" id="property-time"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -321,7 +321,7 @@ public DateTime Time { get; set; }
 ```  
 ***
 
-## `TransID`<a href="TransID-p" id="TransID-p"></a>
+## `TransID`<a href="property-transid" id="property-transid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -329,7 +329,7 @@ public string TransID { get; internal set; }
 ```  
 ***
 
-## `Type`<a href="Type-p" id="Type-p"></a>
+## `Type`<a href="property-type" id="property-type"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -337,7 +337,7 @@ public OrderType Type { get; set; }
 ```  
 ***
 
-## `Validity`<a href="Validity-p" id="Validity-p"></a>
+## `Validity`<a href="property-validity" id="property-validity"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

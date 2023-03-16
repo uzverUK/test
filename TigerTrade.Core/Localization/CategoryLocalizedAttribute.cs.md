@@ -13,7 +13,7 @@ public sealed class CategoryLocalizedAttribute : CategoryAttribute
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CategoryLocalizedAttribute`](#CategoryLocalizedAttribute-m) | *Описание* |
+| [`CategoryLocalizedAttribute`](#method-categorylocalizedattribute) | *Описание* |
 
 
 
@@ -23,7 +23,7 @@ public sealed class CategoryLocalizedAttribute : CategoryAttribute
 ***  
 # Методы
 
-## `CategoryLocalizedAttribute`<a href="CategoryLocalizedAttribute-m" id="CategoryLocalizedAttribute-m"></a>
+## `CategoryLocalizedAttribute`<a href="method-categorylocalizedattribute" id="method-categorylocalizedattribute"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

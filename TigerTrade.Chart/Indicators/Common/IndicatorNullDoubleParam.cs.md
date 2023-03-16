@@ -13,8 +13,8 @@ public sealed class IndicatorNullDoubleParam : IndicatorParam<double?>
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorNullDoubleParam`](#IndicatorNullDoubleParam-m) | *Описание* |
-| [`Set`](#Set-m) | *Описание* |
+| [`IndicatorNullDoubleParam`](#method-indicatornulldoubleparam) | *Описание* |
+| [`Set`](#method-set) | *Описание* |
 
 
 
@@ -24,7 +24,7 @@ public sealed class IndicatorNullDoubleParam : IndicatorParam<double?>
 ***  
 # Методы
 
-## `IndicatorNullDoubleParam`<a href="IndicatorNullDoubleParam-m" id="IndicatorNullDoubleParam-m"></a>
+## `IndicatorNullDoubleParam`<a href="method-indicatornulldoubleparam" id="method-indicatornulldoubleparam"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -33,7 +33,7 @@ public IndicatorNullDoubleParam()
 
 ***  
 
-## `IndicatorNullDoubleParam`<a href="IndicatorNullDoubleParam-m" id="IndicatorNullDoubleParam-m"></a>
+## `IndicatorNullDoubleParam`<a href="method-indicatornulldoubleparam" id="method-indicatornulldoubleparam"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public IndicatorNullDoubleParam(double? value)
 
 ***  
 
-## `Set`<a href="Set-m" id="Set-m"></a>
+## `Set`<a href="method-set" id="method-set"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

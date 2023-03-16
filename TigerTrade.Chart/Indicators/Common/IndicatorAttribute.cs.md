@@ -13,16 +13,16 @@ public class IndicatorAttribute : Attribute
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorAttribute`](#IndicatorAttribute-m) | *Описание* |
+| [`IndicatorAttribute`](#method-indicatorattribute) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Category`](#Category-p) | *Описание* |
-| [`ID`](#ID-p) | *Описание* |
-| [`Name`](#Name-p) | *Описание* |
-| [`Overlay`](#Overlay-p) | *Описание* |
-| [`Type`](#Type-p) | *Описание* |
+| [`Category`](#property-category) | *Описание* |
+| [`ID`](#property-id) | *Описание* |
+| [`Name`](#property-name) | *Описание* |
+| [`Overlay`](#property-overlay) | *Описание* |
+| [`Type`](#property-type) | *Описание* |
 
 
 
@@ -32,7 +32,7 @@ public class IndicatorAttribute : Attribute
 ***  
 # Методы
 
-## `IndicatorAttribute`<a href="IndicatorAttribute-m" id="IndicatorAttribute-m"></a>
+## `IndicatorAttribute`<a href="method-indicatorattribute" id="method-indicatorattribute"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ public IndicatorAttribute(string id, string name, bool overlay)
  ***  
 # Свойства
 
-## `Category`<a href="Category-p" id="Category-p"></a>
+## `Category`<a href="property-category" id="property-category"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public string Category { get; set; }
 ```  
 ***
 
-## `ID`<a href="ID-p" id="ID-p"></a>
+## `ID`<a href="property-id" id="property-id"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -70,7 +70,7 @@ public string ID { get; }
 ```  
 ***
 
-## `Name`<a href="Name-p" id="Name-p"></a>
+## `Name`<a href="property-name" id="property-name"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -78,7 +78,7 @@ public string Name { get; }
 ```  
 ***
 
-## `Overlay`<a href="Overlay-p" id="Overlay-p"></a>
+## `Overlay`<a href="property-overlay" id="property-overlay"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -86,7 +86,7 @@ public bool Overlay { get; }
 ```  
 ***
 
-## `Type`<a href="Type-p" id="Type-p"></a>
+## `Type`<a href="property-type" id="property-type"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

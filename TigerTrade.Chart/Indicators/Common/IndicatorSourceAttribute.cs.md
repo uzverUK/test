@@ -13,13 +13,13 @@ public class IndicatorSourceAttribute : Attribute
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorSourceAttribute`](#IndicatorSourceAttribute-m) | *Описание* |
+| [`IndicatorSourceAttribute`](#method-indicatorsourceattribute) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Name`](#Name-p) | *Описание* |
-| [`Type`](#Type-p) | *Описание* |
+| [`Name`](#property-name) | *Описание* |
+| [`Type`](#property-type) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ public class IndicatorSourceAttribute : Attribute
 ***  
 # Методы
 
-## `IndicatorSourceAttribute`<a href="IndicatorSourceAttribute-m" id="IndicatorSourceAttribute-m"></a>
+## `IndicatorSourceAttribute`<a href="method-indicatorsourceattribute" id="method-indicatorsourceattribute"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public IndicatorSourceAttribute(string name)
  ***  
 # Свойства
 
-## `Name`<a href="Name-p" id="Name-p"></a>
+## `Name`<a href="property-name" id="property-name"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ public string Name { get; }
 ```  
 ***
 
-## `Type`<a href="Type-p" id="Type-p"></a>
+## `Type`<a href="property-type" id="property-type"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,24 +13,24 @@ public sealed class ObjectLine : INotifyPropertyChanged
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ObjectLine`](#ObjectLine-m) | *Описание* |
-| [`ToString`](#ToString-m) | *Описание* |
+| [`ObjectLine`](#method-objectline) | *Описание* |
+| [`ToString`](#method-tostring) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`LineBrush`](#LineBrush-p) | *Описание* |
-| [`LineColor`](#LineColor-p) | *Описание* |
-| [`LinePen`](#LinePen-p) | *Описание* |
-| [`LineStyle`](#LineStyle-p) | *Описание* |
-| [`LineWidth`](#LineWidth-p) | *Описание* |
-| [`ShowLine`](#ShowLine-p) | *Описание* |
-| [`Value`](#Value-p) | *Описание* |
+| [`LineBrush`](#property-linebrush) | *Описание* |
+| [`LineColor`](#property-linecolor) | *Описание* |
+| [`LinePen`](#property-linepen) | *Описание* |
+| [`LineStyle`](#property-linestyle) | *Описание* |
+| [`LineWidth`](#property-linewidth) | *Описание* |
+| [`ShowLine`](#property-showline) | *Описание* |
+| [`Value`](#property-value) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`PropertyChanged`](#PropertyChanged-p) | *Описание* |
+| [`PropertyChanged`](#event-propertychanged) | *Описание* |
 
 
 
@@ -40,7 +40,7 @@ public sealed class ObjectLine : INotifyPropertyChanged
 ***  
 # Методы
 
-## `ObjectLine`<a href="ObjectLine-m" id="ObjectLine-m"></a>
+## `ObjectLine`<a href="method-objectline" id="method-objectline"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public ObjectLine()
 
 ***  
 
-## `ObjectLine`<a href="ObjectLine-m" id="ObjectLine-m"></a>
+## `ObjectLine`<a href="method-objectline" id="method-objectline"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -66,7 +66,7 @@ public ObjectLine(double value, XColor color)
 
 ***  
 
-## `ObjectLine`<a href="ObjectLine-m" id="ObjectLine-m"></a>
+## `ObjectLine`<a href="method-objectline" id="method-objectline"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ public ObjectLine(ObjectLine line)
 
 ***  
 
-## `ToString`<a href="ToString-m" id="ToString-m"></a>
+## `ToString`<a href="method-tostring" id="method-tostring"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `LineBrush`<a href="LineBrush-p" id="LineBrush-p"></a>
+## `LineBrush`<a href="property-linebrush" id="property-linebrush"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -107,7 +107,7 @@ public XBrush LineBrush { get; private set; }
 ```  
 ***
 
-## `LineColor`<a href="LineColor-p" id="LineColor-p"></a>
+## `LineColor`<a href="property-linecolor" id="property-linecolor"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -115,7 +115,7 @@ public XColor LineColor { get; set; }
 ```  
 ***
 
-## `LinePen`<a href="LinePen-p" id="LinePen-p"></a>
+## `LinePen`<a href="property-linepen" id="property-linepen"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -123,7 +123,7 @@ public XPen LinePen { get; private set; }
 ```  
 ***
 
-## `LineStyle`<a href="LineStyle-p" id="LineStyle-p"></a>
+## `LineStyle`<a href="property-linestyle" id="property-linestyle"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -131,7 +131,7 @@ public XDashStyle LineStyle { get; set; }
 ```  
 ***
 
-## `LineWidth`<a href="LineWidth-p" id="LineWidth-p"></a>
+## `LineWidth`<a href="property-linewidth" id="property-linewidth"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -139,7 +139,7 @@ public int LineWidth { get; set; }
 ```  
 ***
 
-## `ShowLine`<a href="ShowLine-p" id="ShowLine-p"></a>
+## `ShowLine`<a href="property-showline" id="property-showline"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -147,7 +147,7 @@ public bool ShowLine { get; set; }
 ```  
 ***
 
-## `Value`<a href="Value-p" id="Value-p"></a>
+## `Value`<a href="property-value" id="property-value"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -158,7 +158,7 @@ public double Value { get; set; }
  ***  
 # События
 
-## `PropertyChanged`<a href="PropertyChanged-p" id="PropertyChanged-p"></a>
+## `PropertyChanged`<a href="event-propertychanged" id="event-propertychanged"></a>
 Описание
 
 ```csharp

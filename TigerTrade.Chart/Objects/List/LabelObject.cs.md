@@ -13,19 +13,19 @@ public sealed class LabelObject : PolygonObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ApplyTheme`](#ApplyTheme-m) | *Описание* |
-| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
-| [`Draw`](#Draw-m) | *Описание* |
-| [`InObject`](#InObject-m) | *Описание* |
-| [`LabelObject`](#LabelObject-m) | *Описание* |
+| [`ApplyTheme`](#method-applytheme) | *Описание* |
+| [`CopyTemplate`](#method-copytemplate) | *Описание* |
+| [`Draw`](#method-draw) | *Описание* |
+| [`InObject`](#method-inobject) | *Описание* |
+| [`LabelObject`](#method-labelobject) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`FontSize`](#FontSize-p) | *Описание* |
-| [`LabelColor`](#LabelColor-p) | *Описание* |
-| [`LabelText`](#LabelText-p) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
+| [`FontSize`](#property-fontsize) | *Описание* |
+| [`LabelColor`](#property-labelcolor) | *Описание* |
+| [`LabelText`](#property-labeltext) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#property-xsujlz3bylfkxacpnf53) | *Описание* |
 
 
 
@@ -35,7 +35,7 @@ public sealed class LabelObject : PolygonObjectBase
 ***  
 # Методы
 
-## `ApplyTheme`<a href="ApplyTheme-m" id="ApplyTheme-m"></a>
+## `ApplyTheme`<a href="method-applytheme" id="method-applytheme"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -48,7 +48,7 @@ public override void ApplyTheme(IChartTheme theme)
 
 ***  
 
-## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
+## `CopyTemplate`<a href="method-copytemplate" id="method-copytemplate"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="Draw-m" id="Draw-m"></a>
+## `Draw`<a href="method-draw" id="method-draw"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -78,7 +78,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `InObject`<a href="InObject-m" id="InObject-m"></a>
+## `InObject`<a href="method-inobject" id="method-inobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `LabelObject`<a href="LabelObject-m" id="LabelObject-m"></a>
+## `LabelObject`<a href="method-labelobject" id="method-labelobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -105,7 +105,7 @@ public LabelObject()
  ***  
 # Свойства
 
-## `FontSize`<a href="FontSize-p" id="FontSize-p"></a>
+## `FontSize`<a href="property-fontsize" id="property-fontsize"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -113,7 +113,7 @@ public int FontSize { get; set; }
 ```  
 ***
 
-## `LabelColor`<a href="LabelColor-p" id="LabelColor-p"></a>
+## `LabelColor`<a href="property-labelcolor" id="property-labelcolor"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -121,7 +121,7 @@ public XColor LabelColor { get; set; }
 ```  
 ***
 
-## `LabelText`<a href="LabelText-p" id="LabelText-p"></a>
+## `LabelText`<a href="property-labeltext" id="property-labeltext"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -129,7 +129,7 @@ public string LabelText { get; set; }
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `xsuJlZ3bylFkXacpNF53`<a href="property-xsujlz3bylfkxacpnf53" id="property-xsujlz3bylfkxacpnf53"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

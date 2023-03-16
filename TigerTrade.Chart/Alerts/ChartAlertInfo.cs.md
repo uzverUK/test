@@ -13,18 +13,18 @@ public sealed class ChartAlertInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChartAlertInfo`](#ChartAlertInfo-m) | *Описание* |
+| [`ChartAlertInfo`](#method-chartalertinfo) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Duration`](#Duration-p) | *Описание* |
-| [`Log`](#Log-p) | *Описание* |
-| [`Message`](#Message-p) | *Описание* |
-| [`SendEmail`](#SendEmail-p) | *Описание* |
-| [`SendTelegram`](#SendTelegram-p) | *Описание* |
-| [`ShowPopup`](#ShowPopup-p) | *Описание* |
-| [`Signal`](#Signal-p) | *Описание* |
+| [`Duration`](#property-duration) | *Описание* |
+| [`Log`](#property-log) | *Описание* |
+| [`Message`](#property-message) | *Описание* |
+| [`SendEmail`](#property-sendemail) | *Описание* |
+| [`SendTelegram`](#property-sendtelegram) | *Описание* |
+| [`ShowPopup`](#property-showpopup) | *Описание* |
+| [`Signal`](#property-signal) | *Описание* |
 
 
 
@@ -34,7 +34,7 @@ public sealed class ChartAlertInfo
 ***  
 # Методы
 
-## `ChartAlertInfo`<a href="ChartAlertInfo-m" id="ChartAlertInfo-m"></a>
+## `ChartAlertInfo`<a href="method-chartalertinfo" id="method-chartalertinfo"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ public ChartAlertInfo(ChartAlertSettings settings, string message)
  ***  
 # Свойства
 
-## `Duration`<a href="Duration-p" id="Duration-p"></a>
+## `Duration`<a href="property-duration" id="property-duration"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public int Duration { get; }
 ```  
 ***
 
-## `Log`<a href="Log-p" id="Log-p"></a>
+## `Log`<a href="property-log" id="property-log"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public bool Log { get; }
 ```  
 ***
 
-## `Message`<a href="Message-p" id="Message-p"></a>
+## `Message`<a href="property-message" id="property-message"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public string Message { get; }
 ```  
 ***
 
-## `SendEmail`<a href="SendEmail-p" id="SendEmail-p"></a>
+## `SendEmail`<a href="property-sendemail" id="property-sendemail"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public bool SendEmail { get; }
 ```  
 ***
 
-## `SendTelegram`<a href="SendTelegram-p" id="SendTelegram-p"></a>
+## `SendTelegram`<a href="property-sendtelegram" id="property-sendtelegram"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -93,7 +93,7 @@ public bool SendTelegram { get; }
 ```  
 ***
 
-## `ShowPopup`<a href="ShowPopup-p" id="ShowPopup-p"></a>
+## `ShowPopup`<a href="property-showpopup" id="property-showpopup"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -101,7 +101,7 @@ public bool ShowPopup { get; }
 ```  
 ***
 
-## `Signal`<a href="Signal-p" id="Signal-p"></a>
+## `Signal`<a href="property-signal" id="property-signal"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

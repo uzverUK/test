@@ -13,15 +13,15 @@ public sealed class HistoryPlayerStats
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`HistoryPlayerStats`](#HistoryPlayerStats-m) | *Описание* |
+| [`HistoryPlayerStats`](#method-historyplayerstats) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`CurrentTime`](#CurrentTime-p) | *Описание* |
-| [`RecordDate`](#RecordDate-p) | *Описание* |
-| [`SymbolID`](#SymbolID-p) | *Описание* |
-| [`SymbolName`](#SymbolName-p) | *Описание* |
+| [`CurrentTime`](#property-currenttime) | *Описание* |
+| [`RecordDate`](#property-recorddate) | *Описание* |
+| [`SymbolID`](#property-symbolid) | *Описание* |
+| [`SymbolName`](#property-symbolname) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public sealed class HistoryPlayerStats
 ***  
 # Методы
 
-## `HistoryPlayerStats`<a href="HistoryPlayerStats-m" id="HistoryPlayerStats-m"></a>
+## `HistoryPlayerStats`<a href="method-historyplayerstats" id="method-historyplayerstats"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public HistoryPlayerStats()
  ***  
 # Свойства
 
-## `CurrentTime`<a href="CurrentTime-p" id="CurrentTime-p"></a>
+## `CurrentTime`<a href="property-currenttime" id="property-currenttime"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ public DateTime CurrentTime { get; set; }
 ```  
 ***
 
-## `RecordDate`<a href="RecordDate-p" id="RecordDate-p"></a>
+## `RecordDate`<a href="property-recorddate" id="property-recorddate"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -59,7 +59,7 @@ public DateTime RecordDate { get; set; }
 ```  
 ***
 
-## `SymbolID`<a href="SymbolID-p" id="SymbolID-p"></a>
+## `SymbolID`<a href="property-symbolid" id="property-symbolid"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public string SymbolID { get; set; }
 ```  
 ***
 
-## `SymbolName`<a href="SymbolName-p" id="SymbolName-p"></a>
+## `SymbolName`<a href="property-symbolname" id="property-symbolname"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,17 +13,17 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`ChaikinsVolatilitySource`](#ChaikinsVolatilitySource-m) | *Описание* |
-| [`CopySettings`](#CopySettings-m) | *Описание* |
-| [`GetSeries`](#GetSeries-m) | *Описание* |
-| [`GetSeriesList`](#GetSeriesList-m) | *Описание* |
-| [`ToString`](#ToString-m) | *Описание* |
+| [`ChaikinsVolatilitySource`](#method-chaikinsvolatilitysource) | *Описание* |
+| [`CopySettings`](#method-copysettings) | *Описание* |
+| [`GetSeries`](#method-getseries) | *Описание* |
+| [`GetSeriesList`](#method-getserieslist) | *Описание* |
+| [`ToString`](#method-tostring) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`MaType`](#MaType-p) | *Описание* |
-| [`Period`](#Period-p) | *Описание* |
+| [`MaType`](#property-matype) | *Описание* |
+| [`Period`](#property-period) | *Описание* |
 
 
 
@@ -33,7 +33,7 @@ public sealed class ChaikinsVolatilitySource : IndicatorSourceBase
 ***  
 # Методы
 
-## `ChaikinsVolatilitySource`<a href="ChaikinsVolatilitySource-m" id="ChaikinsVolatilitySource-m"></a>
+## `ChaikinsVolatilitySource`<a href="method-chaikinsvolatilitysource" id="method-chaikinsvolatilitysource"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -42,7 +42,7 @@ public ChaikinsVolatilitySource()
 
 ***  
 
-## `CopySettings`<a href="CopySettings-m" id="CopySettings-m"></a>
+## `CopySettings`<a href="method-copysettings" id="method-copysettings"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -55,7 +55,7 @@ public override void CopySettings(IndicatorSourceBase source)
 
 ***  
 
-## `GetSeries`<a href="GetSeries-m" id="GetSeries-m"></a>
+## `GetSeries`<a href="method-getseries" id="method-getseries"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -67,7 +67,7 @@ public override double[] GetSeries(IndicatorsHelper helper)
 
 ***  
 
-## `GetSeriesList`<a href="GetSeriesList-m" id="GetSeriesList-m"></a>
+## `GetSeriesList`<a href="method-getserieslist" id="method-getserieslist"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public override IEnumerable<string> GetSeriesList()
 
 ***  
 
-## `ToString`<a href="ToString-m" id="ToString-m"></a>
+## `ToString`<a href="method-tostring" id="method-tostring"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -91,7 +91,7 @@ public override string ToString()
  ***  
 # Свойства
 
-## `MaType`<a href="MaType-p" id="MaType-p"></a>
+## `MaType`<a href="property-matype" id="property-matype"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ public IndicatorMaType MaType { get; set; }
 ```  
 ***
 
-## `Period`<a href="Period-p" id="Period-p"></a>
+## `Period`<a href="property-period" id="property-period"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

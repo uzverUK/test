@@ -13,19 +13,19 @@ public sealed class Bar
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Bar`](#Bar-m) | *Описание* |
+| [`Bar`](#method-bar) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Close;`](#Close;-p) | *Описание* |
-| [`High;`](#High;-p) | *Описание* |
-| [`Low;`](#Low;-p) | *Описание* |
-| [`Open;`](#Open;-p) | *Описание* |
-| [`OpenPos;`](#OpenPos;-p) | *Описание* |
-| [`Time;`](#Time;-p) | *Описание* |
-| [`TotalVol;`](#TotalVol;-p) | *Описание* |
-| [`Volume;`](#Volume;-p) | *Описание* |
+| [`Close;`](#property-close;) | *Описание* |
+| [`High;`](#property-high;) | *Описание* |
+| [`Low;`](#property-low;) | *Описание* |
+| [`Open;`](#property-open;) | *Описание* |
+| [`OpenPos;`](#property-openpos;) | *Описание* |
+| [`Time;`](#property-time;) | *Описание* |
+| [`TotalVol;`](#property-totalvol;) | *Описание* |
+| [`Volume;`](#property-volume;) | *Описание* |
 
 
 
@@ -35,7 +35,7 @@ public sealed class Bar
 ***  
 # Методы
 
-## `Bar`<a href="Bar-m" id="Bar-m"></a>
+## `Bar`<a href="method-bar" id="method-bar"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public Bar()
  ***  
 # Свойства
 
-## `Close;`<a href="Close;-p" id="Close;-p"></a>
+## `Close;`<a href="property-close;" id="property-close;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -55,7 +55,7 @@ public double Close; {}
 ```  
 ***
 
-## `High;`<a href="High;-p" id="High;-p"></a>
+## `High;`<a href="property-high;" id="property-high;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public double High; {}
 ```  
 ***
 
-## `Low;`<a href="Low;-p" id="Low;-p"></a>
+## `Low;`<a href="property-low;" id="property-low;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -71,7 +71,7 @@ public double Low; {}
 ```  
 ***
 
-## `Open;`<a href="Open;-p" id="Open;-p"></a>
+## `Open;`<a href="property-open;" id="property-open;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public double Open; {}
 ```  
 ***
 
-## `OpenPos;`<a href="OpenPos;-p" id="OpenPos;-p"></a>
+## `OpenPos;`<a href="property-openpos;" id="property-openpos;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ public long OpenPos; {}
 ```  
 ***
 
-## `Time;`<a href="Time;-p" id="Time;-p"></a>
+## `Time;`<a href="property-time;" id="property-time;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -95,7 +95,7 @@ public DateTime Time; {}
 ```  
 ***
 
-## `TotalVol;`<a href="TotalVol;-p" id="TotalVol;-p"></a>
+## `TotalVol;`<a href="property-totalvol;" id="property-totalvol;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -103,7 +103,7 @@ public long TotalVol; {}
 ```  
 ***
 
-## `Volume;`<a href="Volume;-p" id="Volume;-p"></a>
+## `Volume;`<a href="property-volume;" id="property-volume;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

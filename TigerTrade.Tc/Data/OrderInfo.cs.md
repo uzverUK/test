@@ -13,15 +13,15 @@ public sealed class OrderInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`OrderInfo`](#OrderInfo-m) | *Описание* |
+| [`OrderInfo`](#method-orderinfo) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`ErrorMsg`](#ErrorMsg-p) | *Описание* |
-| [`Order`](#Order-p) | *Описание* |
-| [`Silent`](#Silent-p) | *Описание* |
-| [`Status`](#Status-p) | *Описание* |
+| [`ErrorMsg`](#property-errormsg) | *Описание* |
+| [`Order`](#property-order) | *Описание* |
+| [`Silent`](#property-silent) | *Описание* |
+| [`Status`](#property-status) | *Описание* |
 
 
 
@@ -31,7 +31,7 @@ public sealed class OrderInfo
 ***  
 # Методы
 
-## `OrderInfo`<a href="OrderInfo-m" id="OrderInfo-m"></a>
+## `OrderInfo`<a href="method-orderinfo" id="method-orderinfo"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -53,7 +53,7 @@ public OrderInfo(Order order, OrderStatus status, string errorMsg = "")
  ***  
 # Свойства
 
-## `ErrorMsg`<a href="ErrorMsg-p" id="ErrorMsg-p"></a>
+## `ErrorMsg`<a href="property-errormsg" id="property-errormsg"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public string ErrorMsg { get; set; }
 ```  
 ***
 
-## `Order`<a href="Order-p" id="Order-p"></a>
+## `Order`<a href="property-order" id="property-order"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public Order Order { get; }
 ```  
 ***
 
-## `Silent`<a href="Silent-p" id="Silent-p"></a>
+## `Silent`<a href="property-silent" id="property-silent"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public bool Silent { get; }
 ```  
 ***
 
-## `Status`<a href="Status-p" id="Status-p"></a>
+## `Status`<a href="property-status" id="property-status"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

@@ -13,14 +13,14 @@ public sealed class IndicatorLabelInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorLabelInfo`](#IndicatorLabelInfo-m) | *Описание* |
+| [`IndicatorLabelInfo`](#method-indicatorlabelinfo) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Color`](#Color-p) | *Описание* |
-| [`Position`](#Position-p) | *Описание* |
-| [`Value`](#Value-p) | *Описание* |
+| [`Color`](#property-color) | *Описание* |
+| [`Position`](#property-position) | *Описание* |
+| [`Value`](#property-value) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class IndicatorLabelInfo
 ***  
 # Методы
 
-## `IndicatorLabelInfo`<a href="IndicatorLabelInfo-m" id="IndicatorLabelInfo-m"></a>
+## `IndicatorLabelInfo`<a href="method-indicatorlabelinfo" id="method-indicatorlabelinfo"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -49,7 +49,7 @@ public IndicatorLabelInfo(double value, XColor color, double? position = null)
  ***  
 # Свойства
 
-## `Color`<a href="Color-p" id="Color-p"></a>
+## `Color`<a href="property-color" id="property-color"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -57,7 +57,7 @@ public XColor Color { get; }
 ```  
 ***
 
-## `Position`<a href="Position-p" id="Position-p"></a>
+## `Position`<a href="property-position" id="property-position"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ public double? Position { get; }
 ```  
 ***
 
-## `Value`<a href="Value-p" id="Value-p"></a>
+## `Value`<a href="property-value" id="property-value"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

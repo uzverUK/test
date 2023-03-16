@@ -13,11 +13,11 @@ public interface IChartTick
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`IsBuy`](#IsBuy-p) | *Описание* |
-| [`OpenInterest`](#OpenInterest-p) | *Описание* |
-| [`Price`](#Price-p) | *Описание* |
-| [`Size`](#Size-p) | *Описание* |
-| [`Time`](#Time-p) | *Описание* |
+| [`IsBuy`](#property-isbuy) | *Описание* |
+| [`OpenInterest`](#property-openinterest) | *Описание* |
+| [`Price`](#property-price) | *Описание* |
+| [`Size`](#property-size) | *Описание* |
+| [`Time`](#property-time) | *Описание* |
 
 
 
@@ -26,7 +26,7 @@ public interface IChartTick
  ***  
 # Свойства
 
-## `IsBuy`<a href="IsBuy-p" id="IsBuy-p"></a>
+## `IsBuy`<a href="property-isbuy" id="property-isbuy"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -34,7 +34,7 @@ bool IsBuy { get; }
 ```  
 ***
 
-## `OpenInterest`<a href="OpenInterest-p" id="OpenInterest-p"></a>
+## `OpenInterest`<a href="property-openinterest" id="property-openinterest"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -42,7 +42,7 @@ long OpenInterest { get; }
 ```  
 ***
 
-## `Price`<a href="Price-p" id="Price-p"></a>
+## `Price`<a href="property-price" id="property-price"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -50,7 +50,7 @@ Decimal Price { get; }
 ```  
 ***
 
-## `Size`<a href="Size-p" id="Size-p"></a>
+## `Size`<a href="property-size" id="property-size"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -58,7 +58,7 @@ Decimal Size { get; }
 ```  
 ***
 
-## `Time`<a href="Time-p" id="Time-p"></a>
+## `Time`<a href="property-time" id="property-time"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

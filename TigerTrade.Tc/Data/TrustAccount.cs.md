@@ -13,14 +13,14 @@ public sealed class TrustAccount
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`TrustAccount`](#TrustAccount-m) | *Описание* |
+| [`TrustAccount`](#method-trustaccount) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Accounts`](#Accounts-p) | *Описание* |
-| [`ID`](#ID-p) | *Описание* |
-| [`Name`](#Name-p) | *Описание* |
+| [`Accounts`](#property-accounts) | *Описание* |
+| [`ID`](#property-id) | *Описание* |
+| [`Name`](#property-name) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class TrustAccount
 ***  
 # Методы
 
-## `TrustAccount`<a href="TrustAccount-m" id="TrustAccount-m"></a>
+## `TrustAccount`<a href="method-trustaccount" id="method-trustaccount"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -46,7 +46,7 @@ public TrustAccount(string id)
  ***  
 # Свойства
 
-## `Accounts`<a href="Accounts-p" id="Accounts-p"></a>
+## `Accounts`<a href="property-accounts" id="property-accounts"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ public Dictionary<string, Decimal> Accounts { get; set; }
 ```  
 ***
 
-## `ID`<a href="ID-p" id="ID-p"></a>
+## `ID`<a href="property-id" id="property-id"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public string ID { get; set; }
 ```  
 ***
 
-## `Name`<a href="Name-p" id="Name-p"></a>
+## `Name`<a href="property-name" id="property-name"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

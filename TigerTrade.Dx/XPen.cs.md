@@ -13,14 +13,14 @@ public sealed class XPen
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`XPen`](#XPen-m) | *Описание* |
+| [`XPen`](#method-xpen) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Brush`](#Brush-p) | *Описание* |
-| [`Style`](#Style-p) | *Описание* |
-| [`Width`](#Width-p) | *Описание* |
+| [`Brush`](#property-brush) | *Описание* |
+| [`Style`](#property-style) | *Описание* |
+| [`Width`](#property-width) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class XPen
 ***  
 # Методы
 
-## `XPen`<a href="XPen-m" id="XPen-m"></a>
+## `XPen`<a href="method-xpen" id="method-xpen"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -46,7 +46,7 @@ public XPen(XBrush brush, int width)
 
 ***  
 
-## `XPen`<a href="XPen-m" id="XPen-m"></a>
+## `XPen`<a href="method-xpen" id="method-xpen"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -69,7 +69,7 @@ public XPen(XBrush brush, int width, XDashStyle style)
  ***  
 # Свойства
 
-## `Brush`<a href="Brush-p" id="Brush-p"></a>
+## `Brush`<a href="property-brush" id="property-brush"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ public XBrush Brush { get; }
 ```  
 ***
 
-## `Style`<a href="Style-p" id="Style-p"></a>
+## `Style`<a href="property-style" id="property-style"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -85,7 +85,7 @@ public XDashStyle Style { get; }
 ```  
 ***
 
-## `Width`<a href="Width-p" id="Width-p"></a>
+## `Width`<a href="property-width" id="property-width"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

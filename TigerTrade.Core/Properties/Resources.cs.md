@@ -13,8 +13,8 @@ public class Resources
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Culture`](#Culture-p) | *Описание* |
-| [`ResourceManager`](#ResourceManager-p) | *Описание* |
+| [`Culture`](#property-culture) | *Описание* |
+| [`ResourceManager`](#property-resourcemanager) | *Описание* |
 
 
 
@@ -23,7 +23,7 @@ public class Resources
  ***  
 # Свойства
 
-## `Culture`<a href="Culture-p" id="Culture-p"></a>
+## `Culture`<a href="property-culture" id="property-culture"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -31,7 +31,7 @@ public static CultureInfo Culture { get; set; }
 ```  
 ***
 
-## `ResourceManager`<a href="ResourceManager-p" id="ResourceManager-p"></a>
+## `ResourceManager`<a href="property-resourcemanager" id="property-resourcemanager"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

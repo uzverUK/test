@@ -13,8 +13,8 @@ public sealed class IndicatorIntParam : IndicatorParam<int>
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorIntParam`](#IndicatorIntParam-m) | *Описание* |
-| [`Set`](#Set-m) | *Описание* |
+| [`IndicatorIntParam`](#method-indicatorintparam) | *Описание* |
+| [`Set`](#method-set) | *Описание* |
 
 
 
@@ -24,7 +24,7 @@ public sealed class IndicatorIntParam : IndicatorParam<int>
 ***  
 # Методы
 
-## `IndicatorIntParam`<a href="IndicatorIntParam-m" id="IndicatorIntParam-m"></a>
+## `IndicatorIntParam`<a href="method-indicatorintparam" id="method-indicatorintparam"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -33,7 +33,7 @@ public IndicatorIntParam()
 
 ***  
 
-## `IndicatorIntParam`<a href="IndicatorIntParam-m" id="IndicatorIntParam-m"></a>
+## `IndicatorIntParam`<a href="method-indicatorintparam" id="method-indicatorintparam"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -47,7 +47,7 @@ public IndicatorIntParam(int value)
 
 ***  
 
-## `Set`<a href="Set-m" id="Set-m"></a>
+## `Set`<a href="method-set" id="method-set"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

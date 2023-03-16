@@ -13,29 +13,29 @@ public sealed class IndicatorSeriesStyle
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`DisableAll`](#DisableAll-m) | *Описание* |
-| [`IndicatorSeriesStyle`](#IndicatorSeriesStyle-m) | *Описание* |
-| [`Set`](#Set-m) | *Описание* |
+| [`DisableAll`](#method-disableall) | *Описание* |
+| [`IndicatorSeriesStyle`](#method-indicatorseriesstyle) | *Описание* |
+| [`Set`](#method-set) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Color2;`](#Color2;-p) | *Описание* |
-| [`Color;`](#Color;-p) | *Описание* |
-| [`ColorSplit;`](#ColorSplit;-p) | *Описание* |
-| [`DisableLabel;`](#DisableLabel;-p) | *Описание* |
-| [`DisableMinMax;`](#DisableMinMax;-p) | *Описание* |
-| [`DisableSelect;`](#DisableSelect;-p) | *Описание* |
-| [`DisableValue;`](#DisableValue;-p) | *Описание* |
-| [`DotType;`](#DotType;-p) | *Описание* |
-| [`HighPercent;`](#HighPercent;-p) | *Описание* |
-| [`LineStyle;`](#LineStyle;-p) | *Описание* |
-| [`LineWidth;`](#LineWidth;-p) | *Описание* |
-| [`LowPercent;`](#LowPercent;-p) | *Описание* |
-| [`Name;`](#Name;-p) | *Описание* |
-| [`RenderType;`](#RenderType;-p) | *Описание* |
-| [`StraightLine;`](#StraightLine;-p) | *Описание* |
-| [`Visible;`](#Visible;-p) | *Описание* |
+| [`Color2;`](#property-color2;) | *Описание* |
+| [`Color;`](#property-color;) | *Описание* |
+| [`ColorSplit;`](#property-colorsplit;) | *Описание* |
+| [`DisableLabel;`](#property-disablelabel;) | *Описание* |
+| [`DisableMinMax;`](#property-disableminmax;) | *Описание* |
+| [`DisableSelect;`](#property-disableselect;) | *Описание* |
+| [`DisableValue;`](#property-disablevalue;) | *Описание* |
+| [`DotType;`](#property-dottype;) | *Описание* |
+| [`HighPercent;`](#property-highpercent;) | *Описание* |
+| [`LineStyle;`](#property-linestyle;) | *Описание* |
+| [`LineWidth;`](#property-linewidth;) | *Описание* |
+| [`LowPercent;`](#property-lowpercent;) | *Описание* |
+| [`Name;`](#property-name;) | *Описание* |
+| [`RenderType;`](#property-rendertype;) | *Описание* |
+| [`StraightLine;`](#property-straightline;) | *Описание* |
+| [`Visible;`](#property-visible;) | *Описание* |
 
 
 
@@ -45,7 +45,7 @@ public sealed class IndicatorSeriesStyle
 ***  
 # Методы
 
-## `DisableAll`<a href="DisableAll-m" id="DisableAll-m"></a>
+## `DisableAll`<a href="method-disableall" id="method-disableall"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -54,7 +54,7 @@ public void DisableAll()
 
 ***  
 
-## `IndicatorSeriesStyle`<a href="IndicatorSeriesStyle-m" id="IndicatorSeriesStyle-m"></a>
+## `IndicatorSeriesStyle`<a href="method-indicatorseriesstyle" id="method-indicatorseriesstyle"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -63,7 +63,7 @@ public IndicatorSeriesStyle()
 
 ***  
 
-## `Set`<a href="Set-m" id="Set-m"></a>
+## `Set`<a href="method-set" id="method-set"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -79,7 +79,7 @@ public void Set(ChartSeries series, string name = "")
 
 ***  
 
-## `Set`<a href="Set-m" id="Set-m"></a>
+## `Set`<a href="method-set" id="method-set"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -99,7 +99,7 @@ public void Set(ChartRegion region)
 
 ***  
 
-## `Set`<a href="Set-m" id="Set-m"></a>
+## `Set`<a href="method-set" id="method-set"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -126,7 +126,7 @@ public void Set(ChartLine line)
  ***  
 # Свойства
 
-## `Color2;`<a href="Color2;-p" id="Color2;-p"></a>
+## `Color2;`<a href="property-color2;" id="property-color2;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -134,7 +134,7 @@ public XColor Color2; {}
 ```  
 ***
 
-## `Color;`<a href="Color;-p" id="Color;-p"></a>
+## `Color;`<a href="property-color;" id="property-color;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -142,7 +142,7 @@ public XColor Color; {}
 ```  
 ***
 
-## `ColorSplit;`<a href="ColorSplit;-p" id="ColorSplit;-p"></a>
+## `ColorSplit;`<a href="property-colorsplit;" id="property-colorsplit;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -150,7 +150,7 @@ public ChartSeriesColorSplit ColorSplit; {}
 ```  
 ***
 
-## `DisableLabel;`<a href="DisableLabel;-p" id="DisableLabel;-p"></a>
+## `DisableLabel;`<a href="property-disablelabel;" id="property-disablelabel;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -158,7 +158,7 @@ public bool DisableLabel; {}
 ```  
 ***
 
-## `DisableMinMax;`<a href="DisableMinMax;-p" id="DisableMinMax;-p"></a>
+## `DisableMinMax;`<a href="property-disableminmax;" id="property-disableminmax;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -166,7 +166,7 @@ public bool DisableMinMax; {}
 ```  
 ***
 
-## `DisableSelect;`<a href="DisableSelect;-p" id="DisableSelect;-p"></a>
+## `DisableSelect;`<a href="property-disableselect;" id="property-disableselect;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -174,7 +174,7 @@ public bool DisableSelect; {}
 ```  
 ***
 
-## `DisableValue;`<a href="DisableValue;-p" id="DisableValue;-p"></a>
+## `DisableValue;`<a href="property-disablevalue;" id="property-disablevalue;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -182,7 +182,7 @@ public bool DisableValue; {}
 ```  
 ***
 
-## `DotType;`<a href="DotType;-p" id="DotType;-p"></a>
+## `DotType;`<a href="property-dottype;" id="property-dottype;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -190,7 +190,7 @@ public ChartSeriesDotStyle DotType; {}
 ```  
 ***
 
-## `HighPercent;`<a href="HighPercent;-p" id="HighPercent;-p"></a>
+## `HighPercent;`<a href="property-highpercent;" id="property-highpercent;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -198,7 +198,7 @@ public double HighPercent; {}
 ```  
 ***
 
-## `LineStyle;`<a href="LineStyle;-p" id="LineStyle;-p"></a>
+## `LineStyle;`<a href="property-linestyle;" id="property-linestyle;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -206,7 +206,7 @@ public XDashStyle LineStyle; {}
 ```  
 ***
 
-## `LineWidth;`<a href="LineWidth;-p" id="LineWidth;-p"></a>
+## `LineWidth;`<a href="property-linewidth;" id="property-linewidth;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -214,7 +214,7 @@ public int LineWidth; {}
 ```  
 ***
 
-## `LowPercent;`<a href="LowPercent;-p" id="LowPercent;-p"></a>
+## `LowPercent;`<a href="property-lowpercent;" id="property-lowpercent;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -222,7 +222,7 @@ public double LowPercent; {}
 ```  
 ***
 
-## `Name;`<a href="Name;-p" id="Name;-p"></a>
+## `Name;`<a href="property-name;" id="property-name;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -230,7 +230,7 @@ public string Name; {}
 ```  
 ***
 
-## `RenderType;`<a href="RenderType;-p" id="RenderType;-p"></a>
+## `RenderType;`<a href="property-rendertype;" id="property-rendertype;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -238,7 +238,7 @@ public ChartSeriesType RenderType; {}
 ```  
 ***
 
-## `StraightLine;`<a href="StraightLine;-p" id="StraightLine;-p"></a>
+## `StraightLine;`<a href="property-straightline;" id="property-straightline;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -246,7 +246,7 @@ public bool StraightLine; {}
 ```  
 ***
 
-## `Visible;`<a href="Visible;-p" id="Visible;-p"></a>
+## `Visible;`<a href="property-visible;" id="property-visible;"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

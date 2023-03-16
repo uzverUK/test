@@ -13,13 +13,13 @@ public sealed class IndicatorTitleInfo
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`IndicatorTitleInfo`](#IndicatorTitleInfo-m) | *Описание* |
+| [`IndicatorTitleInfo`](#method-indicatortitleinfo) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Brush`](#Brush-p) | *Описание* |
-| [`Title`](#Title-p) | *Описание* |
+| [`Brush`](#property-brush) | *Описание* |
+| [`Title`](#property-title) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ public sealed class IndicatorTitleInfo
 ***  
 # Методы
 
-## `IndicatorTitleInfo`<a href="IndicatorTitleInfo-m" id="IndicatorTitleInfo-m"></a>
+## `IndicatorTitleInfo`<a href="method-indicatortitleinfo" id="method-indicatortitleinfo"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -45,7 +45,7 @@ public IndicatorTitleInfo(string title, XBrush brush)
 
 ***  
 
-## `IndicatorTitleInfo`<a href="IndicatorTitleInfo-m" id="IndicatorTitleInfo-m"></a>
+## `IndicatorTitleInfo`<a href="method-indicatortitleinfo" id="method-indicatortitleinfo"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -68,7 +68,7 @@ public IndicatorTitleInfo(string title, XColor color)
  ***  
 # Свойства
 
-## `Brush`<a href="Brush-p" id="Brush-p"></a>
+## `Brush`<a href="property-brush" id="property-brush"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -76,7 +76,7 @@ public XBrush Brush { get; }
 ```  
 ***
 
-## `Title`<a href="Title-p" id="Title-p"></a>
+## `Title`<a href="property-title" id="property-title"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

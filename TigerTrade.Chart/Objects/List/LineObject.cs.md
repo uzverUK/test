@@ -13,21 +13,21 @@ public sealed class LineObject : LineObjectBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CheckAlert`](#CheckAlert-m) | *Описание* |
-| [`CopyTemplate`](#CopyTemplate-m) | *Описание* |
-| [`Draw`](#Draw-m) | *Описание* |
-| [`InObject`](#InObject-m) | *Описание* |
-| [`LineObject`](#LineObject-m) | *Описание* |
+| [`CheckAlert`](#method-checkalert) | *Описание* |
+| [`CopyTemplate`](#method-copytemplate) | *Описание* |
+| [`Draw`](#method-draw) | *Описание* |
+| [`InObject`](#method-inobject) | *Описание* |
+| [`LineObject`](#method-lineobject) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Alert`](#Alert-p) | *Описание* |
-| [`AlertMinDistance`](#AlertMinDistance-p) | *Описание* |
-| [`OpenEnd`](#OpenEnd-p) | *Описание* |
-| [`OpenStart`](#OpenStart-p) | *Описание* |
-| [`RefPoint`](#RefPoint-p) | *Описание* |
-| [`xsuJlZ3bylFkXacpNF53`](#xsuJlZ3bylFkXacpNF53-p) | *Описание* |
+| [`Alert`](#property-alert) | *Описание* |
+| [`AlertMinDistance`](#property-alertmindistance) | *Описание* |
+| [`OpenEnd`](#property-openend) | *Описание* |
+| [`OpenStart`](#property-openstart) | *Описание* |
+| [`RefPoint`](#property-refpoint) | *Описание* |
+| [`xsuJlZ3bylFkXacpNF53`](#property-xsujlz3bylfkxacpnf53) | *Описание* |
 
 
 
@@ -37,7 +37,7 @@ public sealed class LineObject : LineObjectBase
 ***  
 # Методы
 
-## `CheckAlert`<a href="CheckAlert-m" id="CheckAlert-m"></a>
+## `CheckAlert`<a href="method-checkalert" id="method-checkalert"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -46,7 +46,7 @@ public override void CheckAlert(System.Collections.Generic.List<IndicatorBase> i
 
 ***  
 
-## `CopyTemplate`<a href="CopyTemplate-m" id="CopyTemplate-m"></a>
+## `CopyTemplate`<a href="method-copytemplate" id="method-copytemplate"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -62,7 +62,7 @@ public override void CopyTemplate(ObjectBase objectBase, bool style)
 
 ***  
 
-## `Draw`<a href="Draw-m" id="Draw-m"></a>
+## `Draw`<a href="method-draw" id="method-draw"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -77,7 +77,7 @@ protected override void Draw(DxVisualQueue visual, ref System.Collections.Generi
 
 ***  
 
-## `InObject`<a href="InObject-m" id="InObject-m"></a>
+## `InObject`<a href="method-inobject" id="method-inobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -92,7 +92,7 @@ protected override bool InObject(int x, int y)
 
 ***  
 
-## `LineObject`<a href="LineObject-m" id="LineObject-m"></a>
+## `LineObject`<a href="method-lineobject" id="method-lineobject"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -104,7 +104,7 @@ public LineObject()
  ***  
 # Свойства
 
-## `Alert`<a href="Alert-p" id="Alert-p"></a>
+## `Alert`<a href="property-alert" id="property-alert"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -112,7 +112,7 @@ public ChartAlertSettings Alert { get; set; }
 ```  
 ***
 
-## `AlertMinDistance`<a href="AlertMinDistance-p" id="AlertMinDistance-p"></a>
+## `AlertMinDistance`<a href="property-alertmindistance" id="property-alertmindistance"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -120,7 +120,7 @@ public int AlertMinDistance { get; set; }
 ```  
 ***
 
-## `OpenEnd`<a href="OpenEnd-p" id="OpenEnd-p"></a>
+## `OpenEnd`<a href="property-openend" id="property-openend"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -128,7 +128,7 @@ public bool OpenEnd { get; set; }
 ```  
 ***
 
-## `OpenStart`<a href="OpenStart-p" id="OpenStart-p"></a>
+## `OpenStart`<a href="property-openstart" id="property-openstart"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -136,7 +136,7 @@ public bool OpenStart { get; set; }
 ```  
 ***
 
-## `RefPoint`<a href="RefPoint-p" id="RefPoint-p"></a>
+## `RefPoint`<a href="property-refpoint" id="property-refpoint"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -144,7 +144,7 @@ public ObjectPoint? RefPoint { get; set; }
 ```  
 ***
 
-## `xsuJlZ3bylFkXacpNF53`<a href="xsuJlZ3bylFkXacpNF53-p" id="xsuJlZ3bylFkXacpNF53-p"></a>
+## `xsuJlZ3bylFkXacpNF53`<a href="property-xsujlz3bylfkxacpnf53" id="property-xsujlz3bylfkxacpnf53"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

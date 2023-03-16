@@ -13,14 +13,14 @@ public sealed class RelayCommand : ICommand
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`CanExecute`](#CanExecute-m) | *Описание* |
-| [`Execute`](#Execute-m) | *Описание* |
-| [`RelayCommand`](#RelayCommand-m) | *Описание* |
+| [`CanExecute`](#method-canexecute) | *Описание* |
+| [`Execute`](#method-execute) | *Описание* |
+| [`RelayCommand`](#method-relaycommand) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`CanExecuteChanged`](#CanExecuteChanged-p) | *Описание* |
+| [`CanExecuteChanged`](#event-canexecutechanged) | *Описание* |
 
 
 
@@ -30,7 +30,7 @@ public sealed class RelayCommand : ICommand
 ***  
 # Методы
 
-## `CanExecute`<a href="CanExecute-m" id="CanExecute-m"></a>
+## `CanExecute`<a href="method-canexecute" id="method-canexecute"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -43,7 +43,7 @@ public bool CanExecute(object parameter)
 
 ***  
 
-## `Execute`<a href="Execute-m" id="Execute-m"></a>
+## `Execute`<a href="method-execute" id="method-execute"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -52,7 +52,7 @@ public void Execute(object parameter)
 
 ***  
 
-## `RelayCommand`<a href="RelayCommand-m" id="RelayCommand-m"></a>
+## `RelayCommand`<a href="method-relaycommand" id="method-relaycommand"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -61,7 +61,7 @@ public RelayCommand(Action<object> execute)
 
 ***  
 
-## `RelayCommand`<a href="RelayCommand-m" id="RelayCommand-m"></a>
+## `RelayCommand`<a href="method-relaycommand" id="method-relaycommand"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public RelayCommand(Action<object> execute, Predicate<object> canExecute)
  ***  
 # События
 
-## `CanExecuteChanged`<a href="CanExecuteChanged-p" id="CanExecuteChanged-p"></a>
+## `CanExecuteChanged`<a href="event-canexecutechanged" id="event-canexecutechanged"></a>
 Описание
 
 ```csharp

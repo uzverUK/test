@@ -13,7 +13,7 @@ public interface IContainsSelection
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetSelection`](#GetSelection-m) | *Описание* |
+| [`GetSelection`](#method-getselection) | *Описание* |
 
 
 
@@ -23,7 +23,7 @@ public interface IContainsSelection
 ***  
 # Методы
 
-## `GetSelection`<a href="GetSelection-m" id="GetSelection-m"></a>
+## `GetSelection`<a href="method-getselection" id="method-getselection"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp

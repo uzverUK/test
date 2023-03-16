@@ -13,27 +13,27 @@ public sealed class DxHwndHost : DxHwndHostBase
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`Dispose`](#Dispose-m) | *Описание* |
-| [`DxHwndHost`](#DxHwndHost-m) | *Описание* |
-| [`InvalidateSecondVisual`](#InvalidateSecondVisual-m) | *Описание* |
-| [`InvalidateVisual`](#InvalidateVisual-m) | *Описание* |
-| [`OnPaintBackground`](#OnPaintBackground-m) | *Описание* |
-| [`OnRenderSizeChanged`](#OnRenderSizeChanged-m) | *Описание* |
-| [`Render`](#Render-m) | *Описание* |
-| [`StartTimer`](#StartTimer-m) | *Описание* |
+| [`Dispose`](#method-dispose) | *Описание* |
+| [`DxHwndHost`](#method-dxhwndhost) | *Описание* |
+| [`InvalidateSecondVisual`](#method-invalidatesecondvisual) | *Описание* |
+| [`InvalidateVisual`](#method-invalidatevisual) | *Описание* |
+| [`OnPaintBackground`](#method-onpaintbackground) | *Описание* |
+| [`OnRenderSizeChanged`](#method-onrendersizechanged) | *Описание* |
+| [`Render`](#method-render) | *Описание* |
+| [`StartTimer`](#method-starttimer) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`ClientRect`](#ClientRect-p) | *Описание* |
-| [`IsDisposed`](#IsDisposed-p) | *Описание* |
-| [`WaitRedraw`](#WaitRedraw-p) | *Описание* |
+| [`ClientRect`](#property-clientrect) | *Описание* |
+| [`IsDisposed`](#property-isdisposed) | *Описание* |
+| [`WaitRedraw`](#property-waitredraw) | *Описание* |
 
 # Список событий
 | Название | Описание |
 | --- | --- |
-| [`OnRenderVisual;`](#OnRenderVisual;-p) | *Описание* |
-| [`OnTimerTick`](#OnTimerTick-p) | *Описание* |
+| [`OnRenderVisual;`](#event-onrendervisual;) | *Описание* |
+| [`OnTimerTick`](#event-ontimertick) | *Описание* |
 
 
 
@@ -43,7 +43,7 @@ public sealed class DxHwndHost : DxHwndHostBase
 ***  
 # Методы
 
-## `Dispose`<a href="Dispose-m" id="Dispose-m"></a>
+## `Dispose`<a href="method-dispose" id="method-dispose"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -56,7 +56,7 @@ protected override void Dispose(bool disposing)
 
 ***  
 
-## `DxHwndHost`<a href="DxHwndHost-m" id="DxHwndHost-m"></a>
+## `DxHwndHost`<a href="method-dxhwndhost" id="method-dxhwndhost"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -65,7 +65,7 @@ public DxHwndHost()
 
 ***  
 
-## `InvalidateSecondVisual`<a href="InvalidateSecondVisual-m" id="InvalidateSecondVisual-m"></a>
+## `InvalidateSecondVisual`<a href="method-invalidatesecondvisual" id="method-invalidatesecondvisual"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -74,7 +74,7 @@ public void InvalidateSecondVisual()
 
 ***  
 
-## `InvalidateVisual`<a href="InvalidateVisual-m" id="InvalidateVisual-m"></a>
+## `InvalidateVisual`<a href="method-invalidatevisual" id="method-invalidatevisual"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -87,7 +87,7 @@ public void InvalidateVisual(bool full = false)
 
 ***  
 
-## `OnPaintBackground`<a href="OnPaintBackground-m" id="OnPaintBackground-m"></a>
+## `OnPaintBackground`<a href="method-onpaintbackground" id="method-onpaintbackground"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -96,7 +96,7 @@ protected override void OnPaintBackground()
 
 ***  
 
-## `OnRenderSizeChanged`<a href="OnRenderSizeChanged-m" id="OnRenderSizeChanged-m"></a>
+## `OnRenderSizeChanged`<a href="method-onrendersizechanged" id="method-onrendersizechanged"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -109,7 +109,7 @@ protected override void OnRenderSizeChanged(SizeChangedInfo sizeInfo)
 
 ***  
 
-## `Render`<a href="Render-m" id="Render-m"></a>
+## `Render`<a href="method-render" id="method-render"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -124,7 +124,7 @@ public void Render(DxVisualQueue queue1, DxVisualQueue queue2)
 
 ***  
 
-## `StartTimer`<a href="StartTimer-m" id="StartTimer-m"></a>
+## `StartTimer`<a href="method-starttimer" id="method-starttimer"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -142,7 +142,7 @@ public void StartTimer(int interval)
  ***  
 # Свойства
 
-## `ClientRect`<a href="ClientRect-p" id="ClientRect-p"></a>
+## `ClientRect`<a href="property-clientrect" id="property-clientrect"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -150,7 +150,7 @@ public Rect ClientRect { get; private set; }
 ```  
 ***
 
-## `IsDisposed`<a href="IsDisposed-p" id="IsDisposed-p"></a>
+## `IsDisposed`<a href="property-isdisposed" id="property-isdisposed"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -158,7 +158,7 @@ public bool IsDisposed { get; private set; }
 ```  
 ***
 
-## `WaitRedraw`<a href="WaitRedraw-p" id="WaitRedraw-p"></a>
+## `WaitRedraw`<a href="property-waitredraw" id="property-waitredraw"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -169,14 +169,14 @@ public bool WaitRedraw { get; set; }
  ***  
 # События
 
-## `OnRenderVisual;`<a href="OnRenderVisual;-p" id="OnRenderVisual;-p"></a>
+## `OnRenderVisual;`<a href="event-onrendervisual;" id="event-onrendervisual;"></a>
 Описание
 
 ```csharp
 public event Action<bool> OnRenderVisual;
 ```
 
-## `OnTimerTick`<a href="OnTimerTick-p" id="OnTimerTick-p"></a>
+## `OnTimerTick`<a href="event-ontimertick" id="event-ontimertick"></a>
 Описание
 
 ```csharp

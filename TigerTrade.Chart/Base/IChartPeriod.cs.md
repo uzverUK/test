@@ -13,13 +13,13 @@ public interface IChartPeriod
 # Список методов
 | Название | Описание |
 | --- | --- |
-| [`GetSequence`](#GetSequence-m) | *Описание* |
+| [`GetSequence`](#method-getsequence) | *Описание* |
 
 # Список свойств
 | Название | Описание |
 | --- | --- |
-| [`Interval`](#Interval-p) | *Описание* |
-| [`Type`](#Type-p) | *Описание* |
+| [`Interval`](#property-interval) | *Описание* |
+| [`Type`](#property-type) | *Описание* |
 
 
 
@@ -29,7 +29,7 @@ public interface IChartPeriod
 ***  
 # Методы
 
-## `GetSequence`<a href="GetSequence-m" id="GetSequence-m"></a>
+## `GetSequence`<a href="method-getsequence" id="method-getsequence"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -51,7 +51,7 @@ int GetSequence(ChartPeriodType type, int interval, DateTime dateTime, double ti
 
 ***  
 
-## `GetSequence`<a href="GetSequence-m" id="GetSequence-m"></a>
+## `GetSequence`<a href="method-getsequence" id="method-getsequence"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -80,7 +80,7 @@ int GetSequence(ChartPeriodType type, int interval, double dateTime, double time
  ***  
 # Свойства
 
-## `Interval`<a href="Interval-p" id="Interval-p"></a>
+## `Interval`<a href="property-interval" id="property-interval"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
@@ -88,7 +88,7 @@ int Interval { get; }
 ```  
 ***
 
-## `Type`<a href="Type-p" id="Type-p"></a>
+## `Type`<a href="property-type" id="property-type"></a>
 Пространство имён, которое позволяет создавать и настраивать внутрипрограммные оповещение. Т.е. которые реализованы в рамках самой торговой платформы, а не, к примеру средствами Windows.
 
 ```csharp
