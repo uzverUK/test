@@ -1,0 +1,100 @@
+# EllipseObject
+
+`namespace` [TigerTrade.Chart](../../../../).[Objects](../).[List](./)
+
+\===
+
+#### Синтаксис
+
+```csharp
+public sealed class EllipseObject : PolygonObjectBase
+```
+
+## Список методов
+
+| Название                                                    | Описание |
+| ----------------------------------------------------------- | -------- |
+| [`Draw`](ellipseobject.cs.md#method-draw)                   | _===_    |
+| [`EllipseObject`](ellipseobject.cs.md#method-ellipseobject) | _===_    |
+| [`GetMinDist`](ellipseobject.cs.md#method-getmindist)       | _===_    |
+| [`InObject`](ellipseobject.cs.md#method-inobject)           | _===_    |
+
+## Список свойств
+
+| Название                                                                    | Описание |
+| --------------------------------------------------------------------------- | -------- |
+| [`xsuJlZ3bylFkXacpNF53`](ellipseobject.cs.md#property-xsujlz3bylfkxacpnf53) | _===_    |
+
+***
+
+***
+
+## Методы
+
+### `Draw` <a href="#method-draw" id="method-draw"></a>
+
+\===
+
+```csharp
+protected override void Draw(DxVisualQueue visual, ref System.Collections.Generic.List<ObjectLabelInfo> labels)
+```
+
+`visual` _<mark style="color:red;">`DxVisualQueue`</mark>_\
+_===_
+
+`System` _<mark style="color:red;">`ref`</mark>_\
+_===_
+
+***
+
+### `EllipseObject` <a href="#method-ellipseobject" id="method-ellipseobject"></a>
+
+\===
+
+```csharp
+public EllipseObject()
+```
+
+***
+
+### `GetMinDist` <a href="#method-getmindist" id="method-getmindist"></a>
+
+\===
+
+```csharp
+protected override int GetMinDist(int x, int y)
+```
+
+`x` _<mark style="color:red;">`int`</mark>_\
+_===_
+
+`y` _<mark style="color:red;">`int`</mark>_\
+_===_
+
+***
+
+### `InObject` <a href="#method-inobject" id="method-inobject"></a>
+
+\===
+
+```csharp
+protected override bool InObject(int x, int y)
+```
+
+***
+
+***
+
+***
+
+## Свойства
+
+### `xsuJlZ3bylFkXacpNF53` <a href="#property-xsujlz3bylfkxacpnf53" id="property-xsujlz3bylfkxacpnf53"></a>
+
+\===
+
+```csharp
+public override xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
+```
+
+***
