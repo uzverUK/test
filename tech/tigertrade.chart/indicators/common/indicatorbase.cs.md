@@ -2,7 +2,39 @@
 
 `namespace` [TigerTrade.Chart](../../../../).[Indicators](../).[Common](./)
 
-\===
+Базовый класс для создания индикаторов.
+
+<details>
+
+<summary>Дополнительно</summary>
+
+![](<../../../../.gitbook/assets/image (2).png>)
+
+![](../../../../.gitbook/assets/image.png)
+
+
+
+### Пример
+
+Минимально необходимый код для создания нового индикатора.
+
+```csharp
+[DataContract(Name = "VolumeIndicator", Namespace = "http://schemas.datacontract.org/2004/07/TigerTrade.Chart.Indicators.Custom")]
+[Indicator("X_Volume", "*Volume", false, Type = typeof(VolumeIndicator))]
+internal sealed class VolumeIndicator : IndicatorBase
+{
+	protected override void Execute()
+	{
+		throw new NotImplementedException();
+	}
+}
+```
+
+При создании производного класса от IndicatorBase необходимо добавить над объявлением класса два атрибута - DataContractAtribute и IndicatorAtribute.
+
+Name в DataContractAtribute должно соответствовать названию класса.
+
+</details>
 
 #### Синтаксис
 
@@ -42,41 +74,41 @@ public abstract class IndicatorBase : INotifyPropertyChanged, IDynamicProperty
 
 ## Список свойств
 
-| Название                                                                            | Описание |
-| ----------------------------------------------------------------------------------- | -------- |
-| [`Calculation`](indicatorbase.cs.md#property-calculation)                           | _===_    |
-| [`Canvas`](indicatorbase.cs.md#property-canvas)                                     | _===_    |
-| [`ChartDataType`](indicatorbase.cs.md#property-chartdatatype)                       | _===_    |
-| [`ClearData`](indicatorbase.cs.md#property-cleardata)                               | _===_    |
-| [`DataProvider`](indicatorbase.cs.md#property-dataprovider)                         | _===_    |
-| [`DefaultCalculation`](indicatorbase.cs.md#property-defaultcalculation)             | _===_    |
-| [`DisableRender`](indicatorbase.cs.md#property-disablerender)                       | _===_    |
-| [`Helper`](indicatorbase.cs.md#property-helper)                                     | _===_    |
-| [`ID`](indicatorbase.cs.md#property-id)                                             | _===_    |
-| [`IntegerValues`](indicatorbase.cs.md#property-integervalues)                       | _===_    |
-| [`IsStock`](indicatorbase.cs.md#property-isstock)                                   | _===_    |
-| [`Levels`](indicatorbase.cs.md#property-levels)                                     | _===_    |
-| [`Name`](indicatorbase.cs.md#property-name)                                         | _===_    |
-| [`Panel`](indicatorbase.cs.md#property-panel)                                       | _===_    |
-| [`Panels`](indicatorbase.cs.md#property-panels)                                     | _===_    |
-| [`Series`](indicatorbase.cs.md#property-series)                                     | _===_    |
-| [`SettingsLongKey`](indicatorbase.cs.md#property-settingslongkey)                   | _===_    |
-| [`SettingsShortKey`](indicatorbase.cs.md#property-settingsshortkey)                 | _===_    |
-| [`ShowIndicator`](indicatorbase.cs.md#property-showindicator)                       | _===_    |
-| [`ShowIndicatorLabels`](indicatorbase.cs.md#property-showindicatorlabels)           | _===_    |
-| [`ShowIndicatorLabelsParam`](indicatorbase.cs.md#property-showindicatorlabelsparam) | _===_    |
-| [`ShowIndicatorParam`](indicatorbase.cs.md#property-showindicatorparam)             | _===_    |
-| [`ShowIndicatorTitle`](indicatorbase.cs.md#property-showindicatortitle)             | _===_    |
-| [`ShowIndicatorTitleParam`](indicatorbase.cs.md#property-showindicatortitleparam)   | _===_    |
-| [`ShowIndicatorValues`](indicatorbase.cs.md#property-showindicatorvalues)           | _===_    |
-| [`ShowIndicatorValuesParam`](indicatorbase.cs.md#property-showindicatorvaluesparam) | _===_    |
-| [`Title`](indicatorbase.cs.md#property-title)                                       | _===_    |
+| Название                                                                            | Описание                                                                                               |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [`Calculation`](indicatorbase.cs.md#property-calculation)                           | _Возвращает интервал пересчета индикатора._                                                            |
+| [`Canvas`](indicatorbase.cs.md#property-canvas)                                     | _Возвращает или задает объект для работы с отрисовкой области графика на которой находится индикатор._ |
+| [`ChartDataType`](indicatorbase.cs.md#property-chartdatatype)                       | _Возвращает тип данных отображения цены._                                                              |
+| [`ClearData`](indicatorbase.cs.md#property-cleardata)                               | _Возвращает необходимость очистки данных._                                                             |
+| [`DataProvider`](indicatorbase.cs.md#property-dataprovider)                         | _Возвращает объект для работы с данными._                                                              |
+| [`DefaultCalculation`](indicatorbase.cs.md#property-defaultcalculation)             | _Возвращает интервал пересчета индикатора по умолчанию._                                               |
+| [`DisableRender`](indicatorbase.cs.md#property-disablerender)                       | _Возвращает или задает отключение отрисовки графической части индикатора._                             |
+| [`Helper`](indicatorbase.cs.md#property-helper)                                     | _Возвращает вспомогательный объект для работы с данными и встроенными индикаторами._                   |
+| [`ID`](indicatorbase.cs.md#property-id)                                             | _Возвращает ID заданное в атрибуте IndicatorAtribute._                                                 |
+| [`IntegerValues`](indicatorbase.cs.md#property-integervalues)                       | _Возвращает являются ли значения индикатора целыми числами._                                           |
+| [`IsStock`](indicatorbase.cs.md#property-isstock)                                   | _===_                                                                                                  |
+| [`Levels`](indicatorbase.cs.md#property-levels)                                     | _Возвращает или задает коллекцию_ ChartLevel.                                                          |
+| [`Name`](indicatorbase.cs.md#property-name)                                         | _Возвращает Name заданное в атрибуте IndicatorAtribute._                                               |
+| [`Panel`](indicatorbase.cs.md#property-panel)                                       | _Возвращает или задает имя области на которой находится индикатор._                                    |
+| [`Panels`](indicatorbase.cs.md#property-panels)                                     | _Возвращает коллекцию имен областей на графике._                                                       |
+| [`Series`](indicatorbase.cs.md#property-series)                                     | _Возвращает объект IndicatorSeries._                                                                   |
+| [`SettingsLongKey`](indicatorbase.cs.md#property-settingslongkey)                   | _Возвращает длинное имя данных: `тикер_тип_биржа_тип агрегации данных_значение агрегации данных`._     |
+| [`SettingsShortKey`](indicatorbase.cs.md#property-settingsshortkey)                 | _Возвращает короткое имя данных: `тикер_тип_биржа`._                                                   |
+| [`ShowIndicator`](indicatorbase.cs.md#property-showindicator)                       | _Возвращает или задает отображать ли индикатор на графике._                                            |
+| [`ShowIndicatorLabels`](indicatorbase.cs.md#property-showindicatorlabels)           | _Возвращает или задает отображать ли маркеры значений индикатора на ценовой шкале._                    |
+| [`ShowIndicatorLabelsParam`](indicatorbase.cs.md#property-showindicatorlabelsparam) | _===_                                                                                                  |
+| [`ShowIndicatorParam`](indicatorbase.cs.md#property-showindicatorparam)             | _===_                                                                                                  |
+| [`ShowIndicatorTitle`](indicatorbase.cs.md#property-showindicatortitle)             | _Возвращает или задает отображать ли название индикатора в заголовке индикатора._                      |
+| [`ShowIndicatorTitleParam`](indicatorbase.cs.md#property-showindicatortitleparam)   | _===_                                                                                                  |
+| [`ShowIndicatorValues`](indicatorbase.cs.md#property-showindicatorvalues)           | _Возвращает или задает отображать ли значения индикатора в заголовке индикатора._                      |
+| [`ShowIndicatorValuesParam`](indicatorbase.cs.md#property-showindicatorvaluesparam) | _===_                                                                                                  |
+| [`Title`](indicatorbase.cs.md#property-title)                                       | _Возвращает название которое отображается в заголовке и списке индикаторов добавленных в область._     |
 
 ## Список событий
 
-| Название                                                       | Описание |
-| -------------------------------------------------------------- | -------- |
-| [`PropertyChanged`](indicatorbase.cs.md#event-propertychanged) | _===_    |
+| Название                                                       | Описание                               |
+| -------------------------------------------------------------- | -------------------------------------- |
+| [`PropertyChanged`](indicatorbase.cs.md#event-propertychanged) | _Событие изменения значения свойства._ |
 
 ***
 
@@ -437,7 +469,7 @@ public override string ToString()
 
 ### `Calculation` <a href="#property-calculation" id="property-calculation"></a>
 
-\===
+_Возвращает интервал пересчета индикатора._
 
 ```csharp
 public virtual IndicatorCalculation Calculation { get; set; }
@@ -447,7 +479,7 @@ public virtual IndicatorCalculation Calculation { get; set; }
 
 ### `Canvas` <a href="#property-canvas" id="property-canvas"></a>
 
-\===
+_Возвращает или задает объект для работы с отрисовкой области графика на которой находится индикатор._
 
 ```csharp
 public IChartCanvas Canvas { get; set; }
@@ -457,7 +489,7 @@ public IChartCanvas Canvas { get; set; }
 
 ### `ChartDataType` <a href="#property-chartdatatype" id="property-chartdatatype"></a>
 
-\===
+_Возвращает тип данных отображения цены._
 
 ```csharp
 public virtual xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
@@ -467,7 +499,7 @@ public virtual xsuJlZ3bylFkXacpNF53 ChartDataType { get; }
 
 ### `ClearData` <a href="#property-cleardata" id="property-cleardata"></a>
 
-\===
+_Возвращает необходимость очистки данных._
 
 ```csharp
 protected bool ClearData { get; private set; }
@@ -477,7 +509,7 @@ protected bool ClearData { get; private set; }
 
 ### `DataProvider` <a href="#property-dataprovider" id="property-dataprovider"></a>
 
-\===
+_Возвращает объект для работы с данными._
 
 ```csharp
 protected IChartDataProvider DataProvider { get; private set; }
@@ -487,7 +519,7 @@ protected IChartDataProvider DataProvider { get; private set; }
 
 ### `DefaultCalculation` <a href="#property-defaultcalculation" id="property-defaultcalculation"></a>
 
-\===
+_Возвращает интервал пересчета индикатора по умолчанию._
 
 ```csharp
 public virtual IndicatorCalculation DefaultCalculation { get; }
@@ -497,7 +529,7 @@ public virtual IndicatorCalculation DefaultCalculation { get; }
 
 ### `DisableRender` <a href="#property-disablerender" id="property-disablerender"></a>
 
-\===
+_Возвращает или задает отключение отрисовки графической части индикатора._
 
 ```csharp
 public bool DisableRender { get; protected set; }
@@ -507,7 +539,7 @@ public bool DisableRender { get; protected set; }
 
 ### `Helper` <a href="#property-helper" id="property-helper"></a>
 
-\===
+_Возвращает вспомогательный объект для работы с данными и встроенными индикаторами._
 
 ```csharp
 protected IndicatorsHelper Helper { get; private set; }
@@ -517,7 +549,7 @@ protected IndicatorsHelper Helper { get; private set; }
 
 ### `ID` <a href="#property-id" id="property-id"></a>
 
-\===
+_Возвращает ID заданное в атрибуте IndicatorAtribute._
 
 ```csharp
 public string ID { get; }
@@ -527,7 +559,7 @@ public string ID { get; }
 
 ### `IntegerValues` <a href="#property-integervalues" id="property-integervalues"></a>
 
-\===
+_Возвращает являются ли значения индикатора целыми числами._
 
 ```csharp
 public virtual bool IntegerValues { get; }
@@ -547,7 +579,7 @@ public virtual bool IsStock { get; }
 
 ### `Levels` <a href="#property-levels" id="property-levels"></a>
 
-\===
+_Возвращает или задает коллекцию_ ChartLevel.
 
 ```csharp
 public List<ChartLevel> Levels { get; set; }
@@ -557,7 +589,7 @@ public List<ChartLevel> Levels { get; set; }
 
 ### `Name` <a href="#property-name" id="property-name"></a>
 
-\===
+_Возвращает Name заданное в атрибуте IndicatorAtribute._
 
 ```csharp
 public string Name { get; }
@@ -567,7 +599,7 @@ public string Name { get; }
 
 ### `Panel` <a href="#property-panel" id="property-panel"></a>
 
-\===
+_Возвращает или задает имя области на которой находится индикатор._
 
 ```csharp
 public string Panel { get; set; }
@@ -577,7 +609,7 @@ public string Panel { get; set; }
 
 ### `Panels` <a href="#property-panels" id="property-panels"></a>
 
-\===
+_Возвращает коллекцию имен областей на графике._
 
 ```csharp
 public List<string> Panels { get; }
@@ -587,7 +619,7 @@ public List<string> Panels { get; }
 
 ### `Series` <a href="#property-series" id="property-series"></a>
 
-\===
+_Возвращает объект IndicatorSeries._
 
 ```csharp
 public IndicatorSeries Series { get; }
@@ -597,7 +629,7 @@ public IndicatorSeries Series { get; }
 
 ### `SettingsLongKey` <a href="#property-settingslongkey" id="property-settingslongkey"></a>
 
-\===
+_Возвращает длинное имя данных: `тикер_тип_биржа_тип агрегации данных_значение агрегации данных`._
 
 ```csharp
 protected string SettingsLongKey { get; private set; }
@@ -607,7 +639,7 @@ protected string SettingsLongKey { get; private set; }
 
 ### `SettingsShortKey` <a href="#property-settingsshortkey" id="property-settingsshortkey"></a>
 
-\===
+_Возвращает короткое имя данных: `тикер_тип_биржа`._
 
 ```csharp
 protected string SettingsShortKey { get; private set; }
@@ -617,7 +649,7 @@ protected string SettingsShortKey { get; private set; }
 
 ### `ShowIndicator` <a href="#property-showindicator" id="property-showindicator"></a>
 
-\===
+_Возвращает или задает отображать ли индикатор на графике._
 
 ```csharp
 public bool ShowIndicator { get; set; }
@@ -627,7 +659,7 @@ public bool ShowIndicator { get; set; }
 
 ### `ShowIndicatorLabels` <a href="#property-showindicatorlabels" id="property-showindicatorlabels"></a>
 
-\===
+_Возвращает или задает отображать ли маркеры значений индикатора на ценовой шкале._
 
 ```csharp
 public virtual bool ShowIndicatorLabels { get; set; }
@@ -657,7 +689,7 @@ public bool? ShowIndicatorParam { get; set; }
 
 ### `ShowIndicatorTitle` <a href="#property-showindicatortitle" id="property-showindicatortitle"></a>
 
-\===
+_Возвращает или задает отображать ли название индикатора в заголовке индикатора._
 
 ```csharp
 public virtual bool ShowIndicatorTitle { get; set; }
@@ -677,7 +709,7 @@ public bool? ShowIndicatorTitleParam { get; set; }
 
 ### `ShowIndicatorValues` <a href="#property-showindicatorvalues" id="property-showindicatorvalues"></a>
 
-\===
+_Возвращает или задает отображать ли значения индикатора в заголовке индикатора._
 
 ```csharp
 public virtual bool ShowIndicatorValues { get; set; }
@@ -697,7 +729,7 @@ public bool? ShowIndicatorValuesParam { get; set; }
 
 ### `Title` <a href="#property-title" id="property-title"></a>
 
-\===
+_Возвращает название которое отображается в заголовке и списке индикаторов добавленных в область._
 
 ```csharp
 public string Title { get; }
@@ -713,7 +745,7 @@ public string Title { get; }
 
 ### `PropertyChanged` <a href="#event-propertychanged" id="event-propertychanged"></a>
 
-\===
+_Событие изменения значения свойства._
 
 ```csharp
 public event PropertyChangedEventHandler PropertyChanged
