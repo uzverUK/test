@@ -2,7 +2,7 @@
 
 `namespace` [TigerTrade.Chart](../../../).[Base](./)
 
-\===
+Интерефейс, который используется, к примеру, в [IChartDataProvider.Symbol](https://tigertrade.gitbook.io/doc/tech/tigertrade.chart/data/ichartdataprovider.cs/svoistva/symbol), предоставляющий функционал для работы с информацией по инструменту, который отображается на графике
 
 #### Синтаксис
 
@@ -32,13 +32,13 @@ public interface IChartSymbol
 
 ## Список свойств
 
-| Название                                             | Описание |
-| ---------------------------------------------------- | -------- |
-| [`Code`](ichartsymbol.cs.md#property-code)           | _===_    |
-| [`Decimals`](ichartsymbol.cs.md#property-decimals)   | _===_    |
-| [`Exchange`](ichartsymbol.cs.md#property-exchange)   | _===_    |
-| [`Name`](ichartsymbol.cs.md#property-name)           | _===_    |
-| [`StepPrice`](ichartsymbol.cs.md#property-stepprice) | _===_    |
+| Название                                             | Описание                                                                            |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [`Code`](ichartsymbol.cs.md#property-code)           | _Возвращает код инструмента_                                                        |
+| [`Decimals`](ichartsymbol.cs.md#property-decimals)   | _Возвращает количество цифр после запятой в минимальном движении цены инструмента_  |
+| [`Exchange`](ichartsymbol.cs.md#property-exchange)   | _Возвращает название биржи инструмента_                                             |
+| [`Name`](ichartsymbol.cs.md#property-name)           | _Возвращает название инструмента_                                                   |
+| [`StepPrice`](ichartsymbol.cs.md#property-stepprice) | _Ценовое значение минимального шага цены инструмента_                               |
 
 ***
 
@@ -326,7 +326,7 @@ _===_
 
 ### `Code` <a href="#property-code" id="property-code"></a>
 
-\===
+_Возвращает код инструмента_
 
 ```csharp
 string Code { get; }
@@ -336,7 +336,7 @@ string Code { get; }
 
 ### `Decimals` <a href="#property-decimals" id="property-decimals"></a>
 
-\===
+_Возвращает количество цифр после запятой в минимальном движении цены инструмента_&#x20;
 
 ```csharp
 int Decimals { get; }
@@ -346,7 +346,7 @@ int Decimals { get; }
 
 ### `Exchange` <a href="#property-exchange" id="property-exchange"></a>
 
-\===
+_Возвращает название биржи инструмента_&#x20;
 
 ```csharp
 string Exchange { get; }
@@ -356,7 +356,7 @@ string Exchange { get; }
 
 ### `Name` <a href="#property-name" id="property-name"></a>
 
-\===
+_Возвращает название инструмента_
 
 ```csharp
 string Name { get; }
@@ -366,7 +366,7 @@ string Name { get; }
 
 ### `StepPrice` <a href="#property-stepprice" id="property-stepprice"></a>
 
-\===
+_Ценовое значение минимального шага цены инструмента_
 
 ```csharp
 Decimal StepPrice { get; }

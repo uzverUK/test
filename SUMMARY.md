@@ -308,3 +308,9 @@
     * [SymbolManager](tech/tigertrade.tc/manager/symbolmanager.cs.md)
     * [TcEvents](tech/tigertrade.tc/manager/tcevents.cs.md)
     * [TcManager](tech/tigertrade.tc/manager/tcmanager.cs.md)
+
+## Общее
+
+* [О Документации](obshee/o-dokumentacii.md)
+* [О Планах](obshee/o-planakh.md)
+* [Дисклеймер](obshee/diskleimer.md)

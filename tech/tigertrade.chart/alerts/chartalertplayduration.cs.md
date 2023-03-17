@@ -2,7 +2,7 @@
 
 `namespace` [TigerTrade.Chart](../../../).[Alerts](./)
 
-\===
+Перечисление, которое используется для определения длительности проигрывания звукового оповещения в [ChartAlertSettings](https://tigertrade.gitbook.io/doc/tech/tigertrade.chart/alerts/chartalertsettings.cs). Естественно, только в том случае, когда значение [PlaySound](https://tigertrade.gitbook.io/doc/tech/tigertrade.chart/alerts/chartalertsettings.cs/svoistva/playsound) равно true.
 
 ### Синтаксис
 
@@ -12,10 +12,10 @@ public enum ChartAlertPlayDuration
 
 ### Значения
 
-| Название    | Описание |
-| ----------- | -------- |
-| `Once`      | _===_    |
-| `Seconds5`  | _===_    |
-| `Seconds10` | _===_    |
-| `Seconds30` | _===_    |
-| `Minute`    | _===_    |
+| Название    | Описание                                   |
+| ----------- | ------------------------------------------ |
+| `Once`      | _Проиграть звук единожды_                  |
+| `Seconds5`  | _Проигрывать звук на протяжении 5 секунд_  |
+| `Seconds10` | _Проигрывать звук на протяжении 10 секунд_ |
+| `Seconds30` | _Проигрывать звук на протяжении 30 секунд_ |
+| `Minute`    | _Проигрывать звук на протяжении 1 минуты_  |
